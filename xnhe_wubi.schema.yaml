@@ -3,17 +3,16 @@
 
 schema:
   schema_id: xnhe_wubi
-  name: 小鶴五筆音形
-  version: "2.0" 
+  name: 小鶴五筆音形_飞键
+  version: "2.1" 
   author:
     - Rime schema by 梨子
   dependencies:
-    - double_pinyin_flypy
     - wubi86
     - reverse_lookup_xnhe_wubi
   description:
     小鶴雙拼掛載五筆形碼，快速輸入。
-    直接輔助碼，zh/ch/sh對側飛鍵。
+    直接輔助碼，zh/sh/y對側飛鍵。
     音形簡碼。
 
 switches:
