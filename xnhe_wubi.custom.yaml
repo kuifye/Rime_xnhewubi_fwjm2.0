@@ -1,0 +1,32 @@
+patch:
+  __include: grammar:/hans
+  # __include: easy_en:/patch
+  # easy_en/enable_sentence: false
+  # easy_en/initial_quality: 0.4
+
+#扩充符号
+  punctuator/import_preset: default_symbols #設定符號表，這裏直接導入預設的
+  recognizer/patterns/punct:  '^\\([0-9]0?|[A-Za-z]+)$'
+#扩充字库
+  'engine/translators/@before 0':
+    lua_translator@time_translator
+  # 'engine/processors/@before 2':
+  #   lua_processor@pairs_processor
+  'engine/processors/@before 0':
+    lua_processor@select_character_processor
+  # 'engine/processors/@before 0':
+  #   lua_processor@auto_select_processor
+  # 'engine/processors/@before 0':
+  #   lua_processor@rm_word_processor
+  # 'engine/filters/@before 0':
+  #   lua_filter@rm_word_filter
+
+  switches/@next:
+    name: emoji_suggestion
+    states: [ "無🙂", "有😎" ]
+  'engine/filters/@before 0':
+    simplifier@emoji_suggestion
+  emoji_suggestion:
+    opencc_config: emoji.json
+    option_name: emoji_suggestion
+    tips: all

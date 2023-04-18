@@ -1,0 +1,63 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: reverse_lookup_xnhe_wubi
+  # name: 小鹤五笔音形反查滤镜
+  version: "1.5" 
+  author:
+    - Rime schema by 梨子
+  description:
+    小鹤双拼音码挂载五笔形码，快速输入。
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    reset: 1
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+
+translator:
+  dictionary: reverse_lookup_xnhe_wubi
+  prism: reverse_lookup_xnhe_wubi
+
+punctuator:
+  import_preset: default_symbols
+
+key_binder:
+  import_preset: default
+    
+recognizer:
+  import_preset: default

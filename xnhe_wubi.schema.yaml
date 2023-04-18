@@ -1,0 +1,218 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: xnhe_wubi
+  name: 小鶴五筆音形
+  version: "2.0" 
+  author:
+    - Rime schema by 梨子
+  dependencies:
+    - double_pinyin_flypy
+    - wubi86
+    - reverse_lookup_xnhe_wubi
+  description:
+    小鶴雙拼掛載五筆形碼，快速輸入。
+    直接輔助碼，zh/ch/sh對側飛鍵。
+    音形簡碼。
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    reset: 1
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    reset: 0
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - echo_translator
+    - punct_translator
+    - reverse_lookup_translator                #五笔86反查翻译器
+    - table_translator@custom_phrase           #custom_phrase段编码
+    - table_translator@xnhe_wubi_code          #表示调用小鹤五笔简码
+    - table_translator@xnhe_simp_chaizi        #;开启拆字模式
+    - script_translator                        #小鹤字词主翻译器
+  filters:
+    - simplifier
+    - simplifier@simplification
+    - uniquifier
+    - cjk_minifier
+    - reverse_lookup_filter@reverse_lookup_xnhe_wubi             #反查提示滤镜如无需要可关闭
+
+speller:
+  alphabet: "abcdefghijklmnopqrstuvwxyz;"
+  delimiter: " `"
+  algebra:
+#小鹤五笔快捷编码
+    - derive/^(..[[]..).$/$1/
+    - derive/^(..[[].).$/$1/
+    - derive/^(..[[]).$/$1/
+    - derive/^(..[[]..).(.)$/$1$2/
+    - derive/^(..[[].)..(.)$/$1$2/
+    - derive/^(..[[])....$/$1/
+#去除引导码、分号分词
+    - xform/[[]//
+    - derive/^ju/jv/
+#超级简拼-容易卡
+#     - abbrev/^(.).+$/$1/
+
+key_binder:
+  import_preset: default
+  bindings:
+    - { when: has_menu, accept: ",", send: 2 }                  # 第2候选键(,)
+    - { when: has_menu, accept: ".", send: 3 }                  # 第3候选键(.)
+    - { when: has_menu, accept: "/", send: 4 }                  # 第4候选键(')
+    # - { when: has_menu, accept: apostrophe, send: 4 }           # 第4候选键(')
+    - { when: composing, accept: "-", send: Page_Up}            #上翻页
+    - { when: composing, accept: equal, send: Page_Down}        #下翻页
+    - { when: always, accept: "Control+j", toggle: simplification }       #切换简繁
+
+translator:                      #小鹤字词翻译器
+  dictionary: xnhe_wubi
+  user_dict: xnhe_wubi
+  prism: xnhe_wubi
+  enable_charset_filter: true    #字符集过滤，低重形码用不着
+  initial_quality: 1
+  contextual_suggestions: true
+
+reverse_lookup_xnhe_wubi:      #小鹤五笔编码反查滤镜
+  dictionary: reverse_lookup_xnhe_wubi
+  comment_format:
+    - xform/[[]//
+    - xform/^([a-z][a-z][a-z][a-z])[a-z]([a-z])/$1$2/
+    - xform/^([a-z][a-z])([a-z]+)/$1·$2/
+    - xform/.+?(「.+?·固顶」)/$1/
+
+reverse_lookup:                  #五笔86反查翻译器
+  dictionary: wubi86             #用于反查编码的另一种输入法词库名称
+  prefix: ";"                    #反查引导符，即按下这个键后再输入五笔输入法的编码
+  suffix: "`"
+  tips: 〔五筆〕
+  initial_quality: 10
+  comment_format:
+    - xform/.*?(..)[[].+/$1/
+    - xform/(..)[[].+/$1/
+    - xform/ot/os/
+    - xform/up/us/
+    - xform/jw/jb/
+    - xform/up/us/
+    - xform/ab/aa/
+    - xform/zb/zi/
+    - xform/wy/ww/
+    - xform/je/ji/
+    - xform/xg/xm/
+    - xform/rw/rf/
+    - xform/wt/wu/
+    - xform/wm/wh/
+    - xform/a([yuohjkl])/u$1/
+    - xform/(ae)m/$1g/
+    - xform/(a)c/$1o/
+    - xform/e([yuiohjk])/y$1/
+    - xform/(e)w]/$1i/
+    - xform/o([werasdfgzxv])/v$1/
+    - xform/([bpmfdtnljqx])n/$1iao/
+    - xform/(\w)g/$1eng/
+    - xform/(\w)q/$1iu/
+    - xform/(\w)w/$1ei/
+    - xform/([dtnlgkhjqxyvuirzcs])r/$1uan/
+    - xform/(\w)t/$1ve/
+    - xform/(\w)y/$1un/
+    - xform/([dtnlgkhvuirzcs])o/$1uo/
+    - xform/(\w)p/$1ie/
+    - xform/([jqx])s/$1iong/
+    - xform/([wertyiopasdghklzcvbnm])s/$1ong/
+    - xform/(f)s/$1öng/
+    - xform/(u)s/$1i/
+    - xform/(\w)d/$1ai/
+    - xform/(\w)f/$1en/
+    - xform/(\w)h/$1ang/
+    - xform/(\w)j/$1an/
+    - xform/([gkhvuirzcs])k/$1uai/
+    - xform/(\w)k/$1ing/
+    - xform/([jqxnl])l/$1iang/
+    - xform/(\w)l/$1uang/
+    - xform/(\w)z/$1ou/
+    - xform/([gkhvuirzcs])x/$1ua/
+    - xform/(\w)x/$1ia/
+    - xform/(\w)c/$1ao/
+    - xform/([dtgkhvuirzcs])v/$1ui/
+    - xform/(\w)b/$1in/
+    - xform/(\w)m/$1ian/
+    - xform/([aoe])\1(\w)/$1$2/
+    - "xform/(^|[ '])v/$1zh/"
+    - "xform/(^|[ '])i/$1ch/"
+    - "xform/(^|[ '])u/$1sh/"
+    - xform/([jqxy])v/$1u/
+    - xform/([nl])v/$1ü/
+    - xform/^(.+)/[py]:$1/
+
+custom_phrase:                   #用户自定义custom_phrase编码
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 10
+
+xnhe_wubi_code:                #小鹤五笔简码码段
+  dictionary: ""
+  user_dict: xnhe_wubi_code
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 10
+
+xnhe_simp_chaizi:         #;拆字模式
+  dictionary: ""
+  user_dict: xnhe_simp_chaizi
+  db_class: stabledb
+  enable_completion: true
+  enable_sentence: false
+  initial_quality: 10
+
+simplification:
+  #  opencc_config: s2t.json  # 简 -> 繁
+  #  opencc_config: s2hk.json  # 繁 -> 香港
+  opencc_config: t2s.json   # 繁 -> 简
+  #  opencc_config: t2tw.json  # 繁 -> 台湾
+  #  opencc_config: t2hk.json  # 繁 -> 香港
+  #  opencc_config: s2tw.json  # 簡 -> 臺灣標準
+  #  opencc_config: s2twp.json  # 簡 -> 臺灣片語
+  option_name: simplification
+
+punctuator:
+  import_preset: default #設定符號表，這裏直接導入預設的
+
+recognizer:
+  patterns:
+    email: "^[a-z][-_.0-9a-z]*@.*$"
+    uppercase: "^[A-Z][-_+.'0-9A-Za-z]*$"
+    url: "^(www[.]|https?:|ftp:|mailto:).*$"
+    reverse_lookup: "^;[a-z]*$"  #使用o激活反查，如有其他需要可以自行更改
+
+grammar:
+  language:
+    zh-hant-t-essay-bgw
+  collocation_max_length: 7
+  collocation_min_length: 7
