@@ -82,12 +82,12 @@
     
 *五笔：
   
-  ![image](https://user-images.githubusercontent.com/49089769/231264279-6783625f-6f1c-4cdd-9ddc-a4b6560d5875.png)
+![image](https://user-images.githubusercontent.com/49089769/232719730-3243ea42-d32f-40ec-90cd-8737134c806f.png)
 
 
 *拆字：
   
-  ![image](https://user-images.githubusercontent.com/49089769/231264140-bb00a0f3-6c96-4b9c-8294-ac5850fce443.png)
+![image](https://user-images.githubusercontent.com/49089769/232719671-c5a34b76-878c-42c9-808c-02973ba9e4a3.png)
   
   ![image](https://user-images.githubusercontent.com/49089769/231264822-8e3b34b9-d0cc-4f22-acad-4e1b29d6801a.png)
 
