@@ -22,21 +22,21 @@
 
   需要特殊记忆的编码如下：
 
-  现：xg 实：up 仅：jw 字：zp 及：je 种：ot 任：rw 妹：mv 为：wy 和：ht 网：wm 子：zb 阿：ab 时：uj 物：wt
+    现：xg 实：up 仅：jw 字：zp 及：je 种：ot 任：rw 妹：mv 为：wy 和：ht 网：wm 子：zb 阿：ab 时：uj 物：wt
   
   使用逗号、句号进行次选、三选。
 
 ### 飞键映射（map）：
 
-  /shi-us/feng-fs/  (增加s按键频率)
-  
-  /ang-am/ao-ac/
+    /shi-us/feng-fs/  (增加s按键频率)
 
-  /eng-am/ei-ew/
+    /ang-am/ao-ac/
 
-  /右韵母zh-v/左韵母sh-u/左韵母y-y/  (同原版小鹤一致)
-  
-   /左韵母zh-o/右韵母sh-a/右韵母y-e/  (对侧映射)
+    /eng-am/ei-ew/
+
+    /右韵母zh-v/左韵母sh-u/左韵母y-y/  (同原版小鹤一致)
+
+     /左韵母zh-o/右韵母sh-a/右韵母y-e/  (对侧映射)
    
    辅助码映射：
    
