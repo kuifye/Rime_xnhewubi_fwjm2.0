@@ -78,7 +78,7 @@
 
   默认为简体，通过快捷键 Control+ J 切换繁简。
 
-  输入 ob 呼出五笔及拆字模式（例：oblslsls = 龘），obhelp 呼出飞键提示，obinfo呼出更多信息。
+  输入 分号 ; 呼出五笔及拆字模式（例：;lslsls = 龘），obhelp 呼出飞键提示，obinfo呼出更多信息。
     
 *五笔：
   
