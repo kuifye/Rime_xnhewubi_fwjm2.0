@@ -96,8 +96,17 @@ ok	ok	10
 Ψ	;ybyt	0
 ㈱	;vuus	6
 囍	;xixi	10
-☯	;tj	10
 ☯	;tdji	10
+⁰	;jnbn	10
+¹	;jnbn	9
+²	;jnbn	8
+³	;jnbn	7
+⁴	;jnbn	6
+⁵	;jnbn	5
+⁶	;jnbn	4
+⁷	;jnbn	3
+⁸	;jnbn	2
+⁹	;jnbn	1
 ℗	;p	6
 ®	;r	6
 ©	;c	4
@@ -113,23 +122,12 @@ ok	ok	10
 ×	;co	11
 ✗	;co	10
 -	;gh	10
-_	;gh	9
+_	;xhx	9
 —	;gh	7
 ￥	;rmb	10
 ￥	;yr	10
 $	;my	10
 ~	;bl	10
-~	;bolh	10
-⁰	;jnbn	10
-¹	;jnbn	9
-²	;jnbn	8
-³	;jnbn	7
-⁴	;jnbn	6
-⁵	;jnbn	5
-⁶	;jnbn	4
-⁷	;jnbn	3
-⁸	;jnbn	2
-⁹	;jnbn	1
 →	;jt	10
 ←	;jt	9
 ↑	;jt	8
@@ -152,6 +150,7 @@ $	;my	10
 -	;hg	10
 ·	;jg	10
 +	;jx	10
+-	;jm	10
 ——	;pv	10
 【	;kh	10
 】	;kh	9
@@ -160,8 +159,7 @@ $	;my	10
 ！	;gj	9
 -	;gh	8
 ·	;dm	10
-`	;ffge	10
-`	;ffg	10
+`	;fg	10
 ·	;dm	5
 =	;dg	4
 ¿	;fwh	8
@@ -330,7 +328,7 @@ $	;my	10
 #简码
 		
 上	a	9
-說	a	8
+啊	a	8
 不	b	9
 八	b	8
 纔	c	9
@@ -4500,7 +4498,6 @@ $	;my	10
 晤	wuj	9
 唔	wuk	9
 瘟	wul	9
-屼	wum	9
 峿	wum	9
 屋	wun	9
 焐	wuo	9
