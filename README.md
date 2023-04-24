@@ -97,7 +97,7 @@
 
 control+d
 
-### *切换繁体(TW-SC)
+### *切换繁体(zh-cn/zh-tw)
 
 control+j
 
