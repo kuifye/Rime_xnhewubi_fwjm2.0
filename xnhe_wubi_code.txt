@@ -1,5 +1,6 @@
 #------------------------------hint
-
+☯【超級簡拼尾碼】	;'	6
+;	;	6
 ;~拆字反查	;	5
 ;~help提示	;	4
 ;~info相关信息	;	3
@@ -30,6 +31,66 @@ fg上屏逗号---	;help
 date:2023年4月11日	;info	7
 ------	;info	6
 歡迎使用😎	;info	5
+
+
+#cmd命令------------------------
+
+cmd	cmd	10
+cmd_notepad	cmdn	10
+cmd_notepad	cmdjub	10
+cmd_calc	cmdc	10
+cmd_calc	cmdjsq	10
+cmd_cleanmgr	cmdcl	10
+cmd_cleanmgr	cmdlj	10
+cmd_cleanmgr	cmdljql	10
+cmd_cmd.exe	cmd	10
+cmd关机：	cmdsd	10
+cmd关机：	cmdsda	10
+cmd重启：	cmdrb	10
+cmd重启：	cmdiq	10
+cmd_Shutdown -s -t 600	cmdsd	9
+cmd_Shutdown -a 600	cmdsda	9
+cmd_Shutdown -r -t 600	cmdrb	9
+cmd_Shutdown -r -t 600	cmdiq	9
+cmd关机：	cmdsd	9
+cmd关机：	cmdgj	9
+cmd_Shutdown	cmdsd	8
+cmd_Shutdown	cmdgj	8
+cmd_devmgmt.msc	cmddev	10
+cmd_desk.cpl	cmddesk	10
+cmd_eudcedit	cmdeu	10
+cmd_logoff	cmdlog	10
+cmd_mmc	cmdmmc	10
+cmd_mspaint	cmdht	10
+cmd_mspaint	cmdpt	10
+cmd_mspaint	cmdpa	10
+cmd_osk	cmdosk	10
+cmd_osk	cmdpmjp	10
+cmd_regedit.exe	cmdvcb	10
+cmd_regedit.exe	cmdre	10
+cmd_rsop.msc	cmdzcl	10
+cmd_rsop.msc	cmdrsop	10
+cmd_StikyNot	cmdnot	10
+cmd_StikyNot	cmdbq	10
+cmd_taskmgr	cmdtask	10
+cmd_taskmgr	cmdrw	10
+cmd_taskmgr	cmdrwglq	10
+cmd_TM任务管理器	cmdtmrw	10
+cmd_write	cmdwr	10
+cmd_write	cmdwt	10
+cmd_write	cmdxzb	10
+cmd_sndrec32	cmdlyj	10
+cmd_explorer	cmdexp	10
+cmd_explorer	cmdjsj	10
+cmd_explorer	cmddn	10
+cmd_explorer	cmdwddn	10
+cmd_mstsc	cmdms	10
+cmd_mstsc	cmdyivm	10
+cmd_Sndvol32	cmdyl	10
+cmd_chkdsk.exe	cmdch	10
+cmd_chkdsk.exe	cmdcp	10
+cmd_control		cmdctrl	10
+cmd_control		cmdkvmb	10
 
 #-------------------------常用標點
 
@@ -107,12 +168,6 @@ ok	ok	10
 ⁷	;jnbn	3
 ⁸	;jnbn	2
 ⁹	;jnbn	1
-℗	;p	6
-®	;r	6
-©	;c	4
-℗	;p	10
-®	;r	10
-©	;c	10
 √	;gz	11
 ✓	;gz	10
 ×	;ia	11
@@ -169,6 +224,7 @@ $	;my	10
 
 #部分簡詞
 
+以	ec	9
 物	wt	9
 妹	mv	9
 時	uj	9
@@ -3893,6 +3949,7 @@ $	;my	10
 忐	tjh	9
 灘	tji	9
 曇	tjj	9
+彈	tjx	9
 歎	tjk	9
 炭	tjm	9
 惔	tjn	9
@@ -4069,7 +4126,6 @@ $	;my	10
 深	ufi	9
 申	ufj	9
 呻	ufk	9
-屾	ufm	9
 慎	ufn	9
 審	ufp	9
 鲹	ufq	9
@@ -13625,7 +13681,6 @@ $	;my	10
 利	litj
 立	liuu
 力	liln
-禮	lipu
 理	ligf
 峛	limj
 李	lisb
