@@ -106,6 +106,9 @@
 
 ![image](https://user-images.githubusercontent.com/49089769/233999817-a6d75484-9104-4971-a39c-a0594951729c.png)
 
+*时间模块（date/time）
+
+![image](https://user-images.githubusercontent.com/49089769/234001089-c892abd0-3533-44fe-83f0-d1f1bdf790cf.png)
   
  *快捷cmd命令：
   
