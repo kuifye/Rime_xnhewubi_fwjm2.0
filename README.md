@@ -93,6 +93,14 @@
 
 ## 其他功能(lua function model)：
 
+### *强制删词(force delete):
+
+control+d
+
+### *切换繁体(TW-SC)
+
+control+j
+
 ### *以词定字（【】前后方括号）：
 
 ![image](https://user-images.githubusercontent.com/49089769/233998959-2cdecd66-ce34-4332-a263-8db69781763f.png)
