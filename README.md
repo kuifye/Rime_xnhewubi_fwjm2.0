@@ -91,14 +91,14 @@
   
 ![image](https://user-images.githubusercontent.com/49089769/232719671-c5a34b76-878c-42c9-808c-02973ba9e4a3.png)
 
-### 其他功能：
+## 其他功能(lua function model)：
 
-*以词定字（【】前后方括号）：
+### *以词定字（【】前后方括号）：
 
 ![image](https://user-images.githubusercontent.com/49089769/233998959-2cdecd66-ce34-4332-a263-8db69781763f.png)
 ![image](https://user-images.githubusercontent.com/49089769/233999092-442481cb-2584-43e7-a3ba-2643d15b01e6.png)
 
-*超级简拼造词（可以手动造某个不存在的超级简拼词组）
+### *超级简拼造词（手动造某个不存在的超级简拼词组）
 
 *如图，词库中不存在滚滚长江的四字短语，可以在单字后面加上  {  ;'  }  或  {  ;, }  来引导制造超级简拼短词：
 
@@ -106,8 +106,11 @@
 
 ![image](https://user-images.githubusercontent.com/49089769/233999817-a6d75484-9104-4971-a39c-a0594951729c.png)
 
+### *时间模块（date/time）
+
+![image](https://user-images.githubusercontent.com/49089769/234001089-c892abd0-3533-44fe-83f0-d1f1bdf790cf.png)
   
- *快捷cmd命令：
+ ### *快捷cmd命令(easy_cmd)：
   
  ![image](https://user-images.githubusercontent.com/49089769/233998101-765def64-03cb-4c44-8375-bd8186ce27bb.png)
 
