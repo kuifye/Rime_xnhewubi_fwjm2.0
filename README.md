@@ -81,7 +81,7 @@
   默认为简体，通过快捷键 Control+ J 切换繁简。
 
   输入 分号 ; 呼出五笔及拆字模式（例：;lslsls = 龘），;help 呼出飞键提示，;info呼出更多信息。
-    
+
 *五笔：
   
 ![image](https://user-images.githubusercontent.com/49089769/232719730-3243ea42-d32f-40ec-90cd-8737134c806f.png)
@@ -90,19 +90,30 @@
 *拆字：
   
 ![image](https://user-images.githubusercontent.com/49089769/232719671-c5a34b76-878c-42c9-808c-02973ba9e4a3.png)
-  
-  ![image](https://user-images.githubusercontent.com/49089769/231264822-8e3b34b9-d0cc-4f22-acad-4e1b29d6801a.png)
-  
-  快捷cmd命令：
-  
-  ![image](https://user-images.githubusercontent.com/49089769/233998101-765def64-03cb-4c44-8375-bd8186ce27bb.png)
 
+以词定字（【】前后方括号）：
+
+![image](https://user-images.githubusercontent.com/49089769/233998959-2cdecd66-ce34-4332-a263-8db69781763f.png)
+![image](https://user-images.githubusercontent.com/49089769/233999092-442481cb-2584-43e7-a3ba-2643d15b01e6.png)
+
+超级简拼造词（可以手动造某个不存在的超级简拼词组）
+
+如图，词库中不存在滚滚长江的四字短语，可以在单字后面加上  {  ;'  }  或  {  ;, }  来引导制造超级简拼短词：
+
+![image](https://user-images.githubusercontent.com/49089769/233999345-6ec31160-5592-4f5e-8136-4b726a86c71f.png)
+
+![image](https://user-images.githubusercontent.com/49089769/233999817-a6d75484-9104-4971-a39c-a0594951729c.png)
+
+  
+ 快捷cmd命令：
+  
+ ![image](https://user-images.githubusercontent.com/49089769/233998101-765def64-03cb-4c44-8375-bd8186ce27bb.png)
 
 ```
 cmdjub  记事本
 cmddn   我的电脑
 cmdht    画图
 #具体见xnhe_wubi_code.txt
-
 ```
-
+  
+  ![image](https://user-images.githubusercontent.com/49089769/231264822-8e3b34b9-d0cc-4f22-acad-4e1b29d6801a.png)
