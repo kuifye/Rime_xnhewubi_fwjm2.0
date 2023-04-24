@@ -91,7 +91,7 @@
   
 ![image](https://user-images.githubusercontent.com/49089769/232719671-c5a34b76-878c-42c9-808c-02973ba9e4a3.png)
 
-### 其他功能
+### 其他功能：
 
 *以词定字（【】前后方括号）：
 
