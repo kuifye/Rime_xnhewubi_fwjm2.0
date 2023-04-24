@@ -3,7 +3,7 @@
 
 schema:
   schema_id: wubi86
-  name: "五笔86"
+  # name: "五笔86"  --如需要打五笔，可以取消该注释
   version: "0.21"
   author:
     - 發明人 王永民先生
