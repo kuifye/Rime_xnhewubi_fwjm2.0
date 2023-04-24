@@ -8,7 +8,6 @@ schema:
   author:
     - Rime schema by 梨子
   dependencies:
-    - double_pinyin_flypy
     - wubi86
     - reverse_lookup_xnhe_wubi
   description:
@@ -78,7 +77,6 @@ speller:
     - xform/[[]//
     - derive/^ju/jv/
     - derive/'$//
-    - derive/J$/;'/
 #超级简拼-容易卡
     - abbrev/^(.).+$/$1/
 

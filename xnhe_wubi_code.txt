@@ -1020,7 +1020,7 @@ $	;my	10
 兵	bkr	9
 柄	bks	9
 秉	bkt	9
-冰	bku	9
+病	bku	9
 稟	bk;	9
 鞭	bma	9
 弁	bmc	9

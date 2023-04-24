@@ -1,0 +1,40 @@
+var:
+  last_build_time: 1682337843
+  option:
+    ascii_punct: false
+    extended_charset: true
+    full_shape: false
+    simplification: false
+    zh_hant: true
+    zh_hant_tw: false
+  previously_selected_schema: xnhe_wubi
+  schema_access_time:
+    a: 1681639016
+    bopomofo_tw: 1668316121
+    double_pinyin_flypy: 1681994712
+    double_pinyin_yssp2: 1667995136
+    double_pinyin_yssp2.1: 1667994649
+    farsi: 1679558859
+    flypy: 1669066771
+    hshba: 1681332626
+    huit: 1665903912
+    japanese: 1681990485
+    luna_pinyin: 1667579775
+    luna_pinyin_extended: 1667142048
+    luna_pinyin_fluency: 1667577045
+    luna_quanpin: 1669066138
+    reverse_lookup_xnhe_wubi: 1667970843
+    sautungva: 1670820724
+    test: 1665904100
+    unicode: 1669671144
+    unicode_nushu_romanization: 1669671047
+    wubi86: 1681639811
+    wubi_dg: 1682076835
+    xnhe_dg: 1681642656
+    xnhe_fz: 1681229178
+    xnhe_wubi: 1682239539
+    xnhe_wubi_base: 1681906577
+    xnhe_wubi_dg: 1682073988
+    xnhe_wubi_plus: 1680425502
+    xnhe_wubi_table: 1680986025
+    yihezici: 1680691398

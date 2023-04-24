@@ -1,0 +1,138 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3_dev_0.8
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Mon Apr 24 03:14:59 2023"
+  rime_version: 1.7.3
+patch:
+  "app_options/Adobe Premiere Pro.exe":
+    ascii_mode: true
+  "app_options/LeagueClient.exe":
+    ascii_mode: true
+  "app_options/findandrunrobot.exe":
+    ascii_mode: true
+  "app_options/gvim.exe":
+    ascii_mode: true
+  "app_options/tcmatch64.exe":
+    ascii_mode: true
+  "app_options/totalcmd64.exe":
+    ascii_mode: true
+  "preset_color_schemes/Hongri":
+    author: lizi
+    back_color: 0x222222
+    border_color: 0x222222
+    candidate_text_color: 0xd8e3e6
+    comment_text_color: 0x606cff
+    hilited_back_color: 0x222222
+    hilited_candidate_back_color: 0x333333
+    hilited_candidate_text_color: 0x92f6da
+    hilited_text_color: 0xFFDB52
+    name: "麦田"
+    text_color: 0xD1D293
+  "preset_color_schemes/Micosoft":
+    author: XNOM
+    back_color: 0xffffff
+    border_color: 0xD77800
+    candidate_text_color: 0x000000
+    hilited_back_color: 0xffffff
+    hilited_candidate_back_color: 0x5A736A
+    hilited_candidate_text_color: 0xffffff
+    hilited_text_color: 0x000000
+    name: Micosoft
+    text_color: 0x000000
+  "preset_color_schemes/apathy":
+    author: "LIANG Hai"
+    back_color: 0xFFFFFF
+    border_height: 0
+    border_width: 8
+    candidate_format: "%c %@ "
+    comment_text_color: 0x999999
+    corner_radius: 5
+    font_point: 16
+    hilited_candidate_back_color: 0xFFF0E4
+    hilited_candidate_text_color: 0xEE6E00
+    horizontal: true
+    inline_preedit: true
+    label_font_point: 12
+    name: "冷漠／Apathy"
+    text_color: 0x424242
+  "preset_color_schemes/metro":
+    author: flypy.com
+    back_color: 0xffffff
+    border_color: 0xe89f00
+    comment_text_color: 0x666666
+    hilited_back_color: 0xffffff
+    hilited_candidate_back_color: 0xe89f00
+    hilited_candidate_text_color: 0xffffff
+    hilited_comment_text_color: 0x666666
+    hilited_text_color: 0x000000
+    label_color: 0x666666
+    name: metro
+    text_color: 0x000000
+  "preset_color_schemes/mojave_dark":
+    author: "xiehuc <xiehuc@gmail.com>"
+    back_color: 0x3c3c3c
+    border_color: 0x3c3c3c
+    border_color_width: 0
+    border_height: 6
+    border_width: 12
+    candidate_format: "%c %@"
+    candidate_text_color: 0xdedddd
+    comment_text_color: 0xdedddd
+    corner_radius: 5
+    font_face: PingFangSC
+    font_point: 16
+    hilited_back_color: 0x3c3c3c
+    hilited_candidate_label_color: 0xefefef
+    hilited_candidate_text_color: 0xefefef
+    hilited_corner_radius: 0
+    hilited_text_color: 0xdedddd
+    horizontal: true
+    inline_preedit: true
+    label_color: 0x888785
+    label_font_point: 13
+    name: "沙漠夜／Mojave Dark"
+    text_color: 0xdedddd
+  "preset_color_schemes/qbycs":
+    author: zz
+    back_color: 0xEDEDED
+    border_color: 0xEDEDED
+    candidate_text_color: 0x545454
+    hilited_back_color: 0xEDEDED
+    hilited_candidate_back_color: 0xFDD5B4
+    hilited_candidate_text_color: 0x000000
+    hilited_text_color: 0xFF0008
+    name: qbycs
+    text_color: 0x000000
+  "preset_color_schemes/西米露":
+    author: Loong
+    back_color: 0x030303
+    border_color: 0x0A0A0A
+    candidate_text_color: 0xFFFFFF
+    comment_text_color: 0xFCFCFC
+    hilited_back_color: 0x4734D6
+    hilited_candidate_back_color: 0x4734D6
+    hilited_candidate_text_color: 0xFFFFFF
+    hilited_text_color: 0xFFFFFF
+    name: "西米露"
+    text_color: 0xFAFAFF
+  "style/color_font": false
+  "style/color_scheme": Hongri
+  "style/comment_font_point": 11
+  "style/display_tray_icon": false
+  "style/font_face": "TH-Hak"
+  "style/horizontal": true
+  "style/inline_preedit": true
+  "style/label_font_point": 11
+  "style/layout/border": 0
+  "style/layout/border_height": 4
+  "style/layout/candidate_spacing": 4
+  "style/layout/corner_radius": 8
+  "style/layout/dborder_width": 5
+  "style/layout/hilite_padding": 7
+  "style/layout/hilite_spacing": 4
+  "style/layout/margin_x": 8
+  "style/layout/margin_y": 8
+  "style/layout/min_height": 0
+  "style/layout/round_corner": 6
+  "style/layout/spacing": 10

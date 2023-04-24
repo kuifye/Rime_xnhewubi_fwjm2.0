@@ -2,8 +2,8 @@ patch:
   __include: grammar:/hans
 
 #扩充符号
-  punctuator/import_preset: default #設定符號表，這裏直接導入預設的
-
+  punctuator/import_preset: default_symbols #設定符號表，這裏直接導入預設的
+  recognizer/patterns/punct:  '^\\([0-9]0?|[A-Za-z]+)$'
 #扩充字库
   'engine/translators/@before 0':
     lua_translator@time_translator
@@ -15,3 +15,13 @@ patch:
     lua_processor@rm_word_processor
   'engine/filters/@before 1':
     lua_filter@rm_word_filter
+
+  switches/@next:
+    name: emoji_suggestion
+    states: [ "無🙂", "有😎" ]
+  'engine/filters/@before 0':
+    simplifier@emoji_suggestion
+  emoji_suggestion:
+    opencc_config: emoji.json
+    option_name: emoji_suggestion
+    tips: all
