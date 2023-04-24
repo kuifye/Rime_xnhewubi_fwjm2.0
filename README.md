@@ -23,6 +23,8 @@
   需要特殊记忆的编码如下：
 
     现：xg 实：up 仅：jw 字：zp 及：je 种：ot 任：rw 妹：mv 为：wy 和：ht 网：wm 子：zb 阿：ab 时：uj 物：wt
+    
+    #具体见xnhe_wubi_code.txt
   
   使用逗号、句号进行次选、三选。
 
@@ -90,4 +92,17 @@
 ![image](https://user-images.githubusercontent.com/49089769/232719671-c5a34b76-878c-42c9-808c-02973ba9e4a3.png)
   
   ![image](https://user-images.githubusercontent.com/49089769/231264822-8e3b34b9-d0cc-4f22-acad-4e1b29d6801a.png)
+  
+  快捷cmd命令：
+  
+  ![image](https://user-images.githubusercontent.com/49089769/233998101-765def64-03cb-4c44-8375-bd8186ce27bb.png)
+
+
+```
+cmdjub  记事本
+cmddn   我的电脑
+cmdht    画图
+#具体见xnhe_wubi_code.txt
+
+```
 
