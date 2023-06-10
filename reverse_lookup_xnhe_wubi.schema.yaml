@@ -51,7 +51,6 @@ speller:
 
 translator:
   dictionary: reverse_lookup_xnhe_wubi
-  prism: reverse_lookup_xnhe_wubi
 
 punctuator:
   import_preset: default_symbols

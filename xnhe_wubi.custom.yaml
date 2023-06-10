@@ -1,5 +1,8 @@
 patch:
   __include: grammar:/hans
+  # __include: easy_en:/patch
+  # easy_en/enable_sentence: false
+  # easy_en/initial_quality: 0.4
 
 #扩充符号
   punctuator/import_preset: default_symbols #設定符號表，這裏直接導入預設的
@@ -18,6 +21,7 @@ patch:
 
   switches/@next:
     name: emoji_suggestion
+    # reset: 1
     states: [ "無🙂", "有😎" ]
   'engine/filters/@before 0':
     simplifier@emoji_suggestion

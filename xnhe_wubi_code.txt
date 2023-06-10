@@ -1,39 +1,3 @@
-#固顶词库
-#------------------------------hint
-☯【超級簡拼尾碼】	;'	6
-;	;	6
-;~拆字反查	;	5
-;~help提示	;	4
-;~info相关信息	;	3
-;~提示	;help	19
-阿-ab	;help	12
-實-up	;help	12
-子-zb	;help	12
-為-wy	;help	12
-及-je	;help	12
-僅-jw	;help	12
-現-xg	;help	12
-字-zp	;help	12
-任-rw	;help	12
-物-wt	;help	12
-網-wm	;help	12
-妹-mv	;help	12
-時-uj	;help	12
-和-ht	;help	12
-飞键映射：	;help	8
-shi-us/左韵母zh-o	;help	7
-左韵母y-y/右韵母y-e	;help	6
-右韵母sh-a	;help	5
-fg上屏逗号---	;help
-歡迎使用😎	;help
-;~info	;info	10
-小鹤五笔2.0飞键版本	;info	9
-作者：梨子	;info	8
-date:2023年4月11日	;info	7
-------	;info	6
-歡迎使用😎	;info	5
-
-
 #cmd命令------------------------
 
 cmd	cmd	10
@@ -95,6 +59,8 @@ cmd_control		cmdkvmb	10
 
 #-------------------------常用標點
 
+☯【超級簡拼尾碼】	;'	6
+；	;	6
 “	jf	10
 ：“	jg	10
 ，“	jh	10
@@ -105,34 +71,9 @@ cmd_control		cmdkvmb	10
 、	vd	10
 ？	vw	10
 ——	op	10
-（	oh	10
-）	oj	10
 《	vf	10
 》	vg	10
 %	vb	10
-~	vbl	10
-^	vhat	10
--	vhg	10
-·	ojg	10
-+	ojx	10
-——	opv	10
-【	okh	10
-】	okh	9
-〔	on	10
-〕	om	10
-[	vq	6
-]	vq	5
-<	vx	10
->	vx	9
-{	vvk	10
-}	vvk	9
-@	vat	9
-&	va	8
-&	van	10
-*	vxk	10
-&	vand	10
-/	vff	10
-
 
 #o及v符號
 
@@ -225,6 +166,8 @@ $	;my	10
 
 #部分簡詞
 
+mcn	mcn	9
+app	app	9
 以	ec	9
 物	wt	9
 妹	mv	9
@@ -241,23 +184,51 @@ $	;my	10
 任	rw	9
 物	wt	9
 網	wm	9
+懟	dvcn	9
+跳	tnkh	9
+誌	vi;n	9
+雞	jicg	9
+華	hxwf	9
+踩	cdkh	9
+翼	einw	9
+態	tddn	9
+矢	ustdu	8
+踏	takh	8
+牽	qmdh	8
+無	wuf	10
+蝙	bmja	10
+單	djuf	10
+鬥	dzuf	10
+跏	jxkh	10
+㓟	pihj	10
+碁	qiad	10
+鐘	osqh	10
+蓴	iyan	10
+哟	yzk;	10
+犯	fjqo	10
+峿	wumk	10
+飼	siqn	10
+偲	siwn	10
+漢	hjic	10
+視	usp;	10
+葚	ufaan	10
 之人	vr	9
 況且	kq	7
 目前	mq	7
 那些	nx	7
-那樣	ny	7
+你有	ny	7
 已经	ej	7
 感觉	gj	7
 你不	nb	7
 得到	dd	7
 列寧	ln	7
+顏色	es	7
 他們	tmf	7
 你們	nmf	7
 開始	kdu	7
 一會	ehv	7
 實在	upz	7
 纔對	cdv	7
-好的	hcd	7
 沒能	mng	7
 沒啥	mua	7
 紅色	hss	7
@@ -270,47 +241,357 @@ $	;my	10
 而已	ery	7
 無語	wyu	7
 微博	wbo	7
-不可能	bkn	7
 但是	dju	7
 是她	uta	7
 藍色	ljs	7
 綠色	lvs	7
 世界	ujp	7
 安康	ank	7
-有一	yze	7
-地平線	dpx	7
-我認識	wru	10
-我認得	wrd	10
+又一	yze	7
 現在	xgz	7
-人類	rlw	7
-中國人	ogr	7
-一些	exp	10
-古老	glc	10
-算了	srl	10
-用於	ysyu	9
-用處	ysiu	10
 我們	wmf	7
 不錯	bco	7
-明天就	mtj	10
-能不能	nbn	7
-不知道	bvd	7
-不明白	bmb	7
-不晓得	bxd	7
 這種	oot	7
 这好	ohc	7
 这坏	ohk	7
 理解	lij	7
 偶尔	oer	7
 人物	rwt	9
-唯一	wye	9
 女人	nvr	9
 男人	njr	7
+人類	rlw	7
+以內	ecnw	7
+能不能	nbn	7
+不知道	bvd	7
+不明白	bmb	7
+不晓得	bxd	7
+你不能	nbng	7
+中國人	ogr	7
+用於	ysyu	9
+出的	id	10
+和我	hw	10
+的是	du	10
+可你	kn	10
+發出	fi	10
+纔是	cu	10
+他人	tr	10
+所出	si	10
+這人	or	10
+就不	jb	10
+我就	wj	10
+他在	tz	10
+他就	tj	10
+纔有	cy	10
+和他	ht	10
+不可	bk	10
+你的	nd	10
+這不	ob	10
+這一	oe	10
+我的	wd	10
+可是	ku	10
+所在	sz	10
+只有	vy	10
+這個	og	10
+不是	bu	10
+我是	wu	10
+就是	ju	10
+這是	ou	10
+是的	ud	10
+的人	dr	10
+只是	vu	10
+他的	td	10
+是在	uz	10
+你不	nb	10
+所有	sy	10
+你所	ns	10
+是個	ug	10
+你所	ns	10
+個人	gr	10
+你是	nu	10
+有人	yr	10
+不上	ba	10
+他是	tu	10
+我和	wh	10
+就去	jq	10
+你纔	nc	10
+你就	nj	10
+他那	tn;	10
+所做	sz;	10
+是非	uf;	10
+與之	euv;	10
+推入	tvr;	10
+等我	dgw	10
+生的	ugd	10
+他得	tdw	10
+行人	kxr	10
+你每	nmw	10
+來和	ldh	10
+老人	lcr	10
+卑亢	bwkh	10
+真就	ofj	10
+這邊	obm	10
+超發	icf	10
+於是	euu	10
+真是	ofu	10
+全是	qru	10
+假發	jxf	10
+軍人	jyr	10
+一生	eug	10
+成就	igj	10
+這把	oba	10
+你對	ndv	10
+幼小	yzx	10
+踏平	tap	10
+她是	tau	10
+兩發	llf	10
+爬上	paa	10
+僕人	pur	10
+两只	llv	10
+還可	hdk	10
+服了	ful	10
+可見	kjm	10
+遭人	zcr	10
+有意	yei	10
+中去	osq	10
+也就	yej	10
+讓他	rht	10
+被人	bwr	10
+本人	bfr	10
+平常	pih	10
+就行	jxk	10
+取了	qul	10
+愈發	euf	10
+一身	euf	11
+提出	tii	10
+弱小	rox	10
+付出	fui	10
+早就	zcj	10
+在意	zei	10
+都是	dzu	10
+敵人	dir	10
+大的	dad	10
+去年	qnm	10
+下發	xxf	10
+開發	kdf	10
+不僅	bjw	10
+取出	qui	10
+總是	zsu	10
+桌上	voa	10
+走去	zzq	10
+兩人	llr	10
+關上	gra	10
+就被	jbw	10
+我叫	wjn	10
+這般	obj	10
+但你	djn	10
+不斷	bdr	10
+所知	svi	10
+據我	jvw	10
+下去	xxq	10
+看上	kja	10
+關我	grw	10
+哪去	naq	10
+廁所	ces	10
+整個	ogg	10
+要去	ycq	10
+就想	jxl	10
+一眼	eej	10
+小時	xuj	10
+就要	jyc	10
+幾個	jig	10
+不被	bbw	10
+進去	jbq	10
+這段	odr	10
+人和人	rhr	10
+主人	vur	10
+說是	aou	10
+沒敢	mgj	10
+買了	mdl	10
+所用	sys	10
+已是	eiu	10
+從不	csb	10
+同他	tst	10
+真的	ofd	10
+了嗎	lma	10
+帶上	dda	10
+不說	bao	10
+回去	hvq	10
+就別	jbp	10
+多人	dor	10
+地上	dia	10
+晚上	wja	10
+令我	lkw	10
+說的	aod	10
+不滿	bmj	10
+一些	exp	10
+古老	glc	10
+算了	srl	10
+天上	tma	10
+上傳	air	10
+哪人	nar	10
+兩個	llg	10
+哪個	nag	10
+讓我	rhw	10
+我還	whd	10
+沒問	mwf	10
+事發	usf	10
+把我	baw	10
+一人	erf	10
+我也	wye	10
+沒事	mus	10
+沒卡	mka	10
+過去	goq	10
+其他	qit	10
+也是	yeu	10
+來個	ldg	10
+發生	fug	10
+失去	usq	10
+但是	dju	10
+被他	bwt	10
+上面	amm	10
+可憐	klm	10
+又是	yzu	10
+可與	keu	10
+連個	lmg	10
+不能	bng	10
+不錯	bco	10
+好的	hcd	10
+可以	kec	10
+這次	oci	10
+他也	tye	10
+哪不	nab	10
+處在	iuz	10
+每個	mwg	10
+我想	wxl	10
+也不	yeb	10
+數人	aur	10
+一切	eqp	10
+把他	bat	10
+上層	acg	10
+學我	xtw	10
+人物	rwt	10
+一手	euz	10
+罷了	bal	10
+忘了	whl	10
+醜了	izl	10
+她可	tak	10
+評個	pkg	10
+平崗	pgh	10
+奇才	qic	10
+成人	igr	10
+這正	oog	10
+被我	bww	10
+正和	ogh	10
+一役	eei	10
+都不	dzb	10
+身上	ufa	10
+幫我	bhw	10
+我玩	wwj	10
+教我	jnw	10
+半軸	bjoz	10
+紙上	vixa	10
+新人	xbur	10
+黨人	dhir	10
+录音	luyb	10
+四個	silg	10
+就被	jbwp	10
+活的	hoid	10
+和一個	heg	10
+他這個	tog	10
+了就是	lju	10
+了一個	leg	10
+這個是	ogu	10
+他有個	tyg	10
+的這個	dog	10
+就是被	jubw	10
+在一個	zeg	10
+要一個	yceg	10
+這一面	oemm	10
+我給你	wgwn	10
+你和他	nht	10
+所出現	sixg	10
+這是我	ouw	10
+了我的	lwd	10
+這人的	ord	10
+就沒了	jml	10
+他就是	tju	10
+我和他	wht	10
+在一起	zeqi	10
+對這個	dvog	10
+只是個	vug	10
+失去了	usql	10
+有他的	ytd	10
+他是個	tug	10
+了不起	lbqi	10
+和他們	htmf	10
+所謂的	swwd	10
+你只是	nvu	10
+不是要	buyc	10
+都不是	dzbu	10
+就不夠	jbgz	10
+我是說	wuao	10
+我非常	wfi	10
+切一個	qpeg	10
+不是用	buys	10
+這個人	ogr	10
+有一種	yeot	10
+可是我	kuw	10
+可是他	kut	10
+上這個	aog	10
+在這一	zoe	10
+這不是	obu	10
+在我的	zwd	10
+小小的	xxd	10
+不是的	bud	10
+我是个	wug	10
+不就是	bju	10
+不可能	bkn	10
+地平線	dpx	10
+我認識	wru	10
+我認得	wrd	10
+不可以	bke	10
+一會是	ehvu	10
+那不是	nabu	10
+發生了	fugl	10
+明天就	mtj	10
+就是說	juao	10
+就是的	jud	10
+一整個	eogg	10
+我和你	whn	10
+這個是	ogu	10
+所有人	syr	10
+我有權	wyqr	10
+你将和	njlh	10
+我就和	wjh	10
+只是一個	vueg	10
+一個一個	egeg	10
+平靜	pjk	0
+在這個意義上	zogeieia	10
+車輛	iell	10
+車輛信息	iellxbxi	10
+黑色	hwse	10
+信息	xbxi	10
+掐指	qxvi	10
+使得	usde	10
+餘華	euhxw	10
+航天	hhtm	10
+尤物	yzwt	10
+四兩	sill	10
+嘻哈	xiha	10
+敏感	mbgj	10
+流失	lqus	10
+用處	ysiu	10
 符合	fuhe	10
 抛出	pciu	10
-百度	bddu	11
-誌	viyn	11
-華	hxwf	11
-踩	cdkh	11
+那本	nabf	10
+百度	bddu	10
+離譜	lipu	10
+渣男	oanj	10
+腥味	xkww	10
+首開	uzkd	10
+建制	jmvir	10
+要素	ycsu	10
+馬克思	mksi	10
 
 #注音
 
@@ -378,7 +659,7 @@ $	;my	10
 ㄨㄣ	y	2
 ㄩ	y	4
 ㄧ	y	6
-ˉ	yi	6
+ˉ	ei	6
 ㄗ	z	6
 ㄡ	z	6
 
@@ -412,7 +693,7 @@ $	;my	10
 沒	m	9
 美	m	8
 你	n	9
-廿	n	8
+那	n	8
 這	o	9
 着	o	8
 平	p	9
@@ -631,6 +912,7 @@ $	;my	10
 倆	lx	9
 論	ly	9
 樓	lz	9
+嘛	ma	10
 嗎	ma	9
 民	mb	9
 毛	mc	9
@@ -649,6 +931,7 @@ $	;my	10
 目	mu	9
 每	mw	9
 某	mz	9
+哪	na	10
 那	na	9
 您	nb	9
 鬧	nc	9
@@ -911,6 +1194,7 @@ $	;my	10
 岜	bam	9
 粑	bao	9
 鮁	baq	9
+把	bar	10
 拔	bar	9
 笆	bat	9
 疤	bau	9
@@ -1021,6 +1305,7 @@ $	;my	10
 兵	bkr	9
 柄	bks	9
 秉	bkt	9
+并	bku	10
 病	bku	9
 稟	bk;	9
 鞭	bma	9
@@ -1090,6 +1375,7 @@ $	;my	10
 捕	bur	9
 醭	bus	9
 簿	but	9
+部	buu	10
 瓿	buu	9
 蓓	bwa	9
 陂	bwb	9
@@ -1428,8 +1714,10 @@ $	;my	10
 杜	dus	9
 篤	dut	9
 妒	duv	9
+讀	du;	10
 度	du;	9
 隊	dvb	9
+對	dvc	9
 懟	dvc	9
 碓	dvd	9
 堆	dvf	9
@@ -1782,7 +2070,7 @@ $	;my	10
 栝	gxs	9
 刮	gxt	9
 詿	gx;	9
-磙	gyd	9
+滾	gyd	9
 丨	gyh	9
 滾	gyi	9
 輥	gyl	9
@@ -1818,7 +2106,7 @@ $	;my	10
 胲	hde	9
 還	hdg	9
 海	hdi	9
-咳	hdk	9
+嗨	hdk	9
 骸	hdm	9
 害	hdp	9
 氦	hdr	9
@@ -2228,6 +2516,7 @@ $	;my	10
 靳	jba	9
 巹	jbb	9
 勁	jbc	9
+進	jbf	10
 墐	jbf	9
 晉	jbg	9
 津	jbi	9
@@ -2372,6 +2661,7 @@ $	;my	10
 柩	jqs	9
 咎	jqt	9
 疚	jqu	9
+舅	jqv	10
 九	jqv	9
 僦	jqw	9
 糾	jqx	9
@@ -2954,6 +3244,7 @@ $	;my	10
 碼	mad	9
 瑪	mag	9
 螞	maj	9
+嗎	mak	10
 嘛	mak	9
 祃	map	9
 獁	maq	9
@@ -3216,7 +3507,6 @@ $	;my	10
 娘	nlv	9
 廿	nma	9
 碾	nmd	9
-墊	nmf	9
 輾	nml	9
 粘	nmo	9
 鯰	nmq	9
@@ -3227,6 +3517,7 @@ $	;my	10
 脲	nne	9
 嬲	nnl	9
 尿	nnn	9
+鸟	nnq	10
 嫋	nnq	9
 喏	nok	9
 懦	non	9
@@ -3267,7 +3558,7 @@ $	;my	10
 內	nwm	9
 餒	nwq	9
 耨	nzd	9
-艸	oba	9
+廾	oba	9
 厶	obc	9
 虍	obh	9
 氵	obi	9
@@ -3479,7 +3770,8 @@ $	;my	10
 覃	qbs	9
 親	qbu	9
 侵	qbw	9
-七	qia	9
+其	qia	10
+期	qia	9
 騎	qic	9
 奇	qid	9
 臍	qie	9
@@ -3678,6 +3970,7 @@ $	;my	10
 攘	rhr	9
 穰	rht	9
 儴	rhw	9
+讓	rh;	10
 瓤	rh;	9
 驲	ric	9
 日	rij	9
@@ -3780,6 +4073,7 @@ $	;my	10
 泗	sii	9
 螄	sij	9
 嗣	sik	9
+四	sil	10
 思	sil	9
 兕	sim	9
 司	sin	9
@@ -3866,6 +4160,7 @@ $	;my	10
 嗽	szk	9
 颼	szm	9
 餿	szq	9
+搜	szr	10
 擻	szr	9
 艘	szt	9
 叟	szv	9
@@ -3895,6 +4190,7 @@ $	;my	10
 討	tc;	9
 苔	tda	9
 臺	tdc	9
+太	tdd	10
 態	tdd	9
 胎	tde	9
 汰	tdi	9
@@ -3962,6 +4258,7 @@ $	;my	10
 毯	tjt	9
 癱	tju	9
 貪	tjw	9
+談	tj;	10
 譚	tj;	9
 葶	tka	9
 聤	tkb	9
@@ -3981,7 +4278,6 @@ $	;my	10
 庭	tk;	9
 黇	tma	9
 腆	tme	9
-填	tmf	9
 殄	tmg	9
 盷	tmh	9
 添	tmi	9
@@ -4145,6 +4441,7 @@ $	;my	10
 省	ugi	9
 昇	ugj	9
 嵊	ugm	9
+生	ugt	10
 升	ugt	9
 繩	ugx	9
 墒	ahf	9
@@ -4169,6 +4466,7 @@ $	;my	10
 峙	usm	9
 屍	usn	9
 炻	uso	9
+室	usp	10
 實	usp	9
 飾	usq	9
 失	usr	9
@@ -4253,6 +4551,7 @@ $	;my	10
 收	uzn	9
 守	uzp	9
 狩	uzq	9
+手	uzr	10
 授	uzr	9
 艏	uzt	9
 首	uzu	9
@@ -4271,7 +4570,6 @@ $	;my	10
 閘	oau	9
 詐	oa;	9
 趙	ocf	9
-兆	oci	9
 照	ocj	9
 啁	ock	9
 罩	ocl	9
@@ -4280,6 +4578,7 @@ $	;my	10
 棹	ocs	9
 笊	oct	9
 着	ocu	9
+兆	oci	9
 召	ocv	9
 肇	oc;	9
 砦	odh	9
@@ -4437,6 +4736,7 @@ $	;my	10
 貯	vum	9
 燭	vuo	9
 祝	vup	9
+铸	vuq	10
 豬	vuq	9
 朱	vur	9
 柱	vus	9
@@ -4525,6 +4825,7 @@ $	;my	10
 畹	wjl	9
 惋	wjn	9
 烷	wjo	9
+完	wjp	10
 宛	wjp	9
 挽	wjr	9
 椀	wjs	9
@@ -4595,6 +4896,7 @@ $	;my	10
 鋅	xbq	9
 欣	xbr	9
 釁	xbt	9
+新	xbu	10
 辛	xbu	9
 信	xbw	9
 昔	xia	9
@@ -4927,7 +5229,7 @@ $	;my	10
 煙	ejo	9
 宴	ejp	9
 掩	ejr	9
-簷	ejs	9
+檐	ejs	9
 延	ejt	9
 顏	eju	9
 妍	ejv	9
@@ -4967,6 +5269,7 @@ $	;my	10
 緣	yrx	9
 円	yrm	9
 勇	ysc	9
+用	yse	10
 臃	yse	9
 墉	ysf	9
 涌	ysi	9
@@ -5270,14 +5573,12 @@ $	;my	10
 民	mbnv	310588
 我	wotr	299365
 部	buuu	285361
-对	dvc;	280192
-對	dvc;	280192
 进	jbfp	280116
 進	jbfp	280116
 多	doqu	279801
 全	qrwg	279481
 公	gsww	270717
-新	xbur	250318
+新	xbur	0
 方	fh;g	246520
 主	vuy;	241564
 资	zium	237165
@@ -5311,7 +5612,7 @@ $	;my	10
 可	kesd	159662
 总	zsuu	158958
 總	zsuu	158958
-其	qiad	149592
+其	qiad
 从	csw;	147148
 從	csw;	147148
 代	ddw;	143792
@@ -5326,6 +5627,7 @@ $	;my	10
 問	wfuu	133098
 委	wwtv	125805
 著	oeaj	124121
+著	voaj	124121
 次	ciu;	124094
 将	jlu;	123393
 將	jlu;	123393
@@ -5360,14 +5662,13 @@ $	;my	10
 先	xmtq	94835
 放	fh;t	93716
 间	jmuj	92462
-間	jmuu	92462
 物	wutr	90582
 但	djwg	88591
 求	qqf;	85922
 取	qub;	85702
 质	virm	84464
 質	virm	84464
-四	sill	84322
+四	sill
 军	jypl	84047
 軍	jypp	84047
 育	eu;e	83853
@@ -5399,7 +5700,6 @@ $	;my	10
 風	fsmq	63300
 批	pirx	62874
 支	vifc	62418
-那	navb	62416
 林	lbss	61648
 需	xufm	60677
 或	hoag	60243
@@ -5470,7 +5770,8 @@ $	;my	10
 獎	jlud	35492
 黄	hlaw	35300
 黃	hlaw	35300
-版	bjtc	34790
+版	bjth	35300
+版	bjtc
 病	bkuw	34209
 致	vigt	33854
 容	rspk	33434
@@ -5487,7 +5788,6 @@ $	;my	10
 號	hckn	31213
 红	hsxx	30595
 紅	hsxx	30595
-半	bjuu	30551
 火	hoot	30498
 试	us;g	30016
 試	us;g	30016
@@ -5499,8 +5799,8 @@ $	;my	10
 排	pdrd	29061
 武	wugh	28974
 措	corj	28554
-属	aun;	28126
-屬	aun;	28126
+属	aun;
+屬	aun;
 险	xmbg	27902
 險	jmbg	27902
 令	lkw;	27570
@@ -5602,15 +5902,16 @@ $	;my	10
 玉	eug;	14703
 付	fuwf	14506
 述	ausp	14457
-励	lidn	14430
+励	lidl	14430
+励	lidn
 勵	lidn	14430
 斤	jbrt	14348
-纸	vixa	14314
+纸	vixa
 紙	vixa	14314
 吉	jifk	14137
 亏	kvfv	13981
 虧	kvfv	13981
-季	jitt	13958
+季	jitt
 遍	bmy;	13741
 贡	gsam	13433
 貢	gsam	13433
@@ -5621,7 +5922,7 @@ $	;my	10
 署	aulj	12654
 毕	bixj	11934
 畢	bixj	11934
-雨	eufg	11878
+雨	eufg
 趋	qufv	11811
 趨	cufv	11811
 含	hjwk	11591
@@ -5645,7 +5946,7 @@ $	;my	10
 抵	dir;	10735
 攻	gsat	10682
 佳	jxwg	10640
-架	jxlk	10538
+架	jxlk
 启	qi;d	10441
 啟	qi;d	10441
 丽	ligm	10395
@@ -6241,7 +6542,7 @@ $	;my	10
 熏	xytg	802
 蚁	eij;	800
 蟻	eij;	800
-蒲	puai	786
+蒲	pua;	786
 瞻	vjhq	785
 渝	euij	784
 夷	eigx	779
@@ -6472,7 +6773,7 @@ $	;my	10
 燁	yeof	369
 槌	ivsp	367
 媲	pivl	366
-莆	pua;	364
+莆	puae	364
 颅	luhm	363
 顱	luhm	363
 锯	juqq	362
@@ -6659,7 +6960,7 @@ $	;my	10
 鯨	jkq;	242
 淆	xniq	242
 茁	voam	241
-伺	siwn	238
+伺	siwn
 谛	di;h	237
 諦	di;h	237
 蔼	aia;	236
@@ -6832,6 +7133,7 @@ $	;my	10
 竺	vutf	162
 翡	fwdn	161
 宦	hrpp	161
+乞	qitn	858
 憩	qitn	161
 卞	bm;h	160
 槟	bbsw	160
@@ -6987,7 +7289,7 @@ $	;my	10
 惮	djnf	112
 憚	danf	112
 癜	dmuc	112
-晦	hvjx	112
+晦	hvju	112
 攫	jtrr	112
 镰	lmqo	112
 鐮	lmqo	112
@@ -7038,7 +7340,7 @@ $	;my	10
 部	buub
 对	dvcf
 對	dvof
-進	jbwp
+進	jbwp	8
 多	doqq
 公	gswc
 方	fh;n
@@ -7153,7 +7455,7 @@ $	;my	10
 號	hckm
 红	hsxa
 紅	hsxa
-半	bjuf
+半	bjuf	30551
 火	hooo
 试	us;a
 試	us;a
@@ -7212,7 +7514,6 @@ $	;my	10
 偉	wwwh
 饭	fjqc
 飯	fjwc
-励	lidl
 勵	lidl
 斤	jbrh
 亏	kvfn
@@ -7224,19 +7525,19 @@ $	;my	10
 兼	jmuo
 毕	bixf
 畢	bijf
-雨	euf;
+雨	euf;	8
 趨	cuft
 鑒	jmaq
 異	eilw
 伊	eiwt
 辉	hvil
-輝	hvil
+輝	hvil	8
 儀	eiwt
 鵬	pgeo
 尤	yzdn
 泰	tddi
 牛	nqrh
-佳	jxwf
+佳	jxwf	8
 架	jxls
 启	qi;k
 啟	qi;t
@@ -7315,7 +7616,7 @@ $	;my	10
 剩	ugtj
 栏	ljsf
 欄	ljsi
-伸	ufwh
+伸	ufwh	8
 纖	jmxg
 疫	eiuc
 挤	jirj
@@ -7342,7 +7643,7 @@ $	;my	10
 厉	lidn
 厲	lid;
 掘	jtrm
-稀	xith
+稀	xith	8
 驾	jxlc
 駕	jxlc
 巡	xyvp
@@ -7390,7 +7691,7 @@ $	;my	10
 串	irkh
 钩	gzqc
 鉤	gzqk
-彼	bitc
+彼	bitc	9
 飄	pnsj
 浅	qmig
 淺	qmia
@@ -7795,7 +8096,7 @@ $	;my	10
 靴	xtax
 扉	fw;d
 皋	gcrf
-晾	llji
+晾	llji	8
 麒	qi;w
 猕	miqi
 獼	miqq
@@ -7868,7 +8169,7 @@ $	;my	10
 鴛	yrqo
 沮	juig
 嘻	xikk
-掰	bdrr
+掰	bdrr	8
 鵠	huto
 鴦	ehmo
 吒	oaka
@@ -7900,6 +8201,7 @@ $	;my	10
 徨	hltg
 頰	jxdm
 咔	kakh
+埑	oerf
 哢	kaka
 卯	mcqb
 么	metc
@@ -7912,7 +8214,6 @@ $	;my	10
 丕	pigg
 罂	ekmm
 罌	ekmm
-晦	hvju
 攫	jtrc
 褂	gxph
 琬	wjgb
@@ -8073,7 +8374,7 @@ $	;my	10
 霹	pifu
 胭	ejed
 佚	eiwr
-佚	eiww
+佚	eiww	10
 狈	bwqo
 狈	bwqm
 狽	bwqo
@@ -8307,8 +8608,8 @@ $	;my	10
 苄	bmau
 苄	bmah
 跺	doks
-嗨	hwki
-嗨	hwku
+嗨	hdki
+嗨	hdku
 哌	pdk;
 哌	pdke
 饷	xlqn
@@ -8548,7 +8849,7 @@ $	;my	10
 謫	oe;m
 謫	oe;d
 捭	bdrr
-捭	bdrf
+捭	bdrf	8
 碜	ifde
 磣	ifde
 狍	pcqo
@@ -8718,7 +9019,7 @@ $	;my	10
 訾	zih;
 凼	dhib
 恫	dsnk
-剁	domj
+剁	domj	9
 揆	kvrw
 揆	kvrd
 疝	ajum
@@ -9161,8 +9462,7 @@ $	;my	10
 锇	eeqt
 鋨	eeqt
 蝮	fujt
-洄	hvil
-洄	hvik
+洄	hvik	8
 郐	kkwb
 鄶	kkwb
 伲	niwx
@@ -9298,8 +9598,8 @@ $	;my	10
 镆	moqd
 鏌	moqd
 怩	ninx
-驽	nuvc
-駑	nuvc
+驽	nuvc	7
+駑	nuvc	8
 仟	qmwh
 仟	qmwf
 芡	qmaq
@@ -9703,8 +10003,8 @@ $	;my	10
 魑	iirc
 篪	iitr
 篪	iitm
-籴	dito
-糴	dito
+籴	dito	8
+糴	dito	7
 糴	dit;
 礅	dydt
 钫	fhq;
@@ -9823,7 +10123,7 @@ $	;my	10
 茳	jlaa
 鹪	jnwg
 鷦	jnwg
-鷦	jnwo
+鷦	jnwo	7
 狷	jrqo
 狷	jrqe
 芤	kzan
@@ -10026,7 +10326,7 @@ $	;my	10
 菝	baar
 菝	baac
 魃	barq
-魃	barc
+魃	barc	7
 癍	bju;
 癍	bjug
 鹎	bwrg
@@ -10465,8 +10765,6 @@ $	;my	10
 珌	bigt
 猵	bmqo
 猵	bmqa
-昪	bmjc
-昪	bmja
 邠	bbwb
 砵	bodg
 哱	pokb
@@ -10557,7 +10855,7 @@ $	;my	10
 剟	docj
 亸	do;f
 陑	erbj
-犿	fjqo
+犿	fjqo	7
 犿	fjqh
 牥	fhtr
 牥	fht;
@@ -10605,7 +10903,8 @@ $	;my	10
 堌	gufd
 稒	gutl
 稒	gutd
-鳤	grqn
+館	grqn
+鳤	grqg
 祼	grps
 邽	gvfb
 亀	gvqj
@@ -11416,7 +11715,7 @@ $	;my	10
 豬	vuej
 蛛	vuji
 珠	vugi
-朱	vuri
+朱	vuri	8
 驟	ozci
 皺	ozqc
 葤	ozaf
@@ -11452,7 +11751,7 @@ $	;my	10
 峙	vimf
 治	viik
 炙	viqo
-至	vigf
+至	vigf	8
 黹	vioi
 咫	vinw
 指	virj
@@ -11469,7 +11768,7 @@ $	;my	10
 芝	viap
 證	og;u
 症	oguh
-整	oggh
+整	oggk	8
 睜	oghh
 蒸	ogao
 崢	ogmh
@@ -11486,7 +11785,7 @@ $	;my	10
 縝	ifxw
 診	of;e
 軫	ofle
-疹	ofue
+疹	ofue	8
 枕	ofsq
 箴	oftt
 禎	ofpm
@@ -11682,7 +11981,7 @@ $	;my	10
 裕	eupk
 喻	eukj
 遇	eujp
-域	eufg
+域	eufg	8
 芋	euaf
 嶼	eumw
 語	eu;k
@@ -11695,7 +11994,8 @@ $	;my	10
 腴	euew
 揄	eurj
 隅	eub;
-魚	euqo
+獄	euqo	9
+魚	euqo	8
 娛	euvd
 於	eu;u
 汙	wuif
@@ -11802,7 +12102,7 @@ $	;my	10
 液	yei;
 頁	yedm
 夜	ye;y
-野	yejb
+野	yejb	8
 冶	yeuk
 鋣	yeqb
 爺	yewb
@@ -11839,7 +12139,7 @@ $	;my	10
 旸	ehjr
 玚	ehgr
 鞅	ehad
-秧	ehtd
+秧	ehtd	8
 殃	ehgd
 咉	ehkd
 央	ehmd
@@ -11967,11 +12267,11 @@ $	;my	10
 芎	xsax
 兄	xskq
 凶	xsqb
-興	xkww
+興	xkww	7
 姓	xkvg
 性	xkng
 幸	xkff
-擤	xkrj
+擤	xkrj	8
 醒	xksg
 硎	xkdj
 形	xkge
@@ -12112,7 +12412,7 @@ $	;my	10
 舞	wurh
 伍	wuwg
 五	wugg
-蕪	wuao
+蕪	wuao	7
 無	wuro
 梧	wusk
 唔	wukk
@@ -12149,7 +12449,7 @@ $	;my	10
 文	wf;y
 亠	wf;g
 瘟	wful
-溫	wfil
+溫	wfil	8
 辒	eyll
 榅	wfsl
 謂	ww;e
@@ -12189,7 +12489,7 @@ $	;my	10
 惋	wjnb
 晚	wjjq
 挽	wjrq
-宛	wjpb
+宛	wjpb	9
 頑	kyfm
 烷	wjoq
 紈	wjx;
@@ -12266,7 +12566,7 @@ $	;my	10
 慟	tsnl
 痛	tsue
 統	tsxq
-筒	tstk
+筒	tstk	8
 桶	tsse
 捅	tsre
 瞳	tshf
@@ -12433,7 +12733,7 @@ $	;my	10
 榫	sysf
 損	syrm
 筍	sytj
-隼	sywf
+隼	sywf	8
 蓀	syai
 飧	syqe
 孫	sybi
@@ -12506,13 +12806,13 @@ $	;my	10
 楒	sisn
 絲	sixi
 斯	siar
-思	siln
+思	siln	8
 私	sitc
 司	sink
 厶	sic;
 鑠	aoqs
 爍	loos
-碩	aodm
+碩	aodm	8
 蒴	aoae
 搠	aore
 朔	aoue
@@ -12571,16 +12871,17 @@ $	;my	10
 首	uzuh
 守	uzpf
 收	uznt
-匙	usjx
+匙	usjx	11
 適	usup
-飾	uswh
+飾	usqn	10
 軾	usla
 媞	tivh
 逝	usrp
 适	ustp
 柿	ussh
 事	usgh
-似	usww
+似	siw;	8
+似	usw;	8
 世	usan
 駛	uscq
 始	usvk
@@ -12606,10 +12907,10 @@ $	;my	10
 聲	ugfb
 陞	ugbf
 昇	ugja
-生	ugtg
-升	ugta
+生	ugtg	8
+升	ugta	8
 慎	ufnw
-瘆	ufue
+瘆	ufue	8
 椹	ufsn
 胂	ufeh
 甚	ufan
@@ -12731,7 +13032,7 @@ $	;my	10
 撒	sart
 箬	rotk
 婼	rovk
-弱	roxu
+弱	roxu	8
 偌	rowk
 若	roak
 潤	ryig
@@ -12829,7 +13130,7 @@ $	;my	10
 缺	qtrw
 炔	qtow
 勸	qral
-券	qruv
+券	qruv	8
 綣	qrxb
 犬	qrd;
 權	qrs;
@@ -12852,7 +13153,7 @@ $	;my	10
 鼩	quvk
 璩	quge
 磲	quds
-渠	quis
+渠	quis	8
 朐	quek
 劬	quql
 佢	quwn
@@ -12981,7 +13282,6 @@ $	;my	10
 豈	qimu
 起	qifn
 企	qiwh
-乞	qitn
 鰭	qiqj
 蠐	qijf
 臍	qief
@@ -12991,7 +13291,7 @@ $	;my	10
 棋	qisw
 畦	qilf
 祈	qipr
-歧	qihc
+歧	qihc	8
 奇	qidk
 淒	qiiv
 妻	qigv
@@ -13034,10 +13334,10 @@ $	;my	10
 屏	pkna
 洴	pkia
 枰	pksh
-玶	pkgh
+玶	pkgh	8
 泙	pkih
 呯	pkkh
-坪	pkfh
+坪	pkfh	8
 平	pkgh
 娉	pkvn
 涄	pkin
@@ -13085,7 +13385,7 @@ $	;my	10
 蚍	pijx
 毗	pilx
 枇	pisx
-皮	pihc
+皮	pihc	8
 紕	pixx
 砒	pidx
 披	pirc
@@ -13185,7 +13485,7 @@ $	;my	10
 暖	nrjc
 傉	nuwf
 笯	nutc
-奴	nuvc
+奴	nuvc	6
 耨	nzdf
 弄	nsga
 膿	nsee
@@ -13219,7 +13519,7 @@ $	;my	10
 捏	nprf
 脲	nnei
 尿	nnni
-嬲	nnll
+嬲	nnll	8
 蔦	nnao
 嫋	nnvu
 釀	nlse
@@ -13283,7 +13583,7 @@ $	;my	10
 奶	ndve
 乃	nden
 鈉	naqw
-捺	nari
+捺	nari	8
 納	naxw
 娜	navb
 衲	napw
@@ -13317,7 +13617,7 @@ $	;my	10
 莫	moad
 陌	mobj
 末	mogs
-抹	mors
+抹	mors	8
 魔	mo;c
 饃	mowd
 摩	mo;r
@@ -13396,7 +13696,7 @@ $	;my	10
 檬	mgse
 濛	mgie
 幪	mgme
-盟	mgjl
+盟	mgjl	8
 蒙	mgae
 們	mfwu
 懣	mfin
@@ -13525,7 +13825,7 @@ $	;my	10
 露	lufk
 麓	lusx
 轆	lulx
-璐	lugk
+璐	lugk	9
 錄	luqi
 戮	luna
 僇	luwe
@@ -13755,7 +14055,7 @@ $	;my	10
 鑭	ljqi
 斕	lj;i
 籃	ljtl
-蘭	ljai
+蘭	ljuf	9
 襤	ljpl
 藍	ljal
 嵐	ljmj
@@ -13932,6 +14232,7 @@ $	;my	10
 慨	kdnq
 凱	kdmm
 蒈	kdar
+𫔭	kdua	8
 開	kdua
 揩	kdrr
 胩	kaeh
@@ -14040,7 +14341,7 @@ $	;my	10
 景	jkji
 阱	jkbj
 驚	jkac
-精	jkoe
+精	jkoe	8
 兢	jkdq
 經	jkxa
 睛	jkhe
@@ -14067,7 +14368,7 @@ $	;my	10
 筋	jbtl
 矜	jbcn
 津	jbih
-金	jbqq
+金	jbqq	8
 今	jbwn
 巾	jbmh
 誡	jp;a
@@ -14105,7 +14406,7 @@ $	;my	10
 礁	jndo
 嬌	jnvk
 蕉	jnao
-焦	jnwo
+焦	jnwo	8
 蛟	jnjq
 交	jnuq
 醬	jlng
@@ -14158,7 +14459,7 @@ $	;my	10
 家	jxpe
 浹	jxiw
 痂	jxuk
-加	jxlk
+加	jxlk	8
 濟	jiif
 際	jibi
 寄	jipk
@@ -14191,7 +14492,6 @@ $	;my	10
 貨	howm
 鈥	hoqo
 灬	hoo;
-活	hoid
 攉	hor;
 耠	hodk
 諢	hy;l
@@ -14283,7 +14583,7 @@ $	;my	10
 囫	hulr
 惚	hunn
 忽	huqn
-呼	hukh
+呼	hukh	9
 乎	huth
 鱟	hzwo
 堠	hzfd
@@ -14343,7 +14643,7 @@ $	;my	10
 呵	hekk
 皓	hcrk
 浩	hcik
-耗	hcdn
+耗	hcdn	10
 昊	hcjd
 郝	hcfb
 好	hcvb
@@ -14447,12 +14747,13 @@ $	;my	10
 乖	gktx
 詿	gx;f
 掛	gxrh
+挂	gxrf
 卦	gxfh
 寡	gxpv
 剮	gxmj
 栝	kosd
 胍	gxe;
-刮	gxtj
+刮	gxtj	8
 顧	gu;m
 錮	guqd
 痼	guud
@@ -14841,7 +15142,7 @@ $	;my	10
 締	dixh
 睇	diht
 棣	disi
-蒂	diah
+蒂	diah	8
 第	ditt
 娣	divt
 弟	diut
@@ -14864,7 +15165,7 @@ $	;my	10
 簦	dgtu
 燈	dgou
 璒	dggu
-登	dgwu
+登	dgwu	8
 扽	dfrn
 鍀	deqf
 德	detn
@@ -14905,13 +15206,14 @@ $	;my	10
 眈	djhq
 丹	djm;
 亻	djwh
-戴	ddfw
+戴	ddfw	8
 貸	ddwm
 紿	ddxk
 帶	ddah
 怠	ddcn
 待	ddtf
 甙	ddaf
+甙	ddaa
 逮	ddvp
 呆	ddks
 瘩	dauk
@@ -14919,6 +15221,7 @@ $	;my	10
 打	dars
 韃	daap
 答	datk
+達	dadp	8
 達	dafp
 炟	daog
 妲	davg
@@ -15155,10 +15458,10 @@ $	;my	10
 徜	ehtk
 常	ehih
 長	vhde
-閶	ehuj
-娼	ehvj
-菖	ehaj
-昌	ehjj
+閶	ihuj
+娼	ihvj
+菖	ihaj	10
+昌	ihjj
 顫	ij;m
 懺	ijng
 闡	ijuf
@@ -15373,7 +15676,7 @@ $	;my	10
 孛	bwfb
 北	bwux
 悲	bwdn
-卑	bwrf
+卑	bwrf	8
 杯	bwsi
 陂	bwbc
 爆	bcoi
@@ -15415,7 +15718,7 @@ $	;my	10
 板	bjsc
 阪	bjbc
 搬	bjrc
-般	bjtc
+般	bjtc	8
 班	bjgg
 稗	bdtf
 敗	bdmt
@@ -15431,7 +15734,7 @@ $	;my	10
 耙	padc
 把	barc
 妭	bavc
-拔	barc
+拔	barc	8
 粑	baoc
 笆	batc
 蚆	bajc
@@ -15489,14 +15792,14 @@ $	;my	10
 阿	aabk
 
 #詞組--------------------------------------
-
+		
 阿兵	abbk	9
 阿炳	abbk	10
 阿康	abkh	9
 阿酷	abku	9
 阿沁	abqb	9
 阿慶	abqk	9
-啊這	aaoe	9
+啊這	aao	9
 哀點	aidm	9
 哀吊	aidn	9
 哀告	aigc	9
@@ -15509,11 +15812,11 @@ $	;my	10
 矮凳	aidg	9
 艾克	aike	9
 艾葉	aiye	9
-愛不	aibu	9
+愛不	aib	9
 愛芬	aiff	9
-愛上	aiah	9
+愛上	aia	9
 愛欲	aieu	10
-愛這	aioe	9
+愛這	aio	9
 安插	ania	9
 安定	andk	9
 暗訪	anfh	9
@@ -15544,17 +15847,13 @@ $	;my	10
 拔毛	bamc	9
 把手	bauz	9
 把守	bauz	9
-把他	bata	10
-把我	bawo	10
+把她	bata	10
+把握	bawo	10
 把戲	baxi	9
 爸爸	baba	10
 耙地	padi	9
-罷工	bags	9
 罷考	bakc	9
 白鴿	bdge	10
-白饒	bdrc	9
-白人	bdrf	10
-百人	bdrf	9
 百蕊	bdrv	9
 百萬	bdwj	9
 擺脫	bdto	9
@@ -15568,10 +15867,10 @@ $	;my	10
 半群	bjqy	9
 半身	bjuf	9
 半生	bjug	9
-半躺	bjth	9
+半躺	bjth	7
 半天	bjtm	10
-伴人	bjrf	9
-辦出	bjiu	9
+伴人	bjr	9
+辦出	bji	9
 幫組	bhqu	9
 蚌鷸	bheu	9
 傍午	bhwu	9
@@ -15593,7 +15892,7 @@ $	;my	10
 報表	bcbn	9
 報仇	bciz	9
 報復	bcfu	10
-報幕	bcmu	9
+保姆	bcmu	9
 暴論	bcly	9
 爆棚	bcpg	9
 碑頂	bwdk	9
@@ -15603,19 +15902,16 @@ $	;my	10
 北端	bwdr	9
 北歐	bwou	10
 北闕	bwqt	9
-北人	bwrf	9
 北圖	bwtu	9
 卑汙	bwwu	9
 背榜	bwbh	9
 背包	bwbc	9
 背部	bwbu	9
 背景	bwjk	10
-背人	bwrf	10
 倍然	bwrj	9
 被單	bwdj	9
 被調	bwtn	9
 被困	bwky	9
-被人	bwrf	11
 奔大	bfda	9
 奔赴	bffu	9
 奔騰	bftg	9
@@ -15636,13 +15932,13 @@ $	;my	10
 筆架	bijx	9
 比餃	bijn	9
 比較	bijn	10
-比你	bini	10
+比你	bin	10
 必勝	biug	9
 鄙視	bius	10
 必填	bitm	9
 陛下	bixx	10
 筆調	bitn	9
-筆套	bitc	9
+筆套	bitc	7
 筆者	bioe	10
 必定	bidk	9
 必然	birj	9
@@ -15651,7 +15947,7 @@ $	;my	10
 畢設	biue	10
 閉關	bigr	9
 閉門	bimf	9
-閉上	biah	9
+閉上	bia	9
 婢僕	bipu	9
 彼岸	bian	10
 壁燈	bidg	9
@@ -15672,7 +15968,7 @@ $	;my	10
 邊長	bmih	9
 邊角	bmjn	9
 邊界	bmjp	10
-邊上	bmah	10
+邊上	bma	10
 邊圖	bmtu	9
 扁率	bmlv	7
 便餐	bmcj	9
@@ -15692,13 +15988,13 @@ $	;my	10
 變數	bmau	7
 變形	bmxk	9
 變羊	bmeh	9
-標的	bnde	9
+標的	bnd	9
 標簽	bnqm	9
 標准	bnvy	9
 標準	bnvy	10
 驃騎	bnqi	9
 表帶	bndd	9
-表哥	bnge	9
+表格	bnge	9
 表姑	bngu	9
 表盒	bnhe	9
 表膜	bnmo	9
@@ -15707,10 +16003,10 @@ $	;my	10
 表演	bnej	9
 表徵	bnog	10
 憋屈	bpqu	9
-別的	bpde	9
+別的	bpd	9
 別看	bpkj	9
-別人	bprf	9
-別上	bpah	9
+別人	bpr	9
+別上	bpa	9
 別試	bpus	9
 別墅	bpau	9
 蹩腳	bpjn	9
@@ -15721,7 +16017,7 @@ $	;my	10
 冰山	bkaj	10
 冰蹄	bkti	9
 兵役	bkei	9
-並不	bkbu	9
+並不	bkb	9
 並給	bkgw	9
 並入	bkru	9
 並矢	bkus	9
@@ -15742,72 +16038,70 @@ $	;my	10
 勃然	borj	9
 撥成	boig	7
 博寧	bonk	9
-博人	borf	9
+博人	bor	9
 博坦	botj	9
 剝削	boxt	9
 搏鬥	bodz	9
 駁斥	boii	10
 駁船	boir	9
-補個	buge	9
+補個	bug	9
 補全	buqr	9
-不安	buan	9
-不丹	budj	9
-不但	budj	10
-不當	budh	9
-不懂	buds	10
-不斷	budr	9
-不對	budv	10
-不妨	bufh	9
-不菲	bufw	9
-不分	buff	9
-不管	bugr	9
-不過	bugo	9
-不還	buhr	9
-不患	buhr	9
-不急	buji	10
-不僅	bujw	10
-不堪	bukj	10
-不可	buke	10
-不吭	bukg	9
-不了	buln	10
-不能	bung	9
-不念	bunm	9
-不齊	buqi	9
-不群	buqy	9
-不然	burj	9
-不讓	burh	10
-不熱	bure	9
-不如	buru	10
-不傷	buah	9
-不少	buuc	9
-不生	buug	9
-不是	buus	10
-不適	buus	8
-不衰	buak	9
-不損	busy	9
-不縮	buso	9
-不疼	butg	9
-不提	buti	10
-不同	buts	9
-不想	buxl	10
-不寫	buxp	10
-不行	buxk	10
-不用	buys	9
-不願	buyr	10
-不再	buzd	10
-不知	buvi	10
+不安	ban	9
+不丹	bdj	9
+不但	bdj	10
+不當	bdh	9
+不懂	bds	10
+不斷	bdr	9
+不對	bdv	10
+不妨	bfh	9
+不菲	bfw	9
+不分	bff	9
+不管	bgr	9
+不過	bgo	9
+不還	bhr	9
+不患	bhr	9
+不急	bji	10
+不僅	bjw	10
+不堪	bkj	10
+不可	bk	10
+不吭	bkg	9
+不了	bln	10
+不能	bng	9
+不念	bnm	9
+不齊	bqi	9
+不群	bqy	9
+不然	brj	9
+不讓	brh	10
+不熱	bre	9
+不如	bru	10
+不傷	bah	9
+不少	buc	9
+不生	bug	9
+不是	bu	10
+不適	bus	8
+不損	bsy	9
+不縮	bso	9
+不疼	btg	9
+不提	bti	10
+不同	bts	9
+不想	bxl	10
+不寫	bxp	10
+不行	bxk	10
+不願	byr	10
+不再	bzd	10
+不知	bvi	10
 部分	buff	10
 部署	buau	9
 部下	buxx	10
 猜忌	cdji	9
 猜想	cdxl	9
-才可	cdke	9
-才要	cdyc	10
+才可	ck	9
+才要	cyc	10
 材質	cdvi	9
 采伐	cdfa	9
 采風	cdfs	9
 彩蛋	cddj	9
-彩和	cdht	9
+彩和	cdh	9
 彩虹	cdhs	9
 彩雀	cdqt	9
 菜狗	cdgz	9
@@ -15820,7 +16114,7 @@ $	;my	10
 殘局	cjju	9
 殘酷	cjku	9
 慘愴	cjil	9
-慘了	cjle	9
+慘了	cjl	9
 慘死	cjsi	9
 倉促	chcu	9
 倉位	chww	9
@@ -15849,7 +16143,7 @@ $	;my	10
 插塞	iasd	9
 插身	iauf	9
 查抄	iaic	9
-查出	iaiu	9
+查出	iai	9
 查鋪	iapu	9
 查殺	iaua	9
 查閱	iayt	9
@@ -15884,7 +16178,7 @@ $	;my	10
 顫慄	ijli	9
 長班	vhbj	9
 長鑱	vhij	9
-長出	vhiu	9
+長出	vhi	9
 長川	vhir	9
 長凳	ihdg	10
 長笛	vhdi	9
@@ -15901,7 +16195,7 @@ $	;my	10
 長山	vhaj	9
 長舌	vhue	9
 長孫	vhsy	7
-長他	vhta	9
+長她	vhta	9
 長梯	ihti	9
 長梯	vhti	9
 長天	ihtm	9
@@ -15914,7 +16208,7 @@ $	;my	10
 場刊	ihkj	9
 場站	ihvj	9
 場子	ihzb	9
-腸疝	ihaj	9
+腸疝	ihaj	7
 腸炎	ihej	9
 嘗嘗	ihih	9
 嘗到	ihdc	9
@@ -15983,7 +16277,7 @@ $	;my	10
 成為	igwy	10
 成癮	igyb	10
 呈現	igxg	9
-承平	igpk	9
+承平	igp	9
 承蜩	igtn	9
 城堡	igbc	9
 城雕	igdn	9
@@ -16002,19 +16296,19 @@ $	;my	10
 懲處	igiu	9
 逞能	igng	9
 吃膩	iini	9
-吃人	iirf	10
+吃人	iir	10
 吃酸	iisr	9
 喫錢	iiqm	9
 癡漢	iihj	9
 池府	iifu	9
-池上	iiah	9
+池上	iia	9
 池塘	iith	9
 弛禁	iijb	9
 弛張	iivh	9
 持槍	iiql	9
 馳天	iitm	9
 遲遲	iiii	9
-遲了	iile	9
+遲了	iil	9
 遲疑	iiei	9
 尺度	iidu	9
 持股	iigu	9
@@ -16041,7 +16335,7 @@ $	;my	10
 沖高	isgc	9
 沖擊	isji	9
 沖門	ismf	9
-沖上	isah	10
+沖上	isa	10
 沖陰	isyb	9
 舂碓	isdv	9
 舂米	ismi	9
@@ -16062,36 +16356,36 @@ $	;my	10
 醜星	izxk	9
 臭味	izww	10
 臭腺	izxm	9
-出兵	iubk	9
-出場	iuih	10
-出廠	iuih	9
-出燈	iudg	9
-出典	iudm	9
-出發	iufa	10
-出訪	iufh	9
-出分	iuff	9
-出海	iuhd	9
-出刊	iukj	9
-出來	iuld	9
-出落	iulo	9
-出膿	iuns	9
-出盤	iupj	9
-出票	iupn	9
-出圃	iupu	9
-出塞	iusd	9
-出喪	iush	9
-出山	iuaj	9
-出生	iuug	9
-出送	iuss	9
-出膛	iuth	9
-出題	iuti	9
-出亡	iuwh	9
-出現	iuxg	10
-出現	iuxg	9
-出線	iuxm	9
+出兵	ibk	9
+出場	iih	10
+出廠	iih	9
+出燈	idg	9
+出典	idm	9
+出發	if	10
+出訪	ifh	9
+出分	iff	9
+出海	ihd	9
+出刊	ikj	9
+出來	ild	9
+出落	ilo	9
+出膿	ins	9
+出盤	ipj	9
+出票	ipn	9
+出圃	ipu	9
+出塞	isd	9
+出喪	ish	9
+出山	iaj	9
+出生	iug	9
+出送	iss	9
+出膛	ith	9
+出題	iti	9
+出亡	iwh	9
+出現	ixg	10
+出現	ixg	9
+出線	ixm	9
 初心	iuxb	9
-出洋	iueh	9
-出於	iueu	10
+出洋	ieh	9
+出於	ieu	10
 初定	iudk	9
 初開	iukd	9
 初戀	iulm	9
@@ -16117,7 +16411,7 @@ $	;my	10
 川來	irld	9
 川青	irqk	9
 川天	irtm	9
-穿了	irle	10
+穿了	irl	10
 穿行	irxk	9
 船帆	irfj	9
 船艇	irtk	9
@@ -16140,7 +16434,7 @@ $	;my	10
 闖王	ilwh	9
 創傷	ilah	10
 創意	ilei	10
-吹他	ivta	9
+吹她	ivta	9
 垂問	ivwf	9
 春城	iyig	9
 春春	iyiy	9
@@ -16173,10 +16467,10 @@ $	;my	10
 此後	cihz	10
 伺候	cihz	9
 刺瓜	cigx	9
-從不	csbu	9
-從你	csni	9
+從不	csb	9
+從你	csn	9
 從權	csqr	9
-從他	csta	10
+從她	csta	10
 從未	csww	9
 從文	cswf	9
 湊近	czjb	9
@@ -16209,32 +16503,31 @@ $	;my	10
 達康	dakh	9
 大鯤	daky	9
 達能	dang	9
-達帕	dapa	9
-達埔	dapu	9
+大怕	dapa	9
+大埔	dapu	9
 答辯	dabm	10
 答道	dadc	10
 打的	dadi	9
-大爹	dadp	9
+大爹	dadp	7
 打鬥	dadz	10
-打個	dage	10
+打個	dag	10
 打架	dajx	9
 打攪	dajn	9
 打開	dakd	10
-打了	dale	10
-打理	dali	9
+打了	dal	10
+大力	dali	9
 打盤	dapj	9
-打平	dapk	9
+打平	dap	9
 打散	dasj	10
 打殺	daua	9
 打探	datj	9
-打消	daxn	10
-打野	daye	10
+大爺	daye	10
 打漁	daeu	9
 打戰	davj	9
-打掙	daog	9
+大正	daog	9
 大獃	dadd	9
 大地	dadi	10
-大的	dade	10
+大的	dad	10
 大概	dagd	9
 大哥	dage	9
 大海	dahd	9
@@ -16259,34 +16552,34 @@ $	;my	10
 大叔	daau	10
 大四	dasi	10
 大騰	datg	9
-大小	daxn	10
+呆板	aibj	10
+大小	dax	10
 大笑	daxn	11
 大學	daxt	10
 大爺	daye	9
-大一	daei	9
+大一	dae	9
 大於	daeu	9
 大戰	davj	10
-呆板	ddbj	9
-呆丸	ddwj	9
+代辦	ddbj	9
+帶晚	ddwj	9
 呆滯	ddvi	9
 代溝	ddgh	9
 代購	ddgz	9
-代駕	ddjx	9
+代價	ddjx	9
 代開	ddkd	9
 代爲	ddww	9
 代文	ddwf	9
 代我	ddwo	9
-待發	ddfa	9
+待發	ddf	9
 待物	ddwt	9
-待在	ddzd	10
+待在	ddz	10
 帶操	ddcc	9
 帶給	ddgw	9
 帶回	ddhv	9
 帶來	ddld	9
 帶我	ddwo	10
-戴妃	ddfw	9
-丹鱉	djbp	9
-丹參	djuf	9
+但別	djbp	9
+單身	djuf	9
 丹麥	djmd	9
 丹盛	djug	9
 丹術	djau	9
@@ -16297,7 +16590,7 @@ $	;my	10
 單獨	djdu	9
 單根	djgf	9
 單模	djmo	9
-單人	djrf	9
+單人	djr	9
 單弱	djro	9
 單衫	djaj	9
 單元	djyr	9
@@ -16312,11 +16605,11 @@ $	;my	10
 膽虛	djxu	9
 膽子	djzb	9
 但凡	djfj	9
-但那	djna	9
+但哪	djna	9
 但能	djng	9
 但仍	djrg	9
 但如	djru	9
-但他	djta	10
+但她	djta	10
 淡季	djji	9
 淡然	djrj	9
 氮萘	djnd	9
@@ -16329,14 +16622,13 @@ $	;my	10
 當撐	dhig	9
 當成	dhig	10
 當掉	dhdn	9
-當兒	dhir	9
 當歸	dhgv	9
 當鋪	dhpu	9
 當期	dhqi	9
 當前	dhqm	9
 當日	dhri	9
-當他	dhta	10
-當一	dhei	9
+當她	dhta	10
+當一	dhe	9
 黨產	dhij	9
 黨派	dhpd	9
 蕩產	dhij	10
@@ -16352,13 +16644,13 @@ $	;my	10
 禱告	dcgc	9
 到底	dcdi	9
 到敢	dcgj	9
-到了	dcle	9
+到了	dcl	9
 到欠	dcqm	9
 到晚	dcwj	9
 倒閉	dcbi	9
 倒掛	dcgx	9
 倒牌	dcpd	9
-倒是	dcus	10
+倒是	dcu	10
 倒推	dctv	9
 倒退	dctv	10
 倒也	dcye	9
@@ -16366,8 +16658,8 @@ $	;my	10
 道調	dctn	9
 道盔	dckv	9
 道歉	dcqm	10
-得了	dele	10
-得以	deei	9
+得了	del	10
+得以	deec	9
 得知	devi	9
 德潤	dery	9
 地板	dibj	9
@@ -16385,29 +16677,27 @@ $	;my	10
 地塹	diqm	7
 地勤	diqb	9
 地區	diqu	10
-地上	diah	9
+地上	dia	7
 地刷	diux	9
 地臺	ditd	9
 地圖	ditu	10
-地拖	dito	9
 地位	diww	9
 地問	diwf	10
 地下	dixx	9
-地壓	diya	9
+抵押	diya	9
 地陽	dieh	9
 地榆	dieu	9
 地獄	dieu	10
 地緣	diyr	9
 地址	divi	10
 地主	divu	10
-的話	dehx	9
-的嗎	dema	10
+的話	dhx	9
+的嗎	dma	10
 的確	diqt	10
 登記	dgji	9
 登陸	dglu	9
 噔噔	dgdg	9
 燈虎	dghu	9
-燈屋	dgwu	9
 等等	dgdg	10
 等級	dgji	10
 鄧牧	dgmu	9
@@ -16417,7 +16707,7 @@ $	;my	10
 低效	dixn	9
 低雲	diey	9
 滴蟲	diis	9
-迪達	dida	9
+抵達	dida	9
 迪凡	difj	9
 迪化	dihx	9
 迪歐	diou	9
@@ -16434,14 +16724,14 @@ $	;my	10
 底肚	didu	9
 底順	diay	9
 第四	disi	10
-第一	diei	9
+第一	die	9
 蒂薩	disa	9
-滇人	dmrf	9
+滇人	dmr	9
 巔峰	dmfs	10
 碘仿	dmfh	9
 碘殺	dmua	9
 點點	dmdm	10
-點個	dmge	9
+點個	dmg	9
 點角	dmjn	9
 佃戶	dmhu	9
 甸甸	dmdm	9
@@ -16460,7 +16750,6 @@ $	;my	10
 電話	dmhx	9
 電抗	dmkh	9
 電碼	dmma	9
-電煤	dmmw	9
 電門	dmmf	9
 電木	dmmu	9
 電納	dmna	9
@@ -16489,7 +16778,7 @@ $	;my	10
 調鼎	tndk	9
 調隊	tndv	9
 調解	tnjp	10
-調抗	tnkh	9
+調抗	tnkh	7
 調門	dnmf	9
 調配	tnpw	9
 調皮	tnpi	9
@@ -16499,7 +16788,7 @@ $	;my	10
 調整	tnog	9
 調准	tnvy	9
 跌打	dpda	9
-跌價	dpjx	9
+叠加	dpjx	9
 跌交	dpjn	9
 迭代	dpdd	9
 碟閥	dpfa	9
@@ -16520,20 +16809,14 @@ $	;my	10
 鼎龍	dkls	9
 鼎旺	dkwh	9
 定位	dkww	9
-定陽	dkeh	9
 丟卻	dqqt	9
 冬眠	dsmm	9
 冬明	dsmk	9
-冬娜	dsna	9
 冬筍	dssy	9
-東成	dsig	9
-東電	dsdm	9
-東鼎	dsdk	9
-東坤	dsky	9
-東馬	dsma	9
-東蒙	dsmg	9
+凍成	dsig	9
+東盟	dsmg	9
 東慕	dsmu	9
-東能	dsng	9
+動能	dsng	9
 東寧	dsnk	9
 東沙	dsua	9
 東施	dsus	9
@@ -16541,7 +16824,7 @@ $	;my	10
 東四	dssi	9
 東突	dstu	9
 東西	dsxi	9
-懂了	dsle	10
+懂了	dsl	10
 懂嗎	dsma	9
 洞窟	dsku	10
 洞蜜	dsmi	9
@@ -16556,11 +16839,11 @@ $	;my	10
 都去	dzqu	10
 都讓	dzrh	9
 都如	dzru	9
-都是	dzus	9
-都在	dzzd	9
+都是	dzu	9
+都在	dzz	9
 陡峭	dzqn	9
 豆杆	dzgj	9
-逗人	dzrf	9
+逗人	dzr	9
 鬥犬	dzqr	9
 督查	duia	9
 闍臺	dutd	9
@@ -16574,9 +16857,8 @@ $	;my	10
 獨卻	duqt	9
 獨山	duaj	9
 獨身	duuf	9
-獨一	duei	9
+獨一	due	9
 獨自	duzi	10
-瀆神	dzuf	9
 讀來	duld	9
 讀條	dutn	9
 篤篤	dudu	9
@@ -16608,7 +16890,7 @@ $	;my	10
 對方	dvfh	9
 對勁	dvjb	9
 對親	dvqb	9
-對他	dvta	10
+對她	dvta	10
 對飲	dvyb	9
 對曰	dvyt	9
 對賬	dvvh	10
@@ -16626,7 +16908,7 @@ $	;my	10
 多久	dojq	9
 多抗	dokh	9
 多孔	doks	9
-多滿	domj	9
+多慢	domj	7
 多忙	domh	9
 奪目	domu	9
 多拿	dona	9
@@ -16662,7 +16944,7 @@ $	;my	10
 恩來	enld	9
 恩露	enlu	9
 而且	erqp	10
-而是	erus	10
+而是	eru	10
 兒媳	erxi	9
 兒子	erzb	10
 耳邊	erbm	10
@@ -16680,35 +16962,33 @@ $	;my	10
 二喬	erqn	9
 二親	erqb	7
 二區	erqu	9
-發潮	faic	9
-發潮	boic	9
-發春	faiy	9
+發潮	fic	9
+發春	fiy	9
 發春	boiy	9
-發到	fadc	9
-發糕	fagc	9
+發到	fdc	9
+發糕	fgc	9
 發糕	bogc	9
-發根	fagf	9
+發根	fgf	9
 發昏	bohy	9
-發火	faho	9
-發貨	faho	10
-發覺	fajt	10
-發力	fali	9
-發怒	bonu	9
-發飄	bopn	9
-發熱	bore	9
-發射	faue	10
-發他	fata	9
-發他	bota	9
-發套	botc	9
-發帖	fatp	9
-發問	fawf	9
-發現	faxg	10
-發行	bohh	9
-發型	faxk	9
-發炎	faej	9
-發暈	faey	9
+發火	fho	9
+發貨	fho	10
+發覺	fjt	10
+發力	fli	9
+發怒	fnu	9
+發飄	fpn	9
+發熱	fre	9
+發射	fue	10
+發她	fta	9
+發套	ftc	9
+發帖	ftp	9
+發問	fwf	9
+發現	fxg	10
+發行	fxk	10
+發型	fxk	9
+發炎	fej	9
+發暈	fey	9
 廢掉	fwdn	9
-廢了	fwle	9
+廢了	fwl	9
 廢墟	fwxu	10
 閥體	fati	9
 閥閱	fayt	9
@@ -16722,10 +17002,10 @@ $	;my	10
 翻脫	fjto	9
 翻譯	fjei	9
 凡間	fjjm	9
-凡人	fjrf	10
+凡人	fjr	10
 釩礦	fjkl	9
 煩勞	fjlc	9
-煩了	fjle	10
+煩了	fjl	10
 煩亂	fjlr	9
 煩悶	fjmf	9
 煩擾	fjrc	9
@@ -16773,7 +17053,7 @@ $	;my	10
 放到	fhdc	9
 放手	fhuz	9
 放下	fhxx	9
-放在	fhzd	9
+放在	fhz	9
 放着	fhoe	9
 非常	fwih	10
 非難	fwnj	9
@@ -16781,10 +17061,10 @@ $	;my	10
 非洲	fwoz	9
 飛車	fwie	9
 飛彈	fwdj	9
-飛你	fwni	9
+飛你	fwn	9
 飛奴	fwnu	9
 飛灑	fwsa	9
-飛他	fwta	9
+飛她	fwta	9
 飛舞	fwwu	9
 飛俠	fwxx	9
 飛仙	fwxm	9
@@ -16808,7 +17088,7 @@ $	;my	10
 分神	ffuf	9
 分送	ffss	9
 分訴	ffsu	9
-分所	ffso	9
+分所	ffs	9
 分為	ffwy	9
 分文	ffwf	9
 分哲	ffoe	9
@@ -16844,7 +17124,7 @@ $	;my	10
 蜂蒙	fsmg	9
 蜂糖	fsth	9
 瘋癲	fsdm	10
-瘋了	fsle	10
+瘋了	fsl	10
 鋒芒	fsmh	9
 豐長	fsih	9
 豐麥	fsmd	9
@@ -16853,7 +17133,7 @@ $	;my	10
 奉獻	fsxm	9
 俸外	fswd	9
 鳳闕	fsqt	9
-夫人	furf	10
+夫人	fur	10
 撫養	fueh	7
 敷衍	fuej	10
 膚覺	fujt	9
@@ -16861,7 +17141,6 @@ $	;my	10
 膚色	fuse	9
 弗徹	fuie	9
 弗成	fuig	9
-弗敢	fugj	9
 弗跟	fugf	9
 弗講	fujl	9
 弗裏	fuli	9
@@ -16886,7 +17165,7 @@ $	;my	10
 浮萍	fupk	9
 浮橋	fuqn	9
 浮現	fuxg	10
-浮遊	fuyz	9
+富有	fuy	9
 浮雲	fuey	9
 符號	fuhc	9
 福岡	fugh	9
@@ -16898,11 +17177,11 @@ $	;my	10
 福騰	futg	9
 福興	fuxk	9
 俯拍	fupd	9
-撫平	fupk	10
+撫平	fup	10
 撫慰	fuww	9
 父本	fubf	9
 父親	fuqb	10
-付出	fuiu	10
+付出	fui	10
 付費	fufw	9
 付給	fugw	9
 付錢	fuqm	9
@@ -16917,10 +17196,10 @@ $	;my	10
 負沿	fuej	9
 副本	fubf	10
 婦良	full	9
-婦人	furf	9
+婦人	fur	9
 富春	fuiy	9
 富坤	fuky	9
-富人	furf	11
+富人	fur	11
 富森	fusf	9
 腹盾	fudy	9
 腹孔	fuks	9
@@ -16942,7 +17221,6 @@ $	;my	10
 鈣酶	gdmw	9
 蓋髓	gdsv	9
 甘當	gjdh	9
-甘分	gjff	9
 杆秤	gjig	9
 肝膽	gjdj	9
 肝腎	gjuf	9
@@ -16951,11 +17229,10 @@ $	;my	10
 感官	gjgr	9
 感覺	gjjt	9
 感染	gjrj	10
-感人	gjrf	9
+感人	gjr	9
 感受	gjuz	9
 趕快	gjkk	9
 幹啊	gjaa	9
-幹的	gjde	10
 幹等	gjdg	9
 幹掉	gjdn	10
 幹定	gjdk	9
@@ -16977,7 +17254,7 @@ $	;my	10
 鋼球	ghqq	9
 港大	ghda	9
 杠房	ghfh	9
-杠他	ghta	9
+杠她	ghta	9
 皋亭	gctk	9
 高超	gcic	9
 高居	gcju	9
@@ -16985,7 +17262,7 @@ $	;my	10
 高坡	gcpo	9
 高青	gcqk	9
 高清	gcqk	10
-高人	gcrf	9
+高人	gcr	9
 高僧	gcsg	9
 高升	gcug	9
 高數	gcau	10
@@ -17009,31 +17286,29 @@ $	;my	10
 歌譜	gepu	9
 歌廳	getk	9
 擱放	gefh	9
-擱這	geoe	10
+擱這	geo	10
 鴿鈴	gelk	9
 鴿子	gezb	10
 革命	gemk	10
-格嚜	geme	9
 格情	geqk	9
-葛蒡	gebh	9
 葛坑	gekg	9
 葛通	gets	9
 各鳳	gefs	9
-各個	gege	10
+各個	geg	10
 各派	gepd	9
 各位	geww	9
 各校	gexn	9
-個唱	geih	9
-個網	gewm	9
+個唱	gih	9
+個網	gwm	9
 鉻鋼	gegh	9
-给予	jieu	10
-給你	gwni	9
-給他	gwta	10
+給予	jieu	10
+給你	gwn	9
+給她	gwta	10
 給我	gwwo	9
 根本	gfbf	9
 根根	gfgf	9
 根植	gfvi	9
-跟個	gfge	9
+跟個	gfg	9
 跟隨	gfsv	10
 跟着	gfoe	10
 耕地	ggdi	9
@@ -17049,7 +17324,7 @@ $	;my	10
 工資	gszi	10
 公會	gshv	9
 公理	gsli	10
-公平	gspk	10
+公平	gsp	10
 公司	gssi	9
 公臺	gstd	9
 公務	gswu	9
@@ -17095,7 +17370,7 @@ $	;my	10
 古風	gufs	9
 古來	guld	9
 古樸	gupu	9
-古他	guta	9
+古她	guta	9
 古藤	gutg	9
 古文	guwf	9
 股盾	gudy	9
@@ -17118,25 +17393,23 @@ $	;my	10
 顧問	guwf	9
 瓜分	gxff	9
 刮痧	gxua	9
-寡人	gxrf	9
 寡肽	gxtd	9
 寡糖	gxth	9
 掛機	gxji	9
 掛靠	gxkc	9
 掛拍	gxpd	9
-掛毯	gxtj	9
+掛毯	gxtj	7
 怪怪	gkgk	10
 怪圖	gktu	9
 怪異	gkei	9
 官氣	grqi	9
 官腔	grql	9
-官橋	grqn	9
 官署	grau	9
 官帖	grtp	9
 官網	grwm	9
 關鍵	grjm	9
 關切	grqp	9
-關上	grah	10
+關上	gra	10
 關頭	grtz	9
 觀查	gria	9
 觀察	gria	10
@@ -17165,7 +17438,7 @@ $	;my	10
 龜速	gvsu	9
 歸根	gvgf	9
 歸僑	gvqn	9
-歸人	gvrf	7
+歸人	gvr	7
 歸腎	gvuf	9
 歸因	gvyb	9
 歸元	gvyr	9
@@ -17175,16 +17448,15 @@ $	;my	10
 詭譎	gvjt	9
 詭異	gvei	10
 桂冠	gvgr	9
-桂花	gvhx	9
 桂品	gvpb	9
 貴妃	gvfw	9
 貴庚	gvgg	9
 貴康	gvkh	9
-貴人	gvrf	10
+貴人	gvr	10
 貴潤	gvry	9
 禬禳	gvrh	9
 袞闕	gyqt	9
-滾出	gyiu	9
+滾出	gyi	9
 滾刀	gydc	9
 滾得	gyde	9
 滾肚	gydu	9
@@ -17207,12 +17479,12 @@ $	;my	10
 過佰	gobd	9
 過程	goig	9
 過道	godc	9
-過的	gode	10
+過的	god	10
 過度	godu	10
 過渡	godu	9
 過分	goff	9
 過江	gojl	9
-過了	gole	9
+過了	gol	9
 過蒙	gomg	9
 過謙	goqm	9
 過橋	goqn	9
@@ -17228,16 +17500,16 @@ $	;my	10
 還被	hdbw	9
 還飆	hdbn	9
 還快	hdkk	9
-還了	hrle	9
-還沒	hdmw	10
+還了	hrl	9
+還沒	hdm	10
 還派	hdpd	9
-還是	hdus	9
+還是	hdu	9
 還我	hrwo	9
 還行	hdxk	9
 還要	hdyc	9
 海北	hdbw	9
 海面	hdmm	9
-海平	hdpk	9
+海平	hdp	9
 海鰓	hdsd	9
 海神	hduf	9
 害怕	hdpa	9
@@ -17263,18 +17535,18 @@ $	;my	10
 旱冰	hjbk	9
 旱井	hjjk	9
 焊盤	hjpj	9
-漢朝	hjic	9
+漢朝	hjic	7
 漢奸	hjjm	9
 漢民	hjmb	9
 漢南	hjnj	9
-漢人	hjrf	9
+漢人	hjr	9
 漢森	hjsf	9
 漢湯	hjth	9
 漢語	hjeu	9
 瀚賓	hjbb	9
 毫克	hcke	9
 毫無	hcwu	9
-莫榮	mors	7
+貉絨	mors	7
 豪爵	hcjt	9
 豪紳	hcuf	9
 好吧	hcba	9
@@ -17312,18 +17584,18 @@ $	;my	10
 何舊	hejq	9
 何來	held	9
 何時	heus	10
-和成	htig	9
-和芳	htfh	9
-和璉	htlm	9
-和祿	htlu	9
-和盤	htpj	9
-和平	htpk	10
-和橋	htqn	9
-和慶	htqk	9
-和珅	htuf	9
-和爽	htal	9
-和順	htay	9
-和他	htta	10
+和成	hig	9
+和芳	hfh	9
+和璉	hlm	9
+和祿	hlu	9
+和盤	hpj	9
+和平	hp	10
+和橋	hqn	9
+和慶	hqk	9
+和珅	huf	9
+和爽	hal	9
+和順	hay	9
+和她	hta	10
 河床	heil	9
 河角	hejn	9
 核孔	heks	9
@@ -17338,7 +17610,7 @@ $	;my	10
 很快	hfkk	9
 很缺	hfqt	9
 很濕	hfus	9
-很是	hfus	10
+很是	hfu	10
 很想	hfxl	10
 恨得	hfde	9
 恨意	hfei	9
@@ -17377,7 +17649,7 @@ $	;my	10
 後妃	hzfw	9
 後請	hzqk	9
 後卻	hzqt	9
-後人	hzrf	9
+後人	hzr	9
 後仍	hzrg	9
 後市	hzus	9
 後臺	hztd	10
@@ -17387,12 +17659,12 @@ $	;my	10
 呼聲	huug	9
 呼吆	huyc	9
 呼應	huek	9
-忽的	hude	10
+忽的	hud	10
 忽覺	hujt	9
 忽略	hult	10
 忽聽	hutk	9
 弧長	huih	9
-弧角	hujn	9
+呼叫	hujn	9
 胡茬	huia	9
 胡扯	huie	9
 胡成	huig	9
@@ -17404,7 +17676,7 @@ $	;my	10
 胡俊	hujy	9
 胡庫	huku	9
 胡狼	hulh	9
-胡了	hule	9
+胡了	hul	9
 胡盧	hulu	9
 胡亂	hulr	10
 胡喬	huqn	9
@@ -17433,17 +17705,6 @@ $	;my	10
 護叉	huia	9
 護盾	hudy	9
 護耕	hugg	9
-護康	hukh	9
-花豹	hxbc	9
-花車	hxie	9
-花光	hxgl	9
-花了	hxle	10
-花鳥	hxnn	9
-花錢	hxqm	10
-花雀	hxqt	9
-花紋	hxwf	10
-花月	hxyt	9
-花正	hxog	9
 華萬	hxwj	9
 華為	hxwy	9
 滑杆	hxgj	9
@@ -17477,11 +17738,11 @@ $	;my	10
 換成	hrig	10
 換床	hril	9
 換得	hrde	9
-換了	hrle	10
+換了	hrl	10
 換錢	hrqm	9
 換取	hrqu	9
 換熱	hrre	9
-換上	hrah	9
+換上	hra	9
 換手	hruz	9
 換藥	hryc	9
 換頁	hrye	9
@@ -17515,7 +17776,7 @@ $	;my	10
 灰雲	hvey	9
 恢複	hvfu	9
 恢廓	hvko	9
-揮發	hvfa	9
+揮發	hvf	9
 輝騰	hvtg	9
 麾節	hvjp	9
 徽標	hvbn	9
@@ -17583,10 +17844,10 @@ $	;my	10
 混戰	hyvj	9
 活成	hoig	9
 活分	hoff	9
-活人	horf	10
+活人	hor	10
 活着	hooe	9
 火叉	hoia	9
-火柴	hoid	9
+火柴	hoid	7
 火靠	hokc	9
 火勢	hous	9
 火焰	hoej	9
@@ -17594,13 +17855,12 @@ $	;my	10
 火種	hovt	9
 或非	hofw	9
 或許	hoxu	9
-或是	hous	9
+或是	hou	9
 或者	hooe	10
 貨物	howt	10
 獲得	hode	10
 獲利	holi	10
 肌痺	jibi	9
-肌層	jicg	9
 肌醇	jiiy	9
 肌電	jidm	9
 肌膚	jifu	9
@@ -17615,7 +17875,7 @@ $	;my	10
 計較	jijn	9
 擠開	jikd	9
 基本	jibf	10
-基層	jicg	10
+基層	jicg	7
 基地	jidi	10
 基調	jidn	9
 基建	jijm	10
@@ -17638,7 +17898,7 @@ $	;my	10
 機制	jivi	10
 積分	jiff	9
 激動	jids	9
-激發	jifa	10
+激發	jif	10
 激進	jijb	10
 激怒	jinu	10
 擊沉	jiif	9
@@ -17653,12 +17913,12 @@ $	;my	10
 譏評	jipk	9
 譏笑	jixn	6
 及時	jeus	10
-及他	jeta	9
+及她	jeta	9
 積木	jimu	10
 吉姆	jimu	9
-吉他	jita	10
+吉她	jita	10
 吉兆	jioc	5
-即可	jike	9
+即可	jik	9
 即刻	jike	10
 即來	jild	9
 急促	jicu	10
@@ -17689,7 +17949,7 @@ $	;my	10
 幾秒	jimn	9
 幾炮	jipc	9
 幾千	jiqm	9
-幾人	jirf	11
+幾人	jir	11
 幾天	jitm	10
 幾條	jitn	9
 幾萬	jiwj	9
@@ -17700,7 +17960,7 @@ $	;my	10
 幾張	jivh	10
 幾招	jioc	6
 擠幹	jigj	9
-擠眼	jiej	9
+几眼	jiej	9
 伎倆	jill	9
 技能	jing	10
 技巧	jiqn	10
@@ -17721,7 +17981,7 @@ $	;my	10
 祭司	jisi	9
 祭壇	jitj	7
 寄居	jiju	9
-寄了	jile	10
+寄了	jil	10
 跡象	jixl	10
 濟困	jiky	9
 濟楊	jieh	10
@@ -17729,24 +17989,23 @@ $	;my	10
 繼承	jiig	9
 繼續	jixu	9
 加成	jxig	9
-加給	jxgw	9
 加更	jxgg	9
 加固	jxgu	9
 加劇	jxju	9
 加快	jxkk	9
-加了	jxle	10
+加了	jxl	10
 加料	jxln	9
 加侖	jxly	9
 加強	jxql	10
 加群	jxqy	9
 加入	jxru	10
-加上	jxah	10
+加上	jxa	10
 加速	jxsu	10
 加特	jxte	9
 加貼	jxtp	9
 加完	jxwj	9
 加未	jxww	9
-加溫	jxwf	9
+加溫	jxwf	7
 佳路	jxlu	9
 家畜	jxiu	9
 家當	jxdh	10
@@ -17759,11 +18018,8 @@ $	;my	10
 家中	jxos	10
 傢伙	jxho	10
 夾層	jxcg	9
-夾克	jxke	9
-夾腦	jxnc	9
-夾着	jxoe	9
-甲板	jxbj	10
-甲隊	jxdv	7
+甲殼	jxke	9
+加班	jxbj	10
 甲亢	jxkh	9
 假劣	jxlp	9
 假且	jxqp	9
@@ -17788,8 +18044,8 @@ $	;my	10
 堅持	jmii	9
 堅決	jmjt	9
 間壁	jmbi	9
-間出	jmiu	9
-間的	jmde	10
+間出	jmi	9
+間的	jmd	10
 間接	jmjp	10
 間盤	jmpj	9
 間區	jmqu	9
@@ -17797,7 +18053,7 @@ $	;my	10
 間入	jmru	9
 間天	jmtm	9
 間位	jmww	9
-湔江	jmjl	9
+健将	jmjl	7
 監測	jmce	9
 監軍	jmjy	9
 監聽	jmtk	9
@@ -17867,7 +18123,7 @@ $	;my	10
 江雪	jlxt	9
 江洋	jleh	9
 將被	jlbw	9
-將他	jlta	10
+將她	jlta	10
 將煙	jlej	9
 將要	jlyc	9
 僵屍	jlus	10
@@ -17877,7 +18133,7 @@ $	;my	10
 講述	jlau	9
 醬骨	jlgu	9
 交叉	jnia	9
-交出	jniu	9
+交出	jni	9
 交惡	jnwu	9
 交困	jnky	9
 交流	jnlq	10
@@ -17903,7 +18159,7 @@ $	;my	10
 澆灌	jngr	9
 嬌蘭	jnlj	9
 嬌俏	jnqn	9
-鮫人	jnrf	9
+鮫人	jnr	9
 驕狂	jnkl	9
 角距	jnju	9
 角盔	jnkv	9
@@ -17928,9 +18184,8 @@ $	;my	10
 交換	jnhr	10
 叫喚	jnhr	9
 叫來	jnld	9
-叫了	jnle	10
-叫人	jnrf	10
-叫我	jnwo	10
+叫了	jnl	10
+叫人	jnr	10
 教材	jncd	10
 教參	jncj	9
 教書	jnau	10
@@ -17946,7 +18201,7 @@ $	;my	10
 接口	jpkz	9
 接納	jpna	10
 接壤	jprh	9
-接人	jprf	9
+接人	jpr	9
 接任	jprw	9
 接受	jpuz	10
 接索	jpso	9
@@ -17997,8 +18252,7 @@ $	;my	10
 戒掉	jpdn	9
 戒行	jphh	9
 戒指	jpvi	10
-芥蘭	jplj	9
-界魂	jphy	10
+結婚	jphy	10
 借款	jpkr	9
 借着	jpoe	9
 巾幗	jbgo	9
@@ -18008,7 +18262,7 @@ $	;my	10
 勁風	jbfs	9
 今甘	jbgj	9
 今明	jbmk	9
-進球	jbqq	9
+進球	jbqq	7
 今日	jbri	9
 金蟬	jbij	9
 進廠	jbih	9
@@ -18052,9 +18306,8 @@ $	;my	10
 勁吹	jbiv	9
 勁樂	jkyt	9
 進程	jbig	10
-進發	jbfa	9
+進發	jbf	9
 進來	jbld	9
-進入	jbru	9
 進屋	jbwu	9
 禁用	jbys	9
 京吧	jkba	9
@@ -18079,7 +18332,7 @@ $	;my	10
 驚豔	jkej	9
 經意	jkei	9
 境遇	jkeu	9
-驚蟄	jkoe	9
+驚蟄	jkoe	7
 敬祝	jkvu	9
 精幹	jkgj	9
 晶格	jkge	9
@@ -18094,7 +18347,7 @@ $	;my	10
 經絡	jklo	9
 經商	jkah	10
 經書	jkau	9
-經他	jkta	9
+經她	jkta	9
 經驗	jkej	10
 經營	jkek	10
 精本	jkbf	9
@@ -18108,7 +18361,7 @@ $	;my	10
 驚恐	jkks	9
 驚奇	jkqi	10
 井岡	jkgh	9
-井上	jkah	9
+井上	jka	9
 井蛙	jkwa	9
 景晨	jkif	9
 景秋	jkqq	9
@@ -18150,14 +18403,14 @@ $	;my	10
 酒莊	jqvl	9
 救命	jqmk	9
 救贖	jqau	9
-就得	jqde	9
-就對	jqdv	9
-就多	jqdo	9
-就滾	jqgy	9
-就去	jqqu	10
-就是	jqus	10
-就挺	jqtk	10
-就像	jqxl	10
+就得	jde	9
+就對	jdv	9
+就多	jdo	9
+就滾	jgy	9
+就去	jqu	10
+就是	ju	10
+就挺	jtk	10
+就像	jxl	10
 舊城	jqig	10
 舊衣	jqei	9
 拘票	jupn	9
@@ -18172,14 +18425,13 @@ $	;my	10
 居美	jumw	9
 居喪	jush	9
 居委	juww	9
-居住	juvu	10
 局外	juwd	9
 桔梗	jugg	9
 桔色	juse	9
 菊糖	juth	9
 沮喪	jush	10
 莒南	junj	7
-舉個	juge	10
+舉個	jug	10
 巨壁	jubi	9
 巨大	juda	9
 巨卡	juka	9
@@ -18190,10 +18442,9 @@ $	;my	10
 巨網	juwm	9
 句式	juus	10
 句她	juta	9
-句主	juvu	9
 拒斥	juii	9
 拒賠	jupw	9
-具有	juyz	9
+具有	juy	9
 距離	juli	9
 聚成	juig	9
 劇情	juqk	10
@@ -18208,7 +18459,7 @@ $	;my	10
 鐫刻	jrke	9
 卷成	jrig	9
 卷曲	jrqu	9
-卷上	jrah	9
+卷上	jra	9
 卷舒	jrau	9
 卷着	jroe	9
 雋美	jymw	9
@@ -18249,12 +18500,12 @@ $	;my	10
 開缺	kdqt	9
 開始	kdus	9
 看成	kjig	9
-看出	kjiu	9
+看出	kji	9
 看打	kjda	9
 看呆	kjdd	9
 看待	kjdd	10
 看到	kjdc	9
-看的	kjde	10
+看的	kjd	10
 看伐	kjfa	9
 看法	kjfa	10
 看番	kjfj	9
@@ -18262,49 +18513,49 @@ $	;my	10
 看見	kjjm	9
 看看	kjkj	9
 看來	kjld	9
-看了	kjle	10
+看了	kjl	10
 看嗎	kjma	9
 看脈	kjmd	9
 看門	kjmf	9
 看清	kjqk	9
-看人	kjrf	10
+看人	kjr	10
 看似	kjsi	9
 看着	kjoe	9
 康尼	khni	9
 康橋	khqn	9
 康順	khay	9
-康一	khei	9
+康一	khe	9
 抗稅	khuv	9
 靠近	kcjb	9
-靠人	kcrf	9
+靠人	kcr	9
 靠准	kcvy	9
 柯迪	kedi	9
 科導	kedc	9
 科龍	kels	9
 科三	kesj	9
 科研	keej	9
-可悲	kebw	9
-可餐	kecj	9
-可產	keij	9
-可磣	keif	9
-可定	kedk	9
-可供	kegs	9
-可怪	kegk	9
-可好	kehc	9
-可恨	kehf	9
-可見	kejm	10
-可掬	keju	9
-可烤	kekc	9
-可靠	kekc	10
-可憐	kelm	9
-可明	kemk	9
-可能	keng	9
-可憑	kepk	9
-可歎	ketj	9
-可同	kets	9
-可圖	ketu	9
-可以	keei	10
-可用	keys	9
+可悲	kbw	9
+可餐	kcj	9
+可產	kij	9
+可磣	kif	9
+可定	kdk	9
+可供	kgs	9
+可怪	kgk	9
+可好	khc	9
+可恨	khf	9
+可見	kjm	10
+可掬	kju	9
+可烤	kkc	9
+可靠	kkc	10
+可憐	klm	9
+可明	kmk	9
+可能	kng	9
+可憑	kpk	9
+可歎	ktj	9
+可同	kts	9
+可圖	ktu	9
+可以	kec	10
+可用	kys	9
 渴盼	kepj	9
 克東	keds	9
 克癀	kehl	9
@@ -18364,11 +18615,11 @@ $	;my	10
 饋贈	kvzg	9
 坤利	kyli	9
 醌式	kyus	9
-困的	kyde	9
+困的	kyd	9
 困惑	kyho	9
 困倦	kyjr	9
 困苦	kyku	9
-困在	kyzd	9
+困在	kyz	9
 睏房	kyfh	9
 擴音	koyb	9
 垃圾	laji	9
@@ -18379,7 +18630,6 @@ $	;my	10
 拉杆	lagj	9
 拉怪	lagk	9
 拉近	lajb	9
-拉入	laru	9
 拉升	laug	9
 拉屎	laus	9
 辣庫	laku	9
@@ -18389,7 +18639,7 @@ $	;my	10
 來過	ldgo	10
 來火	ldho	9
 來檬	ldmg	9
-來人	ldrf	9
+來人	ldr	9
 來生	ldug	9
 來疼	ldtg	9
 來天	ldtm	7
@@ -18407,9 +18657,8 @@ $	;my	10
 藍十	ljus	9
 藍雪	ljxt	9
 藍玉	ljeu	9
-闌入	ljru	9
-蘭德	ljde	10
-蘭圃	ljpu	9
+懶得	ljde	10
+蘭譜	ljpu	9
 蘭奇	ljqi	9
 蘭森	ljsf	9
 蘭生	ljug	9
@@ -18418,10 +18667,10 @@ $	;my	10
 籃壇	ljtj	9
 欄目	ljmu	9
 懶蟲	ljis	9
-懶人	ljrf	9
+懶人	ljr	9
 懶散	ljsj	9
 懶腰	ljyc	9
-郎個	lhge	9
+郎個	lhg	9
 郎君	lhjy	9
 郎女	lhnv	9
 狼群	lhqy	10
@@ -18448,9 +18697,9 @@ $	;my	10
 老問	lcwf	9
 老者	lcoe	10
 老鎮	lcof	9
-了訖	leqi	9
-了卻	leqt	9
-了他	leta	10
+了訖	lqi	9
+了卻	lqt	9
+了她	lta	10
 了無	lnwu	9
 勒掯	lekf	9
 雷場	lwih	9
@@ -18469,10 +18718,10 @@ $	;my	10
 羸露	lwlu	9
 肋下	lwxx	9
 累代	lwdd	9
-淚人	lwrf	9
+淚人	lwr	9
 淚色	lwse	9
 淚痣	lwvi	9
-類人	lwrf	10
+類人	lwr	10
 類似	lwsi	9
 棱鏡	lgjk	10
 冷梅	lgmw	9
@@ -18503,7 +18752,7 @@ $	;my	10
 李真	liof	9
 李正	liog	9
 李志	livi	9
-理發	lifa	9
+理發	lif	9
 理工	ligs	9
 理解	lijp	10
 理療	liln	9
@@ -18512,7 +18761,7 @@ $	;my	10
 理智	livi	10
 裏層	licg	9
 裏村	licy	10
-裏的	lide	10
+裏的	lid	10
 裏肯	likf	9
 裏去	liqu	9
 裏卻	liqt	9
@@ -18539,7 +18788,7 @@ $	;my	10
 笠翁	liwg	9
 厲害	lihd	9
 曆代	lidd	9
-曆史	lius	9
+歷史	lius	9
 連敗	lmbd	9
 連部	lmbu	9
 連打	lmda	9
@@ -18561,20 +18810,20 @@ $	;my	10
 臉皮	lmpi	9
 臉譜	lmpu	9
 臉去	lmqu	9
-臉上	lmah	10
-煉神	ljuf	9
-練出	lmiu	9
+臉上	lma	10
+煉神	ljuf	7
+練出	lmi	9
 練氣	lmqi	9
 鏈接	lmjp	9
 鏈群	lmqy	9
-良機	llji	9
+兩級	llji	7
 良師	llus	9
 良業	llye	9
 梁軍	lljy	9
 糧食	llus	10
 兩邊	llbm	9
-兩個	llge	10
-兩可	llke	9
+兩個	llg	10
+兩可	llk	9
 兩肋	lllw	9
 兩利	llli	9
 兩輪	llly	9
@@ -18592,9 +18841,9 @@ $	;my	10
 料庫	lnku	9
 撂皮	lnpi	9
 列成	lpig	9
-列的	lpde	9
+列的	lpd	9
 列隊	lpdv	9
-列個	lpge	7
+列個	lpg	7
 列缺	lpqt	9
 列支	lpvi	9
 劣生	lpug	9
@@ -18628,7 +18877,7 @@ $	;my	10
 臨行	lbhh	9
 臨終	lbos	9
 菱紳	lkuf	9
-羚竺	lkvu	9
+領主	lkvu	9
 零分	lkff	9
 零碎	lksv	9
 零星	lkxk	9
@@ -18643,9 +18892,9 @@ $	;my	10
 另類	lklw	9
 另外	lkwd	9
 令孫	lksy	9
-令他	lkta	10
+令她	lkta	10
 溜湫	lqqq	9
-溜了	lqle	10
+溜了	lql	10
 溜溜	lqlq	9
 留存	lqcy	9
 留下	lqxx	9
@@ -18711,7 +18960,6 @@ $	;my	10
 魯坎	lukj	9
 魯碳	lutj	7
 擄掠	lult	9
-甪怪	lugk	9
 陸地	ludi	10
 陸河	luhe	9
 陸抗	lukh	9
@@ -18740,7 +18988,7 @@ $	;my	10
 亂象	lrxl	9
 亂用	lrys	7
 亂羽	lreu	9
-倫小	lyxn	9
+倫小	lyx	9
 淪落	lylo	9
 淪為	lywy	9
 論辯	lybm	9
@@ -18768,7 +19016,7 @@ $	;my	10
 落英	loek	9
 絡卻	loqt	9
 呂村	lvcy	9
-旅人	lvrf	9
+旅人	lvr	9
 旅日	lvri	9
 鋁廠	lvih	9
 鋁塑	lvsu	9
@@ -18785,7 +19033,7 @@ $	;my	10
 濾鏡	lvjk	9
 濾清	lvqk	9
 略略	ltlt	9
-麻刀	madc	9
+罵道	madc	9
 麻袍	mapc	9
 麻雀	maqt	9
 麻衣	maei	9
@@ -18794,13 +19042,13 @@ $	;my	10
 馬立	mali	9
 馬棚	mapg	9
 馬嫂	masc	9
-馬上	maah	9
+馬上	maa	9
 碼表	mabn	9
 螞蟻	maei	10
 埋掉	mddn	9
 埋骨	mdgu	9
 買飯	mdfj	9
-買了	mdle	10
+買了	mdl	10
 麥堆	mddv	9
 麥芬	mdff	9
 麥風	mdfs	9
@@ -18808,9 +19056,8 @@ $	;my	10
 賣家	mdjx	9
 賣票	mdpn	9
 賣主	mdvu	9
-邁出	mdiu	9
+邁出	mdi	9
 邁過	mdgo	9
-邁入	mdru	9
 蠻纏	mjij	9
 蠻到	mjdc	9
 蠻橫	mjhg	9
@@ -18836,7 +19083,7 @@ $	;my	10
 盲打	mhda	9
 盲穀	mhgu	9
 漭瀁	mheh	9
-貓的	mcde	9
+貓的	mcd	9
 貓酒	mcjq	9
 貓咪	mcmi	10
 貓嫂	mcsc	9
@@ -18846,7 +19093,7 @@ $	;my	10
 毛錢	mcqm	9
 毛條	mctn	9
 毛線	mcxm	9
-毛衣	mcei	9
+貿易	mcei	9
 錨點	mcdm	9
 旄丘	mcqq	9
 旄鉞	mcyt	7
@@ -18857,17 +19104,17 @@ $	;my	10
 冒犯	mcfj	9
 貿然	mcrj	9
 貌似	mcsi	9
-沒更	mwgg	9
-沒空	mwks	9
-沒塊	mwkk	9
-沒奶	mwnd	9
-沒能	mwng	9
-沒譜	mwpu	9
-沒去	mwqu	9
-沒人	mwrf	9
-沒生	mwug	9
-沒有	mwyz	9
-沒准	mwvy	9
+沒更	mgg	9
+沒空	mks	9
+沒塊	mkk	9
+沒奶	mnd	9
+沒能	mng	9
+沒譜	mpu	9
+沒去	mqu	9
+沒人	mr	9
+沒生	mug	9
+沒有	my	9
+沒准	mvy	9
 眉脊	mwji	9
 眉批	mwpi	9
 眉梳	mwau	9
@@ -18880,7 +19127,7 @@ $	;my	10
 煤渣	mwoa	9
 每秒	mwmn	10
 每期	mwqi	9
-每人	mwrf	9
+每人	mwr	9
 每日	mwri	9
 每天	mwtm	9
 每章	mwvh	9
@@ -18902,7 +19149,7 @@ $	;my	10
 門面	mfmm	9
 門前	mfqm	9
 門去	mfqu	9
-門上	mfah	10
+沒法	mfa	10
 門市	mfus	9
 門鎖	mfso	9
 蒙娜	mgna	9
@@ -18911,7 +19158,7 @@ $	;my	10
 猛打	mgda	9
 猛地	mgde	10
 猛跌	mgdp	9
-猛將	mgjl	9
+猛將	mgjl	7
 猛獁	mgma	9
 懵逼	mgbi	9
 懵撒	mgsa	9
@@ -18951,7 +19198,7 @@ $	;my	10
 面旋	mmxr	9
 苗體	mnti	9
 秒死	mnsi	9
-渺小	mnxn	9
+渺小	mnx	9
 妙處	mniu	9
 妙旨	mnvi	9
 民安	mban	9
@@ -19008,15 +19255,13 @@ $	;my	10
 莫用	moys	9
 墨翟	mood	9
 墨攻	mogs	9
-某個	mzge	9
+某個	mzg	9
 某位	mzww	9
 母親	muqb	9
 母乳	muru	9
 母題	muti	9
 母系	muxi	9
-姆特	mute	9
-木板	mubj	9
-木蜂	mufs	9
+模板	mubj	9
 木夫	mufu	9
 木塊	mukk	9
 木門	mumf	9
@@ -19030,43 +19275,40 @@ $	;my	10
 沐浴	mueu	9
 苜蓿	muxu	9
 牧主	muvu	9
-慕楓	mufs	10
 暮春	muiy	9
-拿來	nald	10
+哪來	nald	10
 拿錢	naqm	9
-拿人	narf	9
-那方	nafh	10
+拿人	nar	9
+哪方	nafh	10
 哪方	nafh	9
 哪肯	nakf	9
-那裏	nali	11
+哪裏	nali	11
 哪裏	nali	10
-那篇	napm	10
+哪篇	napm	10
 哪篇	napm	9
-那日	nari	10
+哪日	nari	7
 哪日	nari	9
-哪有	nayz	10
-那張	navh	10
+哪有	nay	10
+哪張	navh	10
 哪張	navh	9
-那邊	nabm	9
-那不	nabu	9
-那次	naci	9
-那點	nadm	9
-那兒	naer	9
-那封	nafs	9
-那個	nage	10
-那間	najm	9
-那就	najq	9
-那麼	name	9
-那你	nani	10
-那群	naqy	10
-那人	narf	10
-那是	naus	10
-那天	natm	10
-那位	naww	10
-那些	naxp	10
-那樣	naeh	9
-那真	naof	9
-那種	naot	10
+哪邊	nabm	9
+哪次	naci	9
+哪點	nadm	9
+哪兒	naer	9
+哪封	nafs	9
+哪個	nag	10
+哪間	najm	9
+哪就	naj	9
+哪麼	name	9
+哪群	naqy	10
+哪人	nar	10
+哪是	nau	10
+哪天	natm	10
+哪位	naww	10
+哪些	naxp	10
+哪樣	naeh	9
+哪真	naof	9
+哪種	naot	10
 納夫	nafu	9
 納賢	naxm	9
 鈉泵	nabg	7
@@ -19084,13 +19326,13 @@ $	;my	10
 難分	njff	9
 難啃	njkf	9
 難受	njuz	9
-難以	njei	9
+難以	njec	9
 囊殼	nhke	9
 惱鬼	ncgv	9
 惱火	ncho	9
 腦袋	ncdd	9
 腦橋	ncqn	9
-腦上	ncah	9
+腦上	nca	9
 腦中	ncos	10
 鬧場	ncih	9
 內部	nwbu	9
@@ -19098,30 +19340,29 @@ $	;my	10
 內襯	nwif	9
 內裏	nwli	9
 內酶	nwmw	9
-內在	nwzd	9
+內在	nwz	9
 泥灰	nihv	9
 泥腳	nijn	9
 泥鰍	niqq	9
 倪家	nijx	9
 輗軏	niyt	9
-你啊	niaa	9
-你出	niiu	9
-你會	nihv	10
-你們	nimf	9
-你瞧	niqn	9
-你卻	niqt	10
-你如	niru	9
-你又	niyz	10
-你在	nizd	10
-年的	nmde	9
+你啊	naa	9
+你出	ni	9
+你會	nhv	10
+你們	nmf	9
+你瞧	nqn	9
+你卻	nqt	10
+你如	nru	9
+你又	nyz	10
+你在	nz	10
+年的	nmd	9
 年費	nmfw	9
 年份	nmff	9
 年級	nmji	9
 年輕	nmqk	9
-年人	nmrf	9
+年人	nmr	9
 碾碎	nmsv	9
 鳥群	nnqy	9
-尿量	nnll	9
 捏成	npig	9
 聶豹	npbc	9
 鎳板	npbj	9
@@ -19131,8 +19372,8 @@ $	;my	10
 凝脂	nkvi	9
 牛奶	nqnd	9
 牛橋	nqqn	9
-牛人	nqrf	9
-牛小	nqxn	9
+牛人	nqr	9
+牛小	nqx	9
 牛真	nqof	9
 農畜	nsiu	9
 農春	nsiy	9
@@ -19151,7 +19392,7 @@ $	;my	10
 諾卡	noka	9
 諾瑞	norv	9
 女權	nvqr	10
-女人	nvrf	9
+女人	nvr	9
 女生	nvug	10
 歐弟	oudi	9
 歐陸	oulu	9
@@ -19171,7 +19412,7 @@ $	;my	10
 潘辰	pjif	9
 潘森	pjsf	9
 攀鱸	pjlu	9
-攀上	pjah	9
+攀上	pja	9
 攀升	pjug	9
 盤江	pjjl	9
 盤葡	pjpu	9
@@ -19181,7 +19422,7 @@ $	;my	10
 盤飧	pjsy	9
 判處	pjiu	9
 判決	pjjt	9
-旁出	phiu	9
+旁出	phi	9
 龐蒂	phdi	9
 胖墩	phdy	9
 胖姐	phjp	9
@@ -19189,9 +19430,8 @@ $	;my	10
 拋球	pcqq	9
 拋卻	pcqt	9
 跑票	pcpn	9
-胚柄	pwbk	9
-胚帶	pwdd	9
-胚型	pwxk	9
+配給	pwji	9
+佩戴	pwdd	9
 陪房	pwfh	9
 培養	pweh	10
 賠補	pwbu	9
@@ -19199,7 +19439,7 @@ $	;my	10
 賠付	pwfu	9
 賠情	pwqk	9
 配稱	pwig	9
-配的	pwde	9
+配的	pwd	9
 配方	pwfh	9
 配曲	pwqu	9
 配體	pwti	9
@@ -19215,7 +19455,7 @@ $	;my	10
 塳塵	pgif	9
 膨脹	pgih	9
 鬅鬙	pgsg	9
-捧出	pgiu	9
+捧出	pgi	9
 捧讀	pgdu	9
 碰鎖	pgso	9
 批示	pius	9
@@ -19227,7 +19467,7 @@ $	;my	10
 劈成	piig	9
 皮庫	piku	9
 皮囊	pinh	10
-皮上	piah	9
+皮上	pia	9
 皮下	pixx	9
 皮衣	piei	9
 皮裝	pivl	9
@@ -19235,7 +19475,7 @@ $	;my	10
 疲勞	pilc	9
 圮絕	pijt	9
 痞塊	pikk	9
-癖好	pihc	9
+癖好	pihc	7
 辟邏	pilo	9
 僻處	piiu	9
 僻壤	pirh	9
@@ -19245,7 +19485,7 @@ $	;my	10
 偏壓	pmya	9
 片刻	pmke	9
 片湯	pmth	9
-騙他	pmta	9
+騙她	pmta	9
 騙子	pmzb	10
 飄塵	pnif	9
 飄紅	pnhs	9
@@ -19262,17 +19502,8 @@ $	;my	10
 品海	pbhd	9
 品牌	pbpd	9
 品味	pbww	9
-平放	pkfh	9
-平服	pkfu	9
-平崗	pkgh	9
-平寧	pknk	9
-平生	pkug	9
-平素	pksu	9
-平陽	pkeh	9
-平魚	pkeu	9
 屏風	pkfs	9
 瓶梗	pkgg	9
-平靜	pkjk	10
 瓶頸	pkjk	9
 評估	pkgu	10
 評酷	pkku	9
@@ -19291,9 +19522,9 @@ $	;my	10
 破損	posy	9
 頗費	pofw	9
 撲哧	puii	9
-撲出	puiu	9
+撲出	pui	9
 撲克	puke	9
-撲了	pule	9
+撲了	pul	9
 撲去	puqu	9
 撲朔	puao	9
 撲騰	putg	9
@@ -19313,28 +19544,10 @@ $	;my	10
 樸刀	podc	9
 樸康	pukh	9
 瀑風	pufs	9
-七彩	qicd	9
 啓程	qiig	7
-七尺	qiii	9
-七大	qida	9
-七弟	qidi	9
-七點	qidm	9
-七福	qifu	9
-七怪	qigk	10
-七號	qihc	9
-七名	qimk	9
-七品	qipb	9
 蹊蹺	qiqn	9
-七情	qiqk	9
-七聖	qiug	9
-七臺	qitd	9
-七条	qitn	7
 起跳	qitn	7
-七星	qixk	9
 齊腰	qiyc	9
-七月	qiyt	9
-七中	qios	9
-七重	qiis	9
 沏茶	qiia	9
 妻兄	qixs	9
 妻子	qizb	10
@@ -19355,7 +19568,7 @@ $	;my	10
 其對	qidv	9
 其反	qifj	9
 其實	qiup	10
-其他	qita	9
+其她	qita	9
 其外	qiwd	9
 其用	qiys	9
 其餘	qieu	9
@@ -19370,7 +19583,7 @@ $	;my	10
 奇葩	qipa	10
 奇松	qiss	9
 奇聞	qiwf	9
-歧出	qiiu	9
+歧出	qii	9
 歧視	qius	9
 畦丁	qidk	9
 棋魂	qihy	9
@@ -19417,7 +19630,7 @@ $	;my	10
 千龍	qmls	9
 千牛	qmnq	9
 千千	qmqm	9
-千人	qmrf	9
+千人	qmr	9
 千山	qmaj	9
 千條	qmtn	9
 千網	qmwm	9
@@ -19431,7 +19644,7 @@ $	;my	10
 簽證	qmog	9
 前濱	qmbh	9
 前塵	qmif	9
-前的	qmde	10
+前的	qmd	10
 前端	qmdr	10
 前方	qmfh	10
 前兩	qmll	9
@@ -19453,7 +19666,7 @@ $	;my	10
 乾隆	qmls	10
 乾羅	qmlo	9
 潛力	qmli	9
-潛沒	qmmw	9
+潛沒	qmm	9
 潛熱	qmre	9
 黔南	qmnj	9
 錢嗎	qmma	9
@@ -19465,7 +19678,6 @@ $	;my	10
 淺杏	qmxk	9
 遣悶	qmmf	9
 欠產	qmij	9
-欠當	qmdh	9
 欠錢	qmqm	9
 欠缺	qmqt	10
 嵌套	qmtc	9
@@ -19499,15 +19711,11 @@ $	;my	10
 喬曼	qnmj	9
 喬尼	qnni	9
 喬外	qnwd	9
-喬一	qnei	9
 僑興	qnxk	9
 蕎麥	qnmd	9
 瞧瞧	qnqn	9
 巧雲	qney	9
 俏貨	qnho	9
-俏麼	qnyc	9
-俏麼	qnme	9
-俏三	qnsj	9
 撬鎖	qnso	9
 翹課	tcxt	9
 且能	qpng	9
@@ -19525,15 +19733,14 @@ $	;my	10
 青蛤	qkge	9
 青睞	qkld	9
 青老	qklc	9
-青了	qkle	9
+青了	qkl	9
 青雀	qkqt	9
 青澀	qkse	9
 青藤	qktg	9
-青縣	qkxm	9
 青衣	qkei	9
 清澈	qkie	9
 清脆	qkcv	9
-清的	qkde	9
+清的	qkd	9
 清靜	qkjk	9
 清冷	qklg	9
 清沁	qkqb	9
@@ -19579,7 +19786,7 @@ $	;my	10
 驅動	quds	10
 瞿麥	qumd	9
 取償	quih	9
-取寵	quis	9
+取寵	quis	7
 取締	qudi	10
 取火	quho	9
 取巧	quqn	9
@@ -19589,7 +19796,7 @@ $	;my	10
 去除	quiu	10
 去打	quda	9
 去冬	quds	9
-去了	qule	10
+去了	qul	10
 去年	qunm	10
 去搶	quql	9
 去請	quqk	9
@@ -19612,7 +19819,7 @@ $	;my	10
 全信	qrxb	9
 泉山	qraj	9
 泉聲	qrug	9
-泉水	qruv	10
+泉水	qruv	7
 銓敘	qrxu	9
 權磊	qrlw	9
 權力	qrli	10
@@ -19636,30 +19843,30 @@ $	;my	10
 燃點	rjdm	9
 染得	rjde	9
 攘羊	rheh	9
-讓他	rhta	10
+讓她	rhta	10
 讓我	rhwo	9
 繞過	rcgo	9
 繞軋	rcoa	9
 熱戰	revj	9
-人啊	rfaa	9
-人道	rfdc	9
-人機	rfji	10
-人類	rflw	9
-人倫	rfly	9
-人橋	rfqn	9
-人卻	rfqt	9
-人生	rfug	10
-人事	rfus	9
-人爲	rfww	10
-人文	rfwf	10
-人問	rfwf	9
-人物	rfwt	10
-人性	rfxk	10
-人學	rfxt	9
-人證	rfog	9
-人之	rfvi	9
-人主	rfvu	9
-忍了	rfle	9
+人啊	raa	9
+人道	rdc	9
+人機	rji	10
+人類	rlw	9
+人倫	rly	9
+人橋	rqn	9
+人卻	rqt	9
+人生	rug	10
+人事	rus	9
+人爲	rww	10
+人文	rwf	10
+人問	rwf	9
+人物	rwt	10
+人性	rxk	10
+人學	rxt	9
+人證	rog	9
+人之	rvi	9
+人主	rvu	9
+忍了	rfl	9
 忍受	rfuz	10
 任何	rwhe	10
 任委	rwww	9
@@ -19689,7 +19896,7 @@ $	;my	10
 如何	ruhe	9
 如題	ruti	9
 如同	ruts	9
-如有	ruyz	9
+如有	ruy	9
 儒艮	rugf	9
 汝城	ruig	9
 乳白	rubd	9
@@ -19705,20 +19912,19 @@ $	;my	10
 瑞青	rvqk	9
 瑞秋	rvqq	9
 潤生	ryug	9
-若是	rous	10
+若是	rou	10
 若狹	roxx	9
 若狹	roxx	9
-若需	roxu	9
 箬鰨	rota	9
 鰓腔	sdql	9
 賽博	sdbo	9
-三才	sjcd	9
+三才	sjc	9
 三冊	sjce	9
 三叉	sjia	9
 三成	sjig	9
 三春	sjiy	9
 三等	sjdg	9
-散發	sjfa	9
+散發	sjf	9
 三喬	sjqn	9
 三萬	sjwj	9
 三旺	sjwh	9
@@ -19729,7 +19935,6 @@ $	;my	10
 喪夫	shfu	9
 騷擾	scrc	10
 掃貨	scho	9
-色場	seih	9
 色醇	seiy	9
 色球	seqq	9
 色聽	setk	9
@@ -19745,17 +19950,17 @@ $	;my	10
 沙溪	uaxi	9
 刹車	uaie	9
 剎時	uaus	9
-殺了	uale	10
+殺了	ual	10
 殺去	uaqu	9
 殺死	uasi	10
 紗窗	uail	9
-啥的	uade	10
-傻了	uale	9
+啥的	uad	10
+傻了	ual	9
 傻子	uazb	10
 唼血	uaxt	9
 山北	ajbw	9
 山崩	ajbg	9
-山不	ajbu	9
+山不	ajb	9
 山場	ajih	9
 山村	ajcy	9
 山孚	ajfu	9
@@ -19789,18 +19994,18 @@ $	;my	10
 商行	ahhh	9
 傷害	ahhd	10
 晌覺	ahjt	9
-上次	ahci	10
+上次	aci	10
 賞賜	ahci	9
 賞析	ahxi	9
-上場	ahih	9
-上車	ahie	9
-上服	ahfu	9
-上京	ahjk	9
-上述	ahau	9
-上鎖	ahso	9
-上限	ahxm	10
-上線	ahxm	9
-上星	ahxk	9
+上場	aih	9
+上車	aie	9
+上服	afu	9
+上京	ajk	9
+上述	aau	9
+上鎖	aso	9
+上限	axm	10
+上線	axm	9
+上星	axk	9
 尚未	ahww	9
 捎色	ucse	9
 稍長	ucvh	9
@@ -19814,7 +20019,7 @@ $	;my	10
 少喝	uche	9
 少幾	ucji	9
 少刻	ucke	9
-少了	ucle	10
+少了	ucl	10
 少奇	ucqi	9
 少日	ucri	9
 少帥	ucak	9
@@ -19844,15 +20049,15 @@ $	;my	10
 申請	ufqk	10
 審閱	ufyt	9
 申張	ufvh	9
-伸出	ufiu	10
-伸舌	ufue	9
+伸出	ufi	10
+神社	ufue	7
 伸着	ufoe	9
 身份	ufff	9
-身感	ufgj	9
+深感	ufgj	9
 身旁	ufph	10
-身世	ufus	10
+審視	ufus	10
 身外	ufwd	9
-身亡	ufwh	10
+身亡	ufwh	7
 身姿	ufzi	9
 身子	ufzb	10
 呻吟	ufyb	9
@@ -19872,7 +20077,7 @@ $	;my	10
 深重	ufos	9
 什麼	ufme	9
 神丹	ufdj	7
-神的	ufde	10
+神的	ufd	10
 神經	ufjk	10
 神奇	ufqi	10
 神色	ufse	9
@@ -19884,7 +20089,7 @@ $	;my	10
 審判	ufpj	10
 審問	ufwf	9
 甚少	ufuc	9
-甚是	ufus	9
+甚是	ufu	9
 甚至	ufvi	10
 腎康	ufkh	9
 腎孔	ufks	9
@@ -19900,7 +20105,7 @@ $	;my	10
 生活	ugho	9
 生薑	ugjl	9
 生角	ugjn	9
-生理	ugli	10
+胜利	ugli	10
 生命	ugmk	9
 生氣	ugqi	10
 生生	ugug	9
@@ -19908,7 +20113,7 @@ $	;my	10
 生態	ugtd	10
 生疼	ugtg	9
 生土	ugtu	9
-生肖	ugxn	9
+生效	ugxn	9
 生性	ugxk	9
 生意	ugei	10
 聲場	ugih	9
@@ -19919,8 +20124,7 @@ $	;my	10
 剩菜	ugcd	9
 剩餘	ugeu	10
 勝絕	ugjt	9
-聖芭	ugba	9
-聖塔	ugta	9
+聖塔	ugta	7
 聖壇	ugtj	9
 等下	dgxx	9
 失分	usff	9
@@ -19936,30 +20140,16 @@ $	;my	10
 施壓	usya	9
 施展	usvj	11
 屍潮	usic	9
-屍骨	usgu	10
-屍首	usuz	10
+事故	usgu	10
 屍體	usti	10
 師父	usfu	9
 師傅	usfu	10
-獅跑	uspc	9
 詩刊	uskj	9
-詩人	usrf	9
-詩瑞	usrv	9
+詩人	usr	9
 濕軟	usrr	9
 濕潤	usry	10
-十成	usig	9
-十番	usfj	9
-十分	usff	10
 適逢	usfs	7
 侍奉	usfs	6
-十排	uspd	9
-十親	usqb	9
-十人	usrf	9
-十日	usri	9
-十鐵	ustp	9
-十餘	useu	9
-十招	usoc	9
-十足	uszu	10
 石凳	usdg	9
 石佛	usfo	9
 石崗	usgh	9
@@ -19972,15 +20162,15 @@ $	;my	10
 拾輟	usio	9
 食品	uspb	9
 食譜	uspu	11
-食物	uswt	10
-時辰	usif	10
-時代	usdd	10
-時候	ushz	10
-時間	usjm	10
-時期	usqi	10
-時日	usri	10
-時臺	ustd	9
-時政	usog	9
+事物	uswt	10
+時辰	ujif	10
+時代	ujdd	10
+時候	ujhz	10
+時間	ujjm	10
+時期	ujqi	10
+時日	ujri	10
+時態	ujtd	9
+時政	ujog	9
 實歸	upgv	9
 實際	upji	10
 實力	upli	10
@@ -19989,12 +20179,12 @@ $	;my	10
 實如	upru	9
 實體	upti	9
 實現	upxg	10
-實在	upzd	10
-實在	upzd	9
+實在	upz	10
+實在	upz	9
 實證	upog	10
-識你	usni	9
+識你	usn	9
 識譜	uspu	10
-識他	usta	9
+識她	usta	9
 史丹	usdj	9
 史前	usqm	9
 史實	usup	9
@@ -20009,14 +20199,14 @@ $	;my	10
 世昌	usih	9
 世芳	usfh	9
 世紀	usji	9
-世家	usjx	10
+施加	usjx	10
 世界	usjp	9
 世譜	uspu	9
 世族	uszu	9
 仕途	ustu	9
 市場	usih	10
 似曾	sicg	9
-似的	side	10
+似的	sid	10
 似乎	sihu	9
 似夢	simg	9
 似能	sing	9
@@ -20025,20 +20215,6 @@ $	;my	10
 事物	uswt	9
 事物	uswt	9
 事業	usye	11
-是吧	usba	10
-是從	uscs	10
-是的	usde	10
-是否	usfz	9
-是個	usge	10
-是嗎	usma	10
-是男	usnj	9
-是能	usng	10
-是你	usni	10
-是人	usrf	10
-是他	usta	10
-是想	usxl	10
-是有	usyz	10
-是指	usvi	10
 視頻	uspb	10
 視野	usye	10
 試產	usij	9
@@ -20060,7 +20236,6 @@ $	;my	10
 手段	uzdr	9
 手機	uzji	10
 手拿	uzna	9
-手上	uzah	10
 手下	uzxx	9
 手中	uzos	10
 首都	uzdu	9
@@ -20148,24 +20323,24 @@ $	;my	10
 水面	uvmm	10
 水母	uvmu	10
 水沐	uvmu	9
-水平	uvpk	9
+水平	uvp	9
 水汀	uvtk	9
 水突	uvtu	9
 水文	uvwf	9
 順航	ayhh	9
-順和	ayht	9
+順和	ayh	9
 順開	aykd	9
 順烤	aykc	9
 說到	aodc	9
 說道	aodc	10
-說的	aode	10
-說點	aodm	9
+說的	aod	10
+說點	aodm	7
 說過	aogo	9
 說客	aoke	9
 說哭	aoku	9
-說了	aole	9
+說了	aol	9
 說起	aoqi	10
-說他	aota	10
+說她	aota	10
 說我	aowo	9
 說與	aoeu	9
 說中	aoos	9
@@ -20177,10 +20352,10 @@ $	;my	10
 私闖	siil	9
 私地	sidi	9
 私分	siff	9
-私了	siln	9
-私聊	siln	10
+私了	siln	6
+私聊	siln	7
 私情	siqk	9
-私人	sirf	10
+私人	sir	10
 私吞	sity	9
 私下	sixx	9
 私信	sixb	9
@@ -20225,9 +20400,9 @@ $	;my	10
 宋生	ssug	9
 宋偉	ssww	9
 宋五	sswu	9
-送出	ssiu	9
+送出	ssi	9
 送煤	ssmw	9
-送你	ssni	9
+送你	ssn	9
 送藥	ssyc	9
 颂声	ssug	10
 搜腸	szih	9
@@ -20237,7 +20412,7 @@ $	;my	10
 蘇肝	sugj	9
 蘇萌	sumg	9
 蘇尼	suni	9
-蘇平	sugg	9
+蘇平	sup	9
 蘇蘇	susu	9
 蘇雲	suey	9
 俗稱	suig	10
@@ -20247,17 +20422,17 @@ $	;my	10
 速配	supw	9
 速戰	suvj	9
 宿衛	suww	9
-宿主	suvu	10
+訴諸	suvu	10
 粟米	sumi	9
 橚矗	suiu	9
 酸湯	srth	9
-算出	sriu	9
-算了	srle	9
+算出	sri	9
+算了	srl	9
 算術	srau	9
-算他	srta	9
+算她	srta	9
 雖把	svba	9
-雖不	svbu	9
-雖是	svus	9
+雖不	svb	9
+雖是	svu	9
 隨筆	svbi	9
 隨便	svbm	10
 隨調	svtn	9
@@ -20273,39 +20448,36 @@ $	;my	10
 歲月	svyt	10
 穗百	svbd	9
 孫孫	sysy	9
-孫文	sywf	9
+孫文	sywf	7
 縮編	sobm	9
 縮尺	soii	9
 縮酮	sots	9
-所穿	soir	9
-所起	soqi	9
-所欠	soqm	9
-所幸	soxk	9
-所以	soei	9
-所有	soyz	9
+所穿	sir	9
+所起	sqi	9
+所欠	sqm	9
+所幸	sxk	9
+所以	sec	9
 索賄	sohv	9
 鎖孔	soks	9
-他稱	taif	9
-他成	taig	9
-他從	tacs	10
-他的	tade	10
-他法	tafa	9
-他叫	tajn	9
-他就	tajq	10
-他看	takj	9
-他可	take	9
-他嗎	tama	10
-他們	tamf	10
-他瞧	taqn	9
-他卻	taqt	10
-他時	taus	9
-他是	taus	10
-他說	taao	10
-他也	taye	10
-他又	tayz	10
-他在	tazd	10
+她稱	taif	9
+她成	taig	9
+她從	tacs	10
+她的	tad	10
+她法	tafa	9
+她叫	tajn	9
+她就	taj	10
+她看	takj	9
+她可	tak	9
+她嗎	tama	10
+她們	tamf	10
+她瞧	taqn	9
+她卻	taqt	10
+她是	tau	10
+她說	taao	10
+她也	taye	10
+她又	tayz	10
+她在	taz	10
 趿村	tkkh	9
-塔康	takh	9
 拓賽	tosd	9
 榻前	taqm	9
 太高	tdgc	10
@@ -20313,7 +20485,7 @@ $	;my	10
 抬扛	tdkh	9
 苔岑	tdcf	9
 臺地	tddi	9
-臺釣	tddn	9
+臺釣	tddn	7
 臺獨	tddu	9
 臺灣	tdwj	9
 太草	tdcc	9
@@ -20363,7 +20535,7 @@ $	;my	10
 燙瘡	dhil	9
 燙臺	thtd	9
 掏澄	tcig	9
-掏出	tciu	10
+掏出	tci	10
 桃仙	tcxm	9
 桃鱘	tcxy	9
 陶都	tcdu	9
@@ -20383,14 +20555,14 @@ $	;my	10
 膯食	tgus	9
 藤蔓	tgwj	9
 騰身	tguf	9
-剔出	tiiu	9
+剔出	tii	9
 剔除	tiiu	9
 踢得	tide	9
 踢飛	tifw	9
 踢開	tikd	9
 踢去	tiqu	9
 踢傷	tiah	9
-提出	tiiu	10
+提出	tii	10
 提款	tikr	9
 提莫	timo	9
 提挈	tiqp	9
@@ -20407,7 +20579,6 @@ $	;my	10
 替下	tixx	9
 天呈	tmig	9
 天芳	tmfh	9
-天飛	tmfw	9
 天分	tmff	9
 天蓋	tmgd	9
 天罡	tmgh	9
@@ -20423,12 +20594,12 @@ $	;my	10
 天能	tmng	9
 天氣	tmqi	9
 天傷	tmah	9
-天上	tmah	10
+天上	tma	10
 天神	tmuf	9
 天臺	tmtd	10
 天條	tmtn	7
 天真	tmof	9
-填個	tmge	9
+填個	tmg	9
 舔她	tmta	9
 挑撥	tnbo	9
 挑土	tntu	9
@@ -20440,14 +20611,14 @@ $	;my	10
 跳得	tnde	9
 跳高	tngc	9
 跳空	tnks	9
-貼個	tpge	9
+貼個	tpg	9
 貼權	tpqr	9
 鐵鴿	tpge	10
 鐵凝	tpnk	9
 聽唱	tkih	9
 聽懂	tkds	9
 聽覺	tkjt	9
-聽了	tkle	10
+聽了	tkl	10
 聽厭	tkej	9
 聽月	tkyt	9
 廳中	tkos	9
@@ -20475,30 +20646,29 @@ $	;my	10
 同化	tshx	10
 同居	tsju	9
 同盟	tsmg	9
-同你	tsni	9
+同你	tsn	9
 同情	tsqk	10
 同慶	tsqk	9
 同色	tsse	9
-同時	tsus	10
 同事	tsus	9
 同問	tswf	9
 同我	tswo	9
 同屋	tswu	9
 同樣	tseh	9
 同意	tsei	10
-同志	tsvi	10
+通知	tsvi	10
 童話	tshx	9
 銅焊	tshj	9
 銅壺	tshu	9
 銅錢	tsqm	9
-銅亭	tstk	9
+銅亭	tstk	7
 筒燈	tsdg	9
 筒瓦	tswa	9
 統克	tske	9
 統率	tsak	9
 統攝	tsue	9
 統萬	tswj	9
-統一	tsei	9
+統一	tse	9
 痛陳	tsif	9
 痛處	tsiu	9
 痛恨	tshf	9
@@ -20506,7 +20676,7 @@ $	;my	10
 痛疼	tstg	9
 偷窺	tzkv	9
 投降	tzxl	9
-投了	tzle	10
+太早了	tdzcl	10
 頭顱	tzlu	10
 頭帽	tzmc	9
 頭面	tzmm	9
@@ -20526,17 +20696,16 @@ $	;my	10
 土坑	tukg	9
 土丘	tuqq	9
 土塘	tuth	9
-吐出	tuiu	9
+吐出	tui	9
 團樂	trle	9
 推導	tvdc	9
 推倒	tvdc	10
 推究	tvjq	9
 推普	tvpu	9
 推着	tvoe	9
-推知	tvvi	9
 頹然	tvrj	9
 腿部	tvbu	9
-退出	tviu	10
+退出	tvi	10
 退費	tvfw	9
 退淨	tvjk	9
 退居	tvju	9
@@ -20544,7 +20713,7 @@ $	;my	10
 涒鄰	tylb	9
 屯軍	tyjy	9
 拖垮	tokx	9
-拖遝	tota	9
+拖沓	tota	9
 拖堂	toth	9
 脫掉	todn	9
 脫肛	togh	9
@@ -20568,7 +20737,7 @@ $	;my	10
 外形	wdxk	10
 灣畔	wjpj	9
 完骨	wjgu	9
-完了	wjle	10
+玩樂	wjle	10
 完全	wjqr	9
 玩笑	wjxn	9
 玩意	wjei	10
@@ -20578,18 +20747,18 @@ $	;my	10
 宛若	wjro	9
 挽救	wjjq	10
 晚近	wjjb	9
-晚了	wjle	9
+晚了	wjl	9
 晚些	wjxp	9
 碗碟	wjdp	9
 萬春	wjiy	9
 萬根	wjgf	9
-萬傑	wjjp	9
+完結	wjjp	9
 萬斤	wjjb	6
 萬金	wjjb	7
 萬京	wjjk	9
 萬林	wjlb	9
 萬流	wjlq	9
-萬品	wjpb	9
+萬品	wjpb	7
 萬迅	wjxy	9
 萬隻	wjvi	9
 亡母	whmu	9
@@ -20604,15 +20773,15 @@ $	;my	10
 王爺	whye	9
 王者	whoe	9
 往年	whnm	9
-往上	whah	9
+往上	wha	9
 網帶	wmdd	9
 網聊	wmln	9
 網鳥	wmnn	9
-網上	wmah	10
+網上	wma	10
 網頁	wmye	10
 網友	wmyz	9
 忘掉	whdn	10
-忘了	whle	10
+忘了	whl	10
 旺城	whig	9
 忘記	whji	9
 汪淼	whmn	7
@@ -20640,7 +20809,7 @@ $	;my	10
 微信	wwxb	10
 為怪	wygk	9
 為何	wyhe	9
-為了	wyle	10
+為樂	wyle	10
 為什	wyuf	10
 為天	wytm	9
 為伍	wywu	9
@@ -20648,11 +20817,11 @@ $	;my	10
 桅燈	wwdg	9
 桅杠	wwgh	9
 唯物	wwwt	10
-唯一	wwei	10
+唯一	wwe	10
 圍墾	wwkf	9
 圍困	wwky	9
 圍擒	wwqb	9
-爲你	wwni	9
+爲你	wwn	9
 維度	wwdu	10
 維根	wwgf	9
 維護	wwhu	9
@@ -20666,13 +20835,13 @@ $	;my	10
 未成	wwig	9
 未對	wwdv	9
 未分	wwff	9
-未可	wwke	9
+未可	wwk	9
 未虧	wwkv	9
 未來	wwld	9
 未了	wwln	9
 未門	wwmf	9
 未能	wwng	9
-未上	wwah	9
+未上	wwa	9
 未聞	wwwf	9
 位於	wweu	9
 位置	wwvi	10
@@ -20687,7 +20856,7 @@ $	;my	10
 衛魯	wwlu	9
 衛衣	wwei	9
 魏闕	wwqt	9
-溫床	wfil	9
+溫床	wfil	7
 溫服	wffu	9
 溫良	wfll	9
 溫泉	wfqr	9
@@ -20710,8 +20879,8 @@ $	;my	10
 問問	wfwf	10
 問斬	wfvj	9
 翁蛤	wgge	9
-倭人	worf	9
-我才	wocd	10
+倭人	wor	9
+我才	wc	10
 我成	woig	9
 我很	wohf	10
 我見	wojm	9
@@ -20720,15 +20889,15 @@ $	;my	10
 我們	womf	10
 我瞄	womn	9
 我呸	wopw	9
-我人	worf	11
+我人	wor	11
 我忍	worf	10
-我上	woah	9
-我是	wous	10
+我上	woa	9
+我是	wou	10
 我聞	wowf	9
 我問	wowf	10
 我又	woyz	10
-我在	wozd	10
-沃平	wopk	9
+我在	woz	10
+沃平	wop	9
 巫師	wuus	10
 屋子	wuzb	9
 無敵	wudi	10
@@ -20745,7 +20914,7 @@ $	;my	10
 吳胖	wuph	9
 吳橋	wuqn	9
 吳三	wusj	9
-吳語	wueu	10
+無語	wueu	10
 無塵	wuif	9
 無法	wufa	9
 無分	wuff	9
@@ -20763,15 +20932,15 @@ $	;my	10
 無憑	wupk	9
 無窮	wuqs	9
 無權	wuqr	9
-無人	wurf	9
+無人	wur	9
 無聞	wuwf	9
 無影	wuek	9
-無語	wueu	9
-五筆	wubi	10
-五根	wugf	9
-五更	wugg	9
-五塊	wukk	9
-五牛	wunq	9
+吳語	wueu	9
+五筆	w;bi	10
+五根	w;gf	9
+五更	w;gg	9
+五塊	w;kk	9
+五牛	w;nq	9
 午覺	wujt	9
 伍京	wujk	9
 武岡	wugh	9
@@ -20811,7 +20980,7 @@ $	;my	10
 西泉	xiqr	9
 西曬	xiud	9
 犧牲	xiug	10
-西塘	xith	9
+西塘	xith	7
 西貒	xitr	9
 西香	xixl	9
 西亞	xiya	9
@@ -20827,7 +20996,7 @@ $	;my	10
 悉尼	xini	10
 烯醇	xiiy	9
 稀缺	xiqt	9
-稀松	xiss	9
+稀松	xiss	7
 翕動	xids	9
 犀浦	xipu	9
 溪居	xiju	9
@@ -20852,7 +21021,7 @@ $	;my	10
 洗禮	xili	9
 洗脫	xito	9
 喜好	xihc	9
-喜可	xike	9
+喜可	xik	9
 喜快	xikk	9
 系垂	xiiv	9
 系囚	xiqq	9
@@ -20883,18 +21052,17 @@ $	;my	10
 下次	xxci	10
 瑕疵	xxci	9
 下蛋	xxdj	9
-下的	xxde	10
+下的	xxd	10
 下毒	xxdu	11
 下肚	xxdu	10
 下崗	xxgh	10
 下港	xxgh	9
 下來	xxld	10
 下列	xxlp	9
-下令	xxlk	8
 下落	xxlo	10
 下馬	xxma	9
-下木	xxmu	9
-下去	xxqu	10
+新項目	xxmu	9
+轄區	xxqu	10
 下闕	xxqt	9
 下位	xxww	9
 下午	xxwu	10
@@ -20907,7 +21075,7 @@ $	;my	10
 仙居	xmju	9
 仙橋	xmqn	9
 仙泉	xmqr	9
-仙人	xmrf	9
+仙人	xmr	9
 嫺熟	xmau	10
 仙術	xmau	9
 仙湯	xmth	9
@@ -20919,7 +21087,7 @@ $	;my	10
 先生	xmug	10
 先王	xmwh	9
 先驗	xmej	10
-先有	xmyz	10
+先有	xmy	10
 先知	xmvi	9
 氙燈	xmdg	9
 掀起	xmqi	9
@@ -20940,8 +21108,6 @@ $	;my	10
 現實	xgup	10
 現實	xgup	9
 現象	xgxl	10
-現在	xgzd	9
-現在	xgzd	9
 線角	xmjn	9
 線面	xmmm	9
 線描	xmmn	9
@@ -20974,15 +21140,15 @@ $	;my	10
 相於	xleu	9
 相遇	xleu	9
 香腸	xlih	9
-香村	xlcy	9
-香九	xljq	9
+鄉村	xlcy	9
+相救	xljq	9
 香牌	xlpd	9
 香蹺	xlqn	9
-香青	xlqk	9
-香雪	xlxt	9
-香葉	xlye	9
-鄉下	xlxx	10
-湘東	xlds	9
+詳情	xlqk	9
+想學	xlxt	9
+鄉野	xlye	9
+向下	xlxx	10
+向東	xlds	9
 享福	xlfu	9
 享樂	xlle	10
 想必	xlbi	10
@@ -20994,11 +21160,11 @@ $	;my	10
 想像	xlxl	10
 想要	xlyc	9
 想找	xloc	9
-響了	xlle	9
+響了	xll	9
 響聲	xlug	9
 向前	xlqm	9
 向群	xlqy	9
-向他	xlta	10
+向她	xlta	10
 向我	xlwo	10
 向着	xloe	10
 巷子	xlzb	9
@@ -21018,45 +21184,9 @@ $	;my	10
 簫臺	xntd	9
 消沉	xnif	9
 囂俗	xnsu	9
-小產	xnij	9
-小腸	xnih	9
 笑場	xnih	10
-小廠	xnih	11
-小車	xnie	9
-小成	xnig	9
-小池	xnii	9
-小春	xniy	9
-小德	xnde	9
-小地	xndi	9
-小的	xnde	10
-小燈	xndg	9
-小弟	xndi	10
-小鶴	xnhe	9
-小姐	xnjp	10
-小景	xnjk	10
-小九	xnjq	9
-小絕	xnjt	10
-小楷	xnkd	7
-小看	xnkj	9
-小坑	xnkg	9
-小塊	xnkk	9
-小虧	xnkv	9
 消遣	xnqm	9
-小巧	xnqn	10
-小瓊	xnqs	9
-小雀	xnqt	9
-小群	xnqy	9
-小人	xnrf	10
-小聲	xnug	10
-小時	xnus	9
-小蘇	xnsu	10
-小孫	xnsy	9
-小攤	xntj	9
-小鳀	xnti	9
-小圖	xntu	9
 消亡	xnwh	9
-小戲	xnxi	9
-小鎮	xnof	9
 肖翹	xnqn	9
 校服	xnfu	10
 校准	jnvy	9
@@ -21065,8 +21195,6 @@ $	;my	10
 笑哭	xnku	9
 笑死	xnsi	9
 效益	xnei	10
-些人	xprf	9
-些小	xpxn	9
 楔形	xpxk	9
 歇涼	xpll	9
 歇業	xpye	6
@@ -21080,7 +21208,7 @@ $	;my	10
 斜角	xpjn	9
 斜靠	xpkc	9
 斜睨	xpni	9
-斜碰	xppg	9
+寫個	xppg	9
 斜紋	xpwf	9
 斜線	xpxm	9
 頡滑	xphx	9
@@ -21090,8 +21218,8 @@ $	;my	10
 諧程	xpig	9
 攜帶	xpdd	9
 寫成	xpig	10
-寫的	xpde	10
-寫就	xpjq	9
+寫的	xpd	10
+寫就	xpj	9
 寫文	xpwf	10
 寫着	xpoe	9
 泄撒	xpsa	9
@@ -21115,7 +21243,7 @@ $	;my	10
 新順	xbay	9
 新宿	xbsu	9
 信任	xbrw	10
-信上	xbah	9
+信上	xba	9
 信徒	xbtu	9
 信息	xbxi	10
 星港	xkgh	7
@@ -21130,9 +21258,9 @@ $	;my	10
 行燈	xkdg	9
 行動	xkds	9
 行進	xkjb	9
-行了	xkle	10
-行南	xknj	9
-行能	xkng	9
+行乐	xkle	10
+型男	xknj	9
+性能	xkng	9
 行唐	hhth	9
 行血	hhxt	9
 行業	hhye	9
@@ -21141,7 +21269,7 @@ $	;my	10
 形成	xkig	9
 形式	xkus	10
 醒覺	xkjt	9
-醒了	xkle	9
+醒了	xkl	9
 杏福	xkfu	9
 杏幹	xkgj	9
 幸存	xkcy	9
@@ -21154,7 +21282,7 @@ $	;my	10
 性奴	xknu	9
 性虐	xknt	9
 性質	xkvi	10
-悻然	xkrj	9
+悻然	xkrj	7
 興達	xkda	9
 興販	xkfj	9
 興奮	xkff	10
@@ -21192,7 +21320,7 @@ $	;my	10
 虛頁	xuye	9
 虛戰	xuvj	9
 虛職	xuvi	9
-須發	xufa	9
+須發	xuf	9
 須將	xujl	9
 須知	xuvi	9
 需要	xuyc	9
@@ -21229,7 +21357,7 @@ $	;my	10
 學分	xtff	9
 學科	xtke	10
 學院	xtyr	9
-學着	xtoe	10
+學者	xtoe	10
 雪場	xtih	9
 雪車	xtie	9
 雪克	xtke	9
@@ -21256,7 +21384,6 @@ $	;my	10
 迅猛	xymg	10
 迅影	xyek	7
 殉難	xynj	9
-訊拓	xyto	9
 丫頭	yatz	9
 丫丫	yaya	9
 押差	yaid	9
@@ -21303,7 +21430,7 @@ $	;my	10
 煙廠	ejih	9
 煙塵	ejif	9
 煙墩	ejdy	9
-煙發	ejfa	9
+煙發	ejf	9
 煙缸	ejgh	9
 煙民	ejmb	9
 煙臺	ejtd	9
@@ -21318,7 +21445,7 @@ $	;my	10
 延森	ejsf	9
 言詞	ejci	9
 言過	ejgo	7
-言和	ejht	9
+言和	ejh	9
 言外	ejwd	9
 言語	ejeu	9
 岩層	ejcg	9
@@ -21335,7 +21462,7 @@ $	;my	10
 沿街	ejjp	9
 沿着	ejoe	9
 沿著	ejvo	9
-研發	ejfa	10
+研發	ejf	10
 研究	ejjq	9
 研判	ejpj	9
 顏芳	ejfh	9
@@ -21394,7 +21521,7 @@ $	;my	10
 陽福	ehfu	9
 陽泉	ehqr	9
 陽山	ehaj	9
-陽臺	ehtd	10
+陽臺	ehtd	7
 陽天	ehtm	9
 揚麥	ehmd	9
 養生	ehug	10
@@ -21405,7 +21532,7 @@ $	;my	10
 仰望	ejwh	9
 仰望	ehwh	9
 氧氣	ehqi	10
-養出	ehiu	9
+養出	ehi	9
 養畜	ehiu	10
 養兔	ehtu	9
 癢覺	ehjt	9
@@ -21419,13 +21546,13 @@ $	;my	10
 搖曳	ycye	9
 遙遙	ycyc	9
 瑤臺	yctd	9
-舀出	yciu	9
+舀出	yci	9
 要辦	ycbj	9
 要被	ycbw	10
 要差	ycia	9
 要成	ycig	9
 要分	ycff	9
-要個	ycge	9
+要個	ycg	9
 要官	ycgr	9
 要交	ycjn	9
 要哭	ycku	9
@@ -21434,9 +21561,9 @@ $	;my	10
 要麼	ycme	10
 要錢	ycqm	9
 要求	ycqq	9
-要是	ycus	10
+要是	ycu	10
 要填	yctm	9
-要小	ycxn	9
+要小	ycx	9
 要脅	ycxp	10
 要尋	ycxy	9
 要旨	ycvi	9
@@ -21444,12 +21571,10 @@ $	;my	10
 藥店	ycdm	9
 藥片	ycpm	9
 鑰匙	ycus	9
-耶賓	yebb	9
 也許	yexu	9
 也看	yekj	9
 也少	yeuc	9
-也在	yeey	10
-也在	yezd	9
+也在	yez	10
 冶春	yeiy	9
 野生	yeug	9
 夜讀	yedu	9
@@ -21463,93 +21588,7 @@ $	;my	10
 葉韻	yeey	9
 業火	yeho	10
 業力	yeli	10
-一般	eibj	10
-一輩	eibw	9
-一筆	eibi	9
-一邊	eibm	10
-一波	eibo	9
-一操	eicc	9
-一層	eicg	9
-一廠	eiih	9
-一超	eiic	9
-一出	eiiu	9
-一處	eiiu	10
-一串	eiir	10
-一次	eici	10
-一簇	eicu	9
-一點	eidm	9
-一定	eidk	10
-一棟	eids	9
-一堆	eidv	10
-一番	eifj	10
-一副	eifu	9
-一個	eige	11
-一根	eigf	10
-一更	eigg	9
-一股	eigu	10
-一亨	eihg	9
-一壞	eihk	9
-一會	eihv	10
-一件	eijm	9
-一街	eijp	9
-一姐	eijp	10
-一句	eiju	10
-一看	eikj	10
-一塊	eikk	9
-一類	eilw	10
-一輛	eill	9
-一溜	eilq	9
-一輪	eily	10
-一落	eilo	9
-一門	eimf	10
-一面	eimm	9
-一名	eimk	10
-一盆	eipf	9
-一匹	eipi	10
-一片	eipm	10
-一瓶	eipk	9
-一撲	eipu	9
-一起	eiqi	10
-一腔	eiql	9
-一槍	eiql	10
-一鍬	eiqn	9
-一瞧	eiqn	9
-一切	eiqp	10
-一球	eiqq	9
-一曲	eiqu	9
-一圈	eiqr	10
-一群	eiqy	10
-一人	eirf	10
-一撒	eisa	9
-一閃	eiaj	9
-一勺	eiuc	9
-一身	eiuf	10
-一生	eiug	9
-一時	eius	9
-一手	eiuz	10
-一雙	eial	10
-一套	eitc	10
-一特	eite	9
-一天	eitm	10
-一貼	eitp	9
-一推	eitv	10
-一萬	eiwj	9
-一下	eixx	10
-一項	eixl	9
-一些	eixp	9
-一徐	eixu	9
-一雪	eixt	9
-一眼	eiej	10
-一樣	eieh	10
 医药	eiyc	9
-一夜	eiye	10
-一隅	eieu	9
-一約	eiyt	9
-一躍	eiyt	10
-一陣	eiof	9
-一直	eivi	10
-一只	eivi	9
-一種	eiot	9
 伊東	eids	9
 伊光	eigl	9
 伊卡	eika	9
@@ -21562,12 +21601,12 @@ $	;my	10
 依此	eici	9
 依舊	eijq	10
 依靠	eikc	10
-以來	eild	9
+以來	ecld	9
 依賴	eild	10
 依然	eirj	10
 咿呀	eiya	7
 揖讓	eirh	7
-一號	eihc	7
+一號	ehc	7
 易耗	eihc	6
 醫好	eihc	5
 醫鬧	einc	9
@@ -21586,25 +21625,24 @@ $	;my	10
 乙叉	eiia	9
 已給	eigw	9
 已經	eijk	10
-以及	eije	10
-以內	einw	9
-以設	eiue	9
-以外	eiwd	9
-以為	eiwy	10
+以及	ecje	10
+以設	ecue	9
+以外	ecwd	9
+以為	ecwy	10
 迆涎	eiej	9
 亦凡	eifj	9
 亦能	eing	9
 亦且	eiqp	9
-亦未	eiww	9
+意味	eiww	7
 亦應	eiek	9
 抑亢	eikh	9
 抑鬱	eieu	10
-邑人	eirf	9
+邑人	eir	9
 易怒	einu	9
 易損	eisy	9
 疫苗	eimn	9
 疫情	eiqk	10
-異才	eicd	9
+異才	eic	9
 異常	eiih	10
 異父	eifu	9
 異故	eigu	9
@@ -21628,8 +21666,8 @@ $	;my	10
 義蓬	eipg	9
 義慶	eiqk	9
 義賽	eisd	9
-義天	eitm	9
-義正	eiog	9
+倚天	eitm	9
+癔症	eiog	9
 億串	eiir	9
 億丁	eidk	9
 億豐	eifs	9
@@ -21641,11 +21679,11 @@ $	;my	10
 因此	ybci	9
 因果	ybgo	10
 因為	ybwy	9
-因這	yboe	9
+因這	ybo	9
 音調	ybtn	9
 音分	ybff	9
 音改	ybgd	9
-音和	ybht	9
+音和	ybh	9
 音利	ybli	9
 音量	ybll	9
 音碼	ybma	9
@@ -21728,9 +21766,9 @@ $	;my	10
 涌潮	ysic	9
 用車	ysie	9
 用間	ysjm	9
-用可	yske	9
+用可	ysk	9
 用力	ysli	9
-用以	ysei	10
+用以	ysec	10
 幽暗	yzan	9
 幽靈	yzlk	9
 幽殺	yzud	9
@@ -21751,7 +21789,7 @@ $	;my	10
 油槍	yzig	9
 油水	yzuv	9
 油松	yzss	9
-有天	yztm	9
+有天	ytm	9
 油香	yzxl	9
 油性	yzxk	9
 郵袋	yzdd	9
@@ -21768,43 +21806,42 @@ $	;my	10
 友生	yzug	9
 友旺	yzwh	9
 油槽	yzcc	10
-有草	yzcc	9
-有待	yzdd	10
-有得	yzde	9
-有的	yzde	10
-有扥	yzdf	9
-有點	yzdm	10
-有毒	yzdu	10
-有對	yzdv	9
-有個	yzge	10
-有關	yzgr	10
-有奖	yzjl	9
-有角	yzjn	9
-有近	yzjb	9
-有了	yzle	10
-有錢	yzqm	10
-有竅	yzqn	9
-有人	yzrf	9
-有誰	yzuv	10
-有所	yzso	10
-有湯	yzth	9
-有閑	yzxm	9
-有限	yzxm	10
-有小	yzxn	9
-有效	yzxn	10
-有些	yzxp	11
-有幸	yzxk	9
+有草	ycc	9
+有待	ydd	10
+有得	yde	9
+有的	yd	10
+有扥	ydf	9
+有點	ydm	10
+有毒	ydu	10
+有對	ydv	9
+有個	yg	10
+有關	ygr	10
+有奖	yjl	9
+有角	yjn	9
+有近	yjb	9
+有了	yl	10
+有錢	yqm	10
+有竅	yqn	9
+有人	yr	9
+有誰	yuv	10
+有所	ys	10
+有湯	yth	9
+有閑	yxm	9
+有限	yxm	10
+有小	yx	9
+有效	yxn	10
+有些	yxp	11
+有幸	yxk	9
 遊曳	yzye	9
-有一	yzei	10
-有約	yzyt	9
-有種	yzot	10
-有種	yzvt	9
+有約	yyt	9
+有種	yot	10
+有種	yvt	9
 又道	yzdc	10
 又很	yzhf	9
 又將	yzjl	10
-又是	yzus	10
+優勢	yzus	10
 又往	yzwh	10
-又一	yzei	9
+又一	yze	9
 右地	yzdi	9
 右鍵	yzjm	10
 右江	yzjl	9
@@ -21820,16 +21857,12 @@ $	;my	10
 汙濁	wuvo	9
 於堅	eujm	9
 於天	eutm	9
-魚產	euij	9
-魚城	euig	9
 魚唇	euiy	9
-魚村	eucy	9
+渔村	eucy	9
 魚當	eudh	9
-魚得	eude	9
+欲得	eude	9
 魚粉	euff	9
 魚杆	eugj	9
-魚介	eujp	9
-魚具	euju	9
 魚來	euld	9
 魚蛉	eulk	9
 魚滿	eumj	9
@@ -21871,11 +21904,10 @@ $	;my	10
 雨霧	euwu	9
 與君	eujy	9
 與之	euvi	10
-語出	euiu	9
+語出	eui	9
 語法	eufa	10
 語感	eugj	10
 語境	eujk	9
-語句	euju	10
 與其	euqi	10
 語言	euej	10
 玉海	euhd	9
@@ -21890,7 +21922,7 @@ $	;my	10
 遇便	eubm	9
 遇見	eujm	10
 遇難	eunj	7
-愈發	eufa	9
+愈發	euf	9
 煜鉿	euha	9
 預測	euce	9
 預感	eugj	11
@@ -21910,12 +21942,12 @@ $	;my	10
 元綠	yrlv	9
 元勳	yrxy	9
 元照	yroc	9
-元這	yroe	9
+元這	yro	9
 元之	yrvi	9
 原本	yrbf	10
 原地	yrdi	10
 原理	yrli	10
-原人	yrrf	9
+原人	yrr	9
 原型	yrxk	10
 原因	yryb	9
 原樂	yrle	9
@@ -21933,7 +21965,7 @@ $	;my	10
 遠處	yriu	10
 遠端	yrdr	10
 遠赴	yrfu	10
-遠了	yrle	10
+遠了	yrl	10
 遠離	yrli	9
 遠遠	yryr	9
 怨婦	yrfu	9
@@ -21949,7 +21981,7 @@ $	;my	10
 月秀	ytxq	9
 悅耳	yter	9
 越調	yttn	9
-越發	ytfa	9
+越發	ytf	9
 越訊	ytxy	9
 粵僑	ytqn	9
 樂邦	lebh	9
@@ -21987,17 +22019,17 @@ $	;my	10
 載帶	zddd	9
 再次	zdci	10
 再當	zddh	9
-再發	zdfa	9
+再發	zdf	9
 再改	zdgd	9
 再跟	zdgf	9
 再會	zdhv	9
 再裝	zdvl	9
-在看	zdkj	10
-在母	zdmu	9
-在哪	zdna	10
-在說	zdao	10
-在他	zdta	10
-在線	zdxm	9
+在看	zkj	10
+在母	zmu	9
+在哪	zna	10
+在說	zao	10
+在她	zta	10
+在線	zxm	9
 攢六	zjlq	9
 攢湯	zjth	9
 攢蹄	crti	9
@@ -22006,7 +22038,7 @@ $	;my	10
 髒話	zhhx	9
 髒囊	zhnh	9
 糟糠	zckh	9
-糟了	zcle	9
+糟了	zcl	9
 鑿空	zcks	9
 早參	zccj	9
 早餐	zccj	10
@@ -22050,10 +22082,10 @@ $	;my	10
 斬衰	vjak	9
 盞茶	vjia	9
 占城	vjig	9
-占了	vjle	9
-占上	vjah	9
+占了	vjl	9
+占上	vja	9
 戰勝	vjug	9
-站了	vjle	10
+站了	vjl	10
 站名	vjmk	9
 戰場	vjih	10
 戰痕	vjhf	9
@@ -22073,7 +22105,6 @@ $	;my	10
 張力	vhli	9
 張雪	vhxt	9
 張勳	vhxy	9
-張湛	vhvj	9
 掌部	vhbu	9
 漲速	vhsu	9
 丈母	vhmu	9
@@ -22085,7 +22116,7 @@ $	;my	10
 找踹	ocik	7
 找到	ocdc	9
 找房	ocfh	9
-找上	ocah	9
+找上	oca	9
 召棠	octh	9
 兆義	ocei	9
 棹郎	oclh	9
@@ -22107,47 +22138,40 @@ $	;my	10
 哲理	oeli	8
 蟄雷	vilw	9
 柘林	oelb	9
-這場	oeih	10
-這串	oeir	9
-這次	oeci	9
-這點	oedm	9
-這段	oedr	9
-這頓	oedy	9
-這分	oeff	9
-這份	oeff	10
-這看	oekj	9
-這裏	oeli	9
-這輪	oely	9
-這麼	oeme	9
-這篇	oepm	10
-這人	oerf	10
-這是	oeus	10
-這睚	oeya	9
-這樣	oeeh	9
-這魚	oeeu	9
-這與	oeeu	9
-這支	oevi	9
-這種	oevt	9
-這種	oeot	9
-着涼	ocll	9
+這場	oih	10
+這串	oir	9
+這次	oci	9
+這一點	oedm	9
+這段	odr	9
+這頓	ody	9
+這分	off	9
+這份	off	10
+這看	okj	9
+這裏	oli	9
+這輪	oly	9
+這麼	ome	9
+這篇	opm	10
+這睚	oya	9
+這樣	oeh	9
+這魚	oeu	9
+這與	oeu	9
+這支	ovi	9
+這種	ovt	9
+這種	oot	9
 着色	vose	9
 真棒	ofbh	9
 診費	offw	9
-震懾	ofue	9
+震懾	ofue	7
 鎮臺	oftd	9
 振幅	offu	9
 真長	ofih	9
 真純	ofiy	9
 真當	ofdh	9
-真的	ofde	9
-真個	ofge	9
+真個	ofg	9
 真給	ofgw	9
 真麼	ofme	9
 真切	ofqp	9
-真人	ofrf	10
-真是	ofus	10
 真相	ofxl	10
-真心	ofxb	9
 真樂	ofle	9
 真值	ofvi	10
 針芒	ofmh	9
@@ -22163,7 +22187,7 @@ $	;my	10
 震嶽	ofyt	9
 鎮定	ofdk	10
 鎮嚇	ofxx	9
-征發	ogbo	9
+征發	ogf	9
 政府	ogfu	10
 征服	ogfu	9
 征求	ogqq	9
@@ -22172,8 +22196,8 @@ $	;my	10
 蒸騰	ogtg	9
 整棟	ogds	9
 整改	oggd	9
-證據	ogju	10
-整句	ogju	9
+證據	ogjv	10
+整句	ogjv	9
 整理	ogli	9
 整日	ogri	9
 正比	ogbi	9
@@ -22184,7 +22208,6 @@ $	;my	10
 正生	ogug	9
 正聲	ogug	10
 正盛	ogug	9
-正是	ogus	10
 正堂	ogth	9
 正途	ogtu	9
 正義	ogei	10
@@ -22206,30 +22229,29 @@ $	;my	10
 之泉	viqr	9
 之日	viri	9
 之三	visj	9
-之上	viah	10
+之上	via	10
 之堂	vith	9
 之下	vixx	10
 支讖	viif	9
-支撐	viig	9
+支撐	viig	10
 支分	viff	9
 支付	vifu	10
-支根	vigf	9
 支溝	vigh	9
 支開	vikd	9
 支抗	vikh	9
 支配	vipw	9
 支謙	viqm	9
 支取	viqu	9
-支人	virf	9
+支人	vir	9
 支行	vihh	9
 支援	viyr	10
-芝仕	vius	9
+致使	vius	9
 知道	vidc	10
 知網	viwm	10
 執行	vixk	11
 知性	vixk	10
 隻身	viuf	9
-直腸	viih	9
+職場	viih	9
 直接	vijp	9
 直經	vijk	9
 直覺	vijt	10
@@ -22238,7 +22260,7 @@ $	;my	10
 直往	viwh	9
 直下	vixx	9
 直行	vixk	9
-直尋	vixy	9
+質詢	vixy	9
 直直	vivi	10
 直至	vivi	9
 侄孫	visy	9
@@ -22249,30 +22271,30 @@ $	;my	10
 植物	viwt	10
 職業	viye	10
 止疼	vitg	9
-只比	vibi	9
-只放	vifh	9
-只管	vigr	9
-只會	vihv	10
-只靠	vikc	9
-只肯	vikf	9
-只能	ving	10
-只求	viqq	9
-只讓	virh	9
-只是	vius	9
-只送	viss	9
-只聽	vitk	9
-只問	viwf	9
-只想	vixl	10
-只要	viyc	9
-只有	viyz	9
+只比	vbi	9
+只放	vfh	9
+只管	vgr	9
+只會	vhv	10
+只靠	vkc	9
+只肯	vkf	9
+只能	vng	10
+只求	vqq	9
+只讓	vrh	9
+知識	vius	9
+只送	vss	9
+只聽	vtk	9
+只問	vwf	9
+只想	vxl	10
+只要	vyc	9
+只有	vy	9
 芷風	vifs	9
-指稱	viig	10
+指稱	viig	9
 指定	vidk	9
 指寬	vikr	9
 指令	vilk	10
 指瑞	virv	9
 指責	vize	10
-指着	vioe	10
+指着	vio;	10
 紙包	vibc	9
 紙傘	visj	9
 紙團	vitr	9
@@ -22329,14 +22351,14 @@ $	;my	10
 重力	osli	10
 重排	ispd	9
 重孫	issy	9
-重組	iszu	10
+充足	iszu	10
 周長	ozih	9
 周天	oztm	10
 周岫	ozxq	9
 周迅	ozxy	9
 周正	ozog	9
 肘脈	ozmd	9
-皺了	ozle	9
+皺了	ozl	9
 皺起	ozqi	9
 縐片	ozpm	9
 朱唇	vuiy	9
@@ -22365,7 +22387,7 @@ $	;my	10
 竹蓀	vusy	9
 竹炭	vutj	9
 逐層	vucg	9
-逐日	vuri	9
+逐日	vuri	7
 逐月	vuyt	9
 燭罐	vugr	9
 主產	vuij	7
@@ -22379,15 +22401,15 @@ $	;my	10
 主礦	vukl	9
 主權	vuqr	9
 豬群	vuqy	7
-主人	vurf	9
+主人	vur	9
 主任	vurw	9
 主社	vuue	9
 主體	vuti	10
 主義	vuei	10
 主宰	vuzd	10
-助他	vuta	9
+助她	vuta	9
 住持	vuii	10
-住在	vuzd	9
+住在	vuz	9
 注冊	vuce	9
 注射	vuue	10
 注視	vuus	10
@@ -22401,7 +22423,7 @@ $	;my	10
 磚雕	ordn	9
 磚面	ormm	9
 撰文	orwf	9
-賺個	orge	9
+賺個	org	9
 轉給	orgw	9
 轉換	orhr	9
 轉賣	ormd	9
@@ -22417,9 +22439,8 @@ $	;my	10
 裝設	vlue	9
 裝水	vluv	9
 裝睡	vluv	10
-裝着	vloe	9
 撞擊	vlji	9
-撞人	vlrf	9
+撞人	vlr	9
 追奔	ovbf	9
 追究	ovjq	9
 追念	ovnm	9
@@ -22475,7 +22496,7 @@ $	;my	10
 字體	zpti	10
 宗德	zsde	9
 宗璞	zspu	9
-總是	zsus	10
+總是	zsu	10
 宗師	zsus	9
 總數	zsau	9
 總之	zsvi	10
@@ -22484,14 +22505,14 @@ $	;my	10
 蹤跡	zsji	9
 總第	zsdi	9
 縱向	zsxl	9
-縱有	zsyz	9
+縱有	zsy	9
 走吧	zzba	9
 走到	zzdc	10
 走訪	zzfh	9
 走近	zzjb	9
 走樣	zzeh	9
 走運	zzey	9
-租個	zuge	9
+租個	zug	9
 足月	zuyt	9
 卒業	zuye	9
 族長	zuvh	10
@@ -22513,7 +22534,6 @@ $	;my	10
 尊宿	zysu	9
 左邊	zobm	9
 左側	zoce	9
-作答	zoda	9
 作家	zojx	9
 作祟	zosv	9
 作為	zowy	10
@@ -22523,8 +22543,8 @@ $	;my	10
 坐忘	zowh	9
 坐位	zoww	9
 座位	zoww	9
-用了	ysle	9
-做了	zole	9
+用了	ysl	9
+做了	zol	9
 如若	ruro	10
 孺弱	ruro	9
 主要	vuyc	9
@@ -22548,15 +22568,15 @@ $	;my	10
 現代	xgdd	9
 民居	mbju	9
 民宅	mbod	9
-以前	eiqm	9
+以前	ecqm	9
 力量	lill	9
 居民	jumb	9
 菩提	puti	9
 飲茶	ybia	9
-奪得	dode	9
+多的	dod	9
 遠方	yrfh	9
 天際	tmji	9
-干嘛	gjma	9
+幹嘛	gjma	9
 建築	jmvu	9
 比劃	bihx	9
 低調	didn	9
@@ -22570,7 +22590,7 @@ $	;my	10
 主網	vuwm	9
 優美	yzmw	9
 訓斥	xyii	9
-敵人	dirf	9
+敵人	dir	9
 舞臺	wutd	9
 到處	dciu	9
 紅利	hsli	9
@@ -22600,7 +22620,7 @@ $	;my	10
 隱去	ybqu	10
 捲縮	jrso	10
 罥索	jrso	9
-有光	yzgl	10
+有光	ygl	10
 盛饭	igfj	10
 省事	ugus	10
 具身	juuf	10
@@ -22631,58 +22651,60 @@ $	;my	10
 很長	hfih	11
 全身	qruf	11
 獅子	uszb	11
-一段	eidr	11
+一段	edr	11
 威望	wwwh	11
 第十	dius	9
 今天	jbtm	9
 後勤	hzqb	8
+仁慈	rfci	8
+人次	rciu	8
 樹立	uuliu	9
 智能	vingc	10
 死抗	sikhr	9
-𣴢水	zcuvi
-𣝓弧	yjhux
-𣝓絲	yjsix
-栘𣐿	doyis
-嫗𡟥	yuquv
-樹枝	uuvis	9
-的士	diuif	9
+𣴢水	zcuvi	
+𣝓弧	ejhux	
+𣝓絲	ejsix	
+栘𣐿	doeis	
+嫗𡟥	euquv	
+樹枝	auvis	9
+的士	diusf	9
 阿富汗	abfuhj	9
 阿拉伯	ablabo	9
 阿聯酋	ablmqq	9
-按錯了	ancole	2
-把這個	baoege	9
-伴隨着	bjsvoe	9
+按錯了	ancol	2
+把這個	baog	9
+伴隨着	bjsvo;	9
 被建構	bwjmgz	9
-閉上你	biahni	9
+閉上你	bian	9
 波斯語	bosieu	9
-不自覺	buzijt	9
-擦了擦	caleca	9
-產生了	ijugle	9
+不自覺	bzijt	9
+擦了擦	calca	9
+產生了	ijugl	9
 常青藤	ihqktg	9
 沉住氣	ifvuqi	9
 喘息聲	irxiug	9
-闖入了	ilrule	9
-當我是	dhwous	9
-得到了	dedcle	9
-頓了頓	dyledy	9
+闖入了	ilrul	9
+當我是	dhwou	9
+得到了	dedcl	9
+頓了頓	dyldy	9
 俄羅斯	eelosi	9
 翻譯器	fjeiqi	9
 房間內	fhjmnw	9
 浮空城	fuksig	9
 高加索	gcjxso	9
-搞的鬼	gcdegv	9
+搞的鬼	gcdgv	9
 公務員	gswuyr	9
-構成了	gzigle	9
+構成了	gzigl	9
 古希臘	guxila	9
-過了會	golehv	9
-過路人	golurf	9
-還可以	hdkeei	9
+過了會	golhv	9
+過路人	golur	9
+還可以	hdkec	9
 好端端	hcdrdr	9
-好惡心	hceexb	9
-很噁心	hfeexb	9
+好噁心	hceex;	9
+很噁心	hfeex;	9
 紅十字	hsuszp	9
 恍惚間	hlhujm	9
-回到了	hvdcle	9
+回到了	hvdcl	9
 腳步聲	jnbuug	9
 接下來	jpxxld	9
 結構性	jpgzxk	9
@@ -22695,71 +22717,70 @@ $	;my	10
 垃圾場	lajiih	9
 垃圾桶	lajits	9
 來源於	ldyreu	9
-另一層	lkeicg	9
+另一層	lkecg	9
 馬蹄聲	matiug	9
 門把手	mfbauz	9
-能不能	ngbung	9
-年輕人	nmqkrf	9
-聶正平	npogpk	9
+能不能	ngbng	9
+年輕人	nmqkr	9
+聶正平	npogp	9
 寧靜感	nkjkgj	9
-歐洲人	ouozrf	9
-起來了	qildle	9
+歐洲人	ouozr	9
+起來了	qildl	9
 前三碼	qmsjma	9
-強忍着	qlrfoe	9
-敲了敲	qnleqn	9
-惹不起	rebuqi	9
-認識你	rfusni	9
+強忍着	qlrfo;	9
+敲了敲	qnlqn	9
+惹不起	rebqi	9
+認識你	rfusn	9
 塞納河	sdnahe	9
 霎時間	uausjm	9
-社會上	uehvah	9
+社會上	uehva	9
 設計師	uejius	9
 世紀初	usjiiu	9
-是一個	useige	9
-首位碼	uzwwma	9
-受不了	uzbuln	9
+是一個	ueg	9
+受不了	uzbln	9
 數據流	aujulq	9
-說不出	aobuiu	9
-說不准	aobuvy	9
-說一句	aoeiju	9
-斯文人	siwfrf	9
-鎖住了	sovule	9
+說不出	aobi	9
+說不准	aobvy	9
+說一句	aoeju	9
+斯文人	siwfr	9
+鎖住了	sovul	9
 藤蔓般	tgwjbj	9
 同義詞	tseici	9
 瓦哈比	wahabi	9
 為什麼	wyufme	2
 我感覺	wogjjt	9
-我覺得	wojtde
+我覺得	wojtde	
 屋子裏	wuzbli	9
 無規律	wugvlv	9
-無所謂	wusoww	9
+無所謂	wusww	9
 吸引力	xiybli	9
 先研究	xmejjq	9
 響起來	xlqild	9
-小問題	xnwfti	9
+小問題	xwfti	9
 笑起來	xnqild	9
 新金屬	xbjbau	9
 敘利亞	xuliya	9
-懸浮着	xrfuoe	9
-一部分	eibuff	9
-一定要	eidkyc	9
-一連串	eilmir	9
-一條條	eitntn	9
+懸浮着	xrfuo;	9
+一部分	ebuff	9
+一定要	edkyc	9
+一連串	elmir	9
+一條條	etntn	9
 伊斯蘭	eisilj	9
 陰森森	ybsfsf	9
 嬰兒車	ekerie	9
 應當說	ekdhao	9
-有可能	yzkeng	9
-有錢人	yzqmrf	9
-有人嗎	yzrfma	9
-有什麼	yzufme	9
-有一個	yzeige	10
-又一個	yzeige	9
+有可能	ykng	9
+有錢人	yqmr	9
+有人嗎	yrma	9
+有什麼	yum	9
+有一個	yeg	10
+又一個	yzeg	9
 語境下	eujkxx	9
 原產地	yrijdi	9
 越來越	ytldyt	9
-展現出	vjxgiu	9
+展現出	vjxgi	9
 照射下	ocuexx	9
-這時候	oeushz	9
+這時候	oujhz	9
 真奇怪	ofqigk	9
 正前方	ogqmfh	9
 正中央	ogoseh	9
@@ -22772,12 +22793,28 @@ $	;my	10
 朗西埃	lhxiai	10
 來試試	ldusus	10
 薩日朗	sarilh	9
-可以的	keeide
-明白了	mkbdle	3
+可以的	kecd	
+明白了	mkbdl	3
 使用者	usysoe	3
 輸入法	aurufa	4
-我知道	wovidc	5
-不可以	bukeei
-你可以	nikeei
-一点用	eidmys
-實際上	upjiah
+我知道	wvidc	5
+不可以	bkec	
+你可以	nkec	
+一点用	edmys	
+實際上	upjia	
+哈哈哈哈	hhhh	10
+紅紅火火	hhhh	9
+恍恍惚惚	hhhh	8
+哈哈哈哈哈	hhhhh	10
+哈哈哈哈哈哈	hhhhhh	10
+哈哈哈哈哈哈哈	hhhhhh	10
+哈哈哈哈哈哈哈哈	hhhhhhh	10
+哈哈哈哈哈哈哈哈哈	hhhhhhhh	10
+紅紅火火恍恍惚惚	hhhhhhhh	11
+哈哈哈哈哈哈哈哈哈哈	hhhhhhhhh	10
+哈哈哈哈哈哈哈哈哈哈哈	hhhhhhhhhh	10
+哈哈哈哈哈哈哈哈哈哈哈哈	hhhhhhhhhhh	10
+哈哈哈哈哈哈哈哈哈哈哈哈哈	hhhhhhhhhhhh	10
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈	hhhhhhhhhhhhh	10
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈	hhhhhhhhhhhhhh	10
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈	hhhhhhhhhhhhhhh	10
