@@ -137,66 +137,68 @@ reverse_lookup:                  #五笔86反查翻译器
   enable_completion: true
   initial_quality: 10
   comment_format:
-    - xform/://
-    - xform/^[ \w]+$//
-    - xform/.*?(..)[[].+/$1/
-    - xform/(..)[[].+/$1/
-    - xform/ob//
-    - xform/ot/os/
-    - xform/up/us/
-    - xform/jw/jb/
-    - xform/up/us/
-    - xform/ab/aa/
-    - xform/zb/zi/
-    - xform/wy/ww/
-    - xform/je/ji/
-    - xform/xg/xm/
-    - xform/rw/rf/
-    - xform/wt/wu/
-    - xform/wm/wh/
-    - xform/a([yuohjkl])/u$1/
-    - xform/(ae)m/$1g/
-    - xform/(a)c/$1o/
-    - xform/e([yuiohjk])/y$1/
-    - xform/(e)w]/$1i/
-    - xform/o([werasdfgzxv])/v$1/
-    - xform/([bpmfdtnljqx])n/$1iao/
-    - xform/(\w)g/$1eng/
-    - xform/(\w)q/$1iu/
-    - xform/(\w)w/$1ei/
-    - xform/([dtnlgkhjqxyvuirzcs])r/$1uan/
-    - xform/(\w)t/$1ve/
-    - xform/(\w)y/$1un/
-    - xform/([dtnlgkhvuirzcs])o/$1uo/
-    - xform/(\w)p/$1ie/
-    - xform/([jqx])s/$1iong/
-    - xform/([wertyiopasdghklzcvbnm])s/$1ong/
-    - xform/(f)s/$1öng/
-    - xform/(u)s/$1i/
-    - xform/(\w)d/$1ai/
-    - xform/(\w)f/$1en/
-    - xform/(\w)h/$1ang/
-    - xform/(\w)j/$1an/
-    - xform/([gkhvuirzcs])k/$1uai/
-    - xform/(\w)k/$1ing/
-    - xform/([jqxnl])l/$1iang/
-    - xform/(\w)l/$1uang/
-    - xform/(\w)z/$1ou/
-    - xform/([gkhvuirzcs])x/$1ua/
-    - xform/(\w)x/$1ia/
-    - xform/(\w)c/$1ao/
-    - xform/([dtgkhvuirzcs])v/$1ui/
-    - xform/(\w)b/$1in/
-    - xform/(\w)m/$1ian/
-    - xform/([aoe])\1(\w)/$1$2/
-    - "xform/(^|[ '])v/$1zh/"
-    - "xform/(^|[ '])i/$1ch/"
-    - "xform/(^|[ '])u/$1sh/"
-    - xform/([jqxy])v/$1u/
-    - xform/([nl])v/$1ü/
-    - xform/^(.+)/[py]:$1/
+    - xform/:/·/
+    # - xform/^[ \w]+$//
+    # - xform/.*?(..)[[].+/$1/
+    # - xform/(..)[[].+/$1/
+    # - xform/ob//
+    # - xform/ot/os/
+    # - xform/up/us/
+    # - xform/jw/jb/
+    # - xform/up/us/
+    # - xform/ab/aa/
+    # - xform/zb/zi/
+    # - xform/wy/ww/
+    # - xform/je/ji/
+    # - xform/xg/xm/
+    # - xform/rw/rf/
+    # - xform/wt/wu/
+    # - xform/wm/wh/
+    # - xform/a([yuohjkl])/u$1/
+    # - xform/(ae)m/$1g/
+    # - xform/(a)c/$1o/
+    # - xform/e([yuiohjk])/y$1/
+    # - xform/(e)w]/$1i/
+    # - xform/o([werasdfgzxv])/v$1/
+    # - xform/([bpmfdtnljqx])n/$1iao/
+    # - xform/(\w)g/$1eng/
+    # - xform/(\w)q/$1iu/
+    # - xform/(\w)w/$1ei/
+    # - xform/([dtnlgkhjqxyvuirzcs])r/$1uan/
+    # - xform/(\w)t/$1ve/
+    # - xform/(\w)y/$1un/
+    # - xform/([dtnlgkhvuirzcs])o/$1uo/
+    # - xform/(\w)p/$1ie/
+    # - xform/([jqx])s/$1iong/
+    # - xform/([wertyiopasdghklzcvbnm])s/$1ong/
+    # - xform/(f)s/$1öng/
+    # - xform/(u)s/$1i/
+    # - xform/(\w)d/$1ai/
+    # - xform/(\w)f/$1en/
+    # - xform/(\w)h/$1ang/
+    # - xform/(\w)j/$1an/
+    # - xform/([gkhvuirzcs])k/$1uai/
+    # - xform/(\w)k/$1ing/
+    # - xform/([jqxnl])l/$1iang/
+    # - xform/(\w)l/$1uang/
+    # - xform/(\w)z/$1ou/
+    # - xform/([gkhvuirzcs])x/$1ua/
+    # - xform/(\w)x/$1ia/
+    # - xform/(\w)c/$1ao/
+    # - xform/([dtgkhvuirzcs])v/$1ui/
+    # - xform/(\w)b/$1in/
+    # - xform/(\w)m/$1ian/
+    # - xform/([aoe])\1(\w)/$1$2/
+    # - "xform/(^|[ '])v/$1zh/"
+    # - "xform/(^|[ '])i/$1ch/"
+    # - "xform/(^|[ '])u/$1sh/"
+    # - xform/([jqxy])v/$1u/
+    # - xform/([nl])v/$1ü/
     - xform/[[]$//
-
+    - xform/[[]/·/
+    - xform/^.+? //
+    - xform/^(.+)/[py]:$1/
+    
 custom_phrase:                   #用户自定义custom_phrase编码
   dictionary: ""
   user_dict: custom_phrase

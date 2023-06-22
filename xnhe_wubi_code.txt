@@ -184,6 +184,7 @@ app	app	9
 任	rw	9
 物	wt	9
 網	wm	9
+飲	ybqn	9
 懟	dvcn	9
 跳	tnkh	9
 誌	vi;n	9
@@ -268,6 +269,7 @@ app	app	9
 你不能	nbng	7
 中國人	ogr	7
 用於	ysyu	9
+你去	nq	10
 出的	id	10
 和我	hw	10
 的是	du	10
@@ -320,6 +322,12 @@ app	app	9
 是非	uf;	10
 與之	euv;	10
 推入	tvr;	10
+男人	njr	10
+批發	pif	10
+多去	doq	10
+小型	xxk	10
+他會	thv	10
+調和	tnh	10
 等我	dgw	10
 生的	ugd	10
 他得	tdw	10
@@ -503,6 +511,7 @@ app	app	9
 這個是	ogu	10
 他有個	tyg	10
 的這個	dog	10
+幹什麼	gjum	10
 就是被	jubw	10
 在一個	zeg	10
 要一個	yceg	10
@@ -569,6 +578,7 @@ app	app	9
 在這個意義上	zogeieia	10
 車輛	iell	10
 車輛信息	iellxbxi	10
+立場	liih	10
 黑色	hwse	10
 信息	xbxi	10
 掐指	qxvi	10
@@ -2560,6 +2570,7 @@ app	app	9
 記	ji;	9
 警	jka	9
 阱	jkb	9
+颈	jkc	10
 逕	jkc	9
 兢	jkd	9
 腈	jke	9
@@ -4117,6 +4128,7 @@ app	app	9
 娀	ssv	9
 頌	ssw	9
 訟	ss;	9
+蘇	sua	10
 蔌	sua	9
 骕	suc	9
 速	sug	9
@@ -4316,6 +4328,7 @@ app	app	9
 佗	tow	9
 庹	to;	9
 餮	tpg	9
+貼	tpm	10
 帖	tpm	9
 怗	tpn	9
 鐵	tpq	9
@@ -4715,6 +4728,7 @@ app	app	9
 僎	orw	9
 茽	osa	9
 腫	ose	9
+中	osk	10
 忠	osk	9
 塚	osp	9
 鐘	osq	9
@@ -5998,8 +6012,7 @@ app	app	9
 邀	ycrp	8434
 沉	ifim	8432
 疆	jlxf	8317
-贴	tpmk	8246
-貼	tpmk	8246
+帖	tpmk	8249
 缓	hrxc	8093
 緩	hrxc	8093
 尊	zyus	8044
@@ -6220,7 +6233,6 @@ app	app	9
 撫	furq	2882
 戈	geat	2881
 赋	fuma	2863
-賦	fumm	2863
 泊	boig	2851
 削	xtij	2830
 汤	thit	2818
@@ -12599,7 +12611,6 @@ app	app	9
 餮	tpge
 鐵	tpqg
 怗	tpnk
-帖	tpmk
 糶	tnb;
 跳	tnkq
 眺	tnhq
@@ -17438,7 +17449,6 @@ app	app	9
 龜速	gvsu	9
 歸根	gvgf	9
 歸僑	gvqn	9
-歸人	gvr	7
 歸腎	gvuf	9
 歸因	gvyb	9
 歸元	gvyr	9
@@ -17452,7 +17462,6 @@ app	app	9
 貴妃	gvfw	9
 貴庚	gvgg	9
 貴康	gvkh	9
-貴人	gvr	10
 貴潤	gvry	9
 禬禳	gvrh	9
 袞闕	gyqt	9
@@ -19756,7 +19765,7 @@ app	app	9
 親屬	qbau	10
 窮啊	qsaa	9
 秋栗	qqli	9
-秋生	qqug	9
+求生	qqug	9
 鰍鮀	qqto	9
 求教	qqjn	9
 求神	qquf	9
@@ -19767,15 +19776,9 @@ app	app	9
 球類	qqlw	9
 球門	qqmf	9
 球迷	qqmi	9
-曲薄	qubc	9
-曲差	quia	9
 曲房	qufh	9
-曲阜	qufu	9
 曲譜	qupu	9
 驅使	quus	9
-曲臺	qutd	9
-曲陽	queh	9
-曲隱	quyb	9
 區間	qujm	9
 區落	qulo	9
 區碼	quma	9
@@ -20890,7 +20893,6 @@ app	app	9
 我瞄	womn	9
 我呸	wopw	9
 我人	wor	11
-我忍	worf	10
 我上	woa	9
 我是	wou	10
 我聞	wowf	9
@@ -22211,27 +22213,6 @@ app	app	9
 正堂	ogth	9
 正途	ogtu	9
 正義	ogei	10
-之邦	vibh	9
-之賓	vipp	9
-之處	viiu	10
-之地	vidi	10
-之惡	viee	9
-之分	viff	10
-之風	vifs	9
-之鏡	vijk	10
-之苦	viku	9
-之類	vilw	10
-之靈	vilk	9
-之論	vily	9
-之內	vinw	9
-之旁	viph	9
-之前	viqm	10
-之泉	viqr	9
-之日	viri	9
-之三	visj	9
-之上	via	10
-之堂	vith	9
-之下	vixx	10
 支讖	viif	9
 支撐	viig	10
 支分	viff	9
