@@ -2,7 +2,7 @@
 #@/db_name	xnhe_wubi
 #@/db_type	tabledb
 #@/rime_version	1.8.5
-#@/tick	10516
+#@/tick	14933
 ，	'	6
 ，	;'	4
 。	;''	3
@@ -10,51 +10,69 @@
 •	;dm;	4
 說得出	a d iu	2
 按勞分配	a l f p[s	2
-上	a'	13
+上隻角	a v jn	2
+上	a'	18
 上這個	a' og'	7
 上萬	a' wj[dn	1
 上萬伏	a' wj[dn fu[wd	1
-啊	a;	86
+啊	a;	112
 啊多諾	a; do[qq no[;k	1
 啊翼	a; ei[nlw	2
 啊藍	a; lj[al	1
 啊	aa[kb	2
 阿	ab[	1
+阿爾都賽	ab[ er[qi du[fb sd[pm	2
 阿語	ab[ eu[;k	3
 阿拉伯語	ab[ la[ru bo[wr eu[;k	12
 阿裏巴巴	ab[ li[jf ba[cn ba[cn	2
 阿姨	abei	2
 阿訇	abhs:q	2
+ab胶	abjn:e	7
 阿拉	abla	1
 阿拉這與	abla oeu	1
 阿蘭	ablj	20
 奧地利	acdili:t	2
 傲慢	acmj	4
+奧拓	acto	2
+熬夜	acye	2
 上帝	adi	4
 上單	adju	3
+尚在和	ah[ik z' h'	2
+商	ah[uk	1
+商品	ah[uk pb[kk	2
+商販	ahfj	2
 傷害	ahhd	1
 商場	ahih	2
 商家	ahjx	2
 商量	ahll	2
+商品	ahpb	1
+商品魚	ahpb eu[qg	1
 商業	ahye	2
 愛	ai[ec	1
-愛好	aihc	4
+愛好	aihc	6
 愛美	aim;	4
 山	aj[mt	1
 山屋	aj[mt wu[nf	2
 山屋用我的電腦搞定了	aj[mt wu[nf ys[eh wd' dmnc gc[rk dk[ph l'	1
-善於	ajeu	2
+閃退	aj[uw tv[ovep	4
+善於	ajeu	8
 上街	ajpt	2
+山野	ajye:j	2
+摔碎	ak[rf sv[df	6
 帥氣	akqi	2
+摔碎	aksv:d	2
 衰朽	akxq:s	2
-雙打野	al[cc da[rs ye[jb	2
+雙打野	al[cc da[rs ye[jb	8
 霜	al[fh	2
 上林	alb	1
+雙打	alda	2
+雙管	algr	2
 雙頭	altz	1
 上門	amf	1
 岸	an[mf	2
 案	an[ps	2
 安	an[pv	2
+安上	an[pv a'	2
 安納海姆	an[pv na[xw hd[iu mu[vu	3
 按	an[rv	2
 按臺	an[rv td[ck	1
@@ -62,45 +80,56 @@
 案底	andi:;	2
 按勞分配	anlcffpw:s	2
 安寧	annk	2
-按照	anoc	8
+按照	anoc	10
+安排	anpd	2
 安排	anpd:r	5
 安排人	anpd:r r'	1
-安全	anqr	18
+安全	anqr	22
+安置	anvi:l	2
 上這	ao'	1
-說	ao[;q	4
+說	ao[;q	6
+說一些	ao[;q e' xp[hf	2
 說個	ao[;q g'	3
 說個錘子	ao[;q g' ivzb	1
-說什麼	ao[;q um	1
+說透	ao[;q tz[tp	1
+說什麼	ao[;q um	5
+說字	ao[;q zp[	1
 說不定	aobdk	2
 說白了	aobdl'	4
 說不清	aobqk	1
 說不清去	aobqk q'	1
-說錯	aoco:q	4
+說錯	aoco:q	8
 說到這個	aodcog'	2
+說得	aode	9
 說一句	aoejv	2
-說法	aofa	5
+說法	aofa	7
 說法上	aofa a'	1
 說服	aofu:e	2
 上證	aog	3
 說過	aogo	1
 說過話	aogo hx[;d	1
-說話	aohx	17
+說話	aohx	19
 說出口	aoikz	2
 說出來	aoild	6
-說穿	aoir:p	2
+說穿	aoir:p	4
 說穿了	aoirl'	8
 說了	aol'	2
 說了一個	aol' eg'	1
 說了很多很多東西	aol' hfdo hfdodsxi:s	1
 說來說去	aoldaoq'	2
 說兩句	aolljv:q	2
-說明	aomk	5
+說明	aomk	7
 說明白的	aomk bdd'	1
 說明	aomk:j	2
+說明白	aomkbd:r	2
 說清楚	aoqkiu	4
+說他	aot'	1
 說是	aou'	1
 碩士	aous	2
+碩士	aous:f	4
+說我	aow'	2
 孰	au[;b	2
+輸	au[lj	1
 輸入速度測試	au[lj r; su[gp du[;c ce[ij us[;a	2
 術語	au[s; eu[;k	2
 姝姝	au[v; au[v;	2
@@ -113,18 +142,28 @@
 鼠標	aubn:s	5
 術語	aueu:;	1
 屬於	aueu:g	1
-輸出	aui'	4
+輸出	aui'	8
 梳理	auli:g	2
-輸入法	aur;fa	2
+書	aun	1
+輸入	aur;	3
+輸入法	aur;fa	5
 書生	auug	2
 數值	auvi:w	2
 熟悉	auxi	5
 屬性	auxk	2
 屬性	auxk:n	1
+數學	auxt	2
 數學家	auxtjx	2
+梳子	auzb	2
+數字	auzp	6
 瞬間	ayjm	10
+順序	ayxu	2
 百毒不侵	b d b q[w	2
-不	b'	15
+棒麥杆蟲	b m g i[j	2
+霸王車	b w ie	2
+不	b'	20
+不不不	b' b' b'	2
+不等着	b' dgo;	1
 不揚	b' eh[rr	2
 不允許	b' ey[cq xu[;f	2
 不複	b' fu[tt	1
@@ -132,8 +171,10 @@
 不好好打	b' hchcdar	1
 不合規	b' hegv	1
 不很深	b' hfuf	1
-不成	b' ig[dt	1
+不成	b' ig[dt	3
 不就成了	b' j' ig[dt l'	2
+不精密	b' jkmi	1
+不講道理	b' jl[;j dc[up li[gf	2
 不僵死	b' jl[wg si[gx	1
 不可避免	b' k' bi[np mm[qq	6
 不可接受	b' k' jp[rv uz[ec	11
@@ -143,67 +184,93 @@
 不了	b' ln[bh	1
 不恰當	b' qx[nk dh:iv	2
 不人	b' r'	1
+不認同	b' rf[;w ts[mk	4
+不認為	b' rf[;w wy[	2
 不如	b' ru[vk	1
+不他	b' t'	1
 不太行	b' td[d; xk[th	2
 不停滴	b' tk[ws di[id	2
 不長煙	b' vhej:o	1
 不完整	b' wj[pq og[gh	2
 不希望	b' xi[qh wh[;g	2
 不歇息	b' xpxi	1
+不下去	b' xx[gh q'	1
 不馴服	b' xyfu	1
+不要被	b' yc[sv bw[pc	2
 八	b;	2
+八十歲	b; u; sv[mq	2
 八百	b;bd	2
+八卦	b;gx	4
+八萬	b;wj	2
+壩	ba:fe	6
+壩壩壩壩壩壩	ba:fe ba:fe ba:fe ba:fe ba:fe ba:fe	2
 巴迪歐	ba[cn di[mp ou[aw	2
+霸	ba[fe	5
+垻	ba[fm;	4
+灞	ba[ie	1
+灞上	ba[ie a'	3
+把你	ba[r n'	2
 把人	ba[r r'	2
 把我們	ba[r w' mf[wu	2
 把握	ba[r wo[rf	19
 把控	ba[rcn ks[ra	2
+把自己	ba[rcn zi[th ji[nn	2
 爸爸媽媽	babamama:v	6
 把柄	babk	2
 罷工	bag;	2
+不愛	bai	2
+吧	bak	1
 巴庫	baku:;	2
 爸媽	bama:v	4
+拔群	baqyv	2
 把	bar	2
 把自己出	bar ziji i'	1
 把一些	barexp	1
+不變	bbm;	2
+爆	bc[oi	5
 保安	bcan	2
 保安	bcan:p	4
 寶寶	bcbc	1
 報以	bcec	2
+寶鋼	bcgh	2
 包裹	bcgo	2
 包裹着	bcgoo;	2
-保護	bchu	4
+爆火	bchoo	2
+保護	bchu	8
 保護費	bchufw	2
 爆出	bci'	1
 保持	bcii	1
-保持一個	bcii eg'	1
+保持一個	bcii eg'	3
 保持一致	bciievig	2
 包餃子	bcjnzb	4
-包括	bcko	16
-暴力	bcli:l	70
+包括	bcko	20
+暴力	bcli:l	74
 暴力關係	bcli:l grxi	1
 暴力出	bcli:l i'	1
-爆裂	bclp	2
+爆裂	bclp	8
 保留	bclq	1
 保留了一些	bclq lexp:h	1
 保留	bclq:q	4
-暴露	bclu:f	2
+暴露	bclu:f	4
 保密	bcmi	2
-爆炸	bcoa	2
+爆炸	bcoa	4
 保證	bcog	8
 包容	bcrs	2
 保守	bcuz	15
-包裝	bcvl	6
+包裝	bcvl	8
 包裝成	bcvl ig[dt	1
 包裝出來	bcvl ild	1
 抱有	bcy'	4
 不存在	bcyz'	4
-白	bd:rt	1
+包粽子	bczszb	2
+白	bd:rt	2
 白入	bd:rt r;	1
+白手套	bd:rt uztc	1
 百	bd[dj	1
 敗露	bd[mt lu[fk	2
 擺	bd[rc	15
 擺個攤	bd[rc g' tj[r;	1
+不大	bda	2
 拜拜	bdbd:r	2
 不到	bdc	5
 白的	bdd'	1
@@ -212,111 +279,168 @@
 不得	bde	2
 不得不	bdeb'	10
 不得了	bdeln	1
+百分之	bdffv;	1
+百分之三十	bdffv; s;u;	1
+不單	bdj:u	2
 百里	bdli	1
 百里了	bdli l'	1
+白蘭	bdlj	6
+擺爛	bdljo	2
 白領	bdlk:w	2
 白鷺	bdlu	2
+不多	bdo	1
+白晝	bdoz	4
 八大人觉	bdrj	4
 不斷	bdro	4
 白色	bdse	2
+不懂	bdsn	2
 擺攤	bdtj:r	60
 擺攤經濟	bdtj:r jkji	1
 白天	bdtm	4
 不對勁	bdvjb	2
+柏油路	bdyzlu:k	3
+柏油路麪	bdyzlu:k mm[swwn	3
 不都是	bdzu'	4
-不一定	bedk	5
+不一定	bedk	9
 不一定哦	bedk oo[kt	1
-不一樣	beeh	4
+不一樣	beeh	10
 不一樣了	beehl'	1
 不應該	bekgd	2
 不一致	bevig	3
+本本主義	bfbfvuei:;	2
 本次	bfci	2
 本就是	bfju'	2
-本來	bfld	36
+本來	bfld	48
 本來就是	bfldju'	1
-本身	bfuf	45
+本體論	bftily:;	2
+本身	bfuf	59
 不符合	bfuhe	2
-本事	bfus	6
+本事	bfus	12
 不符	bfut	1
 不符他為	bfut twy	1
 本質	bfvi	6
+奔襲	bfxi:d	3
+奔走	bfzz	2
 不高	bgc	1
 不敢	bgjn	2
+崩解	bgjp:q	2
 不管	bgr	1
-不管	bgrt	4
-不給	bgw	2
-幫	bh[dh	1
+不管	bgrt	6
+兵贵神速	bgus	2
+不給	bgw	6
+不夠	bgz	6
+幫	bh[dh	2
 幫我	bh[dh w'	3
 幫我寫出所有的	bh[dh w' xpi' syd'	1
-不好	bhc	6
+榜	bh[s;	1
+棒	bh[sd	1
+不好	bhc	9
+不好做的	bhc z;d'	1
 不合格	bhege	2
 綁架	bhjx	2
 幫忙	bhmh	2
-不會	bhv	36
+不會	bhv	48
 不會討論	bhv tcly	1
 不會長回去的	bhv vh[t; hvq' d'	1
-幫助	bhvu	6
+幫助	bhvu	10
 幫我	bhw'	1
 幫我列舉出所有的	bhw' lpjv i' syd'	1
+不出	bi'	1
 碧絲	bi[gd si[xg	1
 逼死	bi[gp si[gx	7
 鄙視鏈	bi[kb us[pq lm[qp	4
 彼德	bi[tc de[tn	1
 彼德格拉斯	bi[tc de[tn gelasi:a	1
+比上	bia'	1
+不差	biau	1
 比不過	bibgo	2
 彼此	bic;	5
 比一比	biebi	2
-比喻	bieu	2
-比方	bifh	4
+比喻	bieu	3
+比方	bifh	6
 不承認	bigrf	2
 閉合	bihe	2
 不喫	biik	1
 筆記	biji	1
+比較	bijn	1
 比較多	bijndo	6
+比較好	bijnhc	2
+不出來	bild	2
 bilibili	bilibili	2
 避免	bimm	8
+比擬	bini	3
+比擬一下	bini exx	1
 不穿	bir	2
 不穿人是	bir ru'	3
 不穿如說	bir ruao:;	1
 比人強	birqlx	1
-比如	biru	52
-比如說	biruao	48
+比如	biru	74
+比如說	biruao	100
+匕首	biuz	2
 避險	bixm:b	1
-必須	bixu	12
-必要	biyc	4
-畢業	biye	6
+必須	bixu	16
+必須去	bixuq'	2
+必須是	bixuu'	2
+必須要	bixuyc:s	3
+必須要有一個	bixuyc:s yeg'	1
+必要	biyc	8
+畢業	biye	8
+畢業生	biyeug	2
+不愁	biz	2
 閉嘴	bizv:k	2
-不就	bj'	2
+不就	bj'	3
+不就也是	bj' yeu'	1
+扳	bj:rc	3
+扳扳手腕	bj:rc bj:rc uzwj	1
 班	bj[gg	1
-辦	bj[lw	4
+辦	bj[lw	5
+辦起來	bj[lw qild	1
+扳	bj[rc	2
+扳手	bj[rc uz[rh	1
 般的	bj[tc d'	4
+半	bj[uf	1
 半個世紀	bj[uf g' us[an ji[xn	2
-版本	bjbf	2
+版本	bjbf	4
+斑斑	bjbj	1
+斑斑手腕	bjbj uzwj	1
 般的	bjd'	1
 般的他就	bjd' tj'	1
 扮演	bjej	4
-辦法	bjfa	20
-不講	bjl;	2
+辦法	bjfa	22
+半分鐘	bjffos	2
+不講	bjl;	3
+不講道力	bjl; dcli:l	1
 半毛錢	bjmcqmq	2
+不見	bjmm	2
+版面	bjmm:d	2
+鉑金名築	bjmv	4
 半軸	bjoz:l	6
 拔角脱距	bjtj	2
 不就是	bju'	1
 不就是嗎	bju' mak	1
+扳手	bjuz	2
 不僅僅	bjwjw	8
 餅	bk[qa	4
 並	bk[ua	2
+並不	bk[ua b'	1
 並不能	bk[ua b' ng[cx	2
+並不在於	bk[ua b' zeug	1
 並打開空調	bk[ua dakd kstn	1
-並沒有	bk[ua m' y'	4
+並沒有	bk[ua m' y'	6
 並且	bk[ua qp[eg	2
-冰	bk[ui	1
+冰	bk[ui	2
+冰沒有是	bk[ui my' u'	1
 冰飲	bk[ui yb[qw	1
 病	bk[uw	2
 並不	bkb'	3
 並不不能	bkb' bng	1
+冰雹	bkbc	1
 並不能	bkbng	4
 並不是	bkbu'	4
+並不在	bkbz'	1
+並不在於此	bkbz' eu[gf c;	1
 並不總是	bkbzsu'	2
+不靠	bkc	2
 不可分	bkff	7
 不可分性	bkff xk:n	1
 不看	bkj	1
@@ -325,28 +449,39 @@ bilibili	bilibili	2
 不堪忍受	bkjf rfuz	1
 不可能	bkng	6
 並且	bkqp	12
-並不是	bkubu'	10
+並不是	bkubu'	12
 並置	bkvi:l	2
 不可知	bkvit	2
+不了	bl'	8
+不來	bld	2
 不了	bln	1
+變少	bm[;c uc[it	8
+遍	bm[;p	1
 邊	bm[lp	1
 邊界	bm[lp jp[lj	4
+辯才了	bm[uu c' l'	3
 變	bm[xt	1
+遍佈	bmbu	2
+變動	bmds	2
 邊個	bmg'	2
-辯護	bmhu	34
+辯護	bmhu	36
 變化	bmhx:w	6
 變差	bmia	2
 變成	bmig	1
 變成了一個	bmigleg'	2
+編輯	bmji	2
 邊疆	bmjl:x	4
-不明	bmkj	1
-辯證	bmog	6
-辯證法	bmogfa	13
+編劇	bmjv	2
+不明	bmkj	3
+辯證	bmog	8
+辯證法	bmogfa	19
 辯證法的曆險	bmogfa d' lidxm:b	1
 辯證法的曆險	bmogfa d' lixm:b	5
 辨認出	bmrfi'	2
-編織	bmvi:x	4
+編織	bmvi:x	6
 變壓器	bmyaqi	4
+表	bn	1
+表達欲	bn[ge da[dp eu[ww	2
 婊	bn[ve	1
 婊子	bn[ve zb[	1
 表演	bnej	1
@@ -354,10 +489,10 @@ bilibili	bilibili	2
 不能	bng	3
 不能用來	bng ysld	1
 不能不	bngb'	2
-不能夠	bnggz	2
+不能夠	bnggz	4
 標出	bni'	2
 標稱	bnig	2
-標記	bnji	3
+標記	bnji	5
 標記出	bnji i'	1
 表決	bnjt	3
 表明	bnmk:j	2
@@ -370,18 +505,24 @@ bilibili	bilibili	2
 標準	bnvy	1
 表現	bnxg	4
 蕃	bo[al	4
+波	bo[ic	2
 波斯語	bo[ic si[ar eu[;k	2
 波斯語複合名詞	bo[ic si[ar eu[;k fu[tt he[wk mkci	1
+發	bo[n;	2
 不着	boc	1
 不着沒	boc m'	1
 剝奪	bodo:d	4
-博弈	boei	4
+博弈	boei	7
+博弈了	boei l'	1
+博弈論	boeily:;	2
 脖頸	bogg:g	8
 不正常	bogih	2
+發出	boi'	1
 鉑金	bojb:q	3
 鉑金名	bojb:q mk[qk	2
 鉑金名築	bojb:q mk[qk vu[tm	3
 博客	boke:p	2
+柏林	bolb	4
 玻璃門	bolimf:u	2
 波蘭	bolj	4
 播種	boot	2
@@ -391,51 +532,66 @@ bilibili	bilibili	2
 波斯語的過去分詞是什麼	bosieu:; d' goq' ffci:; uum	1
 波速	bosu:g	1
 波速與	bosu:g eu:gn	1
-博士後	boushz	2
+博士後	boushz	4
 脖子	bozb	4
+別	bp[kj	1
+別拍	bp[kj pd[rr	1
 不平等	bpdg	2
 別吵了	bpicl'	2
 別急	bpji	2
+別來	bpld	2
 別死	bpsi:g	2
 不去	bq'	13
 不去檢驗他自己	bq' jmej tziji	1
 不去審視	bq' ufus:p	1
 不清	bqki	1
-不如	bru	1
+不容易	brsei	2
+不如	bru	2
 不如歸	bru gv[jv	1
-不如說	bruao	6
-不太	btd	10
+不如他	bru t'	5
+不如說	bruao	7
+白日升天	brut	2
+不算	bsr	2
+不太	btd	12
 不太容易不	btd rsei b'	1
 不太知道	btd vidc	1
-不太好	btdhc	2
+不太好	btdhc	4
 不談	btj	2
 不停	btk	5
 不停地湧現出來	btk di[fb ysxgi' ld	1
-不停	btkw	10
+不停	btkw	16
 不通	btsc	2
-不是	bu'	7
+不是	bu'	11
+不是不是	bu' bu'	1
 不是當年那麼簡單	bu' dh:iv nm[rf n;me jmdj	1
 不是一路人	bu' elu r'	1
 不是那麼	bu' n;me	1
+不是起來	bu' qild	1
 不是讓你	bu' rhn'	1
 不是讓你做一個	bu' rhn' z;eg'	1
 步	bu[hi	1
-步步	bu[hi bu[hi	2
+步步	bu[hi bu[hi	4
 步哈林	bu[hi ha[kk lb[ss	5
-補位	bu[p; ww[wg	2
+補	bu[p;	1
+補補	bu[p; bu[p;	1
+補起來	bu[p; qild	3
+補位	bu[p; ww[wg	6
 不是啊	bua;	4
-不是說	buao	6
-不是一個	bueg'	2
+不是說	buao	10
+補補	bubu:p	1
+不是一個	bueg'	4
 步法	bufa:i	1
 部分	buff	1
-補充	buis	10
+補充	buis	12
+部件	bujm:w	2
 不是了	bul'	2
 撲了	bul'	2
 哺乳動物	burudswt	2
 佈置	buvi	2
+部委	buww:t	6
 不是要	buyc	1
 不長	bvh	4
-不知道	bvidc	8
+不知道	bvidc	12
 不值錢	bviqmq	2
 不住	bvuw	2
 被	bw[pc	1
@@ -443,32 +599,47 @@ bilibili	bilibili	2
 杯	bw[si	1
 背投	bw[ue tz[rc	2
 北國之春	bw[ux go[l; v; iy[dj	4
+悲觀主義	bwgrvuei:;	2
 背後	bwhz	2
+輩出	bwi'	4
 背景	bwjk:j	1
 背景戶口	bwjk:j hukz	1
 不完全	bwjqr	2
-悲劇	bwjv	10
+悲劇	bwjv	14
 北侖	bwly	2
 悖論	bwly:;	4
+悖謬	bwmq:;	4
 背叛	bwpj	8
 背棄	bwqi:;	2
+備註	bwvu	4
 不為	bwy	4
-不行	bxk	1
+不行	bxk	2
+不想	bxl	1
+不想來	bxl ld	1
 不相干	bxlgj	4
-不像	bxlw	2
-不需要	bxuyc	9
-不下去	bxxq'	1
-不要	byc	92
+不想去	bxlq'	4
+不像	bxlw	4
+不需要	bxuyc	21
+不下去	bxxq'	2
+不要	byc	133
+不要雙打野	byc alda ye[jb	1
 不要和他們	byc h' tmf	1
+不要有一個	byc yeg'	1
 不願意	byrei	6
 不用	byse	2
-不在	bz'	4
+不在	bz'	5
+不在你手上	bz' n' uza'	1
 不走	bzz	1
-才	c'	3
-曹操	cccc	1
-草根	ccgf	2
+才	c'	4
+此	c;	4
+操	cc[rs	1
+曹操	cccc	3
+草根	ccgf	4
+操勞	cclc	2
+草料	ccln:o	3
 草莽	ccmh:a	8
-操作	cczo	4
+操作	cczo	7
+菜逼	cd[as bi[gp	2
 財產關系	cd[mt ij[ut gr[ud xi[ti	2
 猜得	cdde:t	1
 採購	cdgz:m	4
@@ -476,11 +647,23 @@ bilibili	bilibili	2
 彩鈴	cdlk	1
 彩鈴你	cdlk n'	1
 材料	cdln	2
+財政	cdog	6
+財政支出	cdogvii'	2
 採取	cdqu	4
+𤷕	cdu	4
+財務	cdwu	2
 策略	celt	6
 側重於	ceoseu	2
-層面	cgmm	4
-纔會	chv	6
+測試	ceus	2
+層次	cgci	2
+曾與	cgeu	2
+層級	cgji	6
+層面	cgmm	8
+倉儲	chiu	2
+纔會	chv	8
+粲花之舌	chvu	2
+次數	ciau:o	2
+层出不穷	cibq	2
 詞彙	cihv	4
 次要	ciyc	2
 殘暴	cj[ga bc[ji	2
@@ -490,881 +673,236 @@ bilibili	bilibili	2
 殘骸	cjhd	2
 殘害	cjhd:p	6
 殘缺	cjqt	6
+殘忍	cjrf	2
+慘痛	cjts	2
 餐飲	cjyb	2
-才能	cng	15
+纔開始	ckdus	2
+纔可以	ckec	2
+草莽英雄	cmex	2
+才能	cng	21
+蹉	co[ka	1
+蹉了	co[ka l'	1
+錯	co[qj	3
+錯誤	cowu:;	2
 篡改	crgd	2
 叢裡	cs[oc li[pzjf	2
 從	cs[w;	1
 從這個意義	cs[w; og' eiei	1
 從這裏	cs[ww o' li[jf	2
 從一個	cseg'	2
-從來	csld	14
+從來	csld	16
 從良	csll:;	4
-聰明	csmk:j	4
+聰明	csmk:j	8
 從沒有	csmy'	4
 從政	csog	2
 從事	csus	5
 從事發	csus f'	1
+從業	csye	2
 粗暴	cubc	2
+措手不及	cubj	4
+粗獷	cugl	2
 促成	cuig	4
 焠	cv[of	2
 璀璨	cvcj	2
 摧殘	cvcj:g	2
+擦脂抹粉	cvmf	2
 催生	cvug	2
 存在一些	cy[db z' e' xp[hf	2
 存在	cy[db zd[df	6
+村	cy[sf	1
+存量	cyll	6
 存省	cyug:i	2
 村莊	cyvl	2
-存在	cyz'	19
+存在	cyz'	33
+湊	cz[id	2
+湊和過	cz[id h' go[fp	1
+湊活	cz[id ho[id	13
+湊火車下	cz[id hoie xx[gh	1
 大部分	d b ff	2
 多才多藝	d c d e[a	6
+東湖春	d h iy	2
 鼎好粥莊	d h o v[;	2
+大可以又	d k e y[c	2
 多倫多	d l do	2
+獨木橋	d m qn	2
 但這和	d o h'	2
-的	d'	20
+第三項	d s x[a	2
+第十二課	d u e k[;	2
+動物世界	d w u j[l	2
+的	d'	32
 的不粉	d' b' ff[ov	1
 的猜得	d' cdde:t	1
-的東西	d' ds[ai xi[sg	4
+的東西	d' ds[ai xi[sg	6
+的對比	d' dvbi	1
+的抑素	d' eisu:g	1
+的就是	d' j' u'	2
 的力量	d' li[ln ll[jf	2
+的重要	d' osyc	1
+的鎖	d' so[qm	1
+的組	d' zu[xg	1
+帝國	d;go	2
 大	da	3
 大分工	da ffg;	1
 大祝福	da vufu	1
-大	da:dt	1
+大	da:dt	2
 大工業	da[dd g; ye[og	2
-搭配	da[rk pw[sn	12
+大清洗	da[dd qk[ie xi[iq	2
+大逃殺	da[dd tc[ip ua[qs	2
+達到	da[dp dc[gj	2
+大雨	da[dt eu[fg	1
+大差	da[dt ia[uda	1
+大差不差	da[dt ia[uda biau	3
+大車	da[dt ie[lh	2
+大雪	da[dt xt[fv	1
+搭配	da[rk pw[sn	14
 打	da[rs	1
-打不過	da[rs b' go[fp	4
+打不過	da[rs b' go[fp	8
 打扮	da[rs bj[rn	1
 打扮的	da[rs bj[rn d'	1
 打的	da[rs d'	1
 打的打	da[rs d' da[rs	1
-打個	da[rs g'	2
+打到	da[rs dc[gj	3
+打到他	da[rs dc[gj t'	1
+打贏	da[rs ek[;;	2
+打個	da[rs g'	3
 打個比方	da[rs g' bi[xx fh[;n	2
-打成	da[rs ig[dt	2
+打個折	da[rs g' oe[rr	5
+打工	da[rs g;	4
+打車	da[rs ie[lh	5
+打成	da[rs ig[dt	6
 打交道	da[rs jn[uq dc[up	6
 打老婆	da[rs lc[fx po[iv	2
 打人	da[rs r'	3
 打算	da[rs sr[ta	4
+打團	da[rs tr[lf	2
 打仗	da[rs vh[w;	2
 打野	da[rs ye[jb	8
-打不	dab'	3
-打不破	dab' po[dc	3
-大部分	dabuff	2
-大多數	dadoau	2
-大一統	daetsx	2
-大風大浪	dafsdalh:i	2
-答覆	dafu	2
-大公	dags	2
-大規模	dagvmo	6
-大環境	dahrjk	2
-大廚	daiu	4
-大媽	dama	2
-大招	daoc:r	2
-大批	dapi:r	4
-大人	dar'	2
-打過	dargo	2
-打過教導	dargo jndc	1
-打過交道	dargo jndc:u	7
-大丈夫	davhfu	2
-大問題	dawfti	2
-大項	daxl:a	1
-打野	daye:j	2
-到這裏	dc[gj o' li[jf	4
-軇	dc[tmdf	2
-道	dc[up	1
-到達	dcda	2
-多才多艺	dcde	4
-道德	dcde	1
-導讀	dcdu	2
-導言	dcej:;	2
-導火索	dchoso	6
-到了	dcl'	1
-道理	dcli	1
-道路	dclu	2
-到你	dcn'	1
-到你這邊	dcn' obml	1
-導致	dcvi:g	4
-帶	dd[gh	1
-帶了	dd[gh l'	1
-帶了一個	dd[gh l' eg'	1
-帶來	dd[gh ld[goi	1
-帶着	dd[gh o;	2
-代表一個	dd[w; bn[ge e' g'	2
-代表	ddbn	18
-代表文藝界	ddbn wfeijp:l	1
-代議制	ddeivi:r	2
-代價	ddjx:w	2
-貸款	ddkr	1
-代替	ddti	2
-德國	de[tn go[l;	6
-得到	dedc	10
-得到一個	dedceg'	2
-德語	deeu	2
-得分	deff	4
-的一個	deg'	1
-独一无二	dewe	2
-等同於	dg[tf ts[mk eu[gf	2
-登上	dga'	2
-等待	dgdd	2
-等級制	dgjivi:r	8
-等着	dgo;	4
-燈珠	dgvug	2
-當	dh:iv	1
-當一個人	dh:iv e' g' r'	2
-當成	dh:iv ig[dt	4
-當成一種	dh:iv ig[dt e' ot[	2
-當成了	dh:iv ig[dt l'	2
-當街	dh:iv jp[th	2
-當年	dh:iv nm[rf	3
-當中	dh:iv os[khk	18
-當前	dh:iv qm[uj	4
-當然	dh:iv rj[qo	14
-當下	dh:iv xx[gh	6
-擋	dh:rv	2
-鐺	dh[qv	2
-當地	dhdi	2
-當街賣	dhjpmdf	2
-當立	dhliu	1
-當真	dhof	2
-當中	dhos	87
-當然	dhrj	28
-的話我	dhxw	2
-地	di[fb	4
-地上的星	di[fb a' d' xk[jg	2
-地星	di[fb xk[jg	5
-抵估	di[r; gu[wd	4
-第一人稱	di[tt e' r' ig[ti	2
-第三	di[tt s;	1
-第三部分	di[tt s; buff	1
-第五個	di[tt w; g'	2
-低幼	di[w; yz[xl	2
-底層	dicg	12
-地帶	didd	1
-敵對	didv	2
-第一波	dieboi	2
-第一個	dieg'	2
-第一節	diejpa	2
-第一人稱	dierigt	2
-低谷	digu	2
-低估	digu:w	6
-低穀	diguw	4
-地痞流氓	dipilqmh:;	2
-第三件	dis;jmw	2
-地鐵	ditp	2
-地主	divu:;	2
-地形	dixk	1
-地形雜貨鋪	dixk zahopu	1
-地下室	dixxus	2
-地租	dizu:t	2
-蛋白粉	dj[nj bd[rr ff[ov	2
-單一	dj[uf e'	6
-單人	dj[uf r'	1
-單人關係	dj[uf r' grxi	1
-擔當	djdh	2
-單一	dje'	6
-單個	djg'	2
-擔驚受怕	djjkuzpa:n	2
-彈幕	djmu:a	6
-但是	dju	1
-的就是	dju'	2
-單元	djyr	1
-頂多	dkdo	4
-定義	dkei	4
-定格	dkge:s	1
-定格化	dkge:s hx[wx	1
-點	dm[ho	2
-電池	dm[jn ii[ib	6
-電瓶	dm[jn pk[un	28
-電瓶車	dm[jn pk[un ie[lh	4
-電壓	dm[jn ya[d;	6
-電源	dm[jn yr[ii	2
-顛覆	dmfu	2
-點個	dmg'	2
-電池組	dmiizu:x	4
-電纜	dmlj	2
-靛藍	dmlj:a	2
-點評	dmpk	4
-電瓶車	dmpkie	20
-電視	dmus	2
-點位	dmww	2
-典型	dmxk	10
-屌	dn[nh	9
-屌東西	dn[nh dsxi	7
-屌自己	dn[nh ziji	1
-掉入	dn[rj r;	2
-調研	dnej:d	2
-調入	dnr;	2
-掉線	dnxm:x	2
-奪	do:df	10
-多	do:qq	3
-多個	do:qq g'	2
-多階	do:qq jp[bj	1
-鐸	do[qh	2
-多	do[qq	8
-多一塊	do[qq ekkf	1
-多和	do[qq h'	1
-躲一躲	do[ts e' do[ts	2
-多大	doda	2
-多得	dode	3
-多得不得了了	dode bdeln l'	1
-奪得	dode:t	6
-多方	dofh	2
-𪘉	doh	2
-多了	dol'	3
-墮落	dolo	3
-墮落會	dolo hv	1
-舵輪	doly:l	1
-舵輪多	doly:l do:qq	1
-多倫多	dolydo	2
-多種	doot	4
-多去	doq'	8
-多個	doqg'	2
-𥿰	dox	2
-惰性	doxk:n	4
-的人	dr'	3
-斷絕	drjt	3
-斷絕是	drjt u'	1
-短暫	drzj	2
-東遷	ds[ai qm[tp	4
-動詞	dsci	2
-動靜	dsjk	2
-東南	dsnj	4
-冬暖	dsnr	2
-動遷	dsqm:t	2
-東西	dsxi	2
-度	du[;c	1
-讀	du[;d	1
-肚子	du[ef zb[	2
-堵死	du[ff si[gx	6
-讀書	duau	6
-的是一個	dueg'	1
-的是一個轉變	dueg' orbm:;	1
-度過	dugo	2
-鍍金	dujb:q	2
-獨立	duli	2
-讀者	duoe:f	2
-對	dv[cf	1
-對於	dv[cf eu[gf	8
-對立面	dv[cf li[uu mm[dd	4
-對他們	dv[cf t' mf[wu	2
-對事物	dv[cf uswt	1
-對我們	dv[cf w' mf[wu	4
-對不對	dvbdv	2
-對比	dvbi	4
-對待	dvdd	6
-對於	dveu	4
-對於	dveu:g	34
-堆積	dvji	2
-對了	dvl'	4
-對立	dvli:u	27
-對你	dvn'	2
-對他	dvt'	1
-對手	dvuz:r	4
-對自己	dvziji:n	1
-噸	dy[km	1
-噸和	dy[km h'	1
-大有可为	dykw	4
-陡壁	dz[bh bi[nf	2
-都	dz[fb	1
-都不用	dz[fb b' ys[eh	2
-都變得	dz[fb bm[;c de[tf	2
-都會被	dz[fb hv[wc bw[pc	2
-都認可	dz[fb rfk'	1
-都是一些	dz[fb u' e' xp[hf	2
-都說	dzao	1
-都把	dzba:r	2
-都比	dzbi	5
-都比你	dzbi n'	1
-都不能	dzbng	4
-都不知道	dzbvidc	4
-都被	dzbw	12
-都被你	dzbwn'	2
-都對	dzdv	1
-都對我們	dzdv wmf	1
-鬥魚	dzeu:q	2
-都會	dzhv	14
-都可以	dzkec	6
-都來自	dzldzit	2
-都沒有	dzmy'	4
-鬥爭	dzog	2
-都是	dzu'	2
-都行	dzxk	2
-都有	dzy'	13
-都要	dzyc	10
-都用	dzys	4
-都在	dzz'	1
-都在彼此	dzz' bic;	1
-應該說	e g ao	2
-於心不忍	e x b r[v	2
-英雄聯盟	e x l m[j	4
-異性戀	e x lm	2
-一	e'	8
-一把手	e' ba[r uz[rh	2
-一般人	e' bj[tc r'	2
-一定是要	e' dk[ph u' yc[sv	2
-一噁心	e' eex;	1
-一意識到	e' eiusdc	1
-一車	e' ie[lh	2
-一傳染	e' irrj	1
-一結舌	e' jiue	1
-一看	e' kj[rh	2
-一兩百	e' ll[gw bd[dj	2
-一整塊	e' ogkk:f	1
-一千萬	e' qm[tf wj[dn	2
-一切都是	e' qp[av dz[fb u'	2
-一人	e' r'	1
-一人一車	e' r' eie	1
-一條路	e' tn[ts lu[kk	2
-一時	e' uj[	2
-一萬	e' wj[dn	2
-二	e;	1
-二道	e;dc	3
-二道個三	e;dc g' s;	1
-二代	e;dd	2
-二人	e;r'	4
-二十	e;u;	1
-二十快	e;u; kk[nw	1
-二手	e;uz	2
-二元	e;yr	4
-二元對立	e;yrdvliu	6
-二元	e;yrf	5
-二元對立處	e;yrf dvli:u iu[hm	1
-一瞬間	eayjm	3
-一般	ebjt	4
-一邊	ebml	2
-一步步	ebubu	2
-一步步	ebubuh	2
-一步	ebuh	2
-一杯	ebw	1
-以	ec[	1
-一次	eci	2
-一次性	ecixkn	2
-一道	edc	1
-一道二	edc e;	1
-一道	edcu	2
-一旦	edj	2
-一定	edk	26
-一定會	edkhv	4
-一定	edkp	1
-一點	edm	14
-一點點	edmdm	2
-惡	ee[gn	1
-惡話	ee[gn hx[;d	1
-餓了嗎	ee[qt lmak	2
-惡毒	eedu:g	4
-一樣	eeh	26
-額外	eewd	10
-噁心	eex;	10
-一份	effw	2
-一方面	efhmm	4
-一幅畫	efuhx	2
-一個	eg'	610
-一個經濟	eg' jkji	1
-一個個	egg'	2
-一個人	egr'	24
-一股	egue	3
-一個月	egyt	2
-養	eh[ue	1
-養這麼多人	eh[ue omedor'	1
-仰賴於	eh[wb ld[gm eu[gf	2
-養老	ehlc	4
-仰賴	ehld:g	2
-仰賴於	ehldeug	2
-羊毛	ehmc	3
-揚棄	ehqi:;	4
-樣子	ehzb	8
-亦然	ei[;o rj[qo	2
-意	ei[un	4
-意含	ei[un hj[wk	3
-意麪	ei[un mm[swwn	1
-依人	ei[we r'	1
-一車	eie	2
-一車車	eie ie[lh	1
-意義	eiei	1
-益益	eieiu	2
-一城	eigf	2
-議會	eihv	2
-遺產	eiij	2
-意境	eijk:f	4
-已經很	eijkhf	2
-依據	eijv	2
-醫療	eiln	2
-疑慮	eilv	3
-遺漏	eilz:i	8
-移情	eiqk:n	2
-抑素	eisu:g	6
-意圖	eitu	1
-意識	eius	2
-意識過程	eius goig	1
-意識到	eiusdc	7
-意識形態	eiusxktd:d	4
-意志	eivi:f	10
-以致	eivi:g	2
-義務	eiwu:t	2
-意味	eiww:k	4
-言之	ej[;; v;	1
-言之過早	ej[;; v; gozc:j	1
-言外之意	ej[;; wd[qh v; ei[un	1
-眼裏	ej[h; li[jf	2
-眼線	ej[h; xm[xg	2
-沿着	ej[ik o;	1
-沿着這種	ej[ik o; oot	1
-衍	ej[th	3
-衍化學	ej[th hxxt	2
-衍散	ej[th sj[at	1
-掩藏	ejch	6
-沿海	ejhd	4
-眼鏡	ejjk:q	4
-研究生	ejjqug	4
-言論	ejly	2
-一件	ejmw	2
-一见钟情	ejoq	2
-顏色	ejse	2
-衍射	ejue:t	2
-掩飾	ejus	2
-演繹	ejus	2
-一句	ejvq	10
-演員	ejyr	1
-贏	ek[;;	2
-穎	ek[xm	1
-穎我所	ek[xm ws'	1
-英才	ekc'	2
-一開始	ekdus	10
-應對	ekdv	2
-營養	ekeh	2
-應該是	ekgdu'	2
-一塊	ekkf	13
-一塊去	ekkf q'	1
-映射	ekue	2
-影視	ekus	2
-應試	ekus:;	2
-應為	ekwy	2
-影響	ekxl	1
-影響就	ekxl j'	1
-一輛	elll	2
-一路	elu	2
-一面	emm	5
-一幕	emu	2
-一幕一幕	emu emu	1
-一幕幕	emumu	4
-一幕幕	emumua	2
-恩	en[ln	1
-恩是啊	en[ln u' a;	1
-婀娜多姿	endz	2
-一種	eot	64
-一起	eqif	20
-一千	eqmt	6
-一切	eqpa	14
-而	er[dj	1
-而是要	er[dj u' yc[sv	2
-而需要	er[dj xuyc	1
-而不是	erbu'	26
-而以	erec	6
-而已	erei	14
-耳環	erhr	2
-而有	ery'	1
-而要	eryc	2
-一絲	esi	2
-一鬆	ess	1
-一統	etsx	1
-一統之後	etsx v;hz	1
-一是	eu'	2
-與	eu:gn	1
-與過程	eu:gn goig	1
-語	eu[;k	1
-雨	eu[f;	1
-於	eu[gf	40
-欲	eu[ww	1
-遇到	eudc	4
-餘地	eudi:f	4
-預計	euji	2
-禦姐	eujpv	2
-宇宙	euoz	2
-與其	euqia	1
-與其說	euqiao	4
-魚頭湯	eutzthi	2
-預設	euue	4
-預設	euue:;	16
-慾望	euwh	6
-意識形態	euxt	16
-一直	evif	4
-一致	evig	6
-一隻腳	evjn	2
-一系列	exilp	8
-一下	exx	12
-韻調	eydn:;	1
-韻調就	eydn:; j'	1
-芸芸众生	eyeyosug:t	4
-運氣	eyqi	2
-運送	eyss	1
-運送來去	eyss ldq'	1
-運行	eyxk:t	4
-允許	eyxu	10
-運用	eyys	2
-一組	ezux	7
-孵化率	f h ak	2
-飛信論壇	f x l t[f	2
-發	f'	8
-發佈	f' bu[wdmh	2
-發餐	f' cj[he	7
-發達	f' da[dp	2
-發飯	f' fj[qnc	1
-發明	f' mk[je	1
-發散	f' sj[at	2
-發生學	f' ug[t xt[ib	4
-發誓	f' us[r;	4
-發至	f' vi[gf	2
-非	f;	4
-非平民	f; pmb	3
-非平民關係	f; pmb grxi	3
-非暴力	f;bclil	1
-非暴力關係	f;bclil grxi	1
-非法	f;fa	4
-非常	f;ih	8
-非要	f;yc	10
-法度	fadu:;	2
-發狂	fakl:q	2
-罰款	fakr	2
-法律	falv	6
-法制	favi	2
-法西斯	faxisi	2
-粉	ff[ov	1
-份	ff[wv	1
-分不清楚	ff[wv b' qk[ie iu[sh	2
-分辨	ffbm	2
-分封	fffs:f	2
-分工	ffg;	1
-分成	ffig	2
-分開	ffkd	2
-分類	fflw	2
-分類學	fflwxt:i	2
-分配	ffpw	2
-分支	ffvi:f	2
-分析	ffxi	4
-分線	ffxm	1
-分線不	ffxm b'	1
-分子	ffzb	2
-放	fh[;t	3
-放到	fh[;t dc[gj	2
-放放	fh[;t fh[;t	1
-放在	fh[;t z'	1
-放在那裏不管	fh[;t z' n;li bgr	1
-芳	fh[a;	1
-芳按	fh[a; an[rv	1
-防止	fh[b; vi:h	2
-妨礙	fhai	2
-方案	fhan	6
-防暑	fhau	2
-方便	fhbm	1
-方便你去加工你就不是需要一個	fhbm nq' jx:lk g; nj' bu' xuyc eg'	1
-放鞭炮	fhbmpc	2
-防禦	fheu	2
-防禦性	fheuxk:n	2
-放過	fhgo	1
-放過你	fhgo n'	1
-放開	fhkd	4
-方面	fhmm	11
-放棄	fhqi	2
-放任	fhrw	4
-防曬	fhud	2
-方式	fhus	1
-方式	fhus:a	4
-放置	fhvi:l	2
-方向	fhxl	2
-方向	fhxl:t	4
-非常	fi	3
-非常銳利	fi rvli	3
-范	fj[ab	1
-范進	fj[ab jb[fp	7
-範式	fj[ab us[aa	1
-煩人	fj[om r'	2
-飯	fj[qnc	3
-反	fj[rc	1
-反宗教	fj[rc zsjn	1
-反對	fjdv	8
-番夷	fjei:g	4
-翻譯成	fjeiig	12
-反而	fjer	11
-泛泛	fjfj:i	2
-反過來	fjgold	14
-反過頭	fjgotzu	2
-犯禁	fjjb:s	2
-反抗	fjkh	1
-反抗意識	fjkh eius	1
-反抗者	fjkhoe:f	2
-反正	fjog	16
-反轉	fjor:l	6
-翻轉	fjor:l	4
-繁種	fjot	2
-反題	fjtij	10
-反射	fjue	2
-凡事	fjus	4
-範式	fjus:a	6
-範圍	fjww	1
-反向	fjxl:t	4
-封閉	fsbi	2
-豐富	fsfu	2
-縫合	fshe	3
-縫合點	fshe dm[ho	3
-風景	fsjk:j	2
-風流	fslq	1
-風流浪子	fslq lhzb	1
-縫隙	fsxi	2
-風險	fsxm:b	14
-奉獻	fsxm:f	2
-府	fu[;f	1
-府才	fu[;f c'	1
-賦性	fu[mm xk[ng	2
-富於	fu[pl eu[gf	4
-符合	fu[tf he[wk	2
-複數	fu[tt au[kt	1
-複數性	fu[tt au[kt xk:n	1
-複讀	fu[tt du[;d	2
-複合	fu[tt he[wk	2
-竎	fu[uaj	1
-竎藍	fu[uaj lj[al	1
-伏	fu[wd	3
-服從	fucs	4
-幅度	fudu	2
-賦予	fueu:c	2
-發生	fug	2
-發生史	fug us[kq	1
-富哥	fuges	6
-符號	fuhc	2
-符號性	fuhcxkn	15
-符號學	fuhcxt:i	10
-復活	fuho	7
-俘獲	fuho:a	8
-俘獲了他	fuho:a lt'	1
-富集	fuji:w	2
-腐爛	fulj	4
-覆沒	fum'	2
-負面	fumm	10
-負面	fumm:d	1
-負面性	fumm:d xk:n	1
-父母	fumu	16
-服裝	fuvl	2
-輔助	fuvu	3
-附庸	fuys	2
-複雜	fuza	4
-負載	fuzd	2
-負責	fuze	4
-負責任	fuzerf	4
-負責任	fuzerw	4
-發展	fvjn	49
-發展把握	fvjn bar wo[rf	1
-肥	fw[ec	1
-廢話	fwhx:;	2
-廢除	fwiu:b	2
-廢棄	fwqi:;	1
-廢棄體育場	fwqi:; tieuih:f	1
-否定	fzdk	10
-否定性	fzdkxk:n	8
-否認	fzrf	2
-否則	fzze	2
-羔羊皮	g e pi	2
-乾乾淨淨	g g j j[u	2
-個	g'	6
-個特命	g' temk:w	1
-個實	g' up[	1
-工益小組	g; ei[ul x' zu[xg	8
-工益	g;ei	1
-工益下棋	g;ei xxqi:s	1
-工具	g;jv	8
-工資	g;zi	1
-工作	g;zo	14
-個別	gbp	5
-個別性	gbp xk:n	1
-搞	gc[rk	1
-搞定	gc[rk dk[ph	6
-搞混	gc[rk hy[ix	2
-搞笑	gc[rk xn[td	2
-高一	gce'	2
-高估	gcgu	2
-高級	gcji	2
-高級	gcji:x	2
-高樓	gclz	2
-高速	gcsu:g	2
-該打	gdda:r	2
-改動	gdds	1
-改革	gdge	6
-改口	gdkz	2
-改良	gdll	2
-概念化	gdnmhx:w	2
-改裝	gdvl	6
-革命性	ge[af mk[wb xk[ng	8
-嗝屁	ge[kh pi[nx	6
-各個國家有各個國家的國歌	ge[tk g' go[l; jx[pe y' ge[tk g' go[l; jx[pe d' go[l; ge[sw	3
-格言	geej	2
-各方	gefh	1
-各方個一面	gefh g' emm	1
-各方面	gefhmm	4
-格拉斯	gelasi:a	1
-隔離	geli:;	2
-革命	gemk	1
-革命就	gemk j'	5
-革命	gemk:w	6
-革命家	gemkjx	16
-革命者	gemkoe:f	4
-各種	geot	6
-各種各樣	geotgeeh:s	2
-嗝屁	gepin	2
-跟	gf[ke	2
-跟不	gf[ke b'	1
-跟家長	gf[ke jxvh	1
-根據	gfjv	11
-根據一個	gfjv eg'	1
-更	gg[gq	2
-更於	gg[gq eu[gf	1
-更精確	gg[gq jk[oe qt[de	2
-更覺得	gg[gq jt[iq de[tf	2
-更勤勞	gg[gq qblc	1
-更糟糕	gg[gq zc[oj gc[oo	2
-更大	ggda	2
-更多	ggdo	4
-更高	gggc	4
-更改	gggd	2
-更好	gghc	8
-归根结底	ggjd	4
-更能	ggng	2
-更重要	ggosyc	2
-更少	gguc	2
-更深刻	ggufke:;	2
-更新	ggxb	2
-更有	ggy'	5
-更有一個	ggy' eg'	1
-剛纔	ghc'	2
-各持己见	gijj	4
-共產主義	give	15
-幹係	gj[fh xi[tx	1
-感到	gjdc	2
-感恩	gjen	2
-幹活	gjho:i	2
-趕緊	gjjb	2
-感激	gjji	2
-乾淨	gjjk	2
-感覺	gjjt	1
-感情	gjqk:n	2
-甘肅	gjsu	4
-干涉	gjue	3
-干涉權	gjue qr[s;	1
-幹什麼	gjum	4
-感受到	gjuzdc	4
-乖乖	gkgk	1
-乖乖寶寶	gkgk bcbc	1
-怪圈	gkqr	1
-廣告	glgc	2
-光輝	glhv	2
-光線	glxm:x	2
-裹	go[;e	1
-過	go[fp	2
-過不下去	go[fp bxxq'	1
-過於	go[fp eu[gf	4
-國內	go[l; nw[m;	2
-過個	gog'	2
-過程	goig	3
-國際	goji	1
-國際共產主義	goji give	1
-國劇	gojv:n	1
-國家	gojx	10
-過了	gol'	4
-過來	gold	6
-鍋爐	golu	2
-過路	golu:k	2
-過路費	golufw:x	2
-過去	goq'	1
-過去那個	goq' n;g'	1
-過日子	gorizb	2
-過往	gowh:t	2
-過早	gozc:j	1
-個人	gr'	4
-個人暴力	gr' bcli:l	1
-個人認同	gr' rfts	1
-個人性	gr' xk:n	1
-個人形象	gr' xkxl	1
-關乎於	gr[ud hu[th eu[gf	2
-關閉	grbi	2
-關於	greu	10
-官方	grfh	2
-關懷	grhk	4
-官宦	grhr:p	2
-觀察	gria	2
-觀察民	gria mb[na	1
-觀察器	gria qi[kk	1
-關鍵點	grjmdm	2
-管理	grli	1
-管理方式	grli fhus	1
-關聯	grlm	8
-官能	grng	7
-觀衆	gros	2
-貫通	grts	2
-關心	grx;	2
-關係	grxi	109
-慣性	grxk:n	6
-關廂	grxl:;	2
-工作	gs[aa zo[wf	1
-工作場所	gs[aa zo[wf ihs'	3
-公	gs[wc	1
-弓形	gs[xn xk[ge	1
-弓形你	gs[xn xk[ge n'	1
-公寓	gseu	4
-公共	gsgs	1
-公共討論	gsgs tcly	1
-公共場所	gsgsihs'	2
-公共汽車	gsgsqiie:l	2
-公會	gshv	1
-攻擊	gsji	1
-攻擊單元	gsji djyr	1
-攻擊性	gsjixk:n	2
-共聚	gsjv	2
-公開	gskd	3
-公開場所	gskd ihs'	1
-公里	gsli	1
-功力	gsli	2
-公理	gsli:g	2
-公里	gsli:j	2
-功利	gsli:t	4
-公民	gsmb	2
-功能	gsng	6
-功能性	gsngxk	2
-公正	gsog	6
-公證	gsog:;	4
-公衆	gsos	2
-公權力	gsqrli:l	10
-共同	gsts	10
-共通	gsts:c	2
-共同語言	gstseuej:;	2
-共同體	gststi	2
-躬身	gsuf:t	2
-公式	gsus:a	2
-攻守	gsuz:p	6
-攻守之範圍	gsuz:p v; fjww	1
-攻守之勢	gsuz:p v;usr	5
-貢獻	gsxm	2
-功效	gsxn	2
-功用	gsys:e	2
-個體	gti	6
-各式各样	guge	12
-固化	guhx:w	2
-估計	guji	2
-顧忌	guji:n	2
-孤立	guli:u	6
-骨頭	gutz	2
-古早	guzc:j	2
-鼓噪	guzc:k	2
-詭計	gv[;b ji[;f	2
-規訓	gv[fq xy[;k	2
-歸	gv[jv	1
-歸功	gv[jv gs[al	2
-龜	gv[qn	1
-龜公	gv[qn gs[wc	7
-規定	gvdk	6
-軌跡	gvji	2
-軌跡	gvji:;	2
-歸來	gvld	2
-歸入	gvr;	2
-規則	gvze	8
-貴族	gvzu	6
-給	gw[xk	3
-給到了	gw[xk dcl'	1
-給一定	gw[xk edkp	1
+大甩賣	daakmd:f	1
+倒垃圾	dc[wj la[fu ji[f;	2
+登記	dgji:;	4
+底下	di[;; xx[gh	2
+地上的星	diadxk:j	4
+對了	dvl'	2
+一次	eciu	2
+一起	eqif	2
+於	eu[gf	6
+預繳	eujn:x	2
+一下	exx	5
+改改	gd[nt gd[nt	2
+過來	gold	8
+還好	hdhc	2
+核能	heng	1
+航	hh[te	2
+漢字	hjzp	2
+貨架	ho[wm jx[ls	4
+後面	hzmm	2
+柴可夫斯基	id[hs k' fu[fw si[ar ji[af	2
+常態	ih:i td[cn	1
+常態性	ih:i td[cn xk:n	1
+齒輪	iily	2
+就說	jao	2
+今晚	jbwj:j	2
+金鑫	jbxb:q	2
+就可以	jkec	2
+江南	jlnj	4
+建	jm[vp	1
+建通	jm[vp ts[cp	1
+繳納	jnna	2
+交響曲	jnxlqu	2
+肯定	kfdk	2
+看你	kjn'	2
+苦力	kuli:l	2
+了	l'	1
+勞工	lcg;	4
+〇	lk:ll	2
+兩個人	llgr'	2
+琉璃	lqli	1
+亂了	lrl'	2
+類別	lwbp	2
+沒	m'	1
+沒問道	m' wfdc	1
+明信片	mkxbpm	8
+目前	muqm	2
+你	n'	1
+你覺得	n' jt[iq de[tf	2
+那	n;	2
+腦	nc[eb	1
+男性	njxk:n	2
+找	oc[ra	1
+找圖	oc[ra tu[lk	1
+着	oc[uh	1
+着圖	oc[uh tu[lk	1
+找他	oct'	5
+找他要一下	oct' yc[sv exx	1
+蒸汽	ogqi	2
+整齊	ogqi:;	2
+這個時候	ogujhz	2
+這個月	ogyt	2
+泡沫	pcmo	2
+排	pd[rd	1
+排表	pd[rd bn	1
+排版	pdbj	2
+祈禱	qidc:p	2
+豈能	qing	2
+清理	qkli	2
+青年	qknm	2
+日期	riqi	2
+軟件	rrjm:w	2
+如果	rugo:j	2
+私聊	si[tc ln[bb	2
+四項	sixl:a	2
+素材	sucd	4
+塔可夫斯基	ta[fk k' fu[fw si[ar ji[af	4
+討論	tcly	2
+挺好的	tk[rp hc[vb d'	2
+天佑吾皇	tm[gd yz[wk wu[gk hl[rg	2
+天佑	tmyz	2
+煓	tr[oj	1
+通	ts[cp	1
+圖	tu[lk	2
+圖片	tupm	2
+沙發	uaf'	2
+啥事	uaus	2
+是不是	ubu'	2
+史料	usln:o	2
+之夜	v;ye	2
+只好	vhc	2
+五	w;	2
+五更	w;gg	1
+五更琉璃	w;gg lqli	1
+文	wf[;;	2
+問的	wfd'	2
+問道	wfdc	3
+問到	wfdc:g	2
+問道	wfdc:u	2
+文件	wfjm:w	2
+問他	wft'	2
+我覺得	wjtde	2
+我這邊	wobml	2
+務必	wubi	2
+衛生間	wwugjm	2
+我有個	wyg'	2
+洗碗	xiwj:d	4
+性	xk:n	1
+姓名	xkmk:q	2
+消炎	xn[ie ej[oo	2
+序號	xuhc	2
+需求	xuqq	2
+下面	xxmm	2
+有空的話	y' ks[pa d' hx[;d	2
+飲食	ybus	2
+要	yc[sv	1
+也可以	yekec	2
+有空	yks	2
+遠程	yrig	2
+永不	ysb'	2
+有啥	yua	1
+有啥腦核能	yua nc[eb heng	1
+有事	yus	2
+有序	yxu;	2
+怎麼樣	zfmeeh	2
+怎麼了	zfmel'	4
+暫定	zjdk	2
+暫時	zjuj	2
+左翼	zo[da ei[nlw	2
+昨晚	zowj:j	2

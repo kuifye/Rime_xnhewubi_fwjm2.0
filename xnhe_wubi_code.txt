@@ -68,7 +68,7 @@ cmd_control		cmdkvmb	10
 ，	fg	10
 ……	vs	10
 ！	vc	9
-、	vd	10
+、	vv	10
 ？	vw	10
 ——	op	10
 《	vf	10
@@ -184,6 +184,8 @@ app	app	9
 任	rw	9
 物	wt	9
 網	wm	9
+澆	jniq	9
+覺	jniq	8
 飲	ybqn	9
 懟	dvcn	9
 跳	tnkh	9
@@ -268,6 +270,7 @@ app	app	9
 不晓得	bxd	7
 你不能	nbng	7
 中國人	ogr	7
+開開開	kkk	7
 用於	ysyu	9
 你去	nq	10
 出的	id	10
@@ -322,6 +325,13 @@ app	app	9
 是非	uf;	10
 與之	euv;	10
 推入	tvr;	10
+找他	oct	10
+還不	hdb	10
+當個	dhg	10
+吃我	iiw	10
+不爱	bai	10
+輸出	aui	10
+路上	lua	10
 男人	njr	10
 批發	pif	10
 多去	doq	10
@@ -572,6 +582,7 @@ app	app	9
 我有權	wyqr	10
 你将和	njlh	10
 我就和	wjh	10
+你知道	nvd	10
 只是一個	vueg	10
 一個一個	egeg	10
 平靜	pjk	0
@@ -601,6 +612,7 @@ app	app	9
 首開	uzkd	10
 建制	jmvir	10
 要素	ycsu	10
+先天	xmtm	10
 馬克思	mksi	10
 
 #注音
@@ -1196,6 +1208,7 @@ app	app	9
 芭	baa	9
 巴	bac	9
 耙	bad	9
+霸	baf	10
 壩	baf	9
 灞	bai	9
 蚆	baj	9
@@ -5785,7 +5798,7 @@ app	app	9
 黄	hlaw	35300
 黃	hlaw	35300
 版	bjth	35300
-版	bjtc
+版	bjtc	35300
 病	bkuw	34209
 致	vigt	33854
 容	rspk	33434
@@ -6252,7 +6265,7 @@ app	app	9
 忍	rfvn	2722
 鸿	hsig	2699
 鴻	hsig	2699
-霸	bafe	2658
+霸	bafe	6
 疏	aun;	2610
 悠	yzwh	2610
 慕	muan	2607
@@ -6488,7 +6501,7 @@ app	app	9
 拾	usrk	1067
 禹	eutk	1066
 丸	wjv;	1064
-俞	euwg	1055
+俞	euwj	1055
 翅	iifd	1049
 骂	makc	1046
 罵	makc	1046
@@ -6692,8 +6705,6 @@ app	app	9
 犀	xini	509
 媚	mwvv	508
 茬	iaad	500
-驭	euc;	500
-馭	euc;	500
 凳	dgwm	497
 姬	jiva	493
 扒	barw	492
@@ -7822,7 +7833,6 @@ app	app	9
 喂	wwke
 悔	hvnu
 禹	eut;
-俞	euwj
 翅	iifn
 罵	malc
 巍	wwmc
@@ -8286,8 +8296,7 @@ app	app	9
 鋰	liqf
 剽	pnsj
 鄢	ejgb
-鄞	ybak
-鄞	ybab
+鄞	ybab	9
 臾	euvw
 笠	litf
 笠	litu
@@ -8386,7 +8395,7 @@ app	app	9
 霹	pifu
 胭	ejed
 佚	eiwr
-佚	eiww	10
+佚	eiww	7
 狈	bwqo
 狈	bwqm
 狽	bwqo
@@ -10181,7 +10190,7 @@ app	app	9
 佾	eiwe
 埸	eifr
 茚	ybaq
-茚	ybab
+茚	ybab	5
 伛	euwq
 傴	euwq
 傴	euwk
@@ -12219,7 +12228,6 @@ app	app	9
 雪	xtfv
 學	xtwb
 穴	xtpw
-薛	xtau
 鏇	xrqh
 鉉	xrqx
 楦	xrsg
@@ -15729,7 +15737,7 @@ app	app	9
 板	bjsc
 阪	bjbc
 搬	bjrc
-般	bjtc	8
+般	bjtc
 班	bjgg
 稗	bdtf
 敗	bdmt
@@ -15739,7 +15747,7 @@ app	app	9
 百	bddj
 吧	bakc
 灞	baie
-壩	bafe
+壩	bafe	8
 鮁	baqc
 罷	balx
 耙	padc
@@ -15880,7 +15888,6 @@ app	app	9
 半生	bjug	9
 半躺	bjth	7
 半天	bjtm	10
-伴人	bjr	9
 辦出	bji	9
 幫組	bhqu	9
 蚌鷸	bheu	9
@@ -17143,27 +17150,17 @@ app	app	9
 馮定	fsdk	9
 奉獻	fsxm	9
 俸外	fswd	9
-鳳闕	fsqt	9
 夫人	fur	10
 撫養	fueh	7
 敷衍	fuej	10
 膚覺	fujt	9
 膚淺	fuqm	10
 膚色	fuse	9
-弗徹	fuie	9
-弗成	fuig	9
-弗跟	fugf	9
-弗講	fujl	9
-弗裏	fuli	9
-弗去	fuqu	9
-伏蛋	fudj	9
 伏魔	fumo	9
 伏特	fute	9
 伏兔	futu	9
 伏下	fuxx	9
 扶正	fuog	9
-孚貝	fubw	9
-孚衛	fuww	9
 服麼	fume	9
 服闋	fuqt	9
 服務	fuwu	10
@@ -17516,7 +17513,6 @@ app	app	9
 還我	hrwo	9
 還行	hdxk	9
 還要	hdyc	9
-海北	hdbw	9
 海面	hdmm	9
 海平	hdp	9
 海鰓	hdsd	9
@@ -20600,7 +20596,6 @@ app	app	9
 天上	tma	10
 天神	tmuf	9
 天臺	tmtd	10
-天條	tmtn	7
 天真	tmof	9
 填個	tmg	9
 舔她	tmta	9
@@ -20899,7 +20894,6 @@ app	app	9
 我問	wowf	10
 我又	woyz	10
 我在	woz	10
-沃平	wop	9
 巫師	wuus	10
 屋子	wuzb	9
 無敵	wudi	10
@@ -21069,14 +21063,6 @@ app	app	9
 下位	xxww	9
 下午	xxwu	10
 夏都	xxdu	9
-仙閉	xmbi	9
-仙鼎	xmdk	9
-仙家	xmjx	9
-仙解	xmjp	9
-仙灸	xmjq	9
-仙居	xmju	9
-仙橋	xmqn	9
-仙泉	xmqr	9
 仙人	xmr	9
 嫺熟	xmau	10
 仙術	xmau	9
@@ -21635,7 +21621,7 @@ app	app	9
 亦凡	eifj	9
 亦能	eing	9
 亦且	eiqp	9
-意味	eiww	7
+意味	eiww	9
 亦應	eiek	9
 抑亢	eikh	9
 抑鬱	eieu	10
@@ -21876,7 +21862,7 @@ app	app	9
 雨聲	euug	9
 魚順	euay	9
 魚湯	euth	9
-魚丸	euwj	9
+魚丸	euwj	7
 魚尾	euww	7
 魚業	euye	6
 雨夜	euye	7
@@ -21887,13 +21873,7 @@ app	app	9
 愚氓	eumg	9
 愚昧	eumw	10
 漁場	euih	9
-漁夫	eufu	9
-漁耕	eugg	9
-漁亭	eutk	9
-漁政	euog	9
 餘車	euie	9
-预缴	eujn	7
-餘缺	euqt	9
 餘數	euau	9
 餘溫	euwf	9
 餘震	euof	9
@@ -22238,7 +22218,7 @@ app	app	9
 直覺	vijt	10
 直入	viru	9
 直條	vitn	9
-直往	viwh	9
+指望	viwh	9
 直下	vixx	9
 直行	vixk	9
 質詢	vixy	9

@@ -1,5 +1,5 @@
 var:
-  last_build_time: 1687231818
+  last_build_time: 1688368233
   previously_selected_schema: xnhe_wubi
   schema_access_time:
     farsi: 1685892685
@@ -7,4 +7,4 @@ var:
     japanese: 1685787623
     reverse_lookup_xnhe_wubi: 1683389458
     wubi86: 1683391160
-    xnhe_wubi: 1685893392
+    xnhe_wubi: 1687925144
