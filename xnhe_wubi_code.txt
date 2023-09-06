@@ -325,6 +325,9 @@ app	app	9
 是非	uf;	10
 與之	euv;	10
 推入	tvr;	10
+不是他	but	10
+更是	ggu	10
+自发	zif	10
 找他	oct	10
 還不	hdb	10
 當個	dhg	10
@@ -487,6 +490,7 @@ app	app	9
 把他	bat	10
 上層	acg	10
 學我	xtw	10
+發送	fss	10
 人物	rwt	10
 一手	euz	10
 罷了	bal	10
@@ -614,6 +618,7 @@ app	app	9
 要素	ycsu	10
 先天	xmtm	10
 馬克思	mksi	10
+but	but
 
 #注音
 
@@ -1429,6 +1434,7 @@ app	app	9
 操	ccr	9
 槽	ccs	9
 艚	cct	9
+菜	cda	10
 蔡	cda	9
 彩	cde	9
 裁	cdf	9
@@ -4609,7 +4615,6 @@ app	app	9
 肇	oc;	9
 砦	odh	9
 宅	odp	9
-擇	odr	9
 瘵	odu	9
 債	odw	9
 齋	od;	9
@@ -5718,7 +5723,6 @@ app	app	9
 样	ehsk	71685
 樣	ehsk	71685
 只	vikw	71579
-志	vifu	70242
 战	vjht	70089
 戰	vjht	70089
 流	lqiq	69603
@@ -6068,7 +6072,6 @@ app	app	9
 偽	wwwl	6380
 迁	qmtt	6278
 遷	qmtt	6278
-畅	ehjr	6245
 暢	ehjr	6245
 丁	dksg	6238
 煌	hlor	6148
@@ -6507,8 +6510,6 @@ app	app	9
 罵	makc	1046
 巍	wwmv	1023
 窟	kupn	1017
-庐	luy;	1010
-廬	luy;	1010
 饥	jiqq	1007
 饑	jiqq	1007
 巢	icvv	983
@@ -6892,7 +6893,7 @@ app	app	9
 痒	ehuk	289
 癢	ehuk	289
 孰	au;b	288
-痫	xmus	288
+痫	xmus	7
 癇	xmus	288
 椿	iysd	286
 噶	gakn	286
@@ -7891,7 +7892,7 @@ app	app	9
 恭	gsan
 氮	djro
 佑	yzwk
-怡	eink
+怡	eink	9
 雏	iuq;
 雛	iuq;
 豎	auau
@@ -10995,6 +10996,7 @@ app	app	9
 佸	howd
 濩	huia
 濩	huic
+击	jifm	9
 賷	jifm
 蹐	jike
 犱	jiqo
@@ -12121,7 +12123,7 @@ app	app	9
 葉	yeas
 堨	yefn
 液	yei;
-頁	yedm
+頁	yedm	10
 夜	ye;y
 野	yejb	8
 冶	yeuk
@@ -12775,7 +12777,6 @@ app	app	9
 酸	srst
 簌	sutw
 蔌	suaw
-肅	suvh
 愫	suni
 溯	suie
 塑	suuf
@@ -14089,7 +14090,6 @@ app	app	9
 俫	ldwo
 來	ldsw
 啦	laku
-蠟	lajn
 臘	laen
 辣	laui
 砬	ladu
@@ -16205,7 +16205,6 @@ app	app	9
 長鋼	vhgh	9
 長骨	vhgu	9
 長焦	ihjn	9
-長卷	ihjr	9
 長蠻	vhmj	9
 長年	ihnm	9
 長篇	ihpm	9
@@ -16476,13 +16475,7 @@ app	app	9
 磁化	cihx	9
 磁熵	ciah	9
 辭吐	citu	9
-此處	ciiu	9
-此地	cidi	9
-此時	cius	10
-此為	ciwy	9
-此物	ciwt	9
 伺察	siia	9
-此後	cihz	10
 伺候	cihz	9
 刺瓜	cigx	9
 從不	csb	9
@@ -17037,7 +17030,6 @@ app	app	9
 反腐	fjfu	9
 反複	fjfu	10
 反光	fjgl	9
-反悔	fjhv	9
 反抗	fjkh	10
 反論	fjly	9
 反面	fjmm	10
@@ -17053,7 +17045,7 @@ app	app	9
 返點	fjdm	9
 犯闕	fjqt	9
 飯圈	fjqr	10
-範本	mobj	10
+模板	mobj	10
 方法	fhfa	9
 方格	fhge	9
 方塊	fhkk	9
@@ -17633,20 +17625,6 @@ app	app	9
 宏坤	hsky	9
 宏圖	hstu	9
 宏偉	hsww	10
-虹順	hsay	9
-紅叉	hsia	9
-紅城	hsig	9
-紅達	hsda	9
-紅盾	hsdy	9
-紅卡	hska	9
-紅老	hslc	9
-紅牌	hspd	10
-紅袍	hspc	9
-紅燒	hsuc	9
-紅世	hsus	9
-紅瓦	hswa	9
-紅衛	hsww	9
-紅鴨	hsya	9
 猴拳	hzqr	9
 猴王	hzwh	9
 後代	hzdd	10
@@ -18197,7 +18175,6 @@ app	app	9
 教訓	jnxy	10
 教育	jneu	9
 較多	jndo	10
-較舊	jnjq	9
 較為	jnwy	9
 接辦	jpbj	9
 接觸	jpiu	10
@@ -18209,7 +18186,7 @@ app	app	9
 接人	jpr	9
 接任	jprw	9
 接受	jpuz	10
-接索	jpso	9
+解鎖	jpso	9
 接聽	jptk	9
 接下	jpxx	10
 接芽	jpya	9
@@ -19028,11 +19005,7 @@ app	app	9
 鋁業	lvye	9
 履行	lvxk	9
 履約	lvyt	9
-縷析	lvxi	9
 率軍	akjy	9
-率也	akye	9
-綠叉	lvia	9
-綠堂	lvth	9
 綠藤	lvtg	9
 綠雲	lvey	9
 濾鏡	lvjk	9
@@ -19890,7 +19863,6 @@ app	app	9
 柔軟	rzrr	9
 肉糜	rzmi	9
 如初	ruiu	9
-如此	ruci	9
 如果	rugo	9
 如何	ruhe	9
 如題	ruti	9
@@ -20419,7 +20391,6 @@ app	app	9
 素餐	sucj	9
 素志	suvi	9
 速配	supw	9
-速戰	suvj	9
 宿衛	suww	9
 訴諸	suvu	10
 粟米	sumi	9
@@ -20879,21 +20850,6 @@ app	app	9
 翁蛤	wgge	9
 倭人	wor	9
 我才	wc	10
-我成	woig	9
-我很	wohf	10
-我見	wojm	9
-我驚	wojk	9
-我忙	womh	9
-我們	womf	10
-我瞄	womn	9
-我呸	wopw	9
-我人	wor	11
-我上	woa	9
-我是	wou	10
-我聞	wowf	9
-我問	wowf	10
-我又	woyz	10
-我在	woz	10
 巫師	wuus	10
 屋子	wuzb	9
 無敵	wudi	10
@@ -20901,8 +20857,6 @@ app	app	9
 烏方	wufh	9
 烏龜	wugv	10
 烏蒙	wumg	9
-烏藤	wutg	9
-烏鹟	wuwg	9
 烏鎮	wuof	9
 烏鴉	wuya	9
 毋寧	wunk	7
@@ -21084,7 +21038,7 @@ app	app	9
 鮮血	xmxt	9
 纖巧	xmqn	7
 閑氣	xmqi	9
-閑時	xmus	9
+顯示	xmus	9
 險惡	xmee	9
 險峭	xmqn	6
 險些	xmxp	10
@@ -21586,7 +21540,7 @@ app	app	9
 衣裙	eiqy	9
 衣物	eiwt	10
 衣魚	eieu	9
-依此	eici	9
+依次	eici	9
 依舊	eijq	10
 依靠	eikc	10
 以來	ecld	9
@@ -21650,7 +21604,6 @@ app	app	9
 意向	eixl	10
 意義	eiei	10
 義捐	eijr	9
-義寧	eink	9
 義蓬	eipg	9
 義慶	eiqk	9
 義賽	eisd	9
@@ -21664,7 +21617,6 @@ app	app	9
 憶苦	eiku	9
 藝考	eikc	9
 藝術	eiau	10
-因此	ybci	9
 因果	ybgo	10
 因為	ybwy	9
 因這	ybo	9
@@ -21800,7 +21752,6 @@ app	app	9
 有的	yd	10
 有扥	ydf	9
 有點	ydm	10
-有毒	ydu	10
 有對	ydv	9
 有個	yg	10
 有關	ygr	10
@@ -22338,8 +22289,6 @@ app	app	9
 蛛絲	vusi	9
 誅滅	vump	9
 豬玀	vulo	9
-豬塮	vuxp	9
-諸佛	vufo	7
 諸如	vuru	10
 諸生	vuug	9
 竹村	vucy	9
@@ -22366,7 +22315,7 @@ app	app	9
 主任	vurw	9
 主社	vuue	9
 主體	vuti	10
-主義	vuei	10
+注意	vuei	10
 主宰	vuzd	10
 助她	vuta	9
 住持	vuii	10
@@ -22566,6 +22515,7 @@ app	app	9
 精密	jkmi	9
 產線	ijxm	9
 擼管	lugr	9
+黃酒	hljq	9
 言狀	ejvl	9
 引用	ybys	10
 表達	bnda	10

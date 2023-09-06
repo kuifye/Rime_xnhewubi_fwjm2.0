@@ -54,6 +54,7 @@ engine:
     - table_translator@xnhe_simp_chaizi        #;开启拆字模式
     - script_translator                        #小鹤字词主翻译器
     - table_translator@xnhe_wubi_sc            #诗词段编码
+    - table_translator@xnhe_wubi_en_single     #英文固定段编码
   filters:
     - simplifier
     - simplifier@simplification
@@ -222,6 +223,14 @@ xnhe_wubi_sc:                    #诗词库
   enable_completion: false
   enable_sentence: true
   initial_quality: 0.5
+
+xnhe_wubi_en_single:                    #英文库
+  dictionary: ""
+  user_dict: xnhe_wubi_en_single
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 0.3
 
 xnhe_simp_chaizi:                #;拆字模式
   dictionary: ""
