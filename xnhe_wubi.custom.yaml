@@ -1,5 +1,5 @@
 patch:
-  __include: grammar:/hans
+  __include: grammar:/hant
   # __include: easy_en:/patch
   # easy_en/enable_sentence: false
   # easy_en/initial_quality: 0.4

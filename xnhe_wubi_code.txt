@@ -54,8 +54,8 @@ cmd_mstsc	cmdyivm	10
 cmd_Sndvol32	cmdyl	10
 cmd_chkdsk.exe	cmdch	10
 cmd_chkdsk.exe	cmdcp	10
-cmd_control		cmdctrl	10
-cmd_control		cmdkvmb	10
+cmd_control	cmdctrl	10
+cmd_control	cmdkvmb	10
 
 #-------------------------常用標點
 
@@ -263,6 +263,8 @@ app	app	9
 女人	nvr	9
 男人	njr	7
 人類	rlw	7
+這次	oci	9
+會的	hvd	9
 以內	ecnw	7
 能不能	nbn	7
 不知道	bvd	7
@@ -510,6 +512,7 @@ app	app	9
 幫我	bhw	10
 我玩	wwj	10
 教我	jnw	10
+一會	ehv	10
 半軸	bjoz	10
 紙上	vixa	10
 新人	xbur	10
@@ -691,7 +694,7 @@ but	but
 ㄡ	z	6
 
 #简码
-		
+	
 上	a	9
 啊	a	8
 不	b	9
@@ -746,9 +749,9 @@ but	but
 由	y	8
 在	z	9
 做	z	8
-		
-#二簡		
-		
+	
+#二簡	
+	
 啊	aa	9
 阿	aa	8
 昂	am	9
@@ -1157,9 +1160,9 @@ but	but
 尊	zy	9
 鑽	zr	9
 走	zz	9
-		
-#三簡		
-		
+	
+#三簡	
+	
 阿	aab	9
 醃	aae	9
 吖	aak	9
@@ -8084,7 +8087,6 @@ but	but
 甬	ysce
 餌	erwb
 溅	jmig
-濺	jmia
 笙	ugtg
 鹵	luho
 羁	jilc
@@ -14527,7 +14529,7 @@ but	but
 諱	hv;h
 橞	hvsn
 薈	hvaj
-慧	hvdn
+慧	hvdn	10
 會	hvwj
 賄	hvme
 喙	hvke
@@ -15811,7 +15813,7 @@ but	but
 阿	aabk
 
 #詞組--------------------------------------
-		
+	
 阿兵	abbk	9
 阿炳	abbk	10
 阿康	abkh	9
@@ -15858,10 +15860,6 @@ but	but
 鏖戰	acvj	9
 鼇拜	acbd	9
 澳盟	acmg	9
-八分	baff	9
-八角	bajn	9
-八開	bakd	9
-八路	balu	9
 扒車	baie	9
 拔毛	bamc	9
 把手	bauz	9
@@ -16208,7 +16206,6 @@ but	but
 長蠻	vhmj	9
 長年	ihnm	9
 長篇	ihpm	9
-長三	vhsj	9
 長山	vhaj	9
 長舌	vhue	9
 長孫	vhsy	7
@@ -16406,7 +16403,6 @@ but	but
 初定	iudk	9
 初開	iukd	9
 初戀	iulm	9
-初三	iusj	9
 初霜	iual	9
 初吻	iuwf	9
 初衷	iuos	9
@@ -16962,17 +16958,6 @@ but	but
 耳風	erfs	9
 爾德	erde	9
 爾等	erdg	9
-二百	erbd	10
-二半	erbj	9
-二邊	erbm	9
-二乘	erig	9
-二點	erdm	9
-二更	ergg	9
-二七	erqi	9
-二期	erqi	10
-二喬	erqn	9
-二親	erqb	7
-二區	erqu	9
 發潮	fic	9
 發春	fiy	9
 發春	boiy	9
@@ -17255,7 +17240,6 @@ but	but
 港大	ghda	9
 杠房	ghfh	9
 杠她	ghta	9
-皋亭	gctk	9
 高超	gcic	9
 高居	gcju	9
 高舉	gcju	10
@@ -18364,19 +18348,6 @@ but	but
 究竟	jqjk	9
 糾葛	jqge	9
 糾正	jqog	9
-九成	jqig	9
-九丹	jqdj	9
-九道	jqdc	9
-九方	jqfh	9
-九品	jqpb	9
-九七	jqqi	9
-九曲	jqqu	9
-九三	jqsj	9
-九十	jqus	9
-九順	jqay	9
-九宵	jqxn	9
-九章	jqvh	9
-九重	jqis	9
 久待	jqdd	9
 久等	jqdg	9
 久旱	jqhj	9
@@ -18514,7 +18485,6 @@ but	but
 柯迪	kedi	9
 科導	kedc	9
 科龍	kels	9
-科三	kesj	9
 科研	keej	9
 可悲	kbw	9
 可餐	kcj	9
@@ -18636,7 +18606,6 @@ but	but
 藍床	ljil	9
 藍爵	ljjt	9
 藍軍	ljjy	9
-藍十	ljus	9
 藍雪	ljxt	9
 藍玉	ljeu	9
 懶得	ljde	10
@@ -18904,9 +18873,6 @@ but	but
 劉悅	lqyt	9
 劉韻	lqey	9
 柳月	lqyt	10
-六輪	lqly	9
-六雙	lqal	9
-六順	lqay	9
 隆化	lshx	9
 癃開	lskd	9
 龍百	lsbd	9
@@ -19632,7 +19598,6 @@ but	but
 前橋	qmqn	9
 前傾	qmqk	9
 前去	qmqu	10
-前三	qmsj	9
 前提	qmti	10
 前廳	qmtk	9
 前頭	qmtz	9
@@ -19889,18 +19854,7 @@ but	but
 箬鰨	rota	9
 鰓腔	sdql	9
 賽博	sdbo	9
-三才	sjc	9
-三冊	sjce	9
-三叉	sjia	9
-三成	sjig	9
-三春	sjiy	9
-三等	sjdg	9
 散發	sjf	9
-三喬	sjqn	9
-三萬	sjwj	9
-三旺	sjwh	9
-三維	sjww	9
-三無	sjwu	9
 散布	sjbu	9
 桑島	shdc	9
 喪夫	shfu	9
@@ -20370,7 +20324,6 @@ but	but
 宋明	ssmk	10
 宋生	ssug	9
 宋偉	ssww	9
-宋五	sswu	9
 送出	ssi	9
 送煤	ssmw	9
 送你	ssn	9
@@ -20731,7 +20684,6 @@ but	but
 萬迅	wjxy	9
 萬隻	wjvi	9
 亡母	whmu	9
-王八	whba	9
 王城	whig	10
 王後	whhz	9
 王妃	whfw	10
@@ -20863,7 +20815,6 @@ but	but
 毋忘	wuwh	9
 吳胖	wuph	9
 吳橋	wuqn	9
-吳三	wusj	9
 無語	wueu	10
 無塵	wuif	9
 無法	wufa	9
@@ -21963,7 +21914,6 @@ but	but
 在說	zao	10
 在她	zta	10
 在線	zxm	9
-攢六	zjlq	9
 攢湯	zjth	9
 攢蹄	crti	9
 贊歎	zjtj	9
@@ -22277,7 +22227,6 @@ but	but
 主機	vuji	9
 朱軍	vujy	9
 朱蒙	vumg	9
-朱七	vuqi	9
 朱雀	vuqt	10
 朱氏	vuus	9
 朱湯	vuth	9
@@ -22527,7 +22476,7 @@ but	but
 實存	upcy	9
 刺鼻	cibi	10
 概論	gdly	10
-五百	wubd	10
+五百	w;bd	10
 隱去	ybqu	10
 捲縮	jrso	10
 罥索	jrso	9
@@ -22564,7 +22513,6 @@ but	but
 獅子	uszb	11
 一段	edr	11
 威望	wwwh	11
-第十	dius	9
 今天	jbtm	9
 後勤	hzqb	8
 仁慈	rfci	8
@@ -22613,7 +22561,7 @@ but	but
 好端端	hcdrdr	9
 好噁心	hceex;	9
 很噁心	hfeex;	9
-紅十字	hsuszp	9
+紅十字	hsu;zp	9
 恍惚間	hlhujm	9
 回到了	hvdcl	9
 腳步聲	jnbuug	9
@@ -22637,7 +22585,7 @@ but	but
 寧靜感	nkjkgj	9
 歐洲人	ouozr	9
 起來了	qildl	9
-前三碼	qmsjma	9
+前三碼	qms;ma	9
 強忍着	qlrfo;	9
 敲了敲	qnlqn	9
 惹不起	rebqi	9
