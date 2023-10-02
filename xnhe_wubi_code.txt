@@ -59,7 +59,7 @@ cmd_control	cmdkvmb	10
 
 #-------------------------常用標點
 
-☯【超級簡拼尾碼】	;'	6
+；	；	9
 ；	;	6
 “	jf	10
 ：“	jg	10
@@ -360,6 +360,7 @@ app	app	9
 假發	jxf	10
 軍人	jyr	10
 一生	eug	10
+出任	irw	10
 成就	igj	10
 這把	oba	10
 你對	ndv	10
@@ -452,7 +453,7 @@ app	app	9
 天上	tma	10
 上傳	air	10
 哪人	nar	10
-兩個	llg	10
+兩個	llgg	10
 哪個	nag	10
 讓我	rhw	10
 我還	whd	10
@@ -7413,6 +7414,7 @@ but	but
 表	bnge
 系	xiti
 並	bkug
+栖	xisg	9
 西	xisg
 口	kzkk
 路	lukk
@@ -7787,7 +7789,7 @@ but	but
 狮	usqh
 獅	usqh
 隧	svbp
-胃	wwle
+胃	wwle	9
 蚕	cjgj
 蠶	cjaj
 泼	poi;
@@ -17180,15 +17182,8 @@ but	but
 富翁	fuwg	9
 負沿	fuej	9
 副本	fubf	10
-婦良	full	9
 婦人	fur	9
-富春	fuiy	9
-富坤	fuky	9
 富人	fur	11
-富森	fusf	9
-腹盾	fudy	9
-腹孔	fuks	9
-腹棱	fulg	9
 複耕	fugg	9
 複古	fugu	9
 複墾	fukf	9
@@ -17196,8 +17191,6 @@ but	but
 縛靈	fulk	9
 覆滅	fump	9
 馥佩	fupw	9
-尕旦	gadj	9
-隑身	gduf	9
 該款	gdkr	9
 該省	gdug	9
 改變	gdbm	9
@@ -18656,12 +18649,7 @@ but	but
 雷場	lwih	9
 雷登	lwdg	9
 淚滴	lwdi	9
-雷根	ligf	9
-雷裏	lwli	9
-雷鏈	lwlm	9
-雷歐	lwou	9
 雷神	lwuf	9
-雷希	lwxi	9
 雷響	lwxl	9
 雷翼	lwei	9
 雷穎	lwek	9
@@ -18773,7 +18761,6 @@ but	but
 梁軍	lljy	9
 糧食	llus	10
 兩邊	llbm	9
-兩個	llg	10
 兩可	llk	9
 兩肋	lllw	9
 兩利	llli	9
@@ -20771,7 +20758,6 @@ but	but
 胃康	wwkh	9
 胃腔	wwql	9
 胃疼	wwtg	9
-胃樂	wwle	9
 衛隊	wwdv	10
 衛風	wwfs	9
 衛魯	wwlu	9
