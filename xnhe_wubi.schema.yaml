@@ -63,7 +63,7 @@ engine:
     - reverse_lookup_filter@reverse_lookup_xnhe_wubi             #反查提示滤镜如无需要可关闭
 
 speller:
-  alphabet: "abcdefghijklmnopqrstuvwxyz;':"
+  alphabet: "abcdefghijklmnopqrstuvwxyz;'"
   initials: "qwertasdfgzxcvbyuiophjklnm;"
   delimiter: " `"
   algebra:
@@ -88,9 +88,9 @@ key_binder:
   import_preset: default
   bindings:
     - { when: has_menu, accept: ",", send: "'" }                                # 单字、超级简拼引导码
-    - { when: has_menu, accept: ".", send: 2 }                                  # 第2候选键(.)
-    # - { when: has_menu, accept: "/", send: 3 }                                # 第3候选键(')
-    - { when: has_menu, accept: apostrophe, send: ':' }                         # 第4候选键(')
+    - { when: has_menu, accept: ".", send: "." }                                # 简码
+    - { when: has_menu, accept: apostrophe, send: 2 }                           # 第2候选键(')
+    # - { when: has_menu, accept: "/", send: 3 }                                # 第3候选键(/)
     - { when: composing, accept: "-", send: Page_Up}                            #上翻页
     - { when: composing, accept: equal, send: Page_Down}                        #下翻页
     - { when: always, accept: "Control+j", toggle: simplification }             #切换简繁

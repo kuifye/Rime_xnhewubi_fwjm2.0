@@ -2,7 +2,7 @@
 #@/db_name	xnhe_wubi
 #@/db_type	tabledb
 #@/rime_version	1.8.5
-#@/tick	34401
+#@/tick	35280
 ，	'	6
 ，	;'	10
 。	;''	3
@@ -96,10 +96,10 @@ ab胶	abjn:e	9
 刪掉	ajdn	4
 煽動	ajds:f	2
 閃動	ajds:f	2
-善於	ajeu	8
+善於	ajeu	10
 珊瑚海	ajhuhd:i	2
 刪除	ajiu	22
-刪除	ajiu:b	52
+刪除	ajiu:b	60
 上街	ajpt	2
 山水	ajuv	1
 山水飄搖	ajuv pnyc	1
@@ -157,7 +157,7 @@ ab胶	abjn:e	9
 暗流	anlq	1
 安妮	anni	2
 安寧	annk	12
-按鈕	annq	4
+按鈕	annq	6
 按照	anoc	21
 按照非常嚴格	anoc f;ih ejge	1
 安排	anpd	6
@@ -177,8 +177,10 @@ ab胶	abjn:e	9
 案子	anzb	4
 安葬	anzh	1
 上這	ao'	1
-說	ao[;q	8
-說一些	ao[;q e' xp[hf	4
+說	ao[;q	10
+說的話	ao[;q d' hx[;d	2
+說得話	ao[;q de[tf hx[;d	1
+說一些	ao[;q e' xp[hf	6
 說一下	ao[;q e' xx[gh	2
 說個	ao[;q g'	3
 說個錘子	ao[;q g' ivzb	1
@@ -202,6 +204,7 @@ ab胶	abjn:e	9
 說得	aode	18
 說點	aodm:h	2
 說的是	aodu'	3
+說一個	aoeg'	2
 說一句	aoejv	2
 說一聲	aoeug	2
 說法	aofa	15
@@ -211,7 +214,9 @@ ab胶	abjn:e	9
 說過	aogo	1
 說過話	aogo hx[;d	1
 說話	aohx	23
-說出	aoi'	2
+說出	aoi'	6
+說出一些	aoi' exp	1
+說出我的一些	aoi' wd' exp	1
 說成	aoig	2
 說出口	aoikz	2
 說出來	aoild	10
@@ -249,7 +254,7 @@ ab胶	abjn:e	9
 豎立	au[ju li[uu	2
 輸	au[lj	2
 輸了	au[lj l'	3
-輸入速度測試	au[lj r; su[gp du[;c ce[ij us[;a	4
+輸入速度測試	au[lj r; su[gp du[;c ce[ij us[;a	6
 數	au[ot	1
 術語	au[s; eu[;k	2
 樹	au[sf	2
@@ -275,7 +280,7 @@ ab胶	abjn:e	9
 上升	augt	2
 輸出	aui'	18
 書記	auji:;	2
-數據	aujv	106
+數據	aujv	130
 數據虧	aujv kv[fn	1
 數據	aujv:r	10
 數據分析	aujvffxi:s	2
@@ -290,7 +295,7 @@ ab胶	abjn:e	9
 書	aun	3
 數千	auqm:t	2
 熟人	aur'	2
-輸入	aur;	24
+輸入	aur;	27
 輸入法	aur;fa	20
 輸入法輸入速度測試	aur;fa aur; sudu ceus	1
 輸入法目前來看真的沒什麼太大的問題了	aur;fa muqm ldkj ofd' mum tdd da:dt d' wfti l'	1
@@ -308,7 +313,7 @@ ab胶	abjn:e	9
 數學家	auxtjx	2
 梳子	auzb	2
 數字	auzp	14
-數組	auzu:x	82
+數組	auzu:x	86
 上午	awu	2
 上下	axx	2
 上下級	axxjix	2
@@ -329,10 +334,11 @@ ab胶	abjn:e	9
 不可控	b k ks	2
 棒麥杆蟲	b m g i[j	2
 百盛居	b u ju	2
+發生什麼	b u u m[t	2
 不支持	b v ii	2
 不知為何	b v w h[w	2
 霸王車	b w ie	2
-不	b'	32
+不	b'	35
 不不不	b' b' b'	2
 不保留	b' bclq:q	1
 不表達	b' bn[ge da[dp	2
@@ -343,7 +349,7 @@ ab胶	abjn:e	9
 不允許	b' ey[cq xu[;f	2
 不複	b' fu[tt	1
 不複爲鹿	b' fu[tt wy[ lu[;x	1
-不感興趣	b' gj:d xk[iw qu[fc	2
+不感興趣	b' gj:d xk[iw qu[fc	4
 不歸整性	b' gv[jv og[gh xk:n	1
 不和人	b' h' r'	3
 不和人爭吵	b' h' r' ogic	1
@@ -363,6 +369,7 @@ ab胶	abjn:e	9
 不可接受	b' k' jp[rv uz[ec	11
 不可接受性	b' k' jp[rv uz[ec xk:n	9
 不可調和	b' k' tn[;k h'	2
+不開	b' kd[ga	3
 不看看	b' kj[rh kj[rh	4
 不禮貌	b' li[pn mc[eq	2
 不靈活	b' lk[vo ho[id	2
@@ -373,6 +380,7 @@ ab胶	abjn:e	9
 不恰當	b' qx[nk dh:iv	2
 不人	b' r'	1
 不認同	b' rf[;w ts[mk	4
+不認識	b' rf[;w us[;w	4
 不認為	b' rf[;w wy[	4
 不如	b' ru[vk	1
 不他	b' t'	1
@@ -382,13 +390,14 @@ ab胶	abjn:e	9
 不太確定	b' td[d; qt[de dk[ph	2
 不太行	b' td[d; xk[th	4
 不停滴	b' tk[ws di[id	2
+不是什麼	b' u' um	1
 不長煙	b' vhej:o	1
 不支持	b' vi[fc ii[rf	6
 不至於	b' vi[gf eu[gf	2
 不致	b' vi[gt	1
 不知名	b' vi[tk mk[qk	2
 不完整	b' wj[pq og[gh	2
-不希望	b' xi[qh wh[;g	2
+不希望	b' xi[qh wh[;g	4
 不想說	b' xl[sn ao[;q	2
 不歇息	b' xpxi	1
 不下去	b' xx[gh q'	1
@@ -431,7 +440,7 @@ ab胶	abjn:e	9
 巴庫	baku:;	2
 爸媽	bama:v	4
 拔群	baqyv	2
-把	bar	3
+把	bar	4
 把自己出	bar ziji i'	1
 把一些	barexp	1
 巴沙	bauai	2
@@ -447,14 +456,17 @@ ab胶	abjn:e	9
 薄	bc[af	1
 薄皮	bc[af pi:hc	3
 爆	bc[oi	5
+寶	bc[p;	2
 報稅	bc[r; uv[tq	2
+抱着	bc[rn o;	2
 保安	bcan	2
 保安	bcan:p	4
 寶寶	bcbc	1
 報表	bcbn:q	3
 包菜	bccd:a	1
-報錯	bcco:q	70
+報錯	bcco:q	76
 報錯碼	bcco:q ma:d	1
+保存	bccy	4
 報以	bcec	2
 報告	bcgc	2
 寶鋼	bcgh	2
@@ -479,7 +491,7 @@ ab胶	abjn:e	9
 暴力	bcli:l	84
 暴力關係	bcli:l grxi	1
 暴力出	bcli:l i'	1
-爆裂	bclp	18
+爆裂	bclp	20
 保留	bclq	1
 保留了一些	bclq lexp:h	1
 保留	bclq:q	9
@@ -504,10 +516,10 @@ ab胶	abjn:e	9
 包裝紙	bcvlvi:x	11
 包裝紙一樣	bcvlvi:x eeh	1
 保鮮	bcxm:q	2
-報銷	bcxn:q	38
+報銷	bcxn:q	42
 暴雪	bcxt	2
 抱有	bcy'	4
-不存在	bcyz'	8
+不存在	bcyz'	10
 包粽子	bczszb	2
 白	bd:rt	2
 白入	bd:rt r;	1
@@ -530,7 +542,7 @@ ab胶	abjn:e	9
 百草	bdcc	2
 白菜	bdcd	12
 白的	bdd'	1
-不帶	bddg	1
+不帶	bddg	2
 不帶意識形態	bddg euxt	1
 不得	bde	2
 不得不	bdeb'	18
@@ -562,7 +574,7 @@ ab胶	abjn:e	9
 八大人觉	bdrj	4
 不斷	bdro	14
 白色	bdse	49
-不懂	bdsn	4
+不懂	bdsn	5
 擺攤	bdtj:r	60
 擺攤經濟	bdtj:r jkji	1
 白天	bdtm	4
@@ -578,7 +590,7 @@ ab胶	abjn:e	9
 不一定哦	bedk oo[kt	1
 不一樣	beeh	27
 不一樣了	beehl'	1
-不應該	bekgd	12
+不應該	bekgd	14
 不應該是	bekgdu'	2
 不一致	bevig	3
 奔湧	bf[da ys[ie	2
@@ -604,6 +616,7 @@ ab胶	abjn:e	9
 不符他為	bfut twy	1
 不負責任	bfuzerw	3
 本質	bfvi	10
+本質上	bfvia'	2
 奔襲	bfxi:d	3
 本想	bfxl	2
 奔走	bfzz	2
@@ -639,7 +652,7 @@ ab胶	abjn:e	9
 不合格	bhege	2
 綁架	bhjx	4
 幫忙	bhmh	4
-不會	bhv	102
+不會	bhv	107
 不會討論	bhv tcly	1
 不會長回去的	bhv vh[t; hvq' d'	1
 幫助	bhvu	16
@@ -692,12 +705,12 @@ bilibili	bilibili	8
 不穿如說	bir ruao:;	1
 必然性	birjxk:n	4
 比人強	birqlx	1
-比如	biru	114
-比如說	biruao	135
+比如	biru	116
+比如說	biruao	137
 閉塞	bise:p	2
 匕首	biuz	2
 避險	bixm:b	1
-必須	bixu	53
+必須	bixu	55
 必需	bixu:f	2
 必須去	bixuq'	3
 必須是	bixuu'	2
@@ -797,6 +810,8 @@ bilibili	bilibili	8
 並不在於此	bkbz' eu[gf c;	1
 並不總是	bkbzsu'	2
 不靠	bkc	2
+不開	bkdg	6
+冰燈	bkdg:o	14
 併發	bkf'	1
 不可分	bkff	7
 不可分性	bkff xk:n	1
@@ -812,7 +827,7 @@ bilibili	bilibili	8
 不可能	bkng	23
 不可能個	bkng g'	1
 不可逆	bkniu	4
-並且	bkqp	28
+並且	bkqp	34
 不可思议	bkse	6
 不可思议	bksiei:;	2
 病態	bktd	2
@@ -844,14 +859,14 @@ bilibili	bilibili	8
 變更	bmgg	21
 變更一下	bmgg exx	1
 辯護	bmhu	41
-變化	bmhx:w	9
+變化	bmhx:w	11
 變化着的	bmhx:w o; d'	1
 變差	bmia	2
 編程	bmig	3
 變成	bmig	4
 編程式導航	bmig us[aa dchh:t	3
 變成了一個	bmigleg'	2
-編輯	bmji	11
+編輯	bmji	15
 編輯	bmji:l	2
 編結	bmji:x	6
 編輯器	bmjiqi:k	8
@@ -860,7 +875,7 @@ bilibili	bilibili	8
 不明	bmkj	5
 便利	bmli	6
 變量	bmll	12
-變量	bmll:j	12
+變量	bmll:j	14
 編碼	bmma:d	7
 辯證	bmog	8
 辯證法	bmogfa	21
@@ -885,7 +900,7 @@ bilibili	bilibili	8
 表達	bnda:d	1
 不耐煩	bndfj	2
 表單	bndj	2
-表單	bndj:u	10
+表單	bndj:u	12
 表演	bnej	1
 表演給	bnej gw[xk	1
 標語	bneu	4
@@ -1043,7 +1058,7 @@ bilibili	bilibili	8
 補貼	butp	2
 佈置	buvi	2
 部委	buww:t	8
-不是因為	buybwy	4
+不是因為	buybwy	8
 不是要	buyc	1
 不只的超	bv' d' ic[fk	2
 不知道	bvd:;	6
@@ -1056,10 +1071,11 @@ bilibili	bilibili	8
 不住	bvuw	2
 不準	bvy	4
 貝莉亞	bw[m; li[aj ya[gg	8
-被	bw[pc	2
+被	bw[pc	3
 被動態	bw[pc ds[fl td[dn	2
 被色	bw[pc se[qc	1
 被我們	bw[pc w' mf[wu	2
+被引用	bw[pc ybys:e	1
 杯	bw[si	1
 背	bw[ue	1
 背鍋	bw[ue go[qk	2
@@ -1074,6 +1090,7 @@ bilibili	bilibili	8
 背地一套	bwdi:f etcd	1
 不穩定	bwfdk	2
 備份	bwff	2
+北方	bwfh	4
 杯蓋	bwgd:a	4
 北國	bwgo:l	10
 悲觀	bwgr	2
@@ -1106,7 +1123,7 @@ bilibili	bilibili	8
 北約	bwyt	4
 被子	bwzb	2
 不信任	bxbrw	2
-不喜歡	bxihr	4
+不喜歡	bxihr	6
 不行	bxk	3
 不想	bxl	1
 不想來	bxl ld	1
@@ -1128,7 +1145,7 @@ bilibili	bilibili	8
 不願意	byrei	6
 不遠	byrf	1
 不用	bys	2
-不用	byse	6
+不用	byse	10
 不悅感	bytgjd	2
 不悅	bytn	4
 不由自主	byzv	2
@@ -1146,7 +1163,7 @@ bilibili	bilibili	8
 纔是	c' u'	1
 才知道	c' vd:;	5
 纔行	c' xk[th	2
-此	c;	30
+此	c;	32
 此地	c;di	2
 此後	c;hz	2
 此處	c;iu	2
@@ -1174,7 +1191,7 @@ bilibili	bilibili	8
 財產關系	cd[mt ij[ut gr[ud xi[ti	2
 財務	cd[mt wu[tl	4
 猜猜	cdcd:q	2
-猜測	cdce	10
+猜測	cdce	12
 猜得	cdde:t	1
 財富	cdfu	4
 採購	cdgz:m	11
@@ -1189,7 +1206,7 @@ bilibili	bilibili	8
 財政支出	cdogvii'	2
 菜品	cdpb	2
 裁判	cdpj	2
-菜譜	cdpu	44
+菜譜	cdpu	48
 採取	cdqu	4
 𤷕	cdu	8
 財務	cdwu	2
@@ -1218,13 +1235,13 @@ chatGPT	chatgpt	2
 詞性	ci[;k xk[ng	4
 次	ci[u;	1
 次一等	ci[u; e' dg[tf	1
-次數	ciau:o	11
+次數	ciau:o	13
 层出不穷	cibq	2
 慈悲	cibw	2
 詞典	cidm	4
 詞根	cigf:s	2
 詞彙	cihv	4
-詞庫	ciku:;	8
+詞庫	ciku:;	14
 次品	cipb	2
 詞頻	cipb:h	4
 詞條	citn	2
@@ -1237,7 +1254,7 @@ chatGPT	chatgpt	2
 殘暴	cj[ga bc[ji	6
 餐	cj[he	5
 餐標	cj[he bn[si	1
-參數	cjau	84
+參數	cjau	94
 參保	cjbc	6
 殘暴	cjbc:j	5
 殘暴殘暴	cjbc:j cjbc:j	1
@@ -1253,14 +1270,16 @@ chatGPT	chatgpt	2
 殘留	cjlq	2
 殘缺	cjqt	2
 參天	cjtm	6
-餐飲	cjyb	38
+餐飲	cjyb	40
 餐飲登記表	cjyb dgjibn	1
 餐飲二維碼	cjyb e;wwmad	1
-才能	cng	12
+才能	cng	16
 錯誤代碼	co[qj wu[;d dd[wa ma[dc	4
 撮	co[rc	2
 挫	co[rf	2
 錯落	colo:a	2
+錯誤	cowu:;	1
+錯誤日誌	cowu:; rivi	3
 錯誤碼	cowumad	4
 錯誤信息	cowuxbxi:t	2
 錯綜複雜	cozsfuza:v	2
@@ -1275,6 +1294,7 @@ chatGPT	chatgpt	2
 從來不相信	csldb' xlxb	1
 匆忙	csmh	2
 聰明	csmk:j	4
+從中	csos	2
 從前	csqm	2
 從容量	csrsllj	2
 從他	cst'	2
@@ -1291,16 +1311,17 @@ chatGPT	chatgpt	2
 存入	cyr;	2
 存為	cywy	2
 存有	cyy'	2
-存在	cyz'	46
+存在	cyz'	54
 湊到	czdc	2
 的的確確	d d q q[d	2
 大汗淋漓	d h l l[i	4
 東興客家	d x k j[p	2
 黨邪醜正	d y i o[g	2
-的	d'	20
+的	d'	22
 的表	d' bn	1
 的都可以	d' dzkec	1
 的意思	d' ei[un si[ln	2
+的工出	d' g; i'	1
 的就不是	d' j' b' u'	9
 的冒	d' mc[jh	1
 的沒問題	d' mwfti	3
@@ -1327,6 +1348,7 @@ chatGPT	chatgpt	2
 答案	daan	6
 打扮	dabj	2
 大阪	dabj:b	8
+大半	dabj:u	2
 大部分	dabuff	2
 大蔥	dacs:a	8
 大大	dada	2
@@ -1357,7 +1379,7 @@ chatGPT	chatgpt	2
 大廳	datk:d	2
 大他者	datoe:f	4
 大事	daus:g	2
-大致	davi:g	8
+大致	davi:g	10
 大蝦	daxx:j	2
 打印	dayb	8
 打印機	daybji	2
@@ -1372,6 +1394,7 @@ chatGPT	chatgpt	2
 道別	dcbp	2
 倒不是	dcbu'	1
 倒錯	dcco:q	4
+到的	dcd'	2
 道德經	dcdejk:x	2
 到底	dcdi	1
 到底怎麼樣	dcdi zfmeeh	1
@@ -1387,7 +1410,7 @@ chatGPT	chatgpt	2
 道人	dcr'	2
 導入	dcr;	10
 到時候	dcujhz	4
-導致	dcvi:g	6
+導致	dcvi:g	8
 導向	dcxl	2
 倒也不是	dcyebu'	1
 戴佳偉	dd[fw jx[wg ww[wh	4
@@ -1401,10 +1424,10 @@ chatGPT	chatgpt	2
 帶過來	ddgold:g	2
 当垫脚石	ddju	2
 代碼	ddma	2
-代碼	ddma:d	54
+代碼	ddma:d	58
 帶有	ddy'	2
 の	de[nn	4
-得	de[tf	1
+得	de[tf	2
 得到	dedc	26
 德語	deeu	2
 噔噔噔	dg[ku dg[ku dg[ku	2
@@ -1419,6 +1442,8 @@ chatGPT	chatgpt	2
 登記表	dgjibn	5
 燈籠	dgls	1
 燈籠椒	dgls jn[sc	5
+登錄	dglu	3
+登錄成功	dglu iggs	1
 等人	dgr'	2
 當	dh:iv	1
 當你說	dh:iv n' ao[;q	2
@@ -1426,9 +1451,9 @@ chatGPT	chatgpt	2
 當我們	dh:iv w' mf[wu	2
 當你	dhn'	2
 當年	dhnm	6
-當真	dhof	10
-當然	dhrj	54
-當時	dhuj	24
+當真	dhof	12
+當然	dhrj	56
+當時	dhuj	32
 擋住	dhvu	2
 當我	dhw'	2
 當下	dhxx	4
@@ -1445,7 +1470,7 @@ chatGPT	chatgpt	2
 地上的星工益	dia' d' xk[jg g;ei	1
 地上の星	dia' de[nn xk[jg	1
 地上星	dia' xk[jg	3
-地上的星	diadxk:j	38
+地上的星	diadxk:j	40
 底層	dicg	2
 低的	did'	1
 低的星	did' xk[jg	1
@@ -1457,6 +1482,7 @@ chatGPT	chatgpt	2
 第一次	dieci	2
 第一個	dieg'	2
 第一篇	diepmt	2
+地域	dieu:f	4
 第一章	dievh	16
 遞歸	digv	23
 遞歸測試	digv ceus	1
@@ -1481,9 +1507,11 @@ chatGPT	chatgpt	2
 但不是	djbu'	13
 但不是因爲	djbu' ybwy	1
 單個	djg'	2
+蛋糕	djgc	2
 單面	djmm	2
 淡漠	djmo	2
 但是這個問題已經得到解決了	dju' og' wf[uk ti[jm ei[nn jk[xa de[tf dc[gj jp[qh jt[iw l'	2
+但是這個	djuog	2
 但實際上	djupjia'	2
 但我	djw'	3
 但我要說	djw' ycao	1
@@ -1499,7 +1527,7 @@ chatGPT	chatgpt	2
 訂單	dkdj:u	6
 釘釘	dkdkq	28
 頂端	dkdr	2
-定義	dkei	34
+定義	dkei	36
 定義一個	dkeieg'	2
 定居	dkjv:n	2
 定價	dkjx	2
@@ -1521,13 +1549,14 @@ chatGPT	chatgpt	2
 電蚊拍	dmwfpd:r	2
 典雅	dmya:a	2
 電子書	dmzbau	4
+電子郵箱	dmzbyzxl:t	2
 調動	dnds:f	4
 雕刻	dnke	4
 凋零	dnlk	2
 凋零	dnlk:f	2
 掉落	dnlo	2
 調往	dnwh:t	2
-調用	dnys:e	33
+調用	dnys:e	39
 調用什麼方法	dnys:e um fhfa	1
 奪舍	do:df ue[rwfk	2
 鐸	do:qh	1
@@ -1570,7 +1599,7 @@ chatGPT	chatgpt	2
 段子	drzb	6
 端子	drzb	4
 動	ds[fl	2
-東德	ds[gi de[tn	2
+東德	ds[gi de[tn	4
 懂禮貌	ds[nf li[pn mc[eq	2
 凍湖	ds[ui hu[ie	2
 動詞	dsci	6
@@ -1579,6 +1608,7 @@ chatGPT	chatgpt	2
 東方網絡	dsfh wmlo	1
 東湖	dshu:i	2
 動畫	dshx	4
+冬季	dsji:t	1
 東京	dsjk	4
 東坡肉	dsporz:m	2
 動容	dsrs	2
@@ -1591,8 +1621,9 @@ chatGPT	chatgpt	2
 的時候	dujhz	1
 獨立	duli:u	2
 毒品	dupb	4
+獨特	dute	4
 獨特性	dutexk:n	2
-都市	duus:;	10
+都市	duus:;	12
 隊	dv[be	1
 對	dv[cf	1
 對你來說	dv[cf n' ld:; ao[;q	2
@@ -1600,7 +1631,8 @@ chatGPT	chatgpt	2
 對啊	dva;	8
 對吧	dvba:k	4
 對不對	dvbdv	2
-對比	dvbi	2
+對比	dvbi	4
+對不起	dvbqif	2
 對的	dvd'	2
 對一個	dveg'	2
 對應	dvek	8
@@ -1609,22 +1641,25 @@ chatGPT	chatgpt	2
 對於	dveu:g	2
 對話	dvhx	6
 對稱	dvif:t	4
+對立面	dvlimm	2
 對面	dvmm	4
-對你	dvn'	4
+對你	dvn'	7
 對着	dvo;	2
 對齊	dvqi:;	2
 對誰	dvuv	2
-對我	dvw'	10
+對我	dvw'	12
 對外	dvwd	2
 對象	dvxl	2
-對象	dvxl:q	16
+對象	dvxl:q	22
 遁逃	dytc:i	2
-都	dz[fb	3
+都	dz[fb	4
 都不一樣	dz[fb b' e' eh[sd	2
 都不行	dz[fb b' xk[th	4
 都不相信	dz[fb b' xl[sh xb[w;	2
 都不重要	dz[fb bosyc	3
 都不玩	dz[fb bwjg	1
+都沒問題	dz[fb m' wf[uk ti[jm	2
+抖	dz[rf	2
 鬥	dz[uf	2
 鬥不過	dz[uf b' go[fp	2
 豆瓣醬	dzbjjl:u	10
@@ -1656,13 +1691,16 @@ chatGPT	chatgpt	2
 營業執照	e y v o[j	4
 意猶未盡	e y w j[n	2
 一	e'	6
+一遇到	e' eu[jp dc[gj	2
 一行	e' hh[th	4
 一整	e' og[gk	1
 一整幅	e' og[gk fu[ml	1
 一卻	e' qt[fb	3
 一如	e' ru[vk	2
+一條路	e' tn[ts lu[kk	2
+一直用	e' vi[fh ys[eh	2
 一想到	e' xl[sn dc[gj	2
-一組	e' zu[xg	10
+一組	e' zu[xg	12
 二	e;	4
 二十四歲	e; u; si:; sv[mq	2
 二十	e;u;	2
@@ -1683,6 +1721,7 @@ chatGPT	chatgpt	2
 以	ec[	2
 以詞定句	ec[ ci[;k dk[ph jv[qk	1
 以上	eca'	2
+以便	ecbm:w	2
 以後	echz	1
 一次	eci	24
 一詞	eci;	2
@@ -1695,28 +1734,29 @@ chatGPT	chatgpt	2
 一旦自己	edj ziji	1
 一定	edk	18
 一定會	edkhv	2
-一點	edm	33
+一點	edm	39
 一段	edr	1
 一堆	edvf	2
 一一	ee'	3
 一一告別	ee' gcbp	1
 額度	eedu:;	4
 俄語	eeeu:;	2
-一樣	eeh	22
-額外	eewd	4
+一樣	eeh	24
+額外	eewd	6
 噁心	eex;	2
 一份	eff	4
 一份	effw	4
 一方	efh	2
 一方面	efhmm	4
 一封	efsf	1
-一個	eg'	179
+一個	eg'	190
 一個大水池	eg' da:dt uvii:i	1
 一稿	egct	2
 一根	egfs	2
 一過	egof	2
 一個人	egr'	8
 一共	egs	4
+一個月	egyt	6
 垟	eh[fd	1
 垟可	eh[fd k'	1
 樣貌	eh[sd mc[eq	2
@@ -1732,10 +1772,12 @@ chatGPT	chatgpt	2
 洋蔥	ehcs:a	8
 養老	ehlc	4
 羊毛	ehmc	2
+一夥人	ehor'	2
 羊肉	ehrz	4
 樣式	ehus:a	2
 央視	ehus:p	2
 樣式表	ehusbn	2
+一回事	ehvus	2
 羊蠍子	ehxpzb	2
 樣子	ehzb	4
 衣食住行	ei[;e us[we vu[wg xk[th	2
@@ -1746,20 +1788,23 @@ chatGPT	chatgpt	2
 意識不到	ei[un us[;w b' dc[gj	2
 遺屬	eiau:n	2
 遺書	eiau:n	2
+藝術形式	eiauxkus:a	4
 異步	eibu	18
 以此	eic;	2
 依次	eici	4
+移到	eidc	2
 伊甸園	eidmyr	10
 意義	eiei	2
 意義上	eieia'	2
+易於	eieu	2
 意欲	eieu:w	4
-一場	eihf	4
+一場	eihf	6
 遺憾	eihj	2
 亦或	eiho:a	2
 溢出	eii'	4
 遺傳	eiir	2
 益處	eiiu	2
-移除	eiiu:b	12
+移除	eiiu:b	14
 乙醇	eiiy	2
 以及	eije	2
 已經	eijk	2
@@ -1775,8 +1820,10 @@ chatGPT	chatgpt	2
 抑素	eisu:g	4
 議題	eiti	4
 遺失	eius:r	4
-意識到	eiusdc	3
+意識到	eiusdc	5
 一處	eiut	1
+一吹	eiv	1
+一吹個	eiv g'	1
 意志	eivi:f	8
 已知	eivi:t	2
 疑問	eiwf	2
@@ -1797,7 +1844,7 @@ chatGPT	chatgpt	2
 一斤	ejbr	3
 言辭	ejci	2
 言語	ejeu:;	2
-研究生	ejjqug	12
+研究生	ejjqug	14
 嚴厲	ejli:d	2
 眼裏	ejli:j	2
 言明	ejmk:j	2
@@ -1814,11 +1861,11 @@ chatGPT	chatgpt	2
 影	ek[je	1
 影子價格	ek[je zb[ jx[wj ge[sk	10
 應當	ekdh:i	2
-一開始	ekdus	4
+一開始	ekdus	6
 一刻	eke;	1
 營養	ekeh	2
 應該	ekgd	1
-應該是	ekgdu'	2
+應該是	ekgdu'	4
 迎接	ekjp	2
 一塊	ekk	1
 一塊一下	ekk exx	1
@@ -1836,8 +1883,8 @@ chatGPT	chatgpt	2
 一樓	elz	6
 一樓	elzs	2
 一面	emm	2
-一年	enm	4
-一種	eot	53
+一年	enm	6
+一種	eot	59
 一瓶	epku	2
 一起	eqi	2
 一起	eqif	8
@@ -1846,13 +1893,17 @@ chatGPT	chatgpt	2
 一羣人	eqyr'	2
 一人	er'	1
 一人高	er' gc[;k	1
-而	er[dj	2
+而	er[dj	3
+而那些	er[dj n; xp[hf	2
+而他們	er[dj t' mf[wu	2
 而是說	er[dj u' ao[;q	8
+而生命	er[dj ugmk	1
 而什麼	er[dj um	1
 而不	erb'	4
-而不是	erbu'	4
+而不會	erbhv	2
+而不是	erbu'	8
 而以	erec	3
-而已	erei	2
+而已	erei	4
 而言	erej	4
 而言	erej:;	22
 一日	eri	3
@@ -1866,7 +1917,7 @@ chatGPT	chatgpt	2
 而這種	eroot	2
 而她	erta	4
 一如既往	erujiwh:t	2
-而我	erw'	2
+而我	erw'	6
 一所	es'	3
 一套	etc	2
 一趟	eth	2
@@ -1874,7 +1925,7 @@ chatGPT	chatgpt	2
 一提	etir	2
 一天	etm	10
 一條	etn	3
-一條	etnt	20
+一條	etnt	28
 一團	etr	2
 域	eu:fg	1
 與	eu:gn	1
@@ -1886,7 +1937,7 @@ chatGPT	chatgpt	2
 預編譯	eu[cm bmei	1
 郁	eu[db	1
 雨	eu[f;	1
-於	eu[gf	42
+於	eu[gf	46
 於越	eu[gf yt[ft	1
 與此	eu[gn c;	2
 昱	eu[juf	3
@@ -1912,6 +1963,7 @@ chatGPT	chatgpt	2
 雨林	eulb	6
 娛樂	eule	2
 魚類	eulw	2
+漁民	eumb	2
 玉米	eumi	8
 域名	eumk:q	8
 愚弄	euns	2
@@ -1925,17 +1977,19 @@ chatGPT	chatgpt	2
 語音	euyb	4
 一隻	ev	4
 一張	evh	1
-一直	evif	18
+一直	evif	26
+一致	evig	2
 一隻貓	evmc	1
-一無所有	ewusy'	2
+一無所有	ewusy'	4
 一位	eww	6
 一味	ewwk	4
 一項	exla	4
-一些	exp	2
+一些	exp	4
 一相情愿	exqy	2
-一下	exx	53
+一下	exx	57
 雲	ey[fc	1
 雲服務器	ey[fc fu[ec wu[tl qi[kk	10
+雲盤	ey[fc pj[tl	4
 暈	ey[jl	1
 運輸	eyau	1
 運輸中	eyau os[khk	1
@@ -1956,11 +2010,12 @@ chatGPT	chatgpt	2
 發言	f' ej[;;	4
 發明	f' mk[je	6
 發送	f' ss[up	12
+發送短信	f' ss[up dr[tu xb[w;	2
 發送給	f' ss[up gw[xk	2
 發生學	f' ug[t xt[ib	2
 發展	f' vj[ne	1
 發展性	f' vj[ne xk:n	1
-非	f;	11
+非	f;	13
 非敏感	f; mbgj	1
 非法	f;fa	2
 非常	f;ih	2
@@ -2005,7 +2060,7 @@ chatGPT	chatgpt	2
 分配	ffpw	6
 粉絲	ffsi:x	8
 分攤	fftj:r	28
-粉飾	ffus	2
+粉飾	ffus	4
 分析	ffxi	5
 分享	ffxl	31
 分享羣聊	ffxl qyln	1
@@ -2020,7 +2075,7 @@ chatGPT	chatgpt	2
 放棄掉	fh[;t qi[;a dn[rj	2
 芳	fh[a;	1
 防火牆	fh[b; ho[oo ql[fk	4
-方案	fhan	4
+方案	fhan	12
 方便	fhbm	17
 方便嗎	fhbm mak	1
 方便麪	fhbmmm	2
@@ -2032,7 +2087,7 @@ chatGPT	chatgpt	2
 方面	fhmm	13
 放棄	fhqi	2
 放任	fhrw	2
-防止	fhvi:h	10
+防止	fhvi:h	14
 發揮	fhvr	2
 訪問	fhwf	52
 放行	fhxk	2
@@ -2054,13 +2109,13 @@ chatGPT	chatgpt	2
 飯菜	fjcd	2
 翻譯成	fjeiig	14
 反而	fjer	4
-返回	fjhv:l	118
+返回	fjhv:l	122
 返回值	fjhvvi:w	12
 反抗	fjkh	1
 反抗服從	fjkh fucs	1
-反正	fjog	48
-番茄	fjqp	19
-番茄炒蛋	fjqp icdj	9
+反正	fjog	54
+番茄	fjqp	33
+番茄炒蛋	fjqp icdj	11
 反思	fjsi	1
 反思力	fjsi li[ln	1
 凡俗	fjsu:w	2
@@ -2083,7 +2138,7 @@ chatGPT	chatgpt	2
 風暴	fsbc	2
 諷刺	fsci	2
 豐富	fsfu	4
-縫合	fshe	2
+縫合	fshe	4
 封禁	fsjb:s	2
 瘋狂	fskl	2
 縫隙	fsxi	2
@@ -2098,7 +2153,7 @@ chatGPT	chatgpt	2
 符	fu[tf	1
 付	fu[wf	1
 父	fu[wq	6
-父節點	fu[wq jpdm	1
+父節點	fu[wq jpdm	3
 父模塊	fu[wq mokk	6
 父之名	fu[wq v;mkq	1
 父主題	fu[wq vuti:j	1
@@ -2130,13 +2185,14 @@ chatGPT	chatgpt	2
 服務	fuwu	1
 服務過	fuwu go[fp	1
 服務器	fuwuqi	11
+復現	fuxg	2
 複寫	fuxp:p	4
 腐朽	fuxq	2
 幅員遼闊	fuyrlnko:u	2
 複雜	fuza	10
 父子	fuzb	2
 負責	fuze	2
-負責任	fuzerw	2
+負責任	fuzerw	4
 發展	fvjn	7
 發展性	fvjn xk:n	1
 飛鍵	fw[nh jm[qp	3
@@ -2155,12 +2211,14 @@ chatGPT	chatgpt	2
 廣東路	g d lu	2
 各種各樣	g o g e[s	2
 夠朋友	g p yz	2
-個	g'	2
+高像素	g x su	2
+個	g'	3
 個別	g' bp[kj	1
 個中	g' os[khk	2
+個人介紹	g' r' jp[wj uc[xk	2
 個人主頁	g' r' vu[;g ye[dm	2
-個人資料	g' r' zi[um ln[of	12
-工	g;	9
+個人資料	g' r' zi[um ln[of	16
+工	g;	10
 工益	g; ei[ul	1
 工益最大	g; ei[ul zvda	1
 工能	g; ng[cx	3
@@ -2209,7 +2267,7 @@ chatGPT	chatgpt	2
 高聲	gcug:f	2
 告示	gcus	2
 該	gd[;w	4
-該方法	gd[;w fhfa	3
+該方法	gd[;w fhfa	5
 該高	gd[;w gc[;k	1
 該瀏覽器	gd[;w lqljqi	1
 該群	gd[;w qy[vd	13
@@ -2231,15 +2289,16 @@ chatGPT	chatgpt	2
 各大而	geda er[dj	1
 割裂	gelp	2
 各類	gelw	2
-各種	geot	11
+各種	geot	13
 各種意義	geot eiei	1
-格式	geus	7
+格式	geus	11
 格式美化	geus m;hx	1
+歌舞昇平	gewuugp'	2
 根	gf[se	1
 根本	gfbf	1
 根本不知道	gfbf bvd:;	1
 根本性	gfbfxk:n	2
-根據	gfjv	10
+根據	gfjv	12
 根目錄	gfmulu	4
 跟我說	gfwao	1
 更	gg[gq	2
@@ -2247,16 +2306,18 @@ chatGPT	chatgpt	2
 更遼闊	gg[gq lnko	1
 更溫柔	gg[gq wfrz	1
 更多	ggdo	15
-更改	gggd	30
-更好	gghc	2
+更改	gggd	38
+更好	gghc	4
 更进一步	ggjbebu:h	2
 更簡單	ggjmdj:u	2
 更沒有	ggmy'	2
 更重要	ggosyc	6
 更重要的是	ggosycdu'	2
+更漂亮	ggpnll	4
 更清楚	ggqkiu:s	2
 更為	ggwy	6
-更新	ggxb	30
+更新	ggxb	62
+更希望	ggxiwh:;	2
 更像	ggxl:w	4
 更詳細	ggxlxi	4
 更要	ggyc	2
@@ -2270,10 +2331,10 @@ chatGPT	chatgpt	2
 鋼鐵	ghtp	4
 剛需	ghxuf	2
 共產主義	give	2
-感覺	gj:;	21
+感覺	gj:;	24
 感覺這個問題很嚴重	gj:; ogwfti hfejos	1
 感覺也是	gj:; yeu'	1
-感	gj:d	2
+感	gj:d	3
 感橛	gj:d jt[sw	2
 甘露	gj[af lu[fk	2
 幹	gj[fh	3
@@ -2296,6 +2357,8 @@ chatGPT	chatgpt	2
 感召	gjoc	2
 感情	gjqk	2
 感情	gjqk:n	2
+感興趣	gjxkqu	3
+怪話	gk[nf hx[;d	2
 怪異	gkei:n	2
 廣告	glgc	6
 光靠	glkc	2
@@ -2328,6 +2391,7 @@ chatGPT	chatgpt	2
 過你滾	gon' gy[ie	1
 過去	goq'	4
 過去式	goqus	2
+過生日	gougri	2
 國外	gowd	2
 過往	gowh:t	6
 個人	gr'	1
@@ -2338,7 +2402,7 @@ chatGPT	chatgpt	2
 關	gr[ud	4
 關火	gr[ud ho[oo	2
 關聯起來	gr[ud lm[bd qi[fn ld:;	2
-關閉	grbi	8
+關閉	grbi	12
 關掉	grdn	2
 關於	greu	5
 關於這個問題	greu ogwfti	1
@@ -2347,7 +2411,7 @@ chatGPT	chatgpt	2
 關鍵字	grjmzp	2
 慣了	grl'	2
 管理	grli	1
-管理員	grliyr	55
+管理員	grliyr	59
 關聯	grlm	2
 關聯性	grlmxk:n	2
 灌木	grmu	5
@@ -2358,7 +2422,7 @@ chatGPT	chatgpt	2
 關照	groc	2
 關注	grvu	4
 關心	grx;	2
-關係	grxi	80
+關係	grxi	94
 關係表	grxi bn:ge	1
 關係標	grxi bn[si	1
 工作	gs[aa zo[wf	2
@@ -2372,7 +2436,7 @@ chatGPT	chatgpt	2
 公共方法	gsgs fhfa	1
 觥籌交錯	gsizjnco:q	2
 共計	gsji:;	2
-攻擊性	gsjixk:n	2
+攻擊性	gsjixk:n	4
 功名利祿	gsmklilu:p	2
 功能	gsng	39
 功能開發	gsng kdf'	1
@@ -2394,6 +2458,9 @@ chatGPT	chatgpt	2
 孤丁	gudk:s	2
 辜負	gufu	2
 估計	guji	16
+估計	guji:;	2
+故伎	guji:w	4
+古老	gulc	4
 鼓起	guqi	2
 鼓起	guqi:f	2
 姑且	guqp	2
@@ -2407,11 +2474,12 @@ chatGPT	chatgpt	2
 規範	gvfj	2
 規範性	gvfjxk:n	10
 規格	gvge	2
+瑰麗	gvli:g	2
 詭祕	gvmi:p	6
 閨蜜	gvmip	2
 鬼魅	gvmw	2
 規則	gvze	48
-給出	gwi'	2
+給出	gwi'	4
 給你一個	gwneg'	2
 給我	gww'	8
 給我一個	gww' eg'	1
@@ -2471,12 +2539,13 @@ chatGPT	chatgpt	2
 好了	hcl'	8
 號碼	hcma	2
 好嗎	hcma:k	2
+好找	hcoc	2
 好評	hcpk:;	2
 好奇	hcqi	2
 耗散	hcsj:a	2
 好勝	hcug:e	2
 好事	hcus	2
-好像	hcxl	33
+好像	hcxl	35
 好像這個是沒問題	hcxl ogu' mwfti	1
 好像	hcxl:w	19
 好像沒報錯了	hcxl:w m' bcco:q l'	1
@@ -2486,9 +2555,12 @@ chatGPT	chatgpt	2
 耗油	hcyz:i	2
 蠔油	hcyz:i	15
 蠔油就	hcyz:i j'	1
-好在	hcz'	2
-還	hd[gp	2
+好在	hcz'	4
+還	hd[gp	4
 還不夠	hd[gp b' gz[qq	2
+還帶	hd[gp dd[gh	1
+還帶社保	hd[gp dd[gh uebc	1
+海帶	hd[iu dd[gh	2
 還去	hd[lp q'	2
 海報	hdbc:r	2
 還不能	hdbng	2
@@ -2512,7 +2584,7 @@ chatGPT	chatgpt	2
 還需	hdxu	1
 還需有陶	hdxu y' tc[bm	1
 還需要	hdxuyc:s	4
-還有	hdy'	39
+還有	hdy'	41
 還有比如說飛鍵就不太行	hdy' biruao fw[nh jm[qp jb' tdxk:t	1
 還有一	hdye	1
 還有一層	hdye cg[nc	1
@@ -2525,11 +2597,11 @@ chatGPT	chatgpt	2
 合不合適	he[wk b' he[wk us[tp	1
 合並	he[wk bk[ua	12
 合併	hebk	4
-合法	hefa	2
+合法	hefa	4
 何處	heiu	2
 合計	heji:;	22
 合理	heli	2
-覈算	hesr	8
+覈算	hesr	10
 合適	heus:t	2
 核心	hex;	2
 喝下	hexx	1
@@ -2579,6 +2651,7 @@ chatGPT	chatgpt	2
 很想	hfxl	1
 很有	hfy'	2
 很遠	hfyr:f	2
+很早以前	hfzcecqm:u	2
 恒常	hgihi	2
 杭州話	hh[sm oz[;h hx[;d	2
 行	hh[th	2
@@ -2595,7 +2668,7 @@ chatGPT	chatgpt	2
 罕見	hjjm	2
 含有	hjy'	2
 漢字	hjzp	4
-懷疑	hkei	6
+懷疑	hkei	8
 懷揣	hkik	6
 壞了	hkl'	2
 懷戀	hklm	2
@@ -2603,6 +2676,7 @@ chatGPT	chatgpt	2
 黃光	hl[aw gl[iq	2
 晃	hl[jq	1
 晃國	hl[jq go[l;	3
+晃了	hl[jq l'	2
 皇帝	hld;	2
 荒誕	hldj	6
 黃豆芽	hldzya:a	2
@@ -2619,6 +2693,8 @@ chatGPT	chatgpt	2
 和睦	hmuh	2
 獲利	ho[ad li[tj	2
 或	ho[ag	1
+活出	ho[id i'	1
+活出自己	ho[id i' ziji	1
 活力	ho[id li[ln	2
 活着	ho[id o;	4
 活物	ho[id wt[	6
@@ -2636,13 +2712,13 @@ chatGPT	chatgpt	2
 貨	ho[wm	1
 貨幣	hobi	3
 活動	hods	14
-或者	hoe	71
+或者	hoe	75
 或者說	hoe ao[;q	36
 火鍋	hogo	1
 火鍋料	hogo ln[of	1
 或者說	hooeao	2
 貨品	hopb	2
-獲取	hoqu	153
+獲取	hoqu	183
 獲取不到	hoqu b' dc[gj	3
 火腿	hotv	4
 火腿	hotv:e	2
@@ -2695,19 +2771,19 @@ chatGPT	chatgpt	2
 戶名	humk	1
 忽然	hurj	12
 呼吸	huxi	2
-互相	huxl	2
+互相	huxl	6
 會	hv	3
 會化性	hv hxxk:n	1
 會知道問題	hv vd:; wfti	1
 虺隤	hv[gj tv[bkhm	2
-回	hv[lk	1
+回	hv[lk	2
 回本	hv[lk bf[sg	1
 回憶	hv[lk ei[nn	10
 回憶起來	hv[lk ei[nn qi[fn ld:;	2
 會導致	hv[wc dc[nf vi[gt	4
 會覺得	hv[wc jt[iq de[tf	4
 晦暗	hvan:j	4
-會說	hvao	6
+會說	hvao	8
 會吧	hvbak	2
 繪本	hvbf:s	4
 會不會	hvbhv	1
@@ -2721,7 +2797,7 @@ chatGPT	chatgpt	2
 慧根	hvgf:s	4
 回國	hvgo:l	4
 回過頭	hvgotz:u	2
-回歸	hvgv	5
+回歸	hvgv	7
 回歸了	hvgv l'	1
 繪畫	hvhx:g	1
 繪畫性	hvhx:g xk:n	1
@@ -2734,6 +2810,7 @@ chatGPT	chatgpt	2
 回想起來	hvxlqild:g	4
 會有	hvy'	13
 會有什麼	hvy' um	1
+會有人	hvyr'	2
 會在	hvz'	2
 黑	hw[lo	1
 黑椒牛柳	hw[lo jn[sc nq:rk lq[sb	1
@@ -2742,8 +2819,9 @@ chatGPT	chatgpt	2
 黑魚	hweu:q	2
 黑格爾	hwgeer	6
 黑膠	hwjn:e	1
+黑龍江	hwlsjl	2
 黑夜	hwye	4
-話	hx[;d	2
+話	hx[;d	5
 化	hx[wx	2
 畫筆	hxbi:t	2
 滑冰	hxbk	2
@@ -2779,6 +2857,7 @@ chatGPT	chatgpt	2
 後端	hzdr	8
 後一個	hzeg'	2
 後果	hzgo:j	9
+後來	hzld	4
 後面	hzmm	7
 後者	hzoe:f	4
 厚重	hzos	2
@@ -2790,7 +2869,7 @@ chatGPT	chatgpt	2
 候選	hzxr	2
 猴子	hzzb	2
 赤麻鴨	i m ya	2
-出	i'	2
+出	i'	3
 出險	i' jm[bg	1
 出險你	i' jm[bg n'	1
 出圖	i' tu[lu	2
@@ -2809,7 +2888,7 @@ chatGPT	chatgpt	2
 差異性	iaeixk:n	2
 查房	iafh:;	2
 查過	iago	2
-插件	iajm:w	44
+插件	iajm:w	50
 差距	iajv	2
 茶具	iajv:h	2
 查看	iakj	50
@@ -2817,20 +2896,20 @@ chatGPT	chatgpt	2
 查看也	iakj ye:bn	1
 查看頁	iakj ye[dm	1
 刹那	ian;	2
-查找	iaoc	10
+查找	iaoc	18
 插曲	iaqu	2
-插入	iar;	42
+插入	iar;	44
 插入空格	iar; ksge	1
 插值	iavi	2
 插值	iavi:w	2
-查詢	iaxy	189
+查詢	iaxy	191
 查詢群	iaxy qy[vd	1
 茶葉	iaye	2
 超混沌	ic[fk hy[ix dy[in	2
 潮	ic[ie	1
 炒	ic[ot	1
 超導	icdc:n	3
-炒蛋	icdj	11
+炒蛋	icdj	21
 超發	icf'	1
 超發貨幣	icf' hobi	3
 炒飯	icfj	2
@@ -2858,7 +2937,7 @@ chatGPT	chatgpt	2
 沉淪	ifly	4
 沉悶	ifmf	5
 沉悶吧	ifmf bak	1
-沉默	ifmo	4
+沉默	ifmo	8
 沉溺	ifni	2
 塵土	iftu	2
 沉下	ifxx	2
@@ -2868,15 +2947,15 @@ chatGPT	chatgpt	2
 承擔	igdj	2
 懲罰	igfa	2
 成果	iggo:j	2
-成功	iggs	19
+成功	iggs	22
 澄澈	igie	6
 成就感	igjgj	2
 承諾	igno	2
-成品	igpb	25
+成品	igpb	33
 成品菜	igpb cd[as	1
-承認	igrf	8
+承認	igrf	10
 誠然	igrj	4
-程序	igxu	2
+程序	igxu	6
 成員	igyr	6
 常量	ih:i ll[jf	4
 常綠	ih:i lv[xi	1
@@ -2888,16 +2967,18 @@ chatGPT	chatgpt	2
 長	ih[t;	3
 長音	ih[t; yb[uj	2
 長音的確很	ih[t; yb[uj di[r; qt[de hf[te	1
+長衫	ihaj:p	2
 長度	ihdu:;	8
 出乎意料	ihel	2
 娼妓	ihji:v	4
 場景	ihjk:j	6
 長劍	ihjm:w	2
 長眠	ihmm:h	2
-常態	ihtd	2
+常態	ihtd	4
 暢飲	ihyb:q	2
 翅	ii[fd	1
 翅根	ii[fd gf[se	7
+赤誠	ii[fo ig[;t	2
 池水	ii[ib uv[ii	2
 吃	ii[kn	1
 吃了	ii[kn l'	2
@@ -2922,11 +3003,11 @@ chatGPT	chatgpt	2
 產業園	ijyeyr	2
 床底下	il[;s di[;; xx[gh	2
 創傷	ilah	1
-創傷性	ilahxkn	8
+創傷性	ilahxkn	10
 川流不息	ilbx	2
 出離	ili;	2
 出欄	ilj	2
-創建	iljm	69
+創建	iljm	81
 創建人	iljm r'	3
 創建時間	iljm ujm	5
 創建	iljm:v	1
@@ -2944,27 +3025,28 @@ chatGPT	chatgpt	2
 穿越幻想	ir[pt yt[ft hr[xn xl[sn	2
 傳	ir[w;	2
 傳參	ir[w; cj[ce	6
-傳說	irao	4
+傳說	irao	6
 傳遞	irdi	30
 傳給	irgw	2
 穿透	irtz	3
 出任	irw	4
 重發	is[tf f'	2
-重定向	isdkxl:t	14
+重定向	isdkxl:t	18
 重演	isej:i	4
 重逢	isfs:t	2
-重估	isgu:w	2
+重估	isgu:w	4
 重繪	ishvx	4
 充滿	ismj	6
 充沛	ispw	2
 衝入	isr;	2
 重試	isus:;	2
 寵物	iswt	2
-重新	isxb	20
+重新	isxb	28
 沖洗	isxi	2
 重寫	isxp:p	2
 衝壓	isya	2
 除非	iu[bt f;	4
+除了	iu[bt l'	2
 觸感	iu[qj gj[dn	2
 儲存	iucy	4
 處於	iueu	2
@@ -2995,6 +3077,7 @@ chatGPT	chatgpt	2
 津津樂道	j j l d[u	2
 就這樣	j o eh	2
 金石華城	j u h i[f	2
+就完全	j w qr	2
 集總電容	j z d r[p	2
 就	j'	9
 就不是	j' b' u'	1
@@ -3024,6 +3107,7 @@ chatGPT	chatgpt	2
 進攻能力	jbgs ngli	1
 近乎	jbhu	4
 近處	jbiu	2
+禁臠	jblr:;	2
 金針菇	jbofgu	4
 金針菇	jbofgu:a	2
 進去	jbq'	1
@@ -3036,12 +3120,13 @@ chatGPT	chatgpt	2
 盡頭	jbtz	3
 金石	jbus:d	2
 進食	jbus:w	2
-禁止	jbvi	2
+禁止	jbvi	10
 金鑫	jbxb	4
-進行	jbxk:t	82
+進行	jbxk:t	84
 近些年來	jbxpnmld:g	2
 禁用	jbys:e	2
 就應當	jekdhi	2
+敬而远之	jeyv	2
 計時	ji[;f uj[	4
 劑	ji[;jj	2
 記不記得	ji[;n b' ji[;n de[tf	2
@@ -3062,11 +3147,13 @@ chatGPT	chatgpt	2
 雞巴	jiba	4
 幾百個	jibdg'	2
 基本上	jibfa'	4
-即便	jibm:w	30
+即便	jibm:w	32
+坚持不懈	jibx	2
 幾層	jicg:n	2
-雞蛋	jidj	32
+雞蛋	jidj	34
 雞丁	jidk:s	4
 極點	jidm:l	2
+幾眼	jiej	1
 鯽魚	jieu:q	10
 積分	jiff:w	2
 肌膚	jifu:e	2
@@ -3081,7 +3168,7 @@ chatGPT	chatgpt	2
 雞精	jijk:o	4
 極具	jijv:h	2
 激流	jilq:i	2
-記錄	jilu	73
+記錄	jilu	96
 記錄樹	jilu au[sf	1
 機率	jilv	2
 幾秒	jimn:t	2
@@ -3099,6 +3186,7 @@ chatGPT	chatgpt	2
 雞腿	jitv:e	2
 幾十個	jiu;g'	1
 幾十年	jiu;nm	2
+即時	jiuj	2
 急事	jius:g	2
 記賬	jivh:m	4
 機制	jivi:r	2
@@ -3119,8 +3207,10 @@ chatGPT	chatgpt	2
 警告	jkgc	10
 經過	jkgo	4
 靜靜	jkjk	2
+精簡	jkjm	4
 驚懼	jkjv:n	2
 經歷過	jkligo	2
+痙攣	jklr:;	2
 精美	jkm;	4
 靜謐	jkmi:;	4
 靜態	jktd	1
@@ -3156,7 +3246,8 @@ chatGPT	chatgpt	2
 講座	jlzo	4
 減減	jm[it jm[ut	2
 鑒	jm[jq	1
-鑒權	jm[jq qr[s;	11
+鑒權	jm[jq qr[s;	15
+賤	jm[mg	2
 見到	jm[mq dc[gj	2
 見鬼	jm[mq gv[rc	2
 見了	jm[mq l'	2
@@ -3170,11 +3261,11 @@ chatGPT	chatgpt	2
 健康證	jm[wp kh[;i og[;h	2
 兼顧	jmgu	2
 簡化	jmhx:w	2
-檢查	jmia:s	6
+檢查	jmia:s	14
 簡介	jmjp	4
 簡潔	jmjp:i	2
 堅苦	jmku:a	2
-建立	jmli:u	10
+建立	jmli:u	14
 見諒	jmll:;	2
 簡陋	jmlz	2
 見你	jmn'	4
@@ -3182,7 +3273,7 @@ chatGPT	chatgpt	2
 見證	jmog	2
 剪切	jmqp	1
 剪切蒙板	jmqp mg[ae bj[sc	1
-剪切板	jmqpbj:s	2
+剪切板	jmqpbj:s	4
 兼容	jmrs	2
 尖酸	jmsr:s	2
 尖酸刻薄	jmsrkebo:a	4
@@ -3210,16 +3301,20 @@ chatGPT	chatgpt	2
 腳步	jnbu:h	2
 較大	jnda	4
 角度	jndu	8
+交易	jnei	1
+交易記錄	jnei jilu	3
 就能	jng	2
 狡猾	jnhx	2
 教程	jnig	4
 交接	jnjp	2
+角落	jnlo	2
 繳納	jnna	3
 交通	jnts	4
-叫什麼	jnum	3
+叫什麼	jnum	4
 交織	jnvi:x	2
 焦灼	jnvo	3
 焦灼幹	jnvo gj[fh	1
+交往	jnwh:t	2
 較小	jnx'	2
 僥倖	jnxk:w	2
 叫作	jnzo	2
@@ -3237,7 +3332,7 @@ chatGPT	chatgpt	2
 結餘	jpeu:q	2
 解放	jpfh	2
 解放性	jpfhxkn	2
-結果	jpgo:j	14
+結果	jpgo:j	20
 結合	jphe:w	4
 劫后余生	jphzeuug:t	2
 階級	jpji	6
@@ -3311,7 +3406,7 @@ chatGPT	chatgpt	2
 鋸齒	jvii	2
 拒斥	jvii:r	3
 拒斥我	jvii:r w'	1
-拒絕	jvjt	4
+拒絕	jvjt	6
 俱樂部	jvlebu	14
 距離	jvli:;	4
 巨量	jvll:j	2
@@ -3325,7 +3420,7 @@ chatGPT	chatgpt	2
 舉止	jvvi	2
 居住	jvvu	2
 舉行	jvxk:t	2
-具有	jvy'	10
+具有	jvy'	12
 僅	jw[	1
 僅此	jwc;	3
 僅此而以	jwc; erec	1
@@ -3335,13 +3430,15 @@ chatGPT	chatgpt	2
 加一些	jx:lk e' xp[hf	2
 加加	jx:lk jx:lk	2
 加起來	jx:lk qi[fn ld:;	2
-加入	jx:lk r;	4
+加入	jx:lk r;	5
+加入一個	jx:lk r; eg'	1
 加鎖	jx:lk so[qm	2
 加水	jx:lk uv[ii	2
 加載中	jx:lk zd[fl os[khk	4
 嘉喃	jx[fk nj[kf	2
 家	jx[pe	1
 伽	jx[wk	1
+加以	jxei:n	2
 駕車	jxie	2
 嫁接	jxjp	2
 加加	jxjx	2
@@ -3349,17 +3446,17 @@ chatGPT	chatgpt	2
 就像	jxlw	6
 駕照	jxoc	2
 加起來	jxqild	5
-加入	jxr;	36
+加入	jxr;	40
 假如	jxru:v	2
 加速	jxsu	1
 加速模式	jxsu mous	1
 假設	jxue	8
 價值	jxvi	2
-價值	jxvi:w	8
+價值	jxvi:w	12
 假裝	jxvl	4
 家用	jxys	2
 加載	jxzd	2
-加載	jxzd:f	12
+加載	jxzd:f	14
 家族	jxzu	2
 均衡	jyhg	1
 均攤	jytj:r	2
@@ -3367,11 +3464,12 @@ chatGPT	chatgpt	2
 就在這了	jz' o' l'	3
 烤福翅	k f ii	2
 可這樣	k o eh	2
-可	k'	3
+可	k'	4
 可以看	k' ec[ kj[rh	2
 可以這樣	k' ec[ o' eh[sd	2
 可法	k' fa[ic	1
 可居住	k' jv[nd vu[wg	2
+可走	k' zz[fh	4
 克	k;	7
 克數	k; au[ot	3
 咖啡樹	ka[kk fw[kd au[sf	4
@@ -3407,13 +3505,14 @@ chatGPT	chatgpt	2
 開始	kdus	1
 開始	kdus:v	2
 開支	kdvi	4
-開支	kdvi:f	48
-開支名	kdvi:f mk[qf	3
+開支	kdvi:f	59
+開支名	kdvi:f mk[qf	7
 開心	kdx;	2
 開銷	kdxn:q	8
 科	ke[tf	1
 科幻小說	ke[tf hr[xn x' ao[;q	2
 可以說	kecao	4
+可以說是	kecaou'	2
 可以可以	keckec	2
 可以嗎	kecmak	2
 可以使用	kecusyse	2
@@ -3423,16 +3522,17 @@ chatGPT	chatgpt	2
 課題	keti	2
 渴望	kewh	8
 科學家	kextjx	2
-肯定	kfdk	22
+肯定	kfdk	24
 抗	kh[rm	2
 抗出去	kh[rm iq'	1
 抗了發	kh[rm l' f'	1
 康德	khde	2
 砍	kj[dw	1
-看	kj[rh	4
+看	kj[rh	5
 看以	kj[rh ec[	1
 看見你	kj[rh jm[mq n'	2
 看看完	kj[rh kjwj	1
+看了幾眼	kj[rh l' jiej	1
 看時間	kj[rh ujm	1
 看手機	kj[rh uz[rh ji[sm	2
 看亞運	kj[rh yaey:f	3
@@ -3442,7 +3542,8 @@ chatGPT	chatgpt	2
 看不起	kjbqif	2
 看一看	kjekj	2
 看過	kjgo	4
-看看	kjkj	1
+看看	kjkj	2
+看看可	kjkj k'	1
 看看你	kjkj n'	1
 看來	kjld	1
 可見	kjmm	1
@@ -3451,6 +3552,7 @@ chatGPT	chatgpt	2
 看着	kjo;	3
 看着買	kjo; md[lm	1
 看這種	kjoot	2
+看透	kjtz	2
 看什麼	kjum	2
 看我	kjw'	2
 看完	kjwj	3
@@ -3477,7 +3579,7 @@ chatGPT	chatgpt	2
 可怕	kpa	2
 寬敞	krih	2
 空餘	kseu	2
-空格	ksge	27
+空格	ksge	33
 空幻	kshr:x	2
 控件	ksjm:w	8
 恐懼	ksjv	14
@@ -3486,9 +3588,9 @@ chatGPT	chatgpt	2
 控制	ksvi:r	4
 控制着	ksvio;	2
 控制器	ksviqi	2
-控制檯	ksvitd	1
+控制檯	ksvitd	3
 控制檯裏面	ksvitd limm	1
-空無一物	kswuewt	4
+空無一物	kswuewt	6
 空虛	ksxu	4
 庫	ku[;l	1
 庫管系統	ku[;l gr[tn xits	1
@@ -3496,12 +3598,16 @@ chatGPT	chatgpt	2
 𧊘	kuj	2
 苦惱	kunc	4
 虧	kv[fn	1
-匱乏	kvfa:t	6
+匱乏	kvfa:t	14
+誇	kx[dn	2
+誇來誇去	kx[dn ld kx[dn q'	1
 跨	kx[kn	4
-跨域	kx[kn eu:fg	1
+跨域	kx[kn eu:fg	3
 跨雨	kx[kn eu[f;	1
 跨行	kxhh	2
 可惜	kxi	6
+誇誇	kxkx	2
+誇讚	kxzj	2
 捆綁	kybh	4
 睏意	kyei:u	4
 昆蟲學	kyisxt:i	1
@@ -3511,8 +3617,10 @@ chatGPT	chatgpt	2
 口	kz[kt	1
 口述	kzau	2
 口吻	kzwf	2
+扣在	kzz'	4
 老老實實	l l u u[p	2
-了	l'	15
+爐石傳說	l u i a[;	2
+了	l'	16
 了品	l' pb[kk	1
 了人玩	l' r' wjg:q	1
 六	l;	2
@@ -3532,6 +3640,7 @@ chatGPT	chatgpt	2
 臨牀	lbil	2
 吝嗇	lbse	1
 臨時	lbuj	6
+臨時文件	lbujwfjm:w	2
 林蔭	lbyb	2
 老薑	lc[fx jl[uv	2
 老實講	lc[fx up[ jl[;j	2
@@ -3550,7 +3659,7 @@ chatGPT	chatgpt	2
 牢籠	lcls	2
 老是	lcu'	2
 勞作	lczo	4
-來	ld	2
+來	ld	3
 來喝	ld he[kn	1
 來	ld:;	3
 來	ld[goi	2
@@ -3602,9 +3711,9 @@ chatGPT	chatgpt	2
 離開你	likdn'	2
 禮貌	limc	2
 釐米	limi	2
-裏面	limm	79
+裏面	limm	83
 離去	liq'	2
-例如	liru	10
+例如	liru	12
 利潤	liry	4
 利維坦	liwwtj:f	4
 理想	lixl	4
@@ -3655,7 +3764,8 @@ chatGPT	chatgpt	2
 兩條	lltn:t	4
 兩張	llvh	6
 戀	lm[;;	1
-戀詞	lm[;; ci[;k	1
+戀詞	lm[;; ci[;k	2
+戀詞癖	lm[;; ci[;k pi[un	1
 連寫	lm[lp xp[pg	2
 練過	lm[xi go[fp	1
 練過了	lm[xi go[fp l'	1
@@ -3667,6 +3777,7 @@ chatGPT	chatgpt	2
 鏈接去	lmjp q'	1
 鏈接	lmjp:r	20
 戀舊	lmjq:a	2
+廉價	lmjx	2
 聯絡	lmlo	2
 聯絡員	lmloyr	2
 連篇累牘	lmpmlwdu:t	2
@@ -3708,9 +3819,12 @@ chatGPT	chatgpt	2
 流水	lquv	2
 流水線	lquvxm:x	6
 流星	lqxk:j	2
+流行語	lqxkeu:;	2
+流行於	lqxkeu:g	2
 柳絮	lqxu	4
 亂	lr[en	2
 龍血武姬	ls[dx xt[tl wu[gh ji[vh	2
+理所当然	lsdr	2
 𡱯	lsn	2
 龍女	lsnv	10
 籠罩	lsoc	4
@@ -3742,7 +3856,7 @@ chatGPT	chatgpt	2
 累計	lw[li ji[;f	6
 雷電	lwdm	2
 類目	lwmu	4
-類型	lwxk	25
+類型	lwxk	29
 倫理	lyli	2
 樓外	lz[sv wd[q;	2
 樓上	lza'	2
@@ -3786,6 +3900,8 @@ chatGPT	chatgpt	2
 麻醉劑	mazvji:;	2
 敏感	mbgj	1
 沒必要	mbiyc	2
+民間	mbjm	4
+漫不经心	mbjx	2
 敏銳	mbrv	2
 默不作声	mbzu	8
 冒	mc[jh	1
@@ -3816,6 +3932,7 @@ chatGPT	chatgpt	2
 夢到	mgdc	2
 夢境	mgjk	14
 孟浪	mglh:i	2
+夢裏	mgli	2
 猛然間	mgrjjm:u	2
 盲點	mhdm	2
 茫茫	mhmh	1
@@ -3834,7 +3951,8 @@ chatGPT	chatgpt	2
 迷宮	migs	4
 迷幻	mihr	4
 迷戀	milm	2
-密碼	mima	27
+密碼	mima	37
+密碼	mima:d	2
 祕密	mimi	1
 迷你	min'	1
 迷醉	mizv	4
@@ -3868,9 +3986,9 @@ chatGPT	chatgpt	2
 面餅	mm[d bk:qn	2
 麪	mm[swwn	1
 緬	mm[xd	1
-面板	mmbj	18
+面板	mmbj	25
 面部	mmbu	2
-面對	mmdv	10
+面對	mmdv	12
 麪粉	mmff	4
 免費	mmfw	9
 免費主題	mmfw vuti:j	1
@@ -3878,7 +3996,7 @@ chatGPT	chatgpt	2
 面臨	mmlb	2
 面目	mmmu	4
 面前	mmqm	10
-描述	mnau	17
+描述	mnau	21
 墨	mo[lf	1
 墨湖	mo[lf hu[ie	1
 摸	mo[rd	1
@@ -3916,7 +4034,7 @@ chatGPT	chatgpt	2
 木耳	muer	10
 目光	mugl	2
 募款	mukr:f	2
-目錄	mulu	8
+目錄	mulu	10
 沒什麼	mum	11
 木偶	muou	4
 目前	muqm	11
@@ -3925,6 +4043,8 @@ chatGPT	chatgpt	2
 母性	muxk:n	2
 梅亞蘇	mw[su ya[gg su[aw	2
 每斤	mw[tu jb[rt	2
+每到	mwdc	1
+每到冬季	mwdc dsji:t	1
 每當	mwdh	2
 每一	mwe'	2
 每一個	mweg'	2
@@ -3940,15 +4060,16 @@ chatGPT	chatgpt	2
 沒有	my'	3
 沒有大米	my' dami	1
 沒有一處	my' eiut	1
+沒有人	myr'	2
 沒用	myse	4
 某	mz[as	4
 某一條	mz[as etn	1
 某張	mz[as vh[x;	2
 某一	mze'	1
 某一列	mze' lp[gj	1
-某一個	mzeg'	2
+某一個	mzeg'	4
 某個人	mzgr'	4
-某種	mzot	68
+某種	mzot	70
 某條	mztnt	2
 某項	mzxl:a	2
 某些	mzxp	12
@@ -3957,9 +4078,12 @@ chatGPT	chatgpt	2
 你可能	n k ng	6
 你是想	n u xl	2
 你知道	n v dc	2
-你	n'	17
+你	n'	18
 你說得	n' ao[;q de[tf	2
+你不會	n' b' hv[wc	2
 你不可能	n' b' k' ng[cx	2
+你不想	n' b' xl[sn	4
+你必須	n' bi[nt xu[em	4
 你存	n' cy[db	3
 你村	n' cy[sf	1
 你打算	n' da[rs sr[ta	2
@@ -3976,6 +4100,7 @@ chatGPT	chatgpt	2
 你那種	n' n;ot	1
 你確定	n' qt[de dk[ph	2
 你認為	n' rf[;w wy[	2
+你什麼都不感興趣	n' um dz[fb b' gjxkqu	1
 你爲什麼	n' wume	1
 你現在	n' xg[ z'	2
 你喜歡	n' xi[fk hr[cw	2
@@ -3985,14 +4110,15 @@ chatGPT	chatgpt	2
 你總歸	n' zsgv	1
 你最近	n' zv[jc jb[rp	2
 你最好早點回覆	n' zvhc zcdm hvfu	1
-那	n;	101
+那	n;	110
 那不過	n; bgo	1
 那不重要	n; bosyc	1
 那都	n; dz[fb	3
 那一雙雙	n; ealal	1
 那應該	n; ek[;i gd[;w	2
 那方面	n; fhmm	1
-那個	n; g'	74
+那個	n; g'	77
+那個社區叫什麼	n; g' uequ jnum	1
 那行	n; hh[th	1
 那貨	n; ho[wm	1
 那裏面	n; li[jf mm[d	2
@@ -4003,6 +4129,7 @@ chatGPT	chatgpt	2
 那片刻	n; pm[tn ke[;j	2
 那如果	n; ru[vk go[js	2
 那我	n; w'	6
+那也好	n; yehc	1
 那本	n;bf	2
 那般	n;bj	2
 那邊	n;bm	2
@@ -4025,11 +4152,11 @@ chatGPT	chatgpt	2
 那就是	n;ju'	8
 那顆	n;ke	2
 那裏	n;li	10
-那麼	n;me	59
+那麼	n;me	63
 那麼酒	n;me jq[ig	1
 那麼久	n;me jqq	1
 那這個	n;og'	2
-那種	n;ot	41
+那種	n;ot	45
 那人	n;r'	4
 那日	n;ri	2
 那天	n;tm	2
@@ -4037,7 +4164,9 @@ chatGPT	chatgpt	2
 那時	n;uj	2
 那時候	n;ujhz	8
 那張	n;vh	2
-那些	n;xp	41
+那只是	n;vu'	2
+那些	n;xp	54
+那些話	n;xp hx[;d	1
 那些事情	n;xp usqk:n	1
 那也	n;ye	2
 哪	na[kb	1
@@ -4048,11 +4177,12 @@ chatGPT	chatgpt	2
 納稅人	na[xw uv[tq r'	2
 哪個人	nagr'	2
 吶喊	nahj	2
-你說	nao	6
+你說	nao	10
 你說的	naod'	2
 你說這個	naoog'	2
-哪怕	napa	8
+哪怕	napa	12
 你不是	nbu'	2
+你不要	nbyc	2
 你不用	nbyse	2
 腦海裏面	nc[eb hd[iu li[jf mm[d	2
 腦殘	nccj	8
@@ -4085,6 +4215,7 @@ chatGPT	chatgpt	2
 能力	ngli:l	6
 能理解	nglijp:q	2
 能拿	ngnaw	2
+能跑	ngpc	2
 能有	ngy'	4
 你好	nhc	16
 你還	nhd	2
@@ -4094,6 +4225,9 @@ chatGPT	chatgpt	2
 你還有沒有	nhdymy'	2
 你會	nhv	2
 你會毀掉一切的	nhv hvdn:r eqp d'	1
+尼采	nicd	2
+暱稱	niig	2
+昵稱	niig:t	4
 匿名	nimk	7
 匿名函數	nimk hjau	9
 泥濘	nink	2
@@ -4108,7 +4242,7 @@ chatGPT	chatgpt	2
 男男女女	njnjnvnv:v	2
 你叫什麼	njnum	2
 難忍	njrf	2
-你覺得	njtde	25
+你覺得	njtde	33
 你就是	nju'	4
 男性	njxk:n	4
 凝固	nkgu	2
@@ -4137,16 +4271,21 @@ chatGPT	chatgpt	2
 牛肉	nqrz	8
 弄	ns[ga	1
 濃郁	nseu	2
+農夫	nsfu:f	2
 濃烈	nslp	2
 農貿	nsmc	2
+你聽	ntkk	1
+你聽不懂	ntkk bdsn	1
 你是不是	nubu'	5
 你是不是抖m	nubu' dzm	1
 怒火	nuho	2
 你是指	nuvir	2
+你只	nv'	1
+你只對你	nv' dvn'	1
 女兒	nver	2
 女人	nvr'	2
 女巫	nvwu	2
-女性	nvxk:n	5
+女性	nvxk:n	7
 女性快感	nvxk:n kkgj	1
 女子	nvzb	4
 內邊	nwbm:l	2
@@ -4164,6 +4303,7 @@ chatGPT	chatgpt	2
 你有沒有	nymy'	2
 你用	nyse	2
 你在	nz'	1
+這一行	o e hh	2
 這一刻	o e ke	2
 這一類	o e lw	4
 這個辭彙	o g c h[x	2
@@ -4171,16 +4311,18 @@ chatGPT	chatgpt	2
 重巒疊嶂	o l d v[m	2
 這兩件	o l jm	2
 偶然事件	o r u j[w	2
-這是什麼	o u u m[t	4
-這	o'	8
+這是什麼	o u u m[t	6
+這	o'	9
 這不代表	o' b' dd[wa bn[ge	2
 這導致	o' dc[nf vi[gt	2
 這代表	o' ddbn	1
 這當然	o' dh[iv rj[qo	4
+這對我來說	o' dv[cf w' ld:; ao[;q	2
 這一部分	o' e' bu[ub ff[wv	2
 這一過程	o' e' go[fp ig[tg	2
 這幅	o' fu[ml	2
 這個意思	o' g' ei[un si[ln	2
+這個方案	o' g' fh[;n an[ps	2
 這根本	o' gf[se bf[sg	2
 這就有點	o' j' ydm	1
 這件事	o' jm[wh us[gh	2
@@ -4190,6 +4332,7 @@ chatGPT	chatgpt	2
 這卻	o' qt[fb	2
 這套東西	o' tc[dd dsxi	1
 這是一條	o' u' e' tn[ts	2
+這是同樣	o' u' tseh	1
 這首歌	o' uz[uh ge[sw	2
 這張表	o' vh[x; bn[ge	2
 這完全	o' wj[pq qr[wg	2
@@ -4199,7 +4342,7 @@ chatGPT	chatgpt	2
 這要看你	o' yc[sv kjn'	1
 這也有可能	o' ye:bn y' kng	1
 這又是	o' yz[cc u'	2
-着	o;	109
+着	o;	115
 炸裂	oalp:g	2
 渣渣	oaoai	2
 這筆	obit	2
@@ -4213,6 +4356,7 @@ chatGPT	chatgpt	2
 找也找不到	oc[rt ye:bn oc[ra b' dc[gj	1
 找不到	ocbdc	7
 找不到啊	ocbdc a;	1
+找一個	oceg'	2
 找個	ocg'	1
 找個時間	ocg' ujm	1
 這層	ocgn	2
@@ -4233,7 +4377,8 @@ chatGPT	chatgpt	2
 者	oe[fj	4
 者寫東西	oe[fj xpdsxi:s	1
 這一邊	oebml	2
-摺疊	oedp	4
+摺疊	oedp	9
+摺疊面板	oedp mmbj	1
 這一段	oedr	2
 遮掩	oeej	2
 這樣吧	oehbak	2
@@ -4252,20 +4397,22 @@ chatGPT	chatgpt	2
 真的	ofd'	3
 真的真的	ofd' ofd'	1
 振奮	offf	1
-真誠	ofig	11
+真誠	ofig	13
 真誠點	ofig dm[ho	1
+真假	ofjx	2
 真理	ofli	4
 真沒	ofm'	2
 真沒話講	ofm' hx[;d jl[;f	1
 真沒想到啊	ofm' xldc a;	1
 真能	ofng	2
-真正	ofog	22
+真正	ofog	30
 陣容	ofrs	2
 真題	ofti	4
 真實	ofup	6
 珍珠	ofvu	1
 陣亡	ofwh:;	1
 陣亡者	ofwh:; oe[fj	1
+真心	ofx;	2
 針葉林	ofyelb:s	2
 這個	og'	4
 這個版本	og' bjbf	1
@@ -4299,15 +4446,15 @@ chatGPT	chatgpt	2
 正如	ogru	2
 這個是	ogu'	1
 正視	ogus:p	2
-症狀	ogvl	18
+症狀	ogvl	26
 這個問題	ogwfti	6
 政務	ogwu:t	4
 這個有	ogy'	2
 這個有什麼用	ogy' umys	7
 正則	ogze	6
-這話	ohx	1
+這話	ohx	3
 這出	oi'	2
-這就是	oju'	4
+這就是	oju'	6
 這就是你	ojun'	3
 這就是你很無趣	ojun' hf[te wuqu:f	1
 這句	ojv	4
@@ -4320,7 +4467,7 @@ chatGPT	chatgpt	2
 這類感覺	olw gjjt	1
 這麼說	omeao:;	8
 這面	omm	1
-這種	oot	1
+這種	oot	2
 這種子	oot zb[	1
 這種人	ootr'	2
 這片	opm	2
@@ -4333,6 +4480,7 @@ chatGPT	chatgpt	2
 轉換	orhr	1
 轉換類型	orhr lwxk	1
 轉換成	orhrig	12
+專家	orjx	2
 轉錄	orlu	4
 賺錢	orqm:q	4
 轉調	ortn:;	8
@@ -4346,13 +4494,14 @@ chatGPT	chatgpt	2
 中	os[khk	5
 中文輸入法	os[khk wf[;; au[lj r; fa[ic	2
 重傷	osah:w	2
+重大問題	osdawfti:j	2
 中島	osdc	2
 中島美雪	osdc m; xt[fv	1
 中等	osdg	2
 中飯	osfj	2
 重複	osfu	4
-中國	osgo	4
-中產	osij	6
+中國	osgo	8
+中產	osij	8
 中間	osjm	2
 終究	osjq	2
 終日	osri	2
@@ -4361,10 +4510,10 @@ chatGPT	chatgpt	2
 中興	osxk	6
 中興和苑	osxk h' yr[ab	3
 中興和園	osxk h' yr[lq	5
-重要	osyc	44
+重要	osyc	46
 重要的是	osycdu'	2
 種類	otlw	2
-這條	otnt	4
+這條	otnt	6
 種種	otot	1
 種種後果	otot hzgo:j	1
 這是	ou'	2
@@ -4377,12 +4526,12 @@ chatGPT	chatgpt	2
 這是因為	ouybwy	2
 這是怎麼	ouzfme	2
 這張	ovh	2
-追求	ovqq	7
+追求	ovqq	9
 追求你	ovqq n'	3
 追隨	ovsv	4
 追尋	ovxy	2
 這我	ow'	2
-這些	oxp	56
+這些	oxp	58
 這些都是	oxpdzu'	2
 這些話	oxphx	2
 這些人	oxpr'	2
@@ -4406,16 +4555,20 @@ chatGPT	chatgpt	2
 拼接	pbjp	4
 拼了	pbl'	1
 拼了的	pbl' d'	1
+品類	pblw	2
 跑	pc:kh	2
 泡菜	pccd	2
 拋出	pci'	2
 泡沫	pcmo	4
+泡泡	pcpc:i	2
 排除掉	pd[rd iu[bt dn[rj	2
 拍	pd[rr	1
 拍平	pd[rr p'	3
 排班	pdbj:g	8
 排班表	pdbj:g bn	1
 排班系統	pdbj:g xits	3
+平等	pdg	1
+平等姿態	pdg zitd	3
 排骨	pdgu	9
 徘徊	pdhk	4
 排列組合	pdlpzuhe:w	4
@@ -4438,16 +4591,18 @@ chatGPT	chatgpt	2
 皮傑	pi:hc jp[so	2
 皮村	pi[hc cy[sf	2
 啤酒鴨	pi[kf jq[ig ya[lg	8
+癖	pi[un	1
 啤酒	pijq	14
 批量	pill	8
 批量	pill:j	2
 琵琶	pipa	9
 琵琶腿	pipa tv[ep	3
-批評	pipk	6
+批評	pipk	8
+匹配	pipw	2
 潘	pj[il	2
 盤剝	pjbo:v	2
-判定	pjdk	2
-判斷	pjdr	13
+判定	pjdk	4
+判斷	pjdr	17
 判斷類型	pjdr lwxk	1
 盤旋	pjxr	4
 平均	pjy	2
@@ -4465,6 +4620,9 @@ chatGPT	chatgpt	2
 偏執	pmvi:r	2
 票	pn[si	1
 票了	pn[si ln[bh	1
+漂泊	pnbo	2
+漂泊感覺	pnbo gj:;	1
+漂泊感	pnbo gj:d	1
 飄逸	pnei	2
 飄逸	pnei:q	2
 飄過	pngo	2
@@ -4480,11 +4638,12 @@ chatGPT	chatgpt	2
 破碎	posv	2
 頗受	pouz	2
 平坦	ptj	2
-平攤	ptjr	30
+平攤	ptjr	32
 平攤表	ptjr bn	3
 朴	pu[sh	1
 普遍	pubm	5
 普遍意義	pubm eiei	1
+普工	pug;	2
 鋪面	pumm	2
 撲	pur:;	1
 撲入	pur:; r;	1
@@ -4507,9 +4666,10 @@ chatGPT	chatgpt	2
 配置	pwvi	6
 配置	pwvi:l	8
 胚芽	pwya	2
+平原	pyrd	2
 確確實實	q q u u[p	2
 秋葉原	q y yr	4
-去	q'	8
+去	q'	10
 去除掉	q' iu[bt dn[rj	2
 去團丁	q' trdk:s	1
 七	q;	3
@@ -4542,7 +4702,7 @@ chatGPT	chatgpt	2
 期待過	qidd go[fp	1
 起義	qiei:;	4
 起飛	qifw	2
-奇怪	qigk:n	2
+奇怪	qigk:n	4
 启光	qigl	23
 汽車	qiie	6
 器具	qijv	2
@@ -4571,6 +4731,7 @@ chatGPT	chatgpt	2
 青草	qkcc	2
 青菜	qkcd	8
 輕撫	qkfu:r	2
+情感	qkgj	2
 情感的	qkgjd	2
 清楚	qkiu	4
 清除	qkiu:b	2
@@ -4578,15 +4739,15 @@ chatGPT	chatgpt	2
 青椒	qkjn:s	22
 情節	qkjp	4
 清潔	qkjp:i	6
-情況	qkkl	10
+情況	qkkl	14
 情況下	qkklxx	5
-清空	qkks	6
+清空	qkks	8
 請你	qkn'	1
 請你使用	qkn' us[wq ys[eh	1
 青年	qknm	2
 青蘋果	qkpkgo	2
 輕飄飄	qkpnpn	2
-請求	qkqq	41
+請求	qkqq	43
 請求數據	qkqq aujv	1
 清算	qksr	2
 輕鬆	qkss	2
@@ -4601,7 +4762,7 @@ chatGPT	chatgpt	2
 慶幸	qkxk	4
 請先	qkxm:t	1
 請先設置	qkxm:t uevi:l	1
-情緒	qkxu	4
+情緒	qkxu	6
 情願	qkyr	2
 請用	qkys:e	6
 請再	qkzd:g	1
@@ -4623,21 +4784,24 @@ chatGPT	chatgpt	2
 前現代	qm[uj xg[ dd[wa	2
 千變萬化	qmbmwjhx:w	2
 潛藏	qmch	6
-簽到	qmdc	87
+簽到	qmdc	89
 簽到表	qmdc bn	1
 簽到中	qmdc os[khk	3
 簽到系統	qmdc xits	1
+前段	qmdr	1
+前段時間	qmdr ujm	1
 歉意	qmei:u	2
 潛意識	qmeius	4
 前沿	qmej	3
 前沿是	qmej u'	1
+前兩天	qmlltm	6
 前列	qmlp	2
 前面	qmmm	2
 前者	qmoe	2
-前者	qmoe:f	2
+前者	qmoe:f	4
 前綴	qmov:x	2
 淺淺	qmqm:i	6
-前臺	qmtd	2
+前臺	qmtd	4
 前腿	qmtv:e	10
 千只	qmv'	2
 千丈	qmvh:d	1
@@ -4676,7 +4840,7 @@ chatGPT	chatgpt	2
 全局事件	qrjv usjm:w	1
 權力	qrli:l	2
 全貌	qrmc	4
-權重	qros	58
+權重	qros	66
 權重了	qros l'	1
 權重值	qros vi[wh	1
 全盤	qrpj	2
@@ -4693,7 +4857,7 @@ chatGPT	chatgpt	2
 缺失	qt[rw us[rw	4
 確保	qtbc	3
 確保你在組件	qtbc nz' zujm:w	1
-確定	qtdk	2
+確定	qtdk	3
 確定要	qtdk yc[sv	1
 確乎	qthu:t	1
 確乎如此	qthu:t ruc;	1
@@ -4711,6 +4875,8 @@ chatGPT	chatgpt	2
 區別	qubp	14
 取而代之	querddv;	2
 趨近	qujb:r	2
+屈膝	quxi	1
+屈膝說	quxi ao[;q	3
 取消	quxn:i	2
 去往	qwht	2
 去想	qxl	2
@@ -4739,8 +4905,8 @@ chatGPT	chatgpt	2
 群主	qyvu;	4
 群員	qyyrk	10
 群友	qyyzd	2
-群組	qyzux	87
-人	r'	9
+群組	qyzux	103
+人	r'	10
 人很容易	r' hfrsei	1
 人際關係	r' ji[bi gr[ud xi[wi	2
 人人力	r' rli	1
@@ -4763,6 +4929,7 @@ chatGPT	chatgpt	2
 人與他人你	reu tr' n'	1
 熱水	reuv	4
 認定	rfdk	2
+任何	rfhe	2
 認繳	rfjnx	8
 認可	rfk'	8
 認同	rfts	2
@@ -4779,15 +4946,15 @@ chatGPT	chatgpt	2
 日語	rieu	21
 日光	rigl	2
 日程	riig	4
-日常	riih	54
+日常	riih	60
 日記本	rijibf	2
 日期	riqi	8
-日誌	rivi	2
+日誌	rivi	3
 日志	rivif	2
 人際	rjib	2
 燃燒	rjuc	2
 人力	rli	1
-人們	rmf	26
+人們	rmf	28
 人名	rmk	2
 茹毛饮血	rmyx	4
 若不是	robu'	2
@@ -4800,13 +4967,13 @@ chatGPT	chatgpt	2
 如此	ruc;	17
 入室弟子	rudz	2
 如遇	rueu:j	2
-如果	rugo:j	214
+如果	rugo:j	228
 如何	ruhe	1
 如何居中	ruhe jvos	1
 如出一辙	ruieoe:l	2
 如	ruv	1
 如下	ruxx	2
-任意	rwei	2
+任意	rwei	4
 任職	rwvi:b	2
 肉	rz[mw	4
 肉蒸蛋	rz[mw og[ao dj[nj	1
@@ -4820,6 +4987,7 @@ chatGPT	chatgpt	2
 肉餡	rzxm:q	9
 肉餡不	rzxm:q b'	1
 三	s;	9
+三國殺	s; go[l; ua[qs	2
 三分	s;ff	2
 三番五次	s;fjw;ci:u	2
 三個	s;g'	9
@@ -4845,11 +5013,14 @@ chatGPT	chatgpt	2
 四十六分	si:; u; l;ff	1
 絲	si:xg	1
 斯	si[ar	1
+死	si[gx	1
+死不帶去	si[gx bddg q'	1
 死硬	si[gx ek[dq	4
 死人	si[gx r'	2
 死亡	si[gx wh[;n	10
 死亡驅力	si[gx wh[;n qu[cq li[ln	6
 私服	si[tc fu[ec	4
+私人	si[tc r'	2
 似的	sid'	2
 四道	sidcu	2
 死得	side	2
@@ -4858,6 +5029,7 @@ chatGPT	chatgpt	2
 私服	sifu:e	6
 絲瓜	sigx:r	5
 絲瓜炒蛋	sigx:r icdj	1
+死活	siho	2
 撕扯	siie	2
 死寂	siji:p	2
 四季	siji:t	2
@@ -4870,7 +5042,7 @@ chatGPT	chatgpt	2
 索	so[fi	1
 索拉裏斯星	so[fi la[ru li[jf si[ar xk[jg	4
 梭魚	soeu:q	2
-縮進	sojb	8
+縮進	sojb	12
 縮減	sojm	2
 索然	sorj	2
 瑣碎	sosv	16
@@ -4884,6 +5056,7 @@ chatGPT	chatgpt	2
 酸菜魚	srcdeu:q	4
 算法	srfa	4
 痠痛	srts	2
+松嫩	ss[desc nf[vt	2
 送餐	sscj:h	2
 送達	ssda:d	2
 送給	ssgw	2
@@ -4905,23 +5078,25 @@ chatGPT	chatgpt	2
 碎	sv[df	3
 碎鏡	sv[df jk[qq	1
 隨風	svfs	2
-隨機	svji:s	14
+隨機	svji:s	18
 隨機創建一個	svji:s iljmeg'	1
-隨機密碼	svji:s mima	5
+隨機密碼	svji:s mima	7
 隨即	svji:v	2
 隨口	svkz	2
 隨着	svo;	8
 碎片	svpm	2
 雖然	svrj	4
 隨時	svuj	6
-所謂	sww	2
+三五成群	swiq	2
+所謂	sww	6
 所有	sy'	1
 所有使用	sy' usys	1
 所願	syrd	1
 所願可	syrd k'	1
 搜書	szau	2
 搜索	szso	8
-他	t'	4
+他	t'	5
+他的確定	t' d' qtdk	1
 他是	t' u'	1
 他是抖m	t' u' dzm	1
 它	t;	4
@@ -4950,8 +5125,9 @@ chatGPT	chatgpt	2
 太大	tdda	6
 太陽	tdeh	4
 太貴	tdgv	2
-太好	tdhc	2
+太好	tdhc	4
 太常	tdih:i	2
+太平	tdp'	2
 太清楚	tdqkiu:s	2
 抬頭	tdtz	2
 太行	tdxk:t	1
@@ -4971,14 +5147,15 @@ chatGPT	chatgpt	2
 提不起	tibqi	2
 替代	tidd	2
 提燈	tidg:o	2
+提議	tiei	2
 體驗	tiej	16
 替換	tihr	2
 提純	tiiy	2
-提交	tijn	24
+提交	tijn	32
 體力	tili:l	2
 體面	timm	2
 提前	tiqm	2
-提示	tius	2
+提示	tius	4
 題為	tiwy	2
 體系	tixi	10
 提醒	tixk	2
@@ -4988,7 +5165,7 @@ chatGPT	chatgpt	2
 彈出	tji'	1
 彈出一個	tji' eg'	1
 貪戀	tjlm	4
-談戀愛	tjlmai	4
+談戀愛	tjlmai	8
 談論	tjly	2
 歎氣	tjqi:r	2
 探索	tjso	1
@@ -4996,12 +5173,16 @@ chatGPT	chatgpt	2
 忐忑	tjte	2
 貪圖	tjtu	2
 探尋	tjxy	2
+聽	tk[kr	1
 聽不聽	tk[kr b' tk[kr	2
+聽到	tk[kr dc[gj	2
 聽見	tk[kr jm[hq	3
 聽見你	tk[kr jm[hq n'	1
 聽來	tk[kr ld:;	2
 聽力	tk[kr li[ln	2
+聽這種話	tk[kr oot hx[;d	1
 聽起來	tk[kr qi[fn ld:;	4
+挺好看	tk[rp hc[vb kj[rh	2
 挺久了	tk[rp jq[q; l'	2
 停	tk[ws	1
 停車場	tk[ws ie[lh ih[fr	2
@@ -5020,7 +5201,7 @@ chatGPT	chatgpt	2
 甜味	tm[tf ww[ki	2
 他媽的	tmad'	2
 甜點	tmdm	2
-添加	tmjx	24
+添加	tmjx	28
 添加開支	tmjx kdvi:f	1
 添加	tmjx:l	2
 甜蜜	tmmi	2
@@ -5030,19 +5211,21 @@ chatGPT	chatgpt	2
 天真	tmof	1
 天真浪漫	tmof lhmj	1
 天色	tmse	2
+天天	tmtm	6
 天生	tmug	2
-填寫	tmxp:p	2
+填寫	tmxp:p	4
 跳	tn:kh	1
 條	tn[ts	3
 條數	tn[ts au[kt	8
 條件	tn[ts jm[wh	18
-條目	tn[ts mu[hh	23
+條目	tn[ts mu[hh	37
 條件	tnjm:w	9
+調價	tnjx	2
 調料	tnln	6
 條目	tnmu	4
 跳轉	tnor	2
 調頻	tnpb	2
-調試	tnus	2
+調試	tnus	6
 眺望	tnwh	6
 調味品	tnwwpb	6
 托	to[ra	2
@@ -5071,12 +5254,12 @@ chatGPT	chatgpt	2
 桶	ts[se	1
 痛	ts[ue	1
 同一個	tseg'	4
-同樣	tseh	1
+同樣	tseh	2
 同樣美好的夕陽下	tseh m;hcd' xieh xx[gh	1
 通過了	tsgol'	2
 通常	tsih	4
 痛楚	tsiu	2
-統計	tsji	6
+統計	tsji	8
 同僚	tsln:w	4
 童年	tsnm	4
 同情	tsqk:n	2
@@ -5121,7 +5304,7 @@ chatGPT	chatgpt	2
 退散	tv[ovep sj[at	1
 退	tv[vp	1
 退出	tv[vp i'	6
-推薦	tvjm	2
+推薦	tvjm	4
 推論	tvly	2
 退縮	tvso	4
 退職	tvvi:b	1
@@ -5130,7 +5313,8 @@ chatGPT	chatgpt	2
 吞噬着	tyus o;	1
 頭	tz:ud	1
 頭上	tza'	2
-投機	tzji:s	2
+透過	tzgo	2
+投機	tzji:s	4
 透了	tzl'	1
 透了小我	tzl' xw'	1
 偷懶	tzlj	2
@@ -5145,7 +5329,7 @@ chatGPT	chatgpt	2
 審判官	u p gr	2
 是如何	u r he	2
 莎士比亞	u u b y[g	4
-是	u'	10
+是	u'	12
 是抖m	u' dzm	1
 是紛爭	u' ffog	1
 是幹什麼	u' gj[fh um	4
@@ -5165,36 +5349,40 @@ chatGPT	chatgpt	2
 沙之書	ua[it v; au[n;	2
 啥	ua[kk	2
 紗	ua[xt	1
-傻逼	uabi	12
+傻逼	uabi	14
 紗布	uabu	2
 沙堆	uadv:f	2
-是不是	ubu'	27
+是不是	ubu'	31
 是不是抖m	ubu' dzm	3
 是不是因為	ubuybwy	2
 稍感	uc[te gj:d	2
+少數	ucau	2
 燒餅	ucbk	2
 燒餅現在沒搞了，燒餅也是非常好喫	ucbk xgz' m' gc[rk l' ;' ucbk yeu' fi:; hcii	1
 少於	uceu	2
 稍後	uchz	2
 燒開	uckd	8
 燒灼	ucvo:o	2
-稍微	ucww	2
+稍微	ucww	4
 稍顯	ucxm:j	2
 勺子	uczb	2
 曬乾	udgj	2
 篩選	udxr	10
 設定好	ue[;c dk[ph hc[vb	2
 社會下	ue[pf hv[wc xx[gh	2
+社保	uebc	1
 攝影	ueek	2
 設立	ueli	6
 是一種	ueot	6
 奢求	ueqq	6
+社區	uequ	1
 攝入	uer;	2
 設置	uevi	18
-設置	uevi:l	149
+設置	uevi:l	153
 設置初始化	uevi:l iuushx:w	1
 設置好了	uevihcl'	4
 設為	uewy	4
+深拷貝	uf[is kc[rn bw[m;	2
 身體性	uf[tt ti[wg xk[ng	2
 深層	ufcg	3
 深層含義	ufcg hjei	1
@@ -5217,12 +5405,13 @@ chatGPT	chatgpt	2
 身體性	uftixkn	10
 深受	ufuz	2
 深淵	ufyr:i	4
-是否	ufz	69
+是否	ufz	77
 是否還能繼續往上翻頁	ufz hdng jixu wh:tg a' fjye:d	1
 是否是	ufzu'	2
 神族	ufzu:;	2
 是個	ug'	1
 是個粉	ug' ff[ov	1
+生不帶來	ug[t b' dd[gh ld:;	2
 生存論	ug[t cy[db ly[;x	2
 生命政治	ug[t mk[wb og[gt vi[ik	2
 升任	ug[ta rw[	2
@@ -5231,7 +5420,7 @@ chatGPT	chatgpt	2
 生存是	ugcy u'	1
 生育	ugeu:;	2
 生育率	ugeulv:;	2
-生活	ugho:i	50
+生活	ugho:i	56
 生成	ugig	24
 生抽	ugiz:r	6
 生就	ugj'	1
@@ -5239,6 +5428,7 @@ chatGPT	chatgpt	2
 聖潔	ugjp:i	2
 繩結	ugjp:x	2
 生理	ugli:g	2
+生命	ugmk	1
 聲明	ugmk:j	2
 生日	ugri	5
 勝任	ugrw	2
@@ -5250,13 +5440,15 @@ chatGPT	chatgpt	2
 時	uj[	2
 時分	ujff	1
 時刻	ujke	2
-時間	ujm	96
+時間	ujm	101
 時間上	ujm a'	1
 時間過去很久了	ujm goq' hfjql'	1
 時間性	ujm xk:n	1
 時至今日	ujvijbri:j	4
+時薪	ujxb:a	2
 是可以	ukec	2
-什麼	um	213
+什麼	um	238
+什麼把人	um bar r'	1
 什麼情況下	um qkklxx	1
 什麼也不在意	um ye:bn bzei	1
 是沒	um'	1
@@ -5274,6 +5466,8 @@ chatGPT	chatgpt	2
 實際效果	upji xngo:j	3
 實踐	upjm	2
 實例	upli:w	4
+up主	upvu	2
+實習生	upxiug	2
 實則	upze	2
 實在界	upzjp:l	2
 神清气爽	uqqa	2
@@ -5293,9 +5487,9 @@ chatGPT	chatgpt	2
 食用油	us[we ys[eh yz[im	8
 使	us[wq	1
 使後人	us[wq hz[rk r'	1
-使用	us[wq ys[eh	37
+使用	us[wq ys[eh	39
 事啊	usa;	2
-失敗	usbd	24
+失敗	usbd	26
 士兵	usbk	4
 識別	usbp	4
 食材	uscd	5
@@ -5310,7 +5504,7 @@ chatGPT	chatgpt	2
 世界	usjp	2
 世界盡頭	usjp jbtz	1
 失控	usks:r	2
-示例	usli:w	14
+示例	usli:w	18
 適量	usll	2
 失落	uslo	4
 市民	usmb	20
@@ -5318,8 +5512,10 @@ chatGPT	chatgpt	2
 始終	usos	8
 使其	usqi:a	4
 事情	usqk	2
-事情	usqk:n	29
+事情	usqk:n	31
 失業	usrye	6
+失聲	usug:f	2
+事實上	usupa'	2
 室溫	uswf:i	1
 室溫超導	uswf:i icdc:n	1
 失望	uswh:;	8
@@ -5329,13 +5525,15 @@ chatGPT	chatgpt	2
 失鄉	usxlx	2
 事先	usxm:t	2
 視線	usxm:x	4
+失效	usxn	2
 視野	usyej	2
 使用	usys	1
 食用油	usysyz:i	4
 室友	usyz:d	4
 試試	uu:;	8
-是什麼	uum	35
+是什麼	uum	39
 是什麼意思	uum eisi	3
+是誰	uuv	2
 是誰	uuv;	2
 水	uv:i	1
 誰能	uv[;; ng[cx	2
@@ -5344,7 +5542,7 @@ chatGPT	chatgpt	2
 水域	uveu:f	1
 水果	uvgo:j	10
 水池	uvii:i	1
-是指	uvir	4
+是指	uvir	6
 睡覺	uvjn	2
 水泥	uvni	2
 睡去	uvq'	2
@@ -5357,7 +5555,7 @@ chatGPT	chatgpt	2
 耍	ux[dv	2
 刷題	uxti:j	2
 刷新	uxxb	14
-是因為	uybwy	16
+是因為	uybwy	18
 手擀面	uz[rh gj[rf mm[d	2
 首都	uz[uh du[fb	2
 首末	uz[uh mo[gs	4
@@ -5369,11 +5567,14 @@ chatGPT	chatgpt	2
 手動	uzds	6
 首個	uzg'	2
 手工	uzg;	6
-手機上	uzjia'	4
+手機上	uzjia'	10
+手機號	uzjihc:k	12
+手機號碼	uzjihcma:d	2
 售價	uzjx	2
 收款	uzkr	3
 收款二維碼	uzkr e;wwma	1
 售賣	uzmd	2
+收買	uzmd	2
 售賣	uzmd:f	4
 授權	uzqr	1
 授權碼	uzqr ma:d	1
@@ -5393,8 +5594,8 @@ chatGPT	chatgpt	2
 之和	v; h'	6
 之地	v;di	2
 之一	v;e'	4
-之後	v;hz	58
-之間	v;jm	34
+之後	v;hz	60
+之間	v;jm	37
 之類	v;lw	14
 之名	v;mkq	1
 之中	v;os	4
@@ -5406,7 +5607,7 @@ chatGPT	chatgpt	2
 之物	v;wt	4
 之為	v;wy	4
 之下	v;xx	2
-知道	vd:;	52
+知道	vd:;	57
 主義	ve:;	4
 漲落	vh[i; lo[ak	2
 張	vh[x;	5
@@ -5414,10 +5615,10 @@ chatGPT	chatgpt	2
 賬本名	vhbf:s mk[qf	1
 賬本內容	vhbf:s nwrs	3
 長膘	vhbn:e	2
-賬單	vhdj	2
+賬單	vhdj	6
 賬單	vhdj:u	2
 帳號	vhhc	5
-賬戶	vhhu	5
+賬戶	vhhu	7
 張力	vhli:l	2
 帳目	vhmu:h	2
 張正午	vhogwu:t	2
@@ -5451,13 +5652,14 @@ chatGPT	chatgpt	2
 蜘蛛網	vivuwm	2
 秩序	vixu	2
 汁液	viye:i	4
+製做	viz;	2
 製造	vizc	2
-製作	vizo	9
+製作	vizo	11
 占比	vj[hk bi[xx	6
-站點	vj[uk dm[ho	2
+站點	vj[uk dm[ho	4
 佔畢	vjbi:x	8
 戰地	vjdi	6
-展開	vjkd	12
+展開	vjkd	14
 戰爭	vjog	1
 展示	vjus:f	2
 佔用	vjys:e	8
@@ -5477,6 +5679,7 @@ chatGPT	chatgpt	2
 裝作	vlzo	2
 只能	vng	1
 只能說這個輸入法很好用	vng aoog' aur;fa hfhc ys[eh	1
+只能用	vngyse	2
 桌	vo[hs	1
 灼傷	voah	6
 桌面	vomm	4
@@ -5495,6 +5698,8 @@ chatGPT	chatgpt	2
 逐詞	vu[ep ci[;k	3
 只是說	vuao	4
 珠寶	vubc	2
+逐步	vubu	4
+註定	vudk	4
 諸多	vudo	2
 主動	vuds	6
 注意	vuei:u	12
@@ -5503,7 +5708,7 @@ chatGPT	chatgpt	2
 主機	vuji:s	2
 逐漸	vujm	2
 逐漸	vujm:i	6
-主鍵	vujm:q	24
+主鍵	vujm:q	26
 鑄件	vujm:w	4
 注入	vur;	2
 豬肉	vurz	20
@@ -5528,7 +5733,7 @@ chatGPT	chatgpt	2
 准予	vyeu	2
 準確	vyqt	2
 只用	vyse	2
-我不知道	w b v d[u	24
+我不知道	w b v d[u	26
 我一直	w e vi	2
 我就說	w j ao	2
 無所謂	w s ww	4
@@ -5538,6 +5743,8 @@ chatGPT	chatgpt	2
 我	w'	12
 我不覺得	w' b' jt[iq de[tf	16
 我不太清楚	w' b' td[d; qk[ie iu[sh	2
+我不希望	w' b' xi[qh wh[;g	2
+我不在乎	w' b' z' hu[th	2
 我本來	w' bf[sg ld:;	2
 我不太想說	w' btd xlao	1
 我不知道你會	w' bvd:; nhv	1
@@ -5561,7 +5768,7 @@ chatGPT	chatgpt	2
 我去看看	w' q' kj[rh kj[rh	2
 我只能說	w' v' ng[cx ao[;q	2
 我之前	w' v; qm[uj	2
-我希望	w' xi[qh wh[;g	6
+我希望	w' xi[qh wh[;g	8
 我想問	w' xl[sn wf[uk	2
 我需要	w' xu[fj yc[sv	2
 我有	w' y'	6
@@ -5577,24 +5784,26 @@ chatGPT	chatgpt	2
 五花	w;h;	2
 五花肉	w;h;rz	16
 五月	w;yt	8
-無非	w[u f;	14
+無非	w[u f;	18
 瓦	wa[gn	1
 我說	wao	1
 我說這話	wao ohx	1
 娃娃	wawa	1
 娃娃菜	wawa cd[as	3
-我不是	wbu'	8
+我不會	wbhv	2
+我不是	wbu'	12
 我不想	wbxl	2
 微不足道	wbzd	4
-我的	wd'	4
+我的	wd'	5
 我的賬本	wd' vhbf:s	3
 我的帳號	wd' vhhc	3
 我的賬戶	wd' vhhu	1
 我的主頁	wd' vuye	9
-外	wd[q;	5
+外	wd[q;	7
 外鍵	wd[q; jm[qp	21
 外表下	wd[qh bn[ge xx[gh	2
 外層	wdcg	2
+我帶	wddg	2
 无动于衷	wdeo	4
 外觀	wdgr	2
 外間	wdjm:u	1
@@ -5604,6 +5813,7 @@ chatGPT	chatgpt	2
 我對很	wdv hf[te	1
 我都	wdz	2
 我一度	wedu;	2
+我一直	wevif	2
 文	wf[;;	3
 文件夾	wf[;; jm[wh jx[gw	2
 文心	wf[;; x;	1
@@ -5614,7 +5824,7 @@ chatGPT	chatgpt	2
 問到	wfdc:g	2
 文檔	wfdh	16
 文檔	wfdh:s	8
-穩定	wfdk	4
+穩定	wfdk	6
 溫度	wfdu	2
 文言文	wfejwf	2
 問一下	wfexx	4
@@ -5626,17 +5836,19 @@ chatGPT	chatgpt	2
 文創	wfilw	2
 文件	wfjm:w	51
 文件僅	wfjm:w jw[	1
-問你	wfn'	2
+問你	wfn'	4
 溫熱	wfre	1
 溫熱的	wfre d'	1
-溫柔	wfrz	3
+溫柔	wfrz	5
 問題	wfti	8
 問題	wfti:j	1
 問題是	wftiu'	2
 文章	wfvh	10
+文職	wfvi:b	2
 溫馨	wfxb	4
 文學	wfxt	8
 問自己	wfziji	2
+我告訴你	wgcsun'	2
 我感覺	wgjjt	5
 我感覺網絡有問題	wgjjt wmlo y' wfti	1
 往上	wh:tg a'	1
@@ -5649,14 +5861,16 @@ chatGPT	chatgpt	2
 枉下定論	wh[sg xx[gh dkly	1
 我還是	whdu'	6
 忘卻	whqt	4
+妄圖	whtu	2
 往事	whus	2
 我會的	whvd'	4
 往往	whwh:t	4
 萬全	wj[a; qr[wg	2
 晚	wj[jq	1
-晚點	wj[jq dm[ho	7
+晚點	wj[jq dm[ho	9
 晚點吃	wj[jq dm[ho ii[kn	1
 完畢	wjbi	4
+玩法	wjfa	2
 晚飯	wjfj	2
 玩	wjg:q	1
 完成	wjig	20
@@ -5677,7 +5891,7 @@ chatGPT	chatgpt	2
 網羅	wmlo	10
 網絡	wmlo:x	18
 網站	wmvj	4
-網站	wmvj:u	30
+網站	wmvj:u	32
 網站編輯	wmvj:u bmji	1
 網站管理	wmvj:u grli	1
 網狀	wmvl	2
@@ -5697,6 +5911,7 @@ chatGPT	chatgpt	2
 我是	wu'	1
 我是一隻貓	wu' evmc	1
 無比強大	wu[fqv bi[xx ql[xh da[dd	2
+無根	wu[fqv gf[se	2
 無關聯	wu[fqv gr[ud lm[bd	2
 無路可逃	wu[fqv lu[kk k' tc[ip	2
 無目的	wu[fqv mu[hh di[r;	4
@@ -5713,12 +5928,12 @@ chatGPT	chatgpt	2
 無處安葬	wuiu anzh	1
 無可	wuk'	2
 無力	wuli:l	5
-無聊	wuln	12
+無聊	wuln	16
 烏龍茶	wulsia:a	4
 無論	wuly	20
 無論如何	wulyruhe:w	2
 無論是	wulyu'	2
-爲什麼	wume	123
+爲什麼	wume	133
 爲什麼要	wume yc[sv	1
 我是真的	wuofd'	2
 我實在	wupz'	2
@@ -5734,8 +5949,10 @@ chatGPT	chatgpt	2
 舞姿	wuzi	2
 我知道	wvd:;	14
 我只是	wvu'	18
-我只想	wvxl	2
+我只想	wvxl	4
 未	ww[fi	2
+未登陸	ww[fi dg[wu lu[bm	2
+畏懼	ww[le jv[nw	2
 畏手畏腳	ww[le uz[rh ww[le jn[eb	2
 畏	ww[lu	1
 逶迤	ww[tp ei[tp	1
@@ -5820,7 +6037,7 @@ chatGPT	chatgpt	2
 新東西	xbdsxi:s	2
 信封	xbfs	2
 信服	xbfu	2
-新建	xbjm	2
+新建	xbjm	6
 辛勤	xbqb	2
 𦁍	xbx	2
 信心	xbx;	2
@@ -5852,7 +6069,7 @@ chatGPT	chatgpt	2
 稀飯	xifj	2
 習慣	xigr	6
 西瓜	xigx	2
-喜歡	xihr	12
+喜歡	xihr	14
 西紅柿	xihsus	11
 西紅柿炒蛋	xihsus icdj	1
 西湖	xihu	2
@@ -5862,7 +6079,7 @@ chatGPT	chatgpt	2
 吸納	xina:x	2
 細碎	xisv	2
 系統	xits	3
-希望	xiwh	56
+希望	xiwh	62
 洗碗機	xiwjji:s	2
 吸吸	xixi:k	4
 吸引	xiyb	4
@@ -5882,7 +6099,7 @@ chatGPT	chatgpt	2
 行經就	xkjk:x j'	1
 星空	xkks	1
 星空暗流	xkks anlq	1
-醒來	xkld	4
+醒來	xkld	6
 醒目	xkmu	2
 星期一	xkqie'	2
 性情	xkqk:n	2
@@ -5893,6 +6110,7 @@ chatGPT	chatgpt	2
 星星之火	xkxkv;hoo	2
 相加	xl[sh jx:lk	2
 相通	xl[sh ts[cp	2
+相左	xl[sh zo[da	2
 想了想	xl[sn l' xl[sn	4
 想聽聽	xl[sn tk[kr tk[kr	2
 想問下	xl[sn wf[uk xx[gh	2
@@ -5904,10 +6122,10 @@ chatGPT	chatgpt	2
 想到	xldc	22
 相當於	xldheu	5
 相對	xldv	8
-想法	xlfa	25
+想法	xlfa	27
 想過	xlgo	10
 想過	xlgo:f	2
-相關	xlgr	28
+相關	xlgr	30
 香菇	xlgu	2
 想好	xlhc	8
 小狼毫	xlhhc:;	2
@@ -5918,18 +6136,22 @@ chatGPT	chatgpt	2
 相加	xljx	4
 想看	xlkj	2
 香料	xlln	2
-想明白	xlmkbd:r	2
-項目	xlmu	12
+香茗	xlmk	2
+想明白	xlmkbd:r	4
+項目	xlmu	23
+項目之間	xlmu v;jm	1
 相親	xlqb	2
 想起	xlqi:f	4
 想起來	xlqild	6
+想聽	xltk:k	2
 香水	xluv	2
 享受	xluz	6
 相信	xlxb	1
-詳細	xlxi	3
+詳細	xlxi	9
 詳細點	xlxi dm[ho	1
 想想	xlxl:s	2
 相擁	xlys:r	2
+向左	xlzo	2
 線	xm:x	2
 線稿	xm:x gc[t;	5
 線告	xm:x gc[tk	1
@@ -6025,7 +6247,7 @@ chatGPT	chatgpt	2
 選中之後	xros v;hz	1
 渲染	xrrj	8
 懸置	xrvi:l	2
-選項	xrxl	12
+選項	xrxl	16
 選擇	xrze	18
 兄弟	xsdi	2
 汹涌澎湃	xsyspgpd:i	2
@@ -6041,7 +6263,7 @@ chatGPT	chatgpt	2
 學雷鋒	xtlwfs	8
 小調	xtn	2
 血肉	xtrz	4
-學生	xtug	26
+學生	xtug	28
 學習	xtxi	4
 血腥	xtxk	2
 學校	xtxn	2
@@ -6056,6 +6278,7 @@ chatGPT	chatgpt	2
 虛擬	xuni	5
 虛擬短信	xuni drxb	1
 虛擬主機	xunivuji:s	2
+許諾	xuno	2
 袖手旁观	xupg	2
 需求	xuqq	2
 虛無	xuwu	5
@@ -6086,14 +6309,14 @@ chatGPT	chatgpt	2
 下了班	xxlbjg	2
 下來	xxld	1
 下樓	xxlz	6
-下面	xxmm	4
+下面	xxmm	8
 狹窄	xxod	4
 下墜	xxov	2
 夏日	xxri	2
 形形色色	xxss	2
 小學	xxt	2
 下午茶	xxwuia	2
-下載	xxzd:f	28
+下載	xxzd:f	30
 尋	xy[vf	3
 尋物	xy[vf wt[	1
 尋物啟士	xy[vf wt[ qi[;k us[fg	1
@@ -6108,7 +6331,8 @@ chatGPT	chatgpt	2
 引為鑒戒	y w j j[a	2
 搖搖欲墜	y y e o[b	2
 隱隱約約	y y y y[x	2
-有	y'	10
+有	y'	11
+有點問題	y' dm[ho wf[uk ti[jm	2
 有多麼	y' do:qq me[tc	2
 有多重要	y' do:qq os[tf yc[sv	2
 有多少	y' do:qq uc[it	2
@@ -6116,13 +6340,13 @@ chatGPT	chatgpt	2
 有各	y' ge[tk	3
 有很多	y' hf[te do[qq	4
 有戶名	y' humk	1
+有回	y' hv[lk	1
 有哪些	y' na[kb xp[hf	2
-有問題	y' wf[uk ti[jm	18
+有問題	y' wf[uk ti[jm	20
 有些東西	y' xp[hf ds[ai xi[sg	6
 由	y;	16
 由於	y;eu	3
 由其	y;qi	2
-牙根	ya[aht gf[se	2
 鴨	ya[lg	1
 鴨邊腿	ya[lg bm[lp tv[ep	1
 亞運	yaey:f	1
@@ -6130,6 +6354,8 @@ chatGPT	chatgpt	2
 壓迫	yapo	3
 鴨肉	yarz	8
 鴨血	yaxt:t	4
+壓在	yaz'	2
+陰仄	yb[bc ze[dw	2
 陰	yb[be	1
 陰潮	yb[be ic[ie	3
 印出來	yb[qb i' ld:;	2
@@ -6149,9 +6375,9 @@ chatGPT	chatgpt	2
 飲料	ybln	14
 隱沒	ybmo:i	2
 音頻	ybpb	2
-引入	ybr;	68
+引入	ybr;	70
 隱射	ybue:t	2
-飲食	ybus	45
+飲食	ybus	47
 飲食平攤	ybus ptjr	1
 印刷	ybux	2
 印章	ybvh	8
@@ -6159,7 +6385,7 @@ chatGPT	chatgpt	2
 印象	ybxl	2
 印象	ybxl:q	2
 隱隱	ybyb	2
-引用	ybys:e	6
+引用	ybys:e	15
 隱約	ybyt:x	2
 藥方	yc[a; fh[;g	2
 腰	yc[ev	1
@@ -6192,9 +6418,10 @@ chatGPT	chatgpt	2
 有點晚	ydmwjj	2
 有點像	ydmxlw	2
 有多	ydo	2
-也	ye:bn	11
-也不過	ye:bn b' go[fp	2
+也	ye:bn	12
+也不過	ye:bn b' go[fp	4
 也不重要	ye:bn b' os[tf yc[sv	4
+也不知道	ye:bn b' vd:;	1
 也不至於	ye:bn b' vi[gf eu[gf	2
 也包括	ye:bn bc[qn ko[rd	2
 也不貴	ye:bn bgvk	1
@@ -6225,23 +6452,27 @@ chatGPT	chatgpt	2
 有一段時間	yedr ujm	1
 也都	yedz	2
 也已經	yeeijk:x	2
+也好	yehc	3
 也還	yehd	2
-也會	yehv	6
+也會	yehv	8
 也會有	yehvy'	2
 頁腳	yejn:e	6
-也就是	yeju'	20
+也就是	yeju'	22
 也可以	yekec	6
 也沒	yem'	5
 也沒對	yem' dv[cf	1
-頁面	yemm	69
+頁面	yemm	71
+也沒啥	yemuak	2
 也沒什麼	yemum	2
 頁眉	yemw	8
 也沒有	yemy'	6
 也能	yeng	2
 有一天	yetm	8
 也是	yeu'	2
+業主	yevu	2
+也只是	yevu'	2
 引以为憾	yewh	4
-夜晚	yewj:j	7
+夜晚	yewj:j	9
 夜晚素菜	yewj:j sucd:a	3
 也無非	yewuf;	2
 也未必	yewwbi:n	2
@@ -6249,6 +6480,7 @@ chatGPT	chatgpt	2
 有一些	yexp	6
 也需要	yexuyc:s	4
 也有	yey'	14
+也用	yeys:e	2
 有關係	ygrxi	2
 有話	yhx	2
 有朝	yic	1
@@ -6261,7 +6493,7 @@ chatGPT	chatgpt	2
 有這個	yog'	2
 有趣	yqu	2
 有人	yr'	2
-原材料	yr:d cd[st ln[of	24
+原材料	yr:d cd[st ln[of	30
 原聲	yr:d ug[fb	2
 原生	yr:d ug[t	2
 苑	yr[ab	1
@@ -6283,7 +6515,9 @@ chatGPT	chatgpt	2
 元素	yrsu	20
 元素發	yrsu f'	1
 原質	yrvi:r	2
+願望	yrwh	2
 原先	yrxm	4
+原有	yry'	2
 緣由	yry;	4
 原因	yryb	1
 原野	yrye:j	2
@@ -6297,8 +6531,8 @@ chatGPT	chatgpt	2
 用表	ys[eh bn	1
 用的	ys[eh d'	1
 用於	ys[eh eu[;u	2
-用於	ys[eh eu[gf	26
-用戶	ys[eh hu[;n	16
+用於	ys[eh eu[gf	28
+用戶	ys[eh hu[;n	18
 用來	ys[eh ld:;	12
 用起來	ys[eh qi[fn ld:;	2
 用什麼	ys[eh um	2
@@ -6311,15 +6545,15 @@ chatGPT	chatgpt	2
 用戶權限	yshuqrxmb	2
 用戶組	yshuzu:x	2
 用匯	yshv:i	8
-永久	ysjq	2
-用來	ysld	32
+永久	ysjq	4
+用來	ysld	34
 慵懶	yslj	2
 勇者	ysoe:f	2
-勇氣	ysqi:r	6
+勇氣	ysqi:r	10
 用途	ystu	2
 湧現	ysxg	2
-擁有	ysy'	6
-永遠	ysyr	12
+擁有	ysy'	8
+永遠	ysyr	14
 月	yt[ee	3
 月紗	yt[ee ua[xt	1
 越	yt[ft	1
@@ -6331,7 +6565,7 @@ chatGPT	chatgpt	2
 月亮了	ytll l'	1
 有是	yu'	4
 有啥	yua	2
-有時候	yujhz	22
+有時候	yujhz	26
 有什麼	yum	2
 有什麼用	yum ys[eh	5
 有我	yw'	1
@@ -6351,6 +6585,7 @@ chatGPT	chatgpt	2
 又是啥	yz[cc u' ua[kk	1
 又有	yz[cc y'	8
 又要	yz[cc yc[sv	2
+友友	yz[dc yz[dc	4
 右面	yz[dk mm[d	2
 油	yz[im	1
 憂鬱	yz[nn eu[se	2
@@ -6362,16 +6597,17 @@ chatGPT	chatgpt	2
 優化	yzhx:w	6
 遊船	yzir:t	2
 憂愁	yziz	2
-郵件	yzjm:w	2
+郵件	yzjm:w	4
 遊離	yzli	2
 油墨	yzmo:l	2
 尤其	yzqi	6
 友情鏈接	yzqklmjp:r	2
+優勢	yzus:r	2
 優質	yzvi:r	4
-幼稚	yzvi:t	4
+幼稚	yzvi:t	6
 遊戲	yzxi	19
 遊行	yzxk:t	2
-郵箱	yzxl:t	17
+郵箱	yzxl:t	21
 郵箱有	yzxl:t y'	1
 郵箱地址	yzxldivi:f	2
 友協	yzxp:f	2
@@ -6383,7 +6619,7 @@ chatGPT	chatgpt	2
 在上面的代碼中	z' amm d' ddma:d os[khk	1
 在時網	z' uj[ wm[	1
 做	z;	64
-做錯	z; co[qj	2
+做錯	z; co[qj	4
 做愛	z;ai	4
 做錯了	z;col'	2
 做到	z;dc	2
@@ -6414,9 +6650,10 @@ chatGPT	chatgpt	2
 子組件	zb[ zujm:w	9
 子雞	zbji:c	2
 在此	zc;	1
+躁	zc[kh	2
 躁動不安	zc[ks ds[fl b' an[pv	2
 燥	zc[os	1
-燥郁	zc[os eu[db	1
+燥郁	zc[os eu[db	3
 造	zc[tp	1
 造個句子	zc[tp g' jv[qk zb[	1
 早上	zca'	4
@@ -6427,8 +6664,11 @@ chatGPT	chatgpt	2
 再後面	zd[gf hzmm	1
 再添加	zd[gf tmjx	1
 再說	zdao	2
+再次	zdci	1
+再次輸入	zdci aur;	1
 再度	zddu	6
 再發	zdf'	1
+載歌載舞	zdgezdwu:r	2
 再見	zdjm	10
 再買	zdmd	2
 載入	zdr;	2
@@ -6446,7 +6686,7 @@ chatGPT	chatgpt	2
 怎麼開	zf[tn me[tc kd[ga	2
 怎麼看待	zf[tn me[tc kj[rh dd[tf	2
 怎麼治	zf[tn me[tc vi[ik	2
-怎麼怎麼樣	zf[tn me[tc zf[tn me[tc eh[sd	2
+怎麼怎麼樣	zf[tn me[tc zf[tn me[tc eh[sd	4
 怎麼	zfme	7
 怎麼安裝	zfme anvl	1
 怎麼不去	zfme bq'	1
@@ -6468,11 +6708,13 @@ chatGPT	chatgpt	2
 怎麼做	zfmez;	12
 增刪	zg[fj aj[mj	2
 在幹什麼	zgjum	2
-增加	zgjx	52
+增加	zgjx	59
+增加開支	zgjx kdvi:f	3
 增長	zgvh	2
 藏	zh[at	2
 藏緬語	zh[at mm[xd eu[;k	1
 藏語	zheu:;	5
+在乎	zhu	2
 孜然	zi[bt rj[qo	5
 孜然羊肉	zi[bt rj[qo ehrz	1
 自	zi[th	1
@@ -6488,13 +6730,14 @@ chatGPT	chatgpt	2
 自發性在這裏有問題的	zifxkn zoli ywftid'	1
 自豪	zihc	2
 資產階級	ziijjpji:x	4
-自己	ziji	2
-自戀	zilm	4
+自己	ziji	3
+自戀	zilm	6
 自戀性質	zilmxkvir	2
-資料	ziln	2
+資料	ziln	4
 自然	zirj	1
 自然羊肉	zirj ehrz	1
 自然數	zirjau:o	2
+姿態	zitd	1
 自恃	zius:n	2
 自治	zivi:i	6
 自我	ziw'	13
@@ -6503,7 +6746,7 @@ chatGPT	chatgpt	2
 仔細品來	zixi:x pb[kk ld[goi	1
 仔細看	zixikj:r	2
 自相矛盾	zixlmcdy:r	2
-自由	ziy;	8
+自由	ziy;	10
 資源	ziyr	1
 自幼	ziyz	2
 自責	zize	2
@@ -6528,9 +6771,9 @@ chatGPT	chatgpt	2
 作用域	zoyseuf	2
 左右	zoyz	14
 字	zp[	2
-字典	zpdm	52
-字段	zpdr	34
-字符串	zpfuir	32
+字典	zpdm	56
+字段	zpdr	40
+字符串	zpfuir	34
 字體	zpti	1
 字體集	zpti ji[ws	3
 字體大小	zptidax'	2
@@ -6541,6 +6784,9 @@ chatGPT	chatgpt	2
 總共	zsgs	2
 總歸	zsgv	9
 總歸是	zsgvu'	2
+總和	zsh'	1
+總和不會	zsh' bhv	1
+總會	zshv	2
 總計	zsji:;	4
 總量	zsll:j	3
 棕櫚油	zslvyz	2
@@ -6563,10 +6809,12 @@ chatGPT	chatgpt	2
 最後一次	zv[jc hz[rk e' ci[uw	4
 最創傷	zv[jc ilah	1
 最可笑	zv[jc k' xn[td	2
+最離奇	zv[jc li[;c qi[dk	2
 最普遍	zv[jc pu[uj bm[;p	2
 最要好	zv[jc ychc	3
 最上面	zvamm	2
 最大	zvda	12
+最低	zvdi:w	2
 最多	zvdo	2
 最高	zvgc	2
 最好	zvhc	1
@@ -6574,7 +6822,7 @@ chatGPT	chatgpt	2
 嘴脣	zviy	2
 最基本	zvjibf	4
 最深	zvuf	2
-最早	zvzc	2
+最早	zvzc	4
 责无旁贷	zwpd	4
 尊重	zyos	2
 自怨自艾	zyze	6
