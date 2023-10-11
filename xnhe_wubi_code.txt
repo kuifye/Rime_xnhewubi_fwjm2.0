@@ -328,6 +328,8 @@ app	app	9
 與之	euv;	10
 推入	tvr;	10
 不是他	but	10
+城市	iu;	10
+按你	ann	10
 更是	ggu	10
 自发	zif	10
 找他	oct	10
@@ -594,6 +596,7 @@ app	app	9
 只是一個	vueg	10
 一個一個	egeg	10
 平靜	pjk	10
+想起來	xlqild	10
 在這個意義上	zogeieia	10
 車輛	iell	10
 車輛信息	iellxbxi	10
