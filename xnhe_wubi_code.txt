@@ -174,7 +174,6 @@ app	app	9
 時	uj	9
 阿	ab	9
 實	up	9
-和	ht	9
 子	zb	9
 為	wy	9
 及	je	9
@@ -325,6 +324,7 @@ app	app	9
 他那	tn;	10
 所做	sz;	10
 是非	uf;	10
+顯示	xu;	10
 與之	euv;	10
 推入	tvr;	10
 不是他	but	10
@@ -593,7 +593,7 @@ app	app	9
 你知道	nvd	10
 只是一個	vueg	10
 一個一個	egeg	10
-平靜	pjk	0
+平靜	pjk	10
 在這個意義上	zogeieia	10
 車輛	iell	10
 車輛信息	iellxbxi	10
