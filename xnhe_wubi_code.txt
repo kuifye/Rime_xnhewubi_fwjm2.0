@@ -336,7 +336,7 @@ app	app	9
 還不	hdb	10
 當個	dhg	10
 吃我	iiw	10
-不爱	bai	10
+不愛	bai	10
 輸出	aui	10
 路上	lua	10
 男人	njr	10
@@ -346,6 +346,7 @@ app	app	9
 他會	thv	10
 調和	tnh	10
 等我	dgw	10
+怕的	pad	10
 生的	ugd	10
 他得	tdw	10
 行人	kxr	10
@@ -16603,7 +16604,6 @@ but	but
 單根	djgf	9
 單模	djmo	9
 單人	djr	9
-單弱	djro	9
 單衫	djaj	9
 單元	djyr	9
 單月	djyt	9
