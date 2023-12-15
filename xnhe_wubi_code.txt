@@ -327,8 +327,14 @@ app	app	9
 顯示	xu;	10
 與之	euv;	10
 推入	tvr;	10
+出示	ius	10
+你真的	nofd	10
+而这个	erog	10
+許可	xuk	10
+一場	eih	10
 不是他	but	10
 城市	iu;	10
+比我	biw	10
 按你	ann	10
 更是	ggu	10
 自发	zif	10
@@ -525,6 +531,7 @@ app	app	9
 四個	silg	10
 就被	jbwp	10
 活的	hoid	10
+兼任	jmrw	10
 和一個	heg	10
 他這個	tog	10
 了就是	lju	10
@@ -594,6 +601,7 @@ app	app	9
 你将和	njlh	10
 我就和	wjh	10
 你知道	nvd	10
+只是這個	vuog	10
 只是一個	vueg	10
 一個一個	egeg	10
 平靜	pjk	10
@@ -11763,7 +11771,8 @@ but	but
 洲	ozih
 州	oz;h
 舟	ozte
-重	ostf
+重	ostf	10
+重	istf	10
 茽	osah
 仲	oswh
 種	ostf
@@ -14463,7 +14472,7 @@ but	but
 檢	jmsw
 碱	jmdt
 減	jmit
-揀	jmri
+揀	jmri	9
 柬	jmgi
 艱	jmae
 緘	jmxt
@@ -16976,7 +16985,6 @@ but	but
 發覺	fjt	10
 發力	fli	9
 發怒	fnu	9
-發飄	fpn	9
 發熱	fre	9
 發射	fue	10
 發她	fta	9
@@ -17910,7 +17918,6 @@ but	but
 幾枚	jimw	9
 幾面	jimm	9
 幾秒	jimn	9
-幾炮	jipc	9
 幾千	jiqm	9
 幾人	jir	11
 幾天	jitm	10
@@ -18012,7 +18019,6 @@ but	but
 間接	jmjp	10
 間盤	jmpj	9
 間區	jmqu	9
-間日	jmri	9
 間入	jmru	9
 間天	jmtm	9
 間位	jmww	9
@@ -19519,7 +19525,6 @@ but	but
 奇聞	qiwf	9
 歧出	qii	9
 歧視	qius	9
-畦丁	qidk	9
 棋魂	qihy	9
 齊放	qifh	9
 欺客	qike	9
@@ -22218,7 +22223,6 @@ but	but
 朱蒙	vumg	9
 朱雀	vuqt	10
 朱氏	vuus	9
-朱湯	vuth	9
 朱鰧	vutg	9
 朱岩	vuej	9
 珠串	vuir	9
