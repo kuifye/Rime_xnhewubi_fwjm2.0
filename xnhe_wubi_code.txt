@@ -78,7 +78,7 @@ cmd_control	cmdkvmb	10
 #o及v符號
 
 ok	ok	10
-[a-z]	atz	10
+[a-z]	atz	7
 ←	zo	7
 →	yz	7
 ™	;tm	0
@@ -168,6 +168,8 @@ $	;my	10
 
 mcn	mcn	9
 app	app	9
+皮膚	pifu	10
+未免	wwmm	10
 以	ec	9
 物	wt	9
 妹	mv	9
@@ -185,6 +187,7 @@ app	app	9
 網	wm	9
 澆	jniq	9
 覺	jniq	8
+霹	pifh	9
 飲	ybqn	9
 懟	dvcn	9
 跳	tnkh	9
@@ -194,6 +197,7 @@ app	app	9
 踩	cdkh	9
 翼	einw	9
 態	tddn	9
+噙	qbkc	9
 矢	ustdu	8
 踏	takh	8
 牽	qmdh	8
@@ -214,6 +218,7 @@ app	app	9
 漢	hjic	10
 視	usp;	10
 葚	ufaan	10
+上頭	atz	10
 之人	vr	9
 況且	kq	7
 目前	mq	7
@@ -273,6 +278,7 @@ app	app	9
 中國人	ogr	7
 開開開	kkk	7
 用於	ysyu	9
+爆發	bcf	10
 你去	nq	10
 出的	id	10
 和我	hw	10
@@ -328,6 +334,8 @@ app	app	9
 與之	euv;	10
 推入	tvr;	10
 出示	ius	10
+引發	ybf	10
+一個是	egu	10
 你真的	nofd	10
 而这个	erog	10
 許可	xuk	10
@@ -359,6 +367,7 @@ app	app	9
 你每	nmw	10
 來和	ldh	10
 老人	lcr	10
+她知道	tavd	10
 卑亢	bwkh	10
 真就	ofj	10
 這邊	obm	10
@@ -379,6 +388,7 @@ app	app	9
 兩發	llf	10
 爬上	paa	10
 僕人	pur	10
+卻是	qtu	10
 两只	llv	10
 還可	hdk	10
 服了	ful	10
@@ -435,7 +445,9 @@ app	app	9
 不被	bbw	10
 進去	jbq	10
 這段	odr	10
-人和人	rhr	10
+讓人	rhr	10
+但我	djw	10
+人和人	rhr	9
 主人	vur	10
 說是	aou	10
 沒敢	mgj	10
@@ -520,9 +532,11 @@ app	app	9
 都不	dzb	10
 身上	ufa	10
 幫我	bhw	10
+可愛	kae	10
 我玩	wwj	10
 教我	jnw	10
 一會	ehv	10
+令和	lkh	10
 半軸	bjoz	10
 紙上	vixa	10
 新人	xbur	10
@@ -634,7 +648,10 @@ app	app	9
 要素	ycsu	10
 先天	xmtm	10
 馬克思	mksi	10
-but	but
+冰燈	bkdg	10
+拉康	lk;	7
+d&g	dag	7
+but	but	5
 
 #注音
 
@@ -819,6 +836,7 @@ but	but
 丟	dq	9
 段	dr	9
 動	ds	9
+丼	ds	8
 讀	du	9
 對	dv	9
 得	dw	9
@@ -2257,6 +2275,7 @@ but	but
 煥	hro	9
 寰	hrp	9
 奐	hrq	9
+換	hrr	10
 擐	hrr	9
 桓	hrs	9
 瘓	hru	9
@@ -3916,6 +3935,7 @@ but	but
 鞧	qqa	9
 巰	qqc	9
 且	qqe	9
+求	qqf	10
 裘	qqf	9
 球	qqg	9
 泅	qqi	9
@@ -5204,6 +5224,7 @@ but	but
 窑	ycp	9
 鑰	ycq	9
 搖	ycr	9
+要	ycs	10
 杳	ycs	9
 夭	yct	9
 妖	ycv	9
@@ -5267,6 +5288,7 @@ but	but
 醃	eje	9
 鹽	ejf	9
 嚴	ejg	9
+眼	ejh	10
 甗	ejh	9
 演	eji	9
 晏	ejj	9
@@ -5493,6 +5515,7 @@ but	but
 做	zow	9
 座	zo;	9
 躦	zrk	9
+鑽	zrq	10
 鑚	zrq	9
 攥	zrr	9
 纂	zrt	9
@@ -7069,7 +7092,7 @@ but	but
 狩	uzqo	209
 悍	hjnf	208
 哮	xnkb	208
-瑚	hugg	207
+瑚	hugg
 潞	luik	207
 痰	tjuo	206
 幌	hlmq	204
@@ -9790,7 +9813,7 @@ but	but
 帏	wwmh
 闱	wwuh
 幃	wwmm
-幃	wwmh
+幃	wwmh	10
 闈	wwuh
 鋈	wuiq
 舾	xitg
@@ -13163,7 +13186,7 @@ but	but
 榷	qts;
 雀	qti;
 卻	qtwb
-闕	qtuw
+闕	qtuw	9
 缺	qtrw
 炔	qtow
 勸	qral
@@ -14604,7 +14627,7 @@ but	but
 扈	hu;c
 祜	hupd
 冱	huug
-互	hugg
+互	hugg	99
 許	xu;f
 虎	huhm
 虍	huha
@@ -17642,7 +17665,6 @@ but	but
 胡丟	hudq	9
 胡風	hufs	9
 胡佛	hufo	9
-胡戈	huge	9
 胡瓜	hugx	9
 胡俊	hujy	9
 胡庫	huku	9
@@ -17712,7 +17734,6 @@ but	but
 換了	hrl	10
 換錢	hrqm	9
 換取	hrqu	9
-換熱	hrre	9
 換上	hra	9
 換手	hruz	9
 換藥	hryc	9
@@ -18120,7 +18141,7 @@ but	but
 焦慮	jnlv	9
 焦炭	jntj	9
 膠輪	jnly	9
-膠木	jnmu	9
+教母	jnmu	9
 膠乳	jnru	9
 膠團	jntr	9
 膠丸	jnwj	9
@@ -18153,7 +18174,7 @@ but	but
 交換	jnhr	10
 叫喚	jnhr	9
 叫來	jnld	9
-叫了	jnl	10
+叫了	jnl	7
 叫人	jnr	10
 教材	jncd	10
 教參	jncj	9
@@ -18654,9 +18675,6 @@ but	but
 了卻	lqt	9
 了她	lta	10
 了無	lnwu	9
-勒掯	lekf	9
-雷場	lwih	9
-雷登	lwdg	9
 淚滴	lwdi	9
 雷神	lwuf	9
 雷響	lwxl	9
@@ -19869,7 +19887,6 @@ but	but
 沙群	uaqy	9
 沙溪	uaxi	9
 刹車	uaie	9
-剎時	uaus	9
 殺了	ual	10
 殺去	uaqu	9
 殺死	uasi	10
@@ -20736,7 +20753,6 @@ but	but
 唯一	wwe	10
 圍墾	wwkf	9
 圍困	wwky	9
-圍擒	wwqb	9
 爲你	wwn	9
 維度	wwdu	10
 維根	wwgf	9
@@ -22143,7 +22159,6 @@ but	but
 只想	vxl	10
 只要	vyc	9
 只有	vy	9
-芷風	vifs	9
 指稱	viig	9
 指定	vidk	9
 指寬	vikr	9
@@ -22357,7 +22372,7 @@ but	but
 蹤跡	zsji	9
 總第	zsdi	9
 縱向	zsxl	9
-縱有	zsy	9
+總有	zsy	9
 走吧	zzba	9
 走到	zzdc	10
 走訪	zzfh	9
@@ -22654,6 +22669,8 @@ but	but
 你可以	nkec	
 一点用	edmys	
 實際上	upjia	
+噴濺	pfjm	10
+尤其	yzqi	10
 哈哈哈哈	hhhh	10
 紅紅火火	hhhh	9
 恍恍惚惚	hhhh	8
