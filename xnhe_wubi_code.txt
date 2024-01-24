@@ -170,6 +170,10 @@ mcn	mcn	9
 app	app	9
 皮膚	pifu	10
 未免	wwmm	10
+脾氣	piqi	10
+對的	dvd	10
+相愛	xlae	10
+一階	ejp	10
 以	ec	9
 物	wt	9
 妹	mv	9
