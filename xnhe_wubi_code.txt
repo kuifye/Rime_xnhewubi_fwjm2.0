@@ -174,6 +174,42 @@ app	app	9
 對的	dvd	10
 相愛	xlae	10
 一階	ejp	10
+一階	ejpb	10
+過於	goeu	10
+和解	hjp	10
+階次	jpci	10
+是把	uba	10
+超出	ici	10
+就是這	juo	10
+我是不是	wubu	10
+他是一種	tueo	10
+框定	kldk	10
+荒謬	hlmq	10
+普發	puf	10
+所是	su	10
+出乎	ihu	10
+一塊	ekk	10
+這次	oci	10
+這只是	ovu	10
+不一樣	beeh	10
+各式各樣	guges	10
+各種各樣	goges	10
+在做	zz;	10
+都去	dzq	10
+多出	doi	10
+先是	xmu	10
+剪切	jmqp	10
+地上	dia	10
+就有	jy	10
+看我	kjw	10
+早上	zca	10
+到的	dcd	10
+去看	qkj	10
+指導	vidc	10
+把人	bar'	9
+所處	siu	9
+可行	kxk	10
+跨	kxkh	10
 以	ec	9
 物	wt	9
 妹	mv	9
@@ -189,6 +225,7 @@ app	app	9
 任	rw	9
 物	wt	9
 網	wm	9
+蹴	cukh	9
 澆	jniq	9
 覺	jniq	8
 霹	pifh	9
@@ -248,10 +285,10 @@ app	app	9
 令人	lkr	7
 他也	tye	7
 它也	tye	6
-太陽	tyh	7
-而已	ery	7
-無語	wyu	7
-微博	wbo	7
+太陽	tdeh	7
+而已	erei	7
+無語	wueu	7
+微博	wwbo	7
 但是	dju	7
 是她	uta	7
 藍色	ljs	7
@@ -271,7 +308,6 @@ app	app	9
 女人	nvr	9
 男人	njr	7
 人類	rlw	7
-這次	oci	9
 會的	hvd	9
 以內	ecnw	7
 能不能	nbn	7
@@ -325,7 +361,7 @@ app	app	9
 個人	gr	10
 你是	nu	10
 有人	yr	10
-不上	ba	10
+不上	ba	8
 他是	tu	10
 我和	wh	10
 就去	jq	10
@@ -506,7 +542,6 @@ app	app	9
 不錯	bco	10
 好的	hcd	10
 可以	kec	10
-這次	oci	10
 他也	tye	10
 哪不	nab	10
 處在	iuz	10
@@ -2820,6 +2855,7 @@ but	but	5
 畯	jyl	9
 峻	jym	9
 焌	jyo	9
+軍	jyp	10
 皸	jyp	9
 鈞	jyq	9
 捃	jyr	9
@@ -6936,8 +6972,9 @@ but	but	5
 痒	ehuk	289
 癢	ehuk	289
 孰	au;b	288
-痫	xmus	7
-癇	xmus	288
+痫	xmus	6
+痫	xmuus	7
+癇	xmus	7
 椿	iysd	286
 噶	gakn	286
 恍	hlnq	286
@@ -7099,7 +7136,7 @@ but	but	5
 瑚	hugg
 潞	luik	207
 痰	tjuo	206
-幌	hlmq	204
+幌	hlmq	8
 狄	diqo	201
 恺	kdnn	201
 愷	kdnn	201
@@ -12418,7 +12455,7 @@ but	but	5
 顯	xmjm
 銜	xmth
 嫌	xmvo
-閑	xmus
+閑	xmus	10
 涎	xmip
 躚	xmkp
 鮮	xmqd
@@ -16526,7 +16563,6 @@ but	but	5
 湊巧	czqn	9
 粗糙	cucc	9
 粗紡	cufh	9
-粗糠	cukh	9
 猝地	cudi	9
 猝然	curj	9
 汆湯	crth	9
@@ -17745,7 +17781,6 @@ but	but	5
 渙散	hrsj	9
 皇帝	hldi	9
 荒涼	hlll	9
-荒謬	hlmq	9
 皇成	hlig	9
 皇城	hlig	10
 皇權	hlqr	9
@@ -19367,7 +19402,6 @@ but	but	5
 拍完	pdwj	10
 排壇	pdtj	9
 排外	pdwd	10
-牌照	pdoc	9
 派克	pdke	9
 派款	pdkr	9
 派息	pdxi	9
@@ -19745,7 +19779,7 @@ but	but	5
 取火	quho	9
 取巧	quqn	9
 取向	quxl	10
-取笑	quxn	9
+取消	quxn	9
 去愛	quai	9
 去除	quiu	10
 去打	quda	9
@@ -21806,7 +21840,7 @@ but	but	5
 語法	eufa	10
 語感	eugj	10
 語境	eujk	9
-與其	euqi	10
+預期	euqi	10
 語言	euej	10
 玉海	euhd	9
 域名	eumk	9
@@ -21841,7 +21875,7 @@ but	but	5
 元勳	yrxy	9
 元照	yroc	9
 元這	yro	9
-元之	yrvi	9
+原質	yrvi	9
 原本	yrbf	10
 原地	yrdi	10
 原理	yrli	10
@@ -22037,7 +22071,6 @@ but	but	5
 柘林	oelb	9
 這場	oih	10
 這串	oir	9
-這次	oci	9
 這一點	oedm	9
 這段	odr	9
 這頓	ody	9
@@ -22122,7 +22155,6 @@ but	but	5
 支行	vihh	9
 支援	viyr	10
 致使	vius	9
-知道	vidc	10
 知網	viwm	10
 執行	vixk	11
 知性	vixk	10
@@ -22348,7 +22380,6 @@ but	but	5
 自負	zifu	10
 自貢	zigs	9
 自化	zihx	9
-自己	ziji	11
 自居	ziju	9
 自誇	zikx	9
 自量	zill	9
@@ -22583,7 +22614,7 @@ but	but	5
 靜悄悄	jkqnqn	9
 卡塔爾	kataer	9
 看起來	kjqild	9
-看自己	kjziji	9
+看自己	kjzj	9
 恐怖片	ksbupm	9
 垃圾場	lajiih	9
 垃圾桶	lajits	9
@@ -22668,7 +22699,7 @@ but	but	5
 明白了	mkbdl	3
 使用者	usysoe	3
 輸入法	aurufa	4
-我知道	wvidc	5
+我知道	wvd	5
 不可以	bkec	
 你可以	nkec	
 一点用	edmys	
