@@ -57,6 +57,160 @@ cmd_chkdsk.exe	cmdcp	10
 cmd_control	cmdctrl	10
 cmd_control	cmdkvmb	10
 
+#-------------------------無理简码
+
+中國	cn	9
+中華人民共和國	cn	8
+警察	ct	9
+結束	ed	9
+簡單	ez	9
+高清	hq	9
+電臺	fm	9
+法国	fr	9
+法蘭西	fr	8
+实在界	gp	9
+縫隙	gp	8
+女性	ms	9
+塑料	pe	9
+服務器	vm	9
+編譯器	vm	8
+虛擬化環境	vm	7
+只你	vn	9
+薇恩	vn	8
+越南	vn	7
+微信	vx	9
+微信	wx	8
+WP	wp	9
+well played	8
+wordpress	wp	7
+微軟手機	wp	6
+yy	yy	9
+意淫	yy	8
+歪歪	yy	7
+you understand	yu	6
+😂	xnku	8
+🐶	gztz	8
+
+馬克思	mk	6
+馬克思主義	mk	5
+康德	kd	6
+康德主義	kd	5
+SM	sm	9
+薩德	sm	8
+薩德主義	sm	7
+斯大林	sd	7
+斯大林	sdl	7
+薩德	sd	4
+薩德主義	sd	3
+加速	js	6
+加速主義	js	5
+拉康	lk	6
+精神分析	lk	5
+結構	jg	6
+結構主義	5
+反結構	fj	6
+反結構主義	fj	5
+列寧	ln	7
+列寧主义	ln	6
+社會	6
+社會主義	5
+資本	zb	5
+資本主義	zb	4
+實用	uy	5
+實用主義	uy	4
+自由	zy	5
+自由主義	zy	4
+齊澤克	qz	6
+共產主義	qz	5
+共產	gi	9
+共產主義	gi	8
+語境	ej	5
+語境主義	ej	4
+
+福柯	fk	9
+同性戀	fk	8
+同性戀	fk;	9
+fuck	fk	7
+XO	xo	9
+白蘭地	xo	7
+革命	gm	9
+好吧	hb	9
+放屁	fp	9
+父親	fq	9
+覺得	jd	9
+可怕	kp	9
+沒再	mzd	9
+毛澤東	mzd	7
+符號學	fy	9
+
+埃	af	9
+上小	ax	9
+上在	az	9
+鄙視	bs	9
+操了	cl	9
+才小	cx	9
+的不	db	9
+的他	dt	9
+一小	ex	9
+發不	fb	9
+服	fe	9
+發只	fv	9
+個去	gq	9
+和出	hi	9
+和沒	hm	9
+出他	it	9
+出你	in	9
+就才	jc	9
+沒他	mt	9
+抛弃	pq	9
+譬如	pr	9
+破碎	ps	9
+普通	pt	9
+配置	pv	9
+朋友	py	9
+平行	px	9
+去啊	qa	9
+其次	qc	9
+去一	qe	9
+去發	qf	9
+取	qv	9
+人上	ra	9
+人你	rn	9
+如同	rt	9
+挼	rx	9
+思考	sk	9
+算了	sl	9
+死亡	sw	9
+思想	sx	9
+他發	tf	9
+他他	tt	9
+騰訊	tx	9
+是出	ui	9
+只上	va	9
+帐篷	vp	9
+主体	vt	9
+行啊	xa	9
+我小	wx	9
+小才	xc	9
+喜	xf	9
+小和	xh	9
+小就	xj	9
+引发	yf	9
+有就	yj	9
+有出	yi	9
+有平	yp	9
+最快	zk	9
+之人	vr	9
+況且	kq	7
+目前	mq	7
+那些	nx	7
+你有	ny	7
+已经	ej	7
+感觉	gj	7
+你不	nb	7
+得到	dd	7
+顏色	es	7
+
 #-------------------------常用標點
 
 ；	；	9
@@ -183,6 +337,7 @@ app	app	9
 就是這	juo	10
 我是不是	wubu	10
 他是一種	tueo	10
+的時候	duh	9
 框定	kldk	10
 荒謬	hlmq	10
 普發	puf	10
@@ -206,9 +361,11 @@ app	app	9
 到的	dcd	10
 去看	qkj	10
 指導	vidc	10
+的書	dau	10
 把人	bar'	9
 所處	siu	9
 可行	kxk	10
+就想	jx:;	10
 跨	kxkh	10
 以	ec	9
 物	wt	9
@@ -260,17 +417,6 @@ app	app	9
 視	usp;	10
 葚	ufaan	10
 上頭	atz	10
-之人	vr	9
-況且	kq	7
-目前	mq	7
-那些	nx	7
-你有	ny	7
-已经	ej	7
-感觉	gj	7
-你不	nb	7
-得到	dd	7
-列寧	ln	7
-顏色	es	7
 他們	tmf	7
 你們	nmf	7
 開始	kdu	7
@@ -689,7 +835,9 @@ app	app	9
 馬克思	mksi	10
 冰燈	bkdg	10
 拉康	lk;	7
-d&g	dag	7
+D&G	dag	7
+黑暗德勒兹	dag	6
+德勒兹和瓜塔裏	dag	5
 but	but	5
 
 #注音
@@ -5552,7 +5700,7 @@ but	but	5
 怍	zon	9
 祚	zop	9
 柞	zos	9
-做	zow	9
+坐	zow	9
 座	zo;	9
 躦	zrk	9
 鑽	zrq	10
@@ -22706,6 +22854,7 @@ but	but	5
 實際上	upjia	
 噴濺	pfjm	10
 尤其	yzqi	10
+狗頭	gztz	9
 哈哈哈哈	hhhh	10
 紅紅火火	hhhh	9
 恍恍惚惚	hhhh	8
