@@ -4,7 +4,7 @@
 schema:
   schema_id: xnhe_wubi
   name: 小鶴五筆音形
-  version: "2.11" 
+  version: "2.13"
   author:
     - Rime schema by 梨子
   dependencies:
@@ -59,7 +59,7 @@ engine:
     - simplifier
     - simplifier@simplification
     - uniquifier
-    - cjk_minifier
+    # - cjk_minifier
     - reverse_lookup_filter@reverse_lookup_xnhe_wubi             #反查提示滤镜如无需要可关闭
 
 speller:
@@ -88,7 +88,7 @@ key_binder:
   import_preset: default
   bindings:
     - { when: has_menu, accept: ",", send: "'" }                                # 单字、超级简拼引导码
-    - { when: has_menu, accept: ".", send: "." }                                # 简码
+    # - { when: has_menu, accept: ".", send: "." }                                # 简码
     - { when: has_menu, accept: apostrophe, send: 2 }                           # 第2候选键(')
     # - { when: has_menu, accept: "/", send: 3 }                                # 第3候选键(/)
     - { when: composing, accept: "-", send: Page_Up}                            #上翻页
@@ -258,7 +258,7 @@ recognizer:
     email: "^[a-z][-_.0-9a-z]*@.*$"
     uppercase: "^[A-Z][-_+.'0-9A-Za-z]*$"
     url: "^(www[.]|https?:|ftp:|mailto:).*$"
-    reverse_lookup: "^;[a-z]*$" #使用o激活反查，如有其他需要可以自行更改
+    reverse_lookup: "^;[a-z]*$" #使用;激活反查，如有其他需要可以自行更改
 
 grammar:
   language:

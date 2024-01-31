@@ -2,7 +2,7 @@
 #@/db_name	xnhe_wubi
 #@/db_type	tabledb
 #@/rime_version	1.8.5
-#@/tick	6991
+#@/tick	7256
 ，	;'	1
 。	;''	3
 。	;'''	1
@@ -352,7 +352,7 @@ ab胶	abjn:e	9
 說過話	aogo hx[;d	1
 說過了	aogol'	2
 說謊	aohl:;	2
-說話	aohx	36
+說話	aohx	38
 說話	aohx:;	6
 說出	aoi'	10
 說出一些	aoi' exp	1
@@ -456,7 +456,7 @@ ap	ap	4
 書堆	aun dv[f;	11
 數千	auqm:t	2
 熟人	aur'	2
-輸入	aur;	13
+輸入	aur;	23
 輸入邏輯	aur; loji	1
 輸入碼	aur; ma:d	1
 輸入法	aur;fa	4
@@ -517,7 +517,7 @@ ap	ap	4
 不支持	b v ii	4
 不知為何	b v w h[w	2
 霸王車	b w ie	2
-不	b'	16
+不	b'	17
 不上肉九	b' a' rz[mw j;	1
 不愛	b' ai[ec	1
 不愛的時候	b' ai[ec dujhz	7
@@ -556,7 +556,7 @@ ap	ap	4
 不很深	b' hfuf	1
 不還	b' hr:gp	1
 不回話	b' hv[lk hx[;d	2
-不會	b' hv[wc	18
+不會	b' hv[wc	24
 不會為了一個	b' hvwy leg'	1
 不出來	b' i' ld:;	1
 不成	b' ig[dt	3
@@ -585,6 +585,7 @@ ap	ap	4
 不聊	b' ln[bb	2
 不了	b' ln[bh	1
 不滿	b' mj[i;	2
+不滿意	b' mj[iw ei[un	2
 不眠的大海	b' mm[ha d' da[dd hd[iu	6
 不能說	b' ng[cx ao[;q	4
 不能和	b' ngh'	3
@@ -613,7 +614,7 @@ ap	ap	4
 不太能	b' td[d; ng[cx	2
 不太清楚	b' td[d; qk[ie iu[sh	10
 不太確定	b' td[d; qt[de dk[ph	2
-不太行	b' td[d; xk[th	4
+不太行	b' td[d; xk[th	6
 不停滴	b' tk[ws di[id	2
 不透	b' tz[tp	1
 不是什麼	b' u' um	1
@@ -638,6 +639,7 @@ ap	ap	4
 不馴服	b' xyfu	1
 不要被	b' yc[sv bw[pc	2
 不再提	b' zdti:r	1
+不再用	b' zdys:e	1
 不怎麼	b' zf[tn me[tc	2
 不足	b' zu[kh	1
 不尊重	b' zy[uf os[tf	4
@@ -977,10 +979,12 @@ ap	ap	4
 不軌	bgvl	1
 不給	bgw	6
 不夠	bgz	4
+不夠好用	bgzhcyse	2
 不夠用	bgzyse	2
 邦	bh[db	1
-幫	bh[dh	3
+幫	bh[dh	4
 幫個忙	bh[dh g' mh[nn	2
+幫逐步	bh[dh vubu:h	1
 幫我	bh[dh w'	3
 幫我寫出所有的	bh[dh w' xpi' syd'	1
 榜	bh[s;	1
@@ -991,7 +995,7 @@ ap	ap	4
 不好說	bhcao	8
 不好意思	bhceisi:l	6
 不好看	bhckj	2
-不好用	bhcyse	1
+不好用	bhcyse	8
 綁定	bhdk	27
 不合格	bhege	2
 不好意思	bhes	2
@@ -1004,7 +1008,8 @@ ap	ap	4
 不會吧	bhvbak	2
 不會吧不會吧	bhvbak bhvbak	1
 幫助	bhvu	18
-幫助	bhvu:e	2
+幫助	bhvu:e	4
+幫助不是很大	bhvu:e buhfda	2
 幫助我	bhvuw'	2
 幫我	bhw'	2
 幫我列舉出所有的	bhw' lpjv i' syd'	1
@@ -1073,10 +1078,10 @@ bilibili	bilibili	8
 不穿如說	bir ruao:;	1
 必然性	birjxk:n	2
 比人強	birqlx	1
-比如	biru	8
+比如	biru	10
 比如	biru:v	7
 比如說	biruao	6
-比如說	biruao:;	23
+比如說	biruao:;	25
 閉塞	bise:p	2
 鄙視	bius	1
 鄙視	bius:p	13
@@ -1092,6 +1097,7 @@ bilibili	bilibili	8
 必須要有一個	bixuyc:s yeg'	1
 必須要用	bixuycyse	2
 必要	biyc	18
+必要	biyc:s	4
 畢業	biye	10
 畢業	biye:o	2
 畢業生	biyeug	2
@@ -1121,7 +1127,7 @@ bilibili	bilibili	8
 半點	bjdm	2
 扮演	bjej	4
 扮演	bjej:i	2
-辦法	bjfa	18
+辦法	bjfa	22
 半分鐘	bjffos	2
 不記得	bjide	2
 不濟	bjii	2
@@ -1145,7 +1151,7 @@ bilibili	bilibili	8
 餅乾	bkgj	2
 冰櫃	bkgv:s	2
 病患	bkhr	2
-並擊	bkjif	2
+並擊	bkjif	8
 並肩	bkjm:;	2
 病理	bkli:g	2
 並列	bklp:g	6
@@ -1184,7 +1190,7 @@ bilibili	bilibili	8
 遍歷	bmli	4
 變臉	bmlm	1
 變臉色	bmlm se[qc	1
-編碼	bmma:d	11
+編碼	bmma:d	13
 編碼庫	bmma:d ku[;l	1
 辯證	bmog	2
 辯證	bmog:;	4
@@ -1194,7 +1200,7 @@ bilibili	bilibili	8
 變態	bmtd	2
 變態意識形態指南	bmtd eiusxktd:d vinj	1
 編造	bmzc:t	2
-表	bn	2
+表	bn	3
 表內	bn[ge nw[mw	4
 表白	bnbd	2
 標榜	bnbh	2
@@ -1250,12 +1256,13 @@ bilibili	bilibili	8
 不太好說	btdd hcao	1
 不停	btkw	18
 不同	bts	1
-不是	bu'	4
+不是	bu'	5
 不是認爲	bu' rfwy	1
 不是說	buao	2
 補丁	budk	2
 不是一種	bueot	1
 部分	buff:w	1
+不是很大	buhfda	3
 捕獲	buho	2
 不是嗎	bumak	2
 部門	bumf	2
@@ -1308,7 +1315,7 @@ bilibili	bilibili	8
 不要送死	byc sssi:g	1
 不由分说	byfa	4
 不用	bys	2
-不用	byse	2
+不用	byse	4
 不在	bz'	6
 不再是	bzdu'	2
 不足	bzu	3
@@ -1370,9 +1377,10 @@ bilibili	bilibili	8
 詞彙	cihv	2
 刺激	ciji:i	2
 詞庫	ciku	16
-詞庫	ciku:;	32
+詞庫	ciku:;	36
 詞頻	cipb:h	4
 刺探	citj:r	2
+詞條	citn:t	2
 慈祥	cixl:p	2
 詞組	cizu:x	2
 參考一下	cj[ce kc[fn e' xx[gh	2
@@ -1396,6 +1404,7 @@ bilibili	bilibili	8
 纔可以	ckec	4
 纔沒	cm'	4
 才能	cng	20
+錯別字	cobpzp	2
 措施	cous	2
 錯事	cous:g	3
 纔去	cq'	4
@@ -1455,15 +1464,17 @@ bilibili	bilibili	8
 大出風頭	da:dt ifstz	1
 大概意思	da[dd gd[sq ei[un si[ln	2
 大概率	da[dd gd[sq lv[;f	2
+大機器	da[dd ji[sm qi[kk	2
 大面具	da[dd mm[d jv[hw	2
 大傻逼	da[dd ua[wt bi[gp	6
 大文件	da[dd wf[;; jm[wh	6
 達	da[fp	2
-打	da[rs	2
+打	da[rs	3
 打不動	da[rs b' ds[fl	2
 打不過	da[rs b' go[fp	2
-打不出	da[rs b' i'	6
-打不出來	da[rs b' i' ld:;	6
+打不出	da[rs b' i'	8
+打不出來	da[rs b' i' ld:;	8
+打詞	da[rs ci[;k	2
 打的	da[rs d'	3
 打的不錯	da[rs d' bcoq	1
 打斷	da[rs dr[or	2
@@ -1479,9 +1490,10 @@ bilibili	bilibili	8
 答	da[tk	1
 妲	da[vg	2
 答案	daan	6
+大半年	dabjnm:r	2
 大病	dabk:u	2
 打不開	dabkd	2
-大部分	dabuff	4
+大部分	dabuff	6
 大背景	dabwjk:j	2
 大的	dad'	2
 大大	dada:dt	2
@@ -1501,11 +1513,12 @@ bilibili	bilibili	8
 大局	dajv:n	2
 大家	dajx:p	1
 大家不要	dajx:p byc	1
-大量	dall:j	8
+大量	dall:j	10
 大陸	dalu:b	2
 大類	dalw:o	2
 大冒險	damcxm:b	2
 大腦	danc	2
+大腦	danc:e	2
 大招	daoc:r	2
 大權	daqr:s	2
 大人	dar'	2
@@ -1538,7 +1551,7 @@ bilibili	bilibili	8
 倒計時	dcjiuj	4
 道理	dcli	4
 道理	dcli:g	4
-到時候	dcujhz	6
+到時候	dcujhz	8
 導致	dcvi:g	6
 導向	dcxl:t	2
 帶	dd[gh	1
@@ -1599,7 +1612,7 @@ bilibili	bilibili	8
 當中	dhos:k	14
 當然	dhrj	6
 當然	dhrj:q	14
-當時	dhuj	2
+當時	dhuj	6
 的話	dhx	1
 當下	dhxx	30
 黨員	dhyr	2
@@ -1632,8 +1645,9 @@ bilibili	bilibili	8
 第一步	diebu	2
 第一步	diebuh	2
 第一次	dieci	6
-第一個	dieg'	8
+第一個	dieg'	10
 敵意	diei:u	3
+第一種	dieot	2
 低於	dieu:g	1
 地獄	dieu:q	5
 地獄拉麵	dieu:q lamm:d	3
@@ -1903,7 +1917,7 @@ dota2	dotae;	2
 都要	dzyc:s	2
 都在	dzz'	1
 都在看着你	dzz' kjo;n'	1
-玉置浩二	e v h e[f	2
+玉置浩二	e v h e[f	4
 魚王館	e w gr	2
 英雄聯盟	e x l m[j	4
 一	e'	12
@@ -1920,7 +1934,7 @@ dota2	dotae;	2
 一定	e' dk[ph	11
 一定會	e' dk[ph hv[wc	2
 一定限度	e' dk[ph xmdu:;	1
-一點	e' dm[ho	24
+一點	e' dm[ho	28
 一點點	e' dm[ho dm[ho	3
 一蹲	e' dy[kf	3
 一遇到	e' eu[jp dc[gj	8
@@ -1933,10 +1947,9 @@ dota2	dotae;	2
 一類	e' lw[od	4
 一整個	e' og[gh g'	2
 一套	e' tc[dd	2
+一天	e' tm[gd	2
 一團漿糊	e' tr[lt jl[ui hu[odeg	2
 一首歌	e' uz[uh ge[sw	2
-一直	e' vi[fh	2
-一致	e' vi[gt	8
 一致性	e' vi[gt xk[ng	6
 一晚上	e' wj[jq a'	2
 一小	e' x'	1
@@ -1974,7 +1987,7 @@ dota2	dotae;	2
 一本	ebf	1
 一幫	ebhd	2
 一半	ebj	2
-一般	ebj	10
+一般	ebj	16
 一般的	ebjd'	1
 一般化	ebjhxw	6
 一般	ebjt	2
@@ -2005,7 +2018,7 @@ dota2	dotae;	2
 呃	ee[kb	2
 呃呃	ee[kb ee[kn	6
 俄	ee[wt	1
-一樣	eeh	26
+一樣	eeh	30
 一言	eej;	2
 惡疾	eeji:u	1
 惡魔	eemo	1
@@ -2021,7 +2034,7 @@ dota2	dotae;	2
 複	ef[tt	4
 一方面	efhmm	2
 一幅	efu	2
-一個	eg'	486
+一個	eg'	488
 一個個	egg'	4
 一個人	egr'	2
 一貫	egr:x	2
@@ -2156,7 +2169,7 @@ dota2	dotae;	2
 一來二去	elde;q'	2
 一類	elw	4
 誒	em[;d	5
-一碼	ema:d	3
+一碼	ema:d	4
 一毛	emc	1
 一門	emf	2
 一名	emkq	2
@@ -2165,7 +2178,7 @@ dota2	dotae;	2
 一年	enm	2
 疑难杂症	enzo	2
 一着	eo;	1
-一種	eot	137
+一種	eot	139
 一平	ep'	4
 一匹	epia	2
 一劈	epin	2
@@ -2216,7 +2229,7 @@ dota2	dotae;	2
 魚奶	eu[qo nd:ve	1
 與此同時	euc;tsuj	2
 遇到	eudc	2
-遇到	eudc:g	2
+遇到	eudc:g	8
 餘地	eudi:f	2
 語言	euej	1
 愈發	euf'	4
@@ -2250,6 +2263,7 @@ dota2	dotae;	2
 一只	ev'	6
 一只眼	evejh	2
 一直	evi	8
+一直	evi:f	2
 一直	evif	20
 一幢	evl	1
 一無	ewu	1
@@ -2373,7 +2387,7 @@ dota2	dotae;	2
 防	fh[b;	1
 防年	fh[b; nm[rf	1
 方案	fhan	2
-方案	fhan:p	21
+方案	fhan:p	27
 方便	fhbm	12
 防禦	fheu:t	4
 房間	fhjm	2
@@ -2427,7 +2441,7 @@ dota2	dotae;	2
 飯局	fjjv	2
 翻看	fjkj	2
 反正	fjog	30
-反正	fjog:g	7
+反正	fjog:g	11
 反正已經解決了	fjog:g eijk jpjtl'	1
 番茄	fjqp	5
 番茄炒蛋	fjqp icdj	3
@@ -2469,7 +2483,7 @@ dota2	dotae;	2
 ふ	fu:';	1
 ふところ	fu:'; to:'; ko:'; ro:';	1
 服了	fu[ec l'	2
-輔助碼	fu[l; vu[el ma[dc	26
+輔助碼	fu[l; vu[el ma[dc	64
 福音	fu[p; yb[uj	2
 符	fu[tf	1
 符號系統	fu[tf hc[kn xi[ti ts[xq	8
@@ -2485,6 +2499,7 @@ dota2	dotae;	2
 發燒	fuco	4
 服從	fucs	2
 服從	fucs:w	8
+負擔	fudj:r	1
 賦予	fueu:c	2
 覆蓋	fugd:a	4
 副官	fugr	4
@@ -2597,7 +2612,7 @@ dota2	dotae;	2
 改改	gd[nt gd[nt	2
 改和	gd[nt h'	4
 改和菲共虛空對線了	gd[nt h' fw[ad gs[aw xuks dvxmx l'	1
-改成	gd[nt ig[dt	2
+改成	gd[nt ig[dt	4
 蓋	gd[ul	2
 蓋住	gd[ul vu[wg	2
 改變	gdbm	1
@@ -2622,7 +2637,7 @@ dota2	dotae;	2
 格拉	gela	1
 各種	geot	4
 各人	ger'	1
-格式	geus:a	4
+格式	geus:a	6
 各式各樣	geusgeeh:s	2
 歌手	geuz	4
 歌星	gexk:j	2
@@ -2631,7 +2646,7 @@ dota2	dotae;	2
 根	gf[se	1
 跟打器	gfdaqi:k	3
 根基	gfji	2
-根據	gfjv	1
+根據	gfjv	3
 根據性	gfjv xk:n	1
 跟着	gfo;	2
 更	gg[gq	1
@@ -2655,7 +2670,7 @@ dota2	dotae;	2
 归根结底	ggjd	14
 更清楚	ggqkiu:s	2
 更新	ggxb	6
-更新	ggxb:u	1
+更新	ggxb:u	3
 更新詞庫	ggxb:u ciku:;	1
 更像	ggxl:w	4
 更有	ggy'	4
@@ -2673,7 +2688,7 @@ dota2	dotae;	2
 ぎ	gi:';	2
 github	github	4
 共產主義	give	6
-感覺	gj:;	84
+感覺	gj:;	90
 感覺目前	gj:; muqm	1
 感覺是的	gj:; ud'	4
 感	gj:d	1
@@ -2695,7 +2710,7 @@ github	github	4
 感慨	gjkd	2
 幹練	gjlm:x	2
 感情	gjqk:n	4
-干擾	gjrc:r	2
+干擾	gjrc:r	4
 幹啥	gjua	1
 干涉	gjue:i	6
 幹事	gjus	2
@@ -2780,7 +2795,6 @@ github	github	4
 慣性	grxk:n	4
 官員	gryr	2
 共	gs[aw	1
-共和國	gs[aw h' go[l;	2
 共靠	gs[aw kc[td	1
 共享文件夾	gs[aw xl[;b wf[;; jm[wh jx[gw	4
 宮殿式	gs[pk dm[nc us[aa	2
@@ -2794,6 +2808,7 @@ github	github	4
 共軛	gsee:l	1
 供應	gsek	2
 公共安全	gsgsanqr:w	2
+共和國	gshgo:l	4
 共和國	gshgol	1
 共產	gsij:u	6
 共產主義	gsijve:;	2
@@ -2859,8 +2874,10 @@ github	github	4
 給他們	gwtmf:w	2
 給我	gww'	4
 瓜塔裏	gx[r; ta[fk li[jf	4
+掛	gx[rf	1
+掛解碼表	gx[rf jpma:d bn	1
 掛號	gxhc	2
-掛接	gxjp:r	8
+掛接	gxjp:r	26
 掛着	gxo;	2
 滾蛋	gydj:n	4
 耩	gz[df	1
@@ -2877,6 +2894,7 @@ github	github	4
 勾線	gzxmx	4
 勾引	gzyb	2
 勾引	gzyb:x	6
+夠用	gzys:e	2
 夠用了	gzysl'	2
 鉤子	gzzb	2
 構造	gzzc:t	2
@@ -2940,11 +2958,13 @@ github	github	4
 好處	hciu	2
 好處	hciu:h	2
 好醜	hciz:n	2
+好記	hcji:;	2
+好幾遍	hcjibm:;	2
 好久	hcjq	4
 好久	hcjq:q	2
 好看	hckj	14
 好看	hckj:r	4
-好了	hcl'	8
+好了	hcl'	9
 好嗎	hcma:k	2
 毫毛	hcmc:t	6
 號召	hcoc	2
@@ -2958,7 +2978,7 @@ github	github	4
 好玩	hcwj:g	2
 好無聊	hcwuln:b	2
 好像	hcxl	30
-好像	hcxl:w	46
+好像	hcxl:w	52
 好像是	hcxlu'	1
 好笑	hcxn	6
 好學	hcxt	2
@@ -2978,7 +2998,7 @@ github	github	4
 海德格爾	hddegeer:q	2
 還和	hdh'	2
 還好	hdhc	6
-還好	hdhc:v	4
+還好	hdhc:v	6
 還會	hdhv	2
 還會	hdhv:w	2
 還會有	hdhvy'	2
@@ -2996,7 +3016,7 @@ github	github	4
 還想	hdxl	2
 還想	hdxl:s	3
 還想要有	hdxl:s ycy'	1
-還有	hdy'	34
+還有	hdy'	40
 還有一個	hdyeg'	4
 還有沒有	hdymy'	2
 還有是	hdyu'	2
@@ -3023,7 +3043,7 @@ github	github	4
 狠狠	hf[qe hf[qo	2
 很	hf[te	3
 很大程度	hf[te da[dd ig[tg du[;c	4
-很大	hf[te da[dt	8
+很大	hf[te da[dt	11
 很多地方	hf[te do:qq di[fb fh[;n	2
 很儀器	hf[te eiqi	1
 很狠	hf[te hf[qe	1
@@ -3107,6 +3127,7 @@ github	github	4
 換個	hrg'	4
 換個說法	hrg' aofa	1
 緩和	hrh'	2
+換行	hrhh:t	2
 緩衝	hris:t	2
 幻覺	hrjt:i	1
 幻獸	hruz:u	1
@@ -3150,7 +3171,7 @@ github	github	4
 回覆	hv[lk fu[st	1
 回過頭	hv[lk go[fp tz[ud	2
 燴	hv[oc	1
-會不會	hv[wc b' hv[wc	6
+會不會	hv[wc b' hv[wc	8
 會覺得	hv[wc jt[iq de[tf	6
 會有些	hv[wc y' xp[hf	2
 會說	hvao	2
@@ -3176,7 +3197,7 @@ github	github	4
 回溯性	hvsuxkn	2
 回頭路	hvtzlu:k	2
 回首	hvuz:u	2
-會有	hvy'	10
+會有	hvy'	12
 彙總	hvzs:u	2
 彙總彙總	hvzs:u hvzs:u	1
 黑	hw[lo	1
@@ -3219,8 +3240,10 @@ github	github	4
 後端	hzdr	2
 後果	hzgo:j	4
 後來	hzld	4
+後來	hzld:g	3
+後來覺得	hzld:g jtde	1
 後面	hzmm	2
-後面	hzmm:d	8
+後面	hzmm:d	12
 後者	hzoe:f	12
 後期	hzqi	2
 後現代	hzxgdd	2
@@ -3244,7 +3267,7 @@ github	github	4
 差	ia[uda	2
 侘	ia[wa	1
 侘寂	ia[wa ji[pc	3
-差不多	iabdo	4
+差不多	iabdo	8
 差別	iabp:k	2
 差一點	iaedm	2
 差異	iaei:n	1
@@ -3264,6 +3287,7 @@ github	github	4
 超我	icw'	2
 超越性	icytxkn	16
 柴	id[hs	1
+拆分	idff:w	4
 徹底	iedi:;	2
 扯淡	iedj:i	1
 車房	iefh:;	2
@@ -3381,7 +3405,7 @@ github	github	4
 初次見面	iu[pv ci[uw jm[mq mm[d	2
 初始狀態	iu[pv us[vk vl[ud td[dn	4
 處於	iueu	2
-除非	iuf;	2
+除非	iuf;	8
 觸及	iuje	2
 初級	iuji	2
 處理	iuli	2
@@ -3415,7 +3439,7 @@ github	github	4
 警方正	j f og	2
 精神分裂	j u f l[g	6
 就是用	j u ys	6
-就	j'	7
+就	j'	8
 就才	j' c'	1
 就好像	j' hc[vb xl[we	2
 就會	j' hv[wc	12
@@ -3478,7 +3502,7 @@ github	github	4
 機	ji[sm	1
 幾百年	jibdnm	1
 幾百年前	jibdnm qm[uj	1
-基本上	jibfa'	4
+基本上	jibfa'	6
 基本矛盾	jibfmcdy:r	2
 即便	jibm	1
 即便有	jibm y'	1
@@ -3494,6 +3518,7 @@ github	github	4
 幾個人	jigr'	2
 擊鼓	jigu:f	1
 擊鼓傳花	jigu:f ir[w; h;	3
+記號	jihc:k	2
 激活	jiho:i	4
 幾乎	jihu	6
 計劃	jihx	4
@@ -3504,6 +3529,7 @@ github	github	4
 幾句	jijv:q	2
 激烈	jilp	1
 激流	jilq:i	2
+記錄	jilu:q	2
 幾名	jimk	2
 極其	jiqi:a	2
 技巧	jiqn:a	1
@@ -3574,7 +3600,7 @@ github	github	4
 見見	jmjm:m	2
 建立一種	jmlieot	2
 簡碼	jmmad	2
-鍵碼	jmmad	4
+鍵碼	jmmad	6
 見了	jmml'	4
 見面	jmmm:d	2
 減去	jmq'	2
@@ -3584,7 +3610,7 @@ github	github	4
 兼任	jmrw	2
 檢索	jmso:f	2
 減少	jmuc	2
-減少	jmuc:i	2
+減少	jmuc:i	6
 兼職	jmvi:b	2
 檢修	jmxq	3
 檢修工	jmxq g;	1
@@ -3598,6 +3624,7 @@ github	github	4
 焦點	jndm:h	2
 交疊	jndp:c	2
 角度	jndu	3
+角度	jndu:;	4
 就能	jng	4
 教程	jnig:t	2
 叫了	jnl'	2
@@ -3634,11 +3661,13 @@ github	github	4
 接觸面	jpiumm:d	2
 階級	jpji	2
 階級矛盾	jpjimcdy:r	6
+解決辦法	jpjtbjfa:i	2
 解決了	jpjtl'	2
 接力	jpli:l	1
 接力說	jpli:l ao[;q	5
 接龍	jpls	4
 結論	jply:;	2
+解碼	jpma:d	1
 節目	jpmu:h	2
 解剖	jppz	2
 接洽	jpqx	2
@@ -3655,9 +3684,10 @@ github	github	4
 救世主	jqusvu	2
 圈	jr[lb	1
 就算	jsr	2
-覺得	jtde	1
+覺得	jtde	2
 決斷	jtdr:o	2
 絕對	jtdv	2
+絕對	jtdv:c	2
 角色	jtse	2
 抉擇	jtze	2
 就是	ju'	2
@@ -3696,8 +3726,9 @@ github	github	4
 具有	jvy'	2
 句子	jvzb	2
 就我個人	jwgr'	2
-加	jx:lk	1
+加	jx:lk	2
 加倍	jx:lk bw[wk	2
+加一碼	jx:lk ema:d	1
 加菩	jx:lk pu[ak	1
 加諸	jx:lk vu[;j	4
 家	jx[pe	2
@@ -3713,6 +3744,7 @@ github	github	4
 佳能	jxng:c	2
 加速器	jxsuqi	1
 加速主義	jxsuve:;	4
+假設	jxue:;	2
 價值	jxvi:w	2
 假裝	jxvl	2
 加油	jxyz	2
@@ -3779,7 +3811,7 @@ github	github	4
 客體	keti:w	6
 渴望	kewh:;	2
 科學	kext	2
-肯定	kfdk	10
+肯定	kfdk	14
 懇求	kfqq	2
 康德	khde	2
 康德	khde:t	6
@@ -3791,7 +3823,7 @@ github	github	4
 看不出來	kj[rh b' i' ld:;	2
 看不見	kj[rh b' jm[mq	4
 看不透	kj[rh b' tz[tp	2
-看出來	kj[rh i' ld:;	2
+看出來	kj[rh i' ld:;	4
 看上去	kjaq'	6
 看不慣	kjbgr	4
 看打	kjdar	4
@@ -3918,7 +3950,7 @@ github	github	4
 賴	ld[gm	1
 賴清德	ld[gm qk[ie de[tn	3
 來說	ldao	6
-來說	ldao:;	5
+來說	ldao:;	7
 來的	ldd'	1
 來講	ldjl:;	3
 來了	ldl'	6
@@ -3933,6 +3965,7 @@ github	github	4
 樂	leq	1
 勒索	leso:f	2
 了一些	lexp:h	2
+冷知識	lg[uc vi[tk us[;w	2
 冷戰	lgvj	4
 朗潤	lh[;e ry[ig	2
 狼人殺	lh[qe r' ua[qs	2
@@ -3989,6 +4022,7 @@ github	github	4
 玲瓏	lkls	2
 另外一個	lkwdeg'	2
 兩	ll[g;	1
+兩三年	ll[gw s; nm[rf	2
 量子力學	ll[jf zb[ li[ln xt[ib	2
 兩部分	llbuff	2
 兩個	llg'	1
@@ -4012,6 +4046,8 @@ github	github	4
 練	lm[xi	1
 了嗎	lmak	2
 連貫	lmgr	2
+連貫	lmgr:x	9
+連貫打	lmgr:x da[rs	1
 聯合	lmhe	2
 臉譜	lmpu	1
 臉譜化	lmpu hx[wx	6
@@ -4091,6 +4127,7 @@ github	github	4
 沒所謂	m s ww	4
 沒	m'	8
 沒必要	m' bi[nt yc[sv	2
+沒意義	m' ei[un ei[;q	2
 沒那麼	m' n; me[tc	2
 沒所	m' s'	1
 沒他	m' t'	1
@@ -4102,7 +4139,7 @@ github	github	4
 沒字	m' zp[	3
 美	m;	4
 美女	m; nv[vt	2
-美雪	m; xt[fv	1
+美雪	m; xt[fv	3
 美的	m;d'	2
 美麗	m;li	2
 美學	m;xt	2
@@ -4111,7 +4148,7 @@ github	github	4
 碼梨	ma:d li[ts	3
 嘛	ma:ks	1
 馬	ma[c;	1
-碼表	ma[dc bn[ge	5
+碼表	ma[dc bn[ge	9
 碼長	ma[dc ih[t;	2
 瑪利	ma[gc li[tj	2
 瑪奇瑪	ma[gc qi[dk ma[gc	2
@@ -4318,23 +4355,24 @@ github	github	4
 你也	n' ye:bn	4
 你也要	n' ye:bn yc[sv	2
 你有沒有辦法	n' ym' ybjfa	1
-那	n;	33
+那	n;	34
 那不是	n; b' u'	2
 那必不可能	n; bi[nt bkng	1
 那得	n; dw[tf	1
 那以	n; ec[	1
 那樣	n; eh[sd	11
 那一圈	n; eqr	1
-那個	n; g'	167
+那個	n; g'	171
 那個東西	n; g' ds[ai xi[sg	8
 那個群	n; g' qy[vd	2
 那還	n; hd[gp	1
+那就	n; j'	1
 那裏	n; li[jf	2
 那沒辦法	n; m' bj[lw fa[ic	2
 那沒事	n; m' us[gh	2
 那麼多年	n; me[tc do:qq nm[rf	2
-那麼	n; me[x;	29
-那種	n; ot[	33
+那麼	n; me[x;	33
+那種	n; ot[	35
 那確實	n; qt[d; up[	6
 那如果	n; ru[vk go[js	2
 那是	n; u'	1
@@ -4392,6 +4430,8 @@ github	github	4
 腦機芯片	nc[eb ji[sm xb[an pm[tn	2
 鬧	nc[uh	2
 腦波	ncbo:i	2
+腦力	ncli:l	5
+腦力負擔	ncli:l fudj:r	1
 惱人	ncr'	1
 你的	nd'	2
 你的鄙視	nd' bius:p	1
@@ -4501,6 +4541,7 @@ github	github	4
 你是誰	nuuv;	2
 你是誰？	nuuv; ;ew:;	1
 你是誰？	nuuv; ;wh:;	3
+你是指	nuvir	2
 女	nv[vt	1
 女力	nv[vt li[ln	1
 女體	nv[vt ti[wg	16
@@ -4571,7 +4612,7 @@ github	github	4
 照片	ocpm	2
 照片	ocpm:t	2
 這點	odm	2
-中島美雪	odmx:f	14
+中島美雪	odmx:f	18
 這一	oe'	1
 這一方	oe' fh[;n	1
 者	oe[fj	2
@@ -4616,6 +4657,7 @@ github	github	4
 證人	og[;h r'	2
 正	og[gh	1
 正不正	og[gh b' og[gh	5
+正解	og[gh jp[qh	2
 正午	og[gh wu[tf	2
 整	og[gk	1
 整句	og[gk jv:q	5
@@ -4637,7 +4679,7 @@ github	github	4
 整合	oghe:w	6
 正華	oghxw	1
 整潔	ogjp	2
-癥結	ogjp:x	2
+癥結	ogjp:x	4
 證據	ogjv	1
 證據連	ogjv lm[lp	1
 睜開	ogkd:g	4
@@ -4711,15 +4753,18 @@ github	github	4
 中底層	os[khk dicg:n	1
 中英	os[khk ek[ad	2
 中核	os[khk he[sw	4
-中華人民	os[khk hx[wf r' mb[na	1
 中華人民共和國	os[khk hx[wf r' mb[na gshgol	1
-重	os[tf	3
+重	os[tf	4
 重大	os[tf da[dd	2
 重制	os[tf vi[rj	1
 中島	osdc	2
+終於	oseu:g	1
+終於好了	oseu:g hcl'	1
 重複	osfu:t	2
 中國	osgo	4
 中國人	osgor'	2
+中華人民	oshxrmb:n	2
+中華人民共和國	oshxrmb:n gshgo:l	3
 忠誠	osig	2
 中間	osjm	2
 中間	osjm:u	2
@@ -4743,6 +4788,7 @@ github	github	4
 歐	ou[aw	1
 歐寶	oubc	2
 這是一個	oueg'	4
+偶爾	ouer:g	2
 歐洲	ouoz	2
 偶然	ourj	4
 偶然	ourj:q	4
@@ -4858,14 +4904,15 @@ github	github	4
 普通	puts	2
 普通人	putsr'	2
 配合	pwhe:w	2
-配置	pwvi:l	14
+配置	pwvi:l	16
 培植	pwvi:s	2
 切切實實	q q u u[p	2
-去	q'	11
+去	q'	12
 去慾望化	q' euwhhx:w	3
 去分離	q' ffli:;	1
 去遲來	q' iild:g	1
 去看	q' kj[rh	6
+去人用	q' ryse	1
 去性化	q' xk:n hx[wx	11
 去在	q' z'	3
 去在應	q' z' ek[;d	1
@@ -4882,6 +4929,7 @@ github	github	4
 侵蝕	qbus:q	2
 去的	qd'	2
 去掉	qdn	1
+去掉	qdnr	2
 去個	qg'	2
 去和	qh'	2
 期	qi:ae	1
@@ -4890,7 +4938,7 @@ github	github	4
 其次	qici	2
 啓動	qids	2
 其一	qie'	2
-歧義	qiei:;	14
+歧義	qiei:;	16
 乞丐	qigd:g	1
 氣概	qigd:s	2
 奇怪	qigk:n	2
@@ -4923,7 +4971,7 @@ github	github	4
 青春	qkiy	12
 情節	qkjp	2
 情結	qkjp:x	2
-情況	qkkl	10
+情況	qkkl	14
 情況下	qkklxx:g	2
 清清	qkqk:i	2
 請求	qkqq	2
@@ -4980,8 +5028,12 @@ github	github	4
 勸人	qr[cl r'	1
 勸人不要	qr[cl r' byc	1
 權	qr[sc	4
+全	qr[wg	1
+全用	qr[wg ys[eh	1
+全都	qrdz:f	2
 權力	qrli:l	15
 權力兩	qrli:l ll[g;	1
+全碼	qrma:d	2
 全能	qrng	1
 全能吸血	qrng xixt	1
 全能	qrng:c	2
@@ -5000,7 +5052,7 @@ github	github	4
 區	qu[ak	1
 取笑	qu[b; xn[td	4
 區別	qubp	2
-區別	qubp:k	2
+區別	qubp:k	4
 屈從	qucs:w	2
 渠道	qudc	2
 區分	quff	2
@@ -5101,7 +5153,7 @@ rp	rp	2
 人是在	ru' z'	1
 る	ru:';	3
 如此	ruc;	4
-如果	rugo:j	73
+如果	rugo:j	75
 如果那個時候	rugo:j n;gujhz	1
 如果說	rugoao	2
 如其	ruqi	3
@@ -5119,6 +5171,7 @@ rp	rp	2
 人像	rxl	1
 人像	rxlw	2
 人有	ry'	2
+人用	ryse	1
 肉	rz[mw	1
 肉眼	rzej:h	2
 柔和	rzh'	2
@@ -5192,13 +5245,14 @@ rp	rp	2
 死亡	siwh	2
 死亡	siwh:;	8
 思想	sixl:s	2
+死记硬背	sjeb	2
 所能	sng	1
 縮水	souv:i	2
 縮寫	soxp	4
 縮寫	soxp:p	8
 所去	sq'	2
 算了	sr[ta l'	2
-算法	srfa:i	4
+算法	srfa:i	6
 慫包	ssbcq	2
 送死	sssi:g	2
 送往	sswh	2
@@ -5208,6 +5262,7 @@ rp	rp	2
 速度	sudu	2
 速度	sudu:;	6
 塑料	suln:o	2
+速錄	sulu:q	6
 速錄師	suluusj	2
 速通	sutsc	2
 溯源	suyr:i	2
@@ -5239,11 +5294,12 @@ rp	rp	2
 他發	t' f'	1
 他幻想	t' hrxl	1
 他他	t' t'	1
+他她	t' ta[vb	1
+他她它	t' ta[vb t;	3
 他是某種膚淺	t' umzot fuqm:i	1
-它	t;	12
+它	t;	17
 它幻想	t; hrxl	1
 它們	t;mf	2
-た	ta:';	2
 たって	ta:'; tte:';	1
 他啊	ta;	3
 塔	ta[fk	1
@@ -5269,7 +5325,7 @@ rp	rp	2
 他的抽象	td' izxl	1
 他的麻煩	td' mafj	1
 臺面	td[ck mm[d	2
-太大	td[d; da[dd	2
+太大	td[d; da[dd	4
 太多	td[d; do:qq	2
 太噁心	td[d; ee[kgfn x;	2
 太好	td[d; hc[vb	2
@@ -5317,7 +5373,7 @@ rp	rp	2
 提	ti[rh	1
 替代	tidd	2
 體驗	tiej	2
-體驗	tiej:c	10
+體驗	tiej:c	12
 體育	tieu:;	1
 體育成績	tieu:; igji:x	1
 題記	tiji:;	2
@@ -5406,7 +5462,7 @@ rp	rp	2
 童年	tsnm:r	2
 童趣	tsqu:f	2
 通俗	tssu	2
-同時	tsuj	10
+同時	tsuj	12
 統制	tsvi:r	12
 統制集團	tsvi:r jitr:l	7
 統制秩序	tsvi:r vixu:;	1
@@ -5559,9 +5615,11 @@ rp	rp	2
 生理	ugli:g	2
 生理學	uglixt	2
 省略	uglt	1
+省略	uglt:l	2
 生命力	ugmkli:l	2
 生僻	ugpi:w	1
 生僻單字	ugpi:w djzp	3
+生僻字	ugpizp	2
 生澀	ugse:i	4
 生澀的	ugse:i d'	5
 生澀的文字	ugse:i d' wf[;; zp[	1
@@ -5657,6 +5715,10 @@ rp	rp	2
 事情	usqk:n	14
 事前	usqm:u	2
 試圖	ustu:l	1
+試試	usus:;	2
+逝世	usus:a	2
+事事	usus:g	2
+詩史	usus:k	2
 事物	uswt	1
 視爲	uswy	2
 實現	usxg	2
@@ -5672,7 +5734,7 @@ rp	rp	2
 石子	uszb	2
 詩作	uszo:w	2
 是他	ut'	2
-試試	uu:;	19
+試試	uu:;	23
 是啥	uuak	2
 是什麼	uum	17
 是什麼樣	uum eh[sd	1
@@ -5705,6 +5767,7 @@ rp	rp	2
 首位戰	uzww vj[ha	1
 守衛	uzww:b	1
 守衛戰	uzww:b vj[ha	1
+首選	uzxr:n	2
 首要	uzyc	2
 首要	uzyc:s	2
 首字	uzzp	2
@@ -5722,9 +5785,9 @@ rp	rp	2
 之別	v; bp[kj	2
 之道	v; dc[up	2
 之核	v; he[sw	1
-之後	v; hz[rk	8
+之後	v; hz[rk	10
 之間	v; jm[uj	12
-之類	v; lw[od	14
+之類	v; lw[od	16
 之外	v; wd[q;	2
 之上	v;a'	2
 之道	v;dcu	2
@@ -5844,6 +5907,7 @@ VMZ	vmz	2
 竹之歌	vu[th v;ge	7
 竹之歌	vu[th v;ges	3
 住	vu[wg	1
+逐步	vubu:h	1
 主動	vuds:f	4
 主見	vujm	2
 主角	vujt	6
@@ -5890,7 +5954,7 @@ VMZ	vmz	2
 我讀	w' du[;d	2
 我都	w' dz[fb	2
 我一開始	w' e' kd[ga us[vk	2
-我以前	w' ec[ qm[uj	2
+我以前	w' ec[ qm[uj	4
 我方案	w' fhan:p	1
 我が	w' ga	4
 我が國	w' ga go[l;	1
@@ -5922,7 +5986,7 @@ VMZ	vmz	2
 五階	w;jp:b	4
 五碼	w;mad	4
 五十一	w;u;e'	2
-無非	w[u f;	4
+無非	w[u f;	8
 我上	wa'	2
 我上來	wa' ld	3
 我上來	wa' ld:;	1
@@ -6058,6 +6122,7 @@ VMZ	vmz	2
 網絡上的	wmlo:x ad'	1
 網盤	wmpj	2
 網站	wmvj	4
+網文	wmwf:;	6
 我沒有	wmy'	4
 未明子	wmzb	4
 我你	wn'	2
@@ -6166,7 +6231,7 @@ VMZ	vmz	2
 唯心	wwx;	4
 危險	wwxm:b	2
 味噌汤	wwzgth:i	4
-我現在	wxgz'	2
+我現在	wxgz'	4
 爲	wy[	1
 為滿足	wy[ mj[iw zu[kh	2
 我要	wyc	4
@@ -6175,17 +6240,20 @@ VMZ	vmz	2
 我有一個	wyeg'	6
 為一個	wyeg'	4
 我也沒有	wyemy'	2
-我也是	wyeu'	2
+我也是	wyeu'	4
 我有個	wyg'	2
 爲了	wyl'	16
 為啥	wyua	2
 我有時候	wyujhz	2
+爲主	wyvu:;	2
 我又	wyzc	1
 我又不知道	wyzc bvd:;	1
 我在	wz'	4
 我做	wz;	1
 喜怒悲歡	x n b h[c	2
+辛辛苦苦	x x k k[a	2
 小	x'	16
+小說	x' ao[;q	4
 小才	x' c'	1
 小道消息	x' dc[up xn[ie xi[tn	2
 小東西	x' ds[ai xi[sg	2
@@ -6235,7 +6303,7 @@ VMZ	vmz	2
 現在	xgz'	1
 小狗	xgzq	2
 小河	xhe	2
-小鶴	xhep	4
+小鶴	xhep	6
 小鶴五筆	xhew;bi:t	4
 小鶴五筆飛鍵	xhew;bi:t fw[nh jm[qp	1
 小紅書	xhsau:n	3
@@ -6252,7 +6320,7 @@ VMZ	vmz	2
 西方	xifh	9
 西方民主	xifh mbvu:;	1
 習慣	xigr	2
-習慣	xigr:n	6
+習慣	xigr:n	8
 喜歡	xihr	8
 細節	xijp	12
 細節	xijp:a	2
@@ -6289,13 +6357,13 @@ VMZ	vmz	2
 性化	xkhx:w	9
 性化公式	xkhx:w gs[wc us[aa	3
 信口开河	xkkh	2
-形碼	xkma:d	14
+形碼	xkma:d	20
 醒着	xko;	2
 行者	xkoe:f	2
 行政單位	xkogdjww:w	2
 形容	xkrs:p	1
 形容同	xkrs:p ts[mk	1
-形態	xktd:c	2
+形態	xktd:c	4
 形式化	xkushx:w	4
 興致	xkvi:g	2
 形狀	xkvl:n	2
@@ -6310,12 +6378,13 @@ VMZ	vmz	2
 想想模式	xl[sn xl[sn mo[sd us[aa	2
 鄉裏來	xl[xt li[jf ld:;	3
 想說	xlao:;	2
+想辦法	xlbjfa:i	2
 想到	xldc:g	4
 想到了	xldcl'	2
 相等	xldg:t	2
 相當於	xldheu	2
 想法	xlfa	4
-想法	xlfa:i	6
+想法	xlfa:i	8
 相逢	xlfs:t	2
 相互	xlhu	4
 相互	xlhu:g	2
@@ -6382,7 +6451,10 @@ VMZ	vmz	2
 寫	xp:p	1
 寫功能	xp:p gsng:c	1
 謝林	xp[;f lb[ss	22
+邪道	xp[ab dc[up	2
 寫出來	xp[pg i' ld:;	2
+寫手	xp[pg uz[rh	2
+寫小說	xp[pg x' ao[;q	2
 寫下來	xp[pg xx[gh ld:;	2
 協商	xpah:u	2
 邪道	xpdc	2
@@ -6404,10 +6476,12 @@ VMZ	vmz	2
 休息	xqxi	1
 休閒	xqxm:u	2
 宣	xr[pg	1
-選	xr[tp	4
+選	xr[tp	5
 選重	xr[tp is:tf	1
+選重	xr[tp os[tf	7
 宣傳	xrir:w	4
 選舉	xrjv:i	2
+選中	xros:k	4
 選擇	xrze:r	2
 小色	xseq	2
 雪恨	xt[fv hf[ne	2
@@ -6416,12 +6490,13 @@ VMZ	vmz	2
 學黑格爾	xt[ib hwgeer	1
 學的	xtd'	1
 學運	xtey:f	1
-學過	xtgo:f	2
+學過	xtgo:f	4
 學會	xthv:w	4
 雪盲	xtmh:;	2
 小他者	xtoe:f	4
 學生	xtug	2
 學習	xtxi	2
+學習	xtxi:n	4
 學校	xtxn	2
 虛頭巴腦	xu[hg tz[ud ba[cn nc[eb	4
 徐	xu[tt	1
@@ -6482,6 +6557,7 @@ VMZ	vmz	2
 有	y'	10
 有一瞬間	y' e' ay[hh jm[uj	2
 有意識	y' ei[un us[;w	4
+有關係	y' gr[ud xi[wi	2
 有很多	y' hf[te do:qq	4
 有很多	y' hf[te do[qq	2
 有出	y' i'	1
@@ -6519,8 +6595,9 @@ VMZ	vmz	2
 因果鏈條	yb[ld go[js lm[qp tn[ts	2
 銀匣	yb[qe xx[al	6
 音	yb[uj	1
-音碼	yb[uj ma[dc	2
+音碼	yb[uj ma[dc	6
 因此	ybc;	4
+引導	ybdc:n	6
 淫蕩	ybdh	2
 陰影	ybek	2
 陰影	ybek:j	2
@@ -6554,6 +6631,7 @@ VMZ	vmz	2
 要道	ycdc:u	4
 要對	ycdv:c	1
 要對我們	ycdv:c wmf	1
+要一直	ycevif	2
 要給我	ycgww'	2
 要交	ycjn:u	1
 要交帶	ycjn:u dd[gh	1
@@ -6566,13 +6644,14 @@ VMZ	vmz	2
 有點	ydm	1
 有的人	ydr'	2
 有段	ydrw	2
-也	ye:bn	5
+也	ye:bn	6
 也不對	ye:bn b' dv[cf	2
-也不一定	ye:bn b' e' dk[ph	4
+也不一定	ye:bn b' e' dk[ph	6
 也不好	ye:bn b' hc[vb	6
 也不重要	ye:bn b' os[tf yc[sv	4
 也不完全	ye:bn b' wj[pq qr[wg	2
 也包括	ye:bn bc[qn ko[rd	2
+也不好用	ye:bn bhcyse	1
 也不知道	ye:bn bvd:;	1
 也代表	ye:bn ddbn:g	1
 也還好	ye:bn hd[gp hc[vb	4
@@ -6581,12 +6660,13 @@ VMZ	vmz	2
 也可能	ye:bn k' ng[cx	2
 也看成	ye:bn kj[rh ig[dt	3
 也看成是	ye:bn kjigu'	1
+也容易	ye:bn rs[pk ei[jr	2
 也知道	ye:bn vd:;	3
 也無所謂	ye:bn wu[fqv s' ww[;e	8
 嘢	ye[kj	2
 嘢到	ye[kj dc[gj	3
 有一扇	yeaj;	2
-也不會	yebhv	2
+也不會	yebhv	4
 也不是	yebu'	6
 有一定	yedk	2
 有一點	yedm	2
@@ -6596,11 +6676,12 @@ VMZ	vmz	2
 也會	yehv:w	6
 也就是	yeju'	6
 也可以	yekec	8
-也沒有	yemy'	8
+也沒有	yemy'	10
 也能	yeng	2
-也能	yeng:c	2
+也能	yeng:c	4
 有一天	yetm	2
 也是	yeu'	2
+也是因為	yeuybwy	2
 野心	yex;	2
 也行	yexk	2
 也想	yexl	2
@@ -6609,6 +6690,7 @@ VMZ	vmz	2
 也需要處理一些組合	yexuyc:s iuliexp:h zuhe:w	1
 也有	yey'	8
 也要	yeyc:s	4
+有幾個	yjig'	2
 有可	yk'	2
 有兩個	yllg'	2
 有沒	ym'	3
@@ -6643,7 +6725,7 @@ VMZ	vmz	2
 原因是	yrybu'	2
 園子裏	yrzblij	2
 勇者	ys[cl oe[fj	1
-用	ys[eh	1
+用	ys[eh	2
 用語言	ys[eh euej	3
 用處	ys[eh iu[hm	2
 用處不是	ys[eh iu[hm bu'	1
@@ -6677,6 +6759,7 @@ VMZ	vmz	2
 有我	yw'	2
 有限	yxmb	2
 有些事情	yxpusqkn	2
+有些字	yxpzp	2
 幼	yz:xl	2
 又怕	yz[ct pa[nr	2
 又是	yz[ct u'	2
@@ -6754,6 +6837,7 @@ VMZ	vmz	2
 再生產	zdugij	14
 再生產	zdugij:u	6
 再現	zdxg	2
+再用	zdys:e	1
 ゼ	ze:';	1
 ゼゲン	ze:'; ge:'; nn:';	1
 則	ze[mj	1
@@ -6812,7 +6896,7 @@ VMZ	vmz	2
 自由	ziy;	10
 自由的	ziy;d'	1
 自由主義	ziy;ve:;	2
-自己	zj:;	141
+自己	zj:;	143
 暫時	zjuj	2
 在了	zl'	2
 在沒	zm'	2
@@ -6830,6 +6914,7 @@ VMZ	vmz	2
 字詞	zpci	6
 字詞	zpci:;	7
 字典	zpdm	2
+字庫	zpku:;	2
 字面意思	zpmmeisi:l	2
 字字	zpzp	2
 在去	zq'	2
@@ -6866,12 +6951,14 @@ VMZ	vmz	2
 最底層	zvdicg	2
 罪惡	zvee:g	2
 最關鍵	zvgrjm:q	2
+最好用	zvhcys:e	2
 最後	zvhz	10
 最後	zvhz:r	10
 最常見	zvihjm:m	2
 最初	zviu	2
 最簡單	zvjmdj:u	2
 嘴臉	zvlm	4
+紫芝眉宇	zvme	2
 最終塔	zvosta:f	4
 最重要	zvosyc	2
 最重要	zvosyc:s	2
