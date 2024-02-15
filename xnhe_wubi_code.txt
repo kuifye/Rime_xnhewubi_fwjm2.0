@@ -214,7 +214,7 @@ XO	xo	9
 #-------------------------常用標點
 
 ；	；	9
-；	;	6
+;	;	6
 “	jf	10
 ：“	jg	10
 ，“	jh	10
@@ -228,10 +228,15 @@ XO	xo	9
 《	vf	10
 》	vg	10
 %	vb	10
+[	fkh	10
+]	fkh	9
+方括號	fkh	8
+[]	fkh	6
 
 #o及v符號
 
 ok	ok	10
+okk	okk	10
 [a-z]	atz	7
 ←	zo	7
 →	yz	7
@@ -313,6 +318,7 @@ $	;my	10
 `	;fg	10
 ·	;dm	5
 =	;dg	4
+¿	;fw	8
 ¿	;fwh	8
 ·	;dm	10
 =	;dg	10
@@ -341,6 +347,7 @@ app	app	9
 框定	kldk	10
 荒謬	hlmq	10
 普發	puf	10
+老是	lcu	10
 所是	su	10
 出乎	ihu	10
 一塊	ekk	10
@@ -353,7 +360,11 @@ app	app	9
 都去	dzq	10
 多出	doi	10
 先是	xmu	10
+先去	xmq	10
+假的	jxd	10
+西去	xiq	10
 剪切	jmqp	10
+保安	bcan	10
 地上	dia	10
 就有	jy	10
 看我	kjw	10
@@ -366,6 +377,11 @@ app	app	9
 所處	siu	9
 可行	kxk	10
 就想	jx:;	10
+親人	qbr	10
+離去	liq	10
+想有	xly	10
+上來	ald	10
+求我	qqw	10
 跨	kxkh	10
 以	ec	9
 物	wt	9
@@ -5086,6 +5102,7 @@ but	but	5
 挽	wjr	9
 椀	wjs	9
 婉	wjv	9
+綰	wjx	10
 紈	wjx	9
 彎	wj;	9
 臥	woa	9
@@ -17913,6 +17930,7 @@ but	but	5
 幻術	hrau	9
 幻相	hrxl	9
 幻想	hrxl	10
+累了	lwll	10
 患者	hroe	10
 換車	hrie	9
 換成	hrig	10
@@ -17926,7 +17944,6 @@ but	but	5
 換藥	hryc	9
 換頁	hrye	9
 渙散	hrsj	9
-皇帝	hldi	9
 荒涼	hlll	9
 皇成	hlig	9
 皇城	hlig	10
@@ -19045,7 +19062,7 @@ but	but	5
 令孫	lksy	9
 令她	lkta	10
 溜湫	lqqq	9
-溜了	lql	10
+流了	lql	10
 溜溜	lqlq	9
 留存	lqcy	9
 留下	lqxx	9
@@ -22667,9 +22684,8 @@ but	but	5
 刺鼻	cibi	10
 概論	gdly	10
 五百	w;bd	10
-隱去	ybqu	10
 捲縮	jrso	10
-罥索	jrso	9
+罥索	jrso	
 有光	ygl	10
 盛饭	igfj	10
 省事	ugus	10

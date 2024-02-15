@@ -6,6 +6,3098 @@
 ，	;'	1
 。	;''	3
 。	;'''	1
+ー	;';	1
+：	;;	4
+•	;dm;	4
+？	;ew:;	1
+！	;gt:;	4
+ 	;lny	2
+……	;vs:;	1
+？	;wh:;	1
+說得出	a d iu	2
+阿爾都賽	a e d s[p	8
+數據管理	a j g l[g	2
+按勞分配	a l f p[s	2
+愛麗絲	a l si	2
+說這種	a o ot[	2
+上隻角	a v jn	2
+愛因斯坦	a y s t[f	2
+上	a'	9
+上操	a' cc[rs	1
+上操一了貳他戳崇	a' cc[rs el' er[am t' io[na is[mi	3
+上的	a' d'	3
+上一段	a' e' dr[wc	2
+上峰	a' fs[mh	4
+上來	a' ld:;	4
+上這個	a' og'	7
+上頭	a' tz[gm	4
+上萬	a' wj[dn	1
+上萬伏	a' wj[dn fu[wd	1
+上小	a' x'	1
+あ	a:';	5
+ああ	a:'; a:';	3
+あがいて	a:'; ga:'; i:'; te:';	1
+啊	a;	55
+啊啊啊啊啊啊啊	a; a;a;a; a;a;a;	1
+啊多諾	a; do[qq no[;k	1
+啊翼	a; ei[nlw	2
+啊藍	a; lj[al	1
+啊這個	a; og'	1
+啊啊啊	a;a;a;	2
+啊裏	a;lij	2
+上上	aa'	4
+啊	aa[kb	11
+啊啊啊啊啊啊啊啊啊啊啊啊	aa[kb aaaa aa[kb aa[kb aa[kb aa[kb aa[kb aa[kb aa[kb aa[kb aa[kb	1
+啊啊	aaaa	8
+啊啊啊啊啊啊啊啊啊啊啊啊啊啊	aaaa aaaa aaaa aaaa aaaa aaaa aaaa	1
+啊啊	aaaa:k	4
+阿	ab[	2
+阿爾都賽	ab[ er[qi du[fb sd[pm	2
+阿語	ab[ eu[;k	3
+阿拉伯語	ab[ la[ru bo[wr eu[;k	12
+阿裏巴巴	ab[ li[jf ba[cn ba[cn	2
+阿米	ab[ mi[o;	1
+阿米諾斯	ab[ mi[o; nosi	1
+阿瓦隆機制	ab[ wals:b jivi:r	1
+阿茲莫丹	ab[ zi[ax mo[ad dj[m;	2
+阿姨	abei	2
+阿甘	abgj	2
+阿訇	abhs:q	2
+上班	abj	2
+按部就班	abjb	2
+ab胶	abjn:e	9
+阿拉	abla	1
+阿拉這與	abla oeu	1
+阿拉伯人	ablabor'	2
+阿里	abli	6
+阿里雲	abli ey[fc	17
+阿蘭	ablj	20
+阿平	abp'	2
+阿薩姆	absamu:v	1
+阿薩姆紅茶	absamu:v hsia:a	1
+奧	ac[td	2
+奧利給	ac[td li[tj gw[xk	2
+嗷嗷	acac	4
+奧巴馬	acbama:c	2
+奧地利	acdili:t	2
+奧爾良	acerll:;	9
+奧爾良烤翅根	acerll:; kc[on ii[fn gf[se	1
+熬成	acig:d	2
+傲慢	acmj	4
+奧斯曼	acsimj:j	2
+奧特曼	actemj	2
+奧拓	acto	2
+熬煮	acvu:f	4
+翱翔	acxl:u	4
+熬夜	acye	2
+上的	ad'	5
+上帝	adi	4
+上單	adju	3
+愛	ae:f	7
+愛	ae[	38
+愛欲破產	ae[ eu[ww po[dc ij[ut	3
+愛奇藝	ae[ qi[dk ei[an	2
+愛上	aea'	2
+愛上一個	aeaeg'	2
+愛一個	aeeg'	2
+愛慾	aeeu	20
+愛慾經濟學	aeeu jj:; xt[ib	1
+愛慾經濟學	aeeu jkjixt	1
+愛慾拉滿了	aeeu lamjl'	3
+愛慾遊戲	aeeu yzxi	5
+愛與	aeeu:g	3
+愛慾	aeeu:w	20
+愛慾活動	aeeu:w hods:f	1
+愛慾經濟學	aeeu:w jj:; xt[ib	7
+愛了	ael'	2
+愛你	aen'	2
+愛情	aeqk:n	14
+愛我	aew'	2
+上一頁	aeye	2
+上風	afs	2
+上個	ag'	4
+上古	agud	2
+上個月	agyt	2
+尚在和	ah[ik z' h'	2
+賞	ah[im	1
+賞給他	ah[im gwt'	1
+商	ah[uk	1
+商品	ah[uk pb[kk	6
+商品名	ah[uk pb[kk mk[qk	2
+商需要	ah[uk xuyc	1
+傷疤	ahba	2
+上海	ahd	3
+上海金融	ahd jbrs	1
+上海	ahdi	2
+商店	ahdm	6
+商販	ahfj	2
+傷感	ahgj	4
+賞給	ahgw:x	2
+傷害	ahhd	2
+商場	ahih	6
+商家	ahjx	2
+傷口	ahkz	2
+商量	ahll	2
+商量	ahll:j	4
+商品	ahpb	3
+商品魚	ahpb eu[qg	3
+商品社會	ahpb uehv	1
+傷身	ahuf	1
+傷身體	ahuf ti:wg	1
+商務	ahwu	2
+商業	ahye	10
+商業化	ahyehx:w	2
+商用	ahys	2
+商用	ahys:e	2
+愛	ai[ec	8
+愛奇藝	ai[ec qi[dk ei[an	2
+愛的	aid'	1
+愛得	aide	1
+愛慾	aieu:w	2
+愛國	aigo	1
+愛國主義	aigo ve:;	1
+愛國心	aigox;	2
+愛好	aihc	6
+埃及	aije	1
+愛美	aim;	4
+愛你	ain'	5
+癌症	aiog	2
+愛怕	aipa:n	2
+愛怕撒謊	aipa:n sahl	6
+愛情	aiqk:n	6
+上傳	air	1
+上傳	airw	2
+哀歎	aitj:k	2
+矮小	aix'	4
+愛心	aix;	1
+愛心小屋	aix; xwun	1
+愛惜	aixi	1
+哎呦	aiyz	2
+愛憎分明	aizgffmk:j	2
+愛自己	aiziji	2
+刪	aj[mj	3
+刪刪改改	aj[mj aj[mj gd[nt gd[nt	1
+刪詞	aj[mj ci[;k	2
+刪好友	aj[mj hcyz	1
+山	aj[mm	1
+山椒科	aj[mm jn[sc ke[tf	1
+山貓	aj[mm mc[qo	2
+山	aj[mt	1
+山屋	aj[mt wu[nf	8
+山屋用我的電腦搞定了	aj[mt wu[nf ys[eh wd' dmnc gc[rk dk[ph l'	1
+閃回	aj[uw hv[lk	4
+閃退	aj[uw tv[ovep	4
+閃電	ajdm	2
+刪掉	ajdn	6
+刪掉	ajdn:r	2
+煽動	ajds:f	2
+閃動	ajds:f	2
+善於	ajeu	12
+刪改	ajgd:n	2
+珊瑚海	ajhuhd:i	2
+刪除	ajiu	22
+刪除	ajiu:b	80
+上講	ajl;	2
+山貓	ajmc:q	2
+山姆	ajmu:v	1
+山姆超市	ajmu:v icus:;	1
+上街	ajpt	2
+山水	ajuv	1
+山水飄搖	ajuv pnyc	1
+山野	ajye:j	4
+扇葉	ajyek	2
+衰頹	ak[;e tv[tm	2
+衰微	ak[;e ww[tt	2
+摔碎	ak[rf sv[df	6
+帥哥	akge:s	2
+甩出去	aki' q'	2
+衰老	aklc	2
+帥氣	akqi	2
+摔碎	aksv:d	2
+衰朽	akxq:s	2
+上了	al'	1
+雙	al[c;	1
+雙關	al[c; gr[ud	4
+雙跨	al[c; kx[kn	10
+雙跨藥	al[c; kx[kn yc[a;	1
+雙打野	al[cc da[rs ye[jb	8
+雙馬尾	al[cc ma[cg ww[nn	2
+雙屏幕	al[cc pk[na mu[ah	2
+爽	al[dq	1
+爽點	al[dq dm[ho	2
+爽感	al[dq gj:d	8
+霜	al[fh	2
+上林	alb	1
+雙倍	albw	2
+雙打	alda	2
+爽感	algjd	6
+雙管	algr	2
+雙城	alig	3
+雙城之戰	alig v;vj	5
+雙重	alis:t	3
+雙重否定	alis:t fzdk:p	3
+爽口	alkz	2
+爽朗	allh	4
+雙拼	alpb:r	1
+雙拼化	alpb:r hx[wx	1
+爽死	alsi	2
+雙腿	altv:e	3
+雙腿癱瘓	altv:e tjhr	1
+雙頭	altz	1
+雙手	aluz	6
+雙向	alxl	3
+雙向綁定	alxl bhdk	5
+雙引號	alybhc:k	2
+上門	amf	1
+上面	amm	2
+骯髒	amzh:e	1
+岸	an[mf	2
+案	an[ps	2
+安	an[pv	4
+安上	an[pv a'	2
+安東尼奧尼	an[pv ds[ai ni[nx ac[td ni[nx	2
+安那奇	an[pv n; qi[dk	2
+安納海姆	an[pv na[xw hd[iu mu[vu	3
+安努	an[pv nu[vl	2
+安提戈涅	an[pv ti[rh ge[at np[if	1
+安用	an[pv ys[eh	1
+安資	an[pv zi[um	3
+安資加速主義	an[pv zi[um jxsu ve:;	3
+按	an[rv	3
+按一下	an[rv e' xx[gh	2
+按臺	an[rv td[ck	1
+按時間	an[rv ujm	1
+案板	anbj:s	2
+安達魯狗	andalugzq	1
+按道理	andcli:g	2
+按道理應當	andcli:g ekdh:i	1
+案底	andi:;	2
+黯淡	andj	2
+安撫	anfu	2
+暗褐色	anhese:q	2
+鵪鶉	aniy	2
+鵪鶉蛋	aniydj:n	4
+按鍵	anjm	2
+案件	anjm	2
+按鍵	anjm:q	6
+案件	anjm:w	4
+安家	anjx	4
+按勞分配	anlcffpw:s	2
+安利	anli:t	4
+案例	anli:w	8
+暗流	anlq	1
+按你	ann'	7
+按你的想法	ann' d' xlfa	1
+安那奇	ann;qi	2
+安那奇都不配	ann;qi dzbpw:s	1
+安那奇	ann;qid	1
+安那奇都不配	ann;qid dz[fb b' pw[sn	1
+安妮	anni	2
+安寧	annk	12
+按鈕	annq	24
+按鈕	annq:q	2
+按照	anoc	25
+按照非常嚴格	anoc f;ih ejge	1
+按照	anoc:j	8
+按這種	anoot	2
+安排	anpd	6
+安排	anpd:r	5
+安排人	anpd:r r'	1
+安全	anqr	38
+暗渠	anqu:i	1
+安身立命	anuflimk:w	2
+按時	anuj	2
+暗示	anus:f	4
+安置	anvi:l	2
+安裝	anvl	29
+安卓	anvo	6
+安穩	anwf:t	2
+安心	anx;	6
+安閑	anxmu	2
+按下	anxx	2
+暗涌	anysi	2
+案子	anzb	4
+安葬	anzh	1
+上這	ao'	1
+說	ao[;q	3
+說說說	ao[;q aoao	1
+說不出來	ao[;q b' i' ld:;	2
+說的話	ao[;q d' hx[;d	2
+說得話	ao[;q de[tf hx[;d	1
+說一些	ao[;q e' xp[hf	6
+說一下	ao[;q e' xx[gh	4
+說個	ao[;q g'	3
+說個錘子	ao[;q g' ivzb	1
+說回到	ao[;q hvdc	1
+說裏面	ao[;q li[jf mm[d	3
+說這話	ao[;q o' hx[;d	2
+說這些	ao[;q o' xp[hf	4
+說他們	ao[;q t' mf[wu	2
+說透	ao[;q tz[tp	1
+說什麼	ao[;q um	17
+說字	ao[;q zp[	1
+說說	aoao	15
+說說	aoao:;	1
+說不定	aobdk	2
+說白了	aobdl'	8
+說不清	aobqk	4
+說不清的	aobqk d'	1
+說不清去	aobqk q'	1
+說辭	aoci:t	2
+說錯	aoco:q	2
+說的難聽	aod' njtkk	2
+說到底	aodcdi	10
+說到這	aodco'	2
+說到這個	aodcog'	2
+說得	aode	26
+說得	aode:t	1
+說點	aodm:h	2
+說的是	aodu'	3
+說一個	aoeg'	2
+說一句	aoejv	2
+說一聲	aoeug	2
+說法	aofa	2
+說法上	aofa a'	1
+說法	aofa:i	2
+說服	aofu:e	4
+上證	aog	3
+說過	aogo	1
+說過話	aogo hx[;d	1
+說過了	aogol'	2
+說謊	aohl:;	2
+說話	aohx	40
+說話	aohx:;	6
+說出	aoi'	10
+說出一些	aoi' exp	1
+說出我的一些	aoi' wd' exp	1
+說成	aoig	2
+說出口	aoikz	2
+說出來	aoild	14
+說穿	aoir:p	4
+說穿了	aoirl'	8
+說教	aojn:f	3
+說了	aol'	1
+說了一個	aol' eg'	1
+說了很多很多東西	aol' hfdo hfdodsxi:s	1
+說來說去	aoldaoq'	4
+說兩句	aolljv:q	2
+說明	aomk	17
+說明白的	aomk bdd'	1
+說明	aomk:j	20
+說明白	aomkbd:r	3
+說真的	aoofd	2
+說這個	aoog'	6
+說起來	aoqild	2
+說起來	aoqild:g	2
+說清楚	aoqkiu	6
+說他	aot'	3
+說是	aou'	2
+說啥	aoua	5
+說聲	aoug	4
+說什麼	aoum:t	4
+說實話	aouphx	12
+碩士	aous	2
+碩士	aous:f	4
+說我	aow'	3
+說些什麼	aoxpum:t	2
+說下	aoxx	2
+說自己	aoziji:n	1
+ap	ap	4
+上品	apb	2
+上皮	api	2
+上屏	apkn	2
+上去	aq'	8
+上人	ar'	5
+上他	at'	4
+上臺	atd	2
+書	au	2
+輸入法	au r; fa	16
+孰	au[;b	2
+熟稔	au[;o rf[tn	2
+熟知	au[;o vi[tk	2
+豎立	au[ju li[uu	2
+輸	au[lj	2
+輸了	au[lj l'	6
+輸入方案	au[lj r; fh[;n an[ps	4
+輸入速度	au[lj r; su[gp du[;c	4
+輸入速度測試	au[lj r; su[gp du[;c ce[ij us[;a	6
+疏解	au[n; jp[qh	2
+數	au[ot	1
+數碼寶貝	au[ot ma[dc bc[p; bw[m;	2
+術語	au[s; eu[;k	2
+樹	au[sf	3
+樹高千丈	au[sf gc[;k qm[tf vh[d;	2
+樹高千丈落葉歸根	au[sf gc[;k qm[tf vh[d; loyegvgf:s	1
+樹狀	au[sf vl[ud	5
+樹狀圖	au[sf vl[ud tu[lk	9
+樹狀突	au[sf vl[ud tu[pd	2
+姝姝	au[v; au[v;	2
+鼠	au[vn	7
+鼠鼠	au[vn au[vn	5
+鼠頭	au[vn tz:ud	1
+鼠頭	au[vn tzu	1
+鼠首	au[vn uz[uh	11
+叔叔	auau:h	2
+鼠標	aubn	3
+鼠標	aubn:s	15
+蔬菜	aucd	13
+蔬菜什錦	aucd uf[wf jb[qh	1
+數堆	audvf	4
+術語	aueu:;	7
+屬於	aueu:g	1
+舒服	aufu	1
+舒服	aufu:e	2
+舒服就舒服	aufu:e j' aufu:e	1
+束縛	aufu:x	3
+蔬果	augo:j	2
+上升	augt	2
+輸出	aui'	22
+書記	auji:;	5
+紓解	aujp:q	4
+數據	aujv	148
+數據虧	aujv kv[fn	1
+數據	aujv:r	14
+數據分析	aujvffxi:s	2
+數據結構	aujvjpgz:s	2
+數據庫	aujvku	66
+數據庫	aujvku:;	2
+數據量	aujvll	2
+梳理	auli:g	2
+樹立	auli:u	2
+數量	aull:j	6
+熟練度	aulmdu:;	4
+樹木	aumu	4
+書	aun	6
+書堆	aun dv[f;	11
+數千	auqm:t	2
+熟人	aur'	2
+輸入	aur;	23
+輸入邏輯	aur; loji	1
+輸入碼	aur; ma:d	1
+輸入法	aur;fa	4
+輸入法輸入速度測試	aur;fa aur; sudu ceus	1
+輸入法目前來看真的沒什麼太大的問題了	aur;fa muqm ldkj ofd' mum tdd da:dt d' wfti l'	1
+輸入框	aur;kl	2
+書生	auug	2
+熟食	auus	2
+舒適	auus	2
+數制	auvi:r	2
+數值	auvi:w	4
+庶務	auwu:t	2
+數位	auww	3
+數位筆	auww bi[tn	3
+熟悉	auxi	15
+屬性	auxk	4
+屬性	auxk:n	48
+數學	auxt	6
+數學	auxt:i	2
+數學家	auxtjx	2
+梳子	auzb	2
+數字	auzp	6
+數組	auzu:x	90
+上只	av'	4
+上我	aw'	4
+上午	awu	2
+上午	awut	2
+上下	axx	2
+上下級	axxjix	2
+順	ay[k;	2
+順改	ay[k; gd[nt	1
+順便一提	ay[km bm[wq e' ti[rh	2
+順便	aybm:w	2
+順的	ayd'	2
+順眼	ayej	2
+順應	ayek	4
+順應	ayek:;	6
+順豐	ayfs	2
+順風	ayfs:m	2
+瞬間	ayjm	2
+瞬間	ayjm:u	6
+順理成章	ayliigvh:u	2
+順路	aylu:k	2
+順着	ayo;	2
+瞬時速度	ayujsudu:;	2
+順序	ayxu	6
+蹦蹦跳跳	b b t t[k	2
+百毒不侵	b d b q[w	2
+弊大於利	b d e l[t	2
+冰島衣酸	b d e s[s	2
+不一定	b e dk	6
+不一樣	b e eh	6
+布爾喬亞	b e q y[g	4
+白暨豚	b j t[e	2
+不可救藥	b k j y[a	2
+不可控	b k ks	2
+棒麥杆蟲	b m g i[j	2
+半年內	b n nw	2
+不是說	b u ao	2
+百盛居	b u ju	2
+發生什麼	b u u m[t	2
+不支持	b v ii	4
+不知為何	b v w h[w	2
+霸王車	b w ie	2
+不	b'	18
+不上肉九	b' a' rz[mw j;	1
+不愛	b' ai[ec	1
+不愛的時候	b' ai[ec dujhz	7
+不愛的	b' aid'	3
+不不不	b' b' b'	2
+不保留	b' bclq:q	1
+不變	b' bm[;c	2
+不表達	b' bn[ge da[dp	2
+不代表	b' dd[wa bn[ge	4
+不得了	b' de[tf ln[bh	2
+不等着	b' dgo;	1
+不耽誤	b' dj[bq wu[;d	2
+不斷不斷	b' dr[or b' dr[or	2
+不揚	b' eh[rr	2
+不應當	b' ek[;i dh:iv	2
+不應該	b' ek[;i gd[;w	4
+不影響	b' ek[je xl[kk	2
+不允許	b' ey[cq xu[;f	4
+不方便	b' fh[;n bm[wq	2
+不放棄	b' fh[;t qi[;a	1
+不凡	b' fj[m;	2
+不服從	b' fu[ec cs[ww	4
+不複	b' fu[tt	2
+不複多言	b' fu[tt doej	1
+不複爲鹿	b' fu[tt wy[ lu[;x	1
+不感興趣	b' gj:d xk[iw qu[fc	2
+不敢	b' gj[nt	1
+不敢面對	b' gj[nt mmdv:c	1
+不過	b' go[fp	1
+不過就是	b' go[fp ju'	1
+不歸整性	b' gv[jv og[gh xk:n	1
+不夠	b' gz[qk	4
+不和人	b' h' r'	3
+不和人爭吵	b' h' r' ogic	1
+不好說	b' hc[vb ao[;q	4
+不好好打	b' hchcdar	1
+不合適	b' he[wk us[tp	1
+不合規	b' hegv	1
+不很深	b' hfuf	1
+不還	b' hr:gp	1
+不回話	b' hv[lk hx[;d	2
+不會	b' hv[wc	28
+不會為了一個	b' hvwy leg'	1
+不出來	b' i' ld:;	1
+不成	b' ig[dt	3
+不吃飯	b' ii[kn fj[qnc	2
+不就成了	b' j' ig[dt l'	2
+不激進	b' ji[it jb[fp	1
+不急	b' ji[qn	1
+不急進	b' ji[qn jb[fp	1
+不精密	b' jkmi	1
+不講道理	b' jl[;j dc[up li[gf	2
+不僵死	b' jl[wg si[gx	1
+不覺得	b' jt[iq de[tf	4
+不可避免	b' k' bi[np mm[qq	6
+不可見	b' k' jm[mq	2
+不可接受	b' k' jp[rv uz[ec	11
+不可接受性	b' k' jp[rv uz[ec xk:n	9
+不可調和	b' k' tn[;k h'	4
+不開	b' kd[ga	3
+不看看	b' kj[rh kj[rh	4
+不樂觀	b' le[qi gr[cq	2
+不理解	b' li[gf jp[qh	2
+不禮貌	b' li[pn mc[eq	2
+不利用	b' liys:e	1
+不靈活	b' lk[vo ho[id	2
+不良反應	b' ll[;e fj[rc ek[;i	2
+不聊	b' ln[bb	2
+不了	b' ln[bh	1
+不了解	b' ln[bh jp[qh	2
+不滿	b' mj[i;	2
+不滿意	b' mj[iw ei[un	2
+不眠的大海	b' mm[ha d' da[dd hd[iu	6
+不能說	b' ng[cx ao[;q	4
+不能和	b' ngh'	3
+不正	b' og[gh	1
+不正義	b' og[gh ei[;q	2
+不這麼做	b' omez;	1
+不抓陽	b' ox[r; eh[bj	1
+不匹配	b' pi[aq pw[sn	8
+不清楚	b' qk[ie iu[sh	2
+不確定	b' qt[de dk[ph	4
+不缺少	b' qt[rw uc[it	2
+不恰當	b' qx[nk dh:iv	2
+不人	b' r'	5
+不認同	b' rf[;w ts[mk	4
+不認識	b' rf[;w us[;w	4
+不認為	b' rf[;w wy[	6
+不容易	b' rs[pk ei[jr	2
+不如	b' ru[vk	1
+不如說	b' ru[vk ao[;q	2
+不所	b' s'	1
+不他	b' t'	5
+不太	b' td[d;	1
+不太一樣	b' td[d; e' eh[sd	2
+不太好	b' td[d; hc[vb	2
+不太好用	b' td[d; hcys:e	1
+不太記得	b' td[d; ji[;n de[tf	2
+不太瞭解	b' td[d; ln[hdui jp[qh	2
+不太能	b' td[d; ng[cx	2
+不太清楚	b' td[d; qk[ie iu[sh	10
+不太確定	b' td[d; qt[de dk[ph	2
+不太行	b' td[d; xk[th	6
+不停滴	b' tk[ws di[id	2
+不同於	b' ts[mk eu[gf	2
+不透	b' tz[tp	1
+不是什麼	b' u' um	1
+不受	b' uz[ec	2
+不長	b' vh[t;	2
+不長煙	b' vhej:o	1
+不支持	b' vi[fc ii[rf	6
+不至於	b' vi[gf eu[gf	4
+不致	b' vi[gt	1
+不知名	b' vi[tk mk[qk	2
+不值得	b' vi[wh de[tf	2
+不住	b' vu[wg	2
+不完備	b' wj[pq bw[tl	2
+不完整	b' wj[pq og[gh	2
+不完全	b' wj[pq qr[wg	2
+不喜歡	b' xi[fk hr[cw	4
+不希望	b' xi[qh wh[;g	4
+不想說	b' xl[sn ao[;q	2
+不想回	b' xl[sn hv[lk	2
+不歇息	b' xpxi	1
+不需要	b' xu[fj yc[sv	16
+不下來	b' xx[gh ld:;	1
+不下去	b' xx[gh q'	1
+不馴服	b' xyfu	1
+不要被	b' yc[sv bw[pc	2
+不再提	b' zdti:r	1
+不再用	b' zdys:e	1
+不怎麼	b' zf[tn me[tc	2
+不足	b' zu[kh	1
+不尊重	b' zy[uf os[tf	4
+不遵守	b' zy[up uz[pf	2
+八	b;	9
+八股文	b; gu[ec wf[;;	2
+八卦	b; gx[fh	2
+八爪魚	b; ox[r; eu[qg	4
+八十歲	b; u; sv[mq	2
+八遠去	b; yr[fp q'	1
+八百	b;bd	2
+八億	b;ei	2
+八卦	b;gx	4
+八戒	b;jp	2
+八階	b;jp:b	2
+八十	b;u;	4
+八萬	b;wj	2
+不上	ba'	2
+ば	ba:';	3
+バ	ba:';	1
+バラメ	ba:'; ra:'; me:';	1
+壩	ba:fe	6
+壩壩壩壩壩壩	ba:fe ba:fe ba:fe ba:fe ba:fe ba:fe	2
+把	ba:rcn	2
+巴	ba[cn	1
+巴迪歐	ba[cn di[mp ou[aw	10
+巴徹	ba[cn ie[tt	2
+巴徹答他	ba[cn ie[tt da[tk t'	1
+巴拉巴拉	ba[cn la[ru ba[cn la[ru	2
+巴人	ba[cn r'	2
+霸	ba[fe	5
+垻	ba[fm;	4
+灞	ba[ie	1
+灞上	ba[ie a'	3
+罷了	ba[lc l'	4
+把你	ba[r n'	4
+把這些	ba[r o' xp[hf	2
+把他	ba[r t'	2
+把他們	ba[r t' mf[wu	2
+把我們	ba[r w' mf[wu	2
+把握	ba[r wo[rf	23
+把戲	ba[r xi[ca	2
+把控	ba[rcn ks[ra	2
+把自己	ba[rcn zi[th ji[nn	4
+扒	ba[rw	2
+爸爸媽媽	babamama:v	6
+芭比娃娃	babiwawa:v	2
+把柄	babk	2
+拔掉	badn:r	6
+罷工	bag;	5
+疤痕	bahf	2
+不愛	bai	7
+不礙	baid	1
+不礙時候	baid ujhz	1
+巴結	baji	2
+吧唧	baji:k	2
+吧	bak	1
+巴庫	baku:;	2
+不爽	bald	2
+巴洛克	balok;	1
+爸媽	bama:v	4
+把你	ban'	2
+把這個	baog'	2
+拔群	baqyv	2
+把	bar	2
+把女人	bar nvr'	1
+把自己出	bar ziji i'	1
+把人	bar'	4
+把一些	barexp	1
+把人	barr'	3
+把他	bat'	1
+把他一個	bat' eg'	1
+巴沙	bauai	2
+巴氏	baus:q	2
+把我	baw'	1
+把自己	bazj;	18
+把自己的問題	bazj; d' wf[uk ti[jm	3
+濱	bb[iw	6
+濱江	bb[iw jl[ia	31
+濱江工業區	bb[iw jl[ia g;yequ	1
+濱康	bb[iw kh[;i	1
+濱江區	bbjlqu:a	4
+瀕臨	bblb	2
+瀕臨絕境	bblbjtjk:f	3
+瀕臨絕境就	bblbjtjk:f j'	1
+不變	bbm	1
+不變不行了	bbm bxkl'	1
+不變	bbm;	2
+包	bc	2
+不才	bc'	1
+包	bc:q	1
+薄	bc[af	1
+薄皮	bc[af pi:hc	3
+爆	bc[oi	7
+爆力量	bc[oi lill:j	1
+寶	bc[p;	2
+包子	bc[qn zb[	2
+報	bc[r;	1
+報案	bc[r; an[ps	2
+報稅	bc[r; uv[tq	2
+報憂	bc[r; yz[dt	2
+抱着	bc[rn o;	2
+保守一點	bc[ws uz[pf e' dm[ho	2
+保安	bcan	2
+保安	bcan:p	6
+寶寶	bcbc	2
+包包	bcbc:q	4
+報表	bcbn:q	3
+包菜	bccd:a	1
+報錯	bcco:q	78
+報錯碼	bcco:q ma:d	1
+保存	bccy	4
+報以	bcec	2
+爆發	bcf'	6
+報告	bcgc	2
+寶鋼	bcgh	2
+包裹	bcgo	8
+包裹着	bcgoo;	2
+飽含	bchj:w	2
+爆火	bchoo	2
+保護	bchu	13
+保護桑	bchu sh[cs	1
+保護	bchu:;	2
+保護費	bchufw	2
+保護傘	bchusj	2
+保護傘	bchusj:w	2
+爆出	bci'	1
+爆炒	bcic	2
+爆炒豬肝	bcic vugj:e	1
+爆炒腰花	bcic yc[ev h;	1
+保持	bcii	2
+保持一個	bcii eg'	3
+保持一致	bciievig	2
+報酬	bciz:s	2
+報警	bcjk	2
+保健品	bcjmpb	2
+包餃子	bcjnzb	4
+保潔	bcjp	2
+包括	bcko	40
+包括	bcko:r	10
+寶庫	bcku	4
+包裏	bcli:j	2
+暴力	bcli:l	16
+暴力關係	bcli:l grxi	1
+暴力出	bcli:l i'	1
+爆裂	bclp	20
+保留	bclq	1
+保留了一些	bclq lexp:h	1
+保留	bclq:q	11
+保留了	bclql'	2
+暴露	bclu:f	12
+暴論	bcly;	2
+保密	bcmi	2
+報名	bcmk	2
+暴怒	bcnu	1
+暴怒無常	bcnu wuih:i	1
+爆炸	bcoa	4
+保證	bcog	15
+保證	bcog:;	6
+不錯	bcoq	1
+抱歉	bcqm	12
+抱歉	bcqm:u	8
+包容	bcrs	2
+寶塔	bcta:f	50
+抱團	bctr	1
+抱團上發	bctr a' f'	3
+抱團	bctr:l	2
+寶石	bcus:d	1
+寶石之國	bcus:d v; go[l;	1
+保稅	bcuv:t	2
+保守	bcuz	18
+保守主義	bcuz ve:;	1
+報賬	bcvh:m	4
+包裝	bcvl	2
+包裝成	bcvl ig[dt	1
+包裝出來	bcvl ild	1
+包裝袋	bcvldd	1
+包裝紙	bcvlvi:x	11
+包裝紙一樣	bcvlvi:x eeh	1
+保鮮	bcxm:q	2
+報銷	bcxn	8
+報銷	bcxn:q	54
+暴雪	bcxt	2
+抱有	bcy'	4
+不存在	bcyz'	16
+包粽子	bczszb	2
+白	bd:rt	5
+白轉黑	bd:rt orl hw[lo	1
+白入	bd:rt r;	1
+白手套	bd:rt uztc	3
+白屋	bd:rt wu[nf	1
+百	bd[dj	1
+百來	bd[dj ld[goi	2
+百裏香	bd[dj li[jf xl[tt	2
+百熊	bd[dj xs[co	1
+敗露	bd[mt lu[fk	2
+擺	bd[rc	4
+擺渡	bd[rc du[ic	1
+擺個攤	bd[rc g' tj[r;	1
+拜拜	bd[rf bd[rf	2
+拜托	bd[rf to[ra	2
+白胡椒粉	bd[rr hu[de jn[sc ff[ov	2
+白蘑菇	bd[rr mo[ad gu[ad	2
+白鷺	bd[rt lu[kg	1
+白描	bd[rt mn[rl	2
+白熊	bd[rt xs[co	6
+不大	bda	2
+拜拜	bdbd:r	4
+百般	bdbj	2
+百倍	bdbw:w	2
+不到	bdc	3
+百草	bdcc	2
+白菜	bdcd	12
+不道德	bdcde	2
+白的	bdd'	1
+不帶	bddg	2
+不帶意識形態	bddg euxt	1
+不得	bde	2
+不得不	bdeb'	4
+不得而知	bdeervi:t	2
+不得了	bdeln	3
+百分號	bdffhc:k	2
+百分之	bdffv;	17
+百分之多少	bdffv; douc	1
+百分之九十七	bdffv; j;u; q;	1
+百分之三十	bdffv; s;u;	1
+不等於	bdgeu	2
+白鶴	bdhe	2
+百貨	bdho:w	3
+百貨超市	bdho:w icus	1
+不單	bdj:u	2
+不單單	bdjdj	2
+敗軍	bdjy:p	2
+白軍	bdjy:p	2
+百里	bdli	1
+百里了	bdli l'	1
+白蘭	bdlj	6
+白蘭地	bdljdi:f	2
+擺爛	bdljo	2
+白領	bdlk	2
+白領	bdlk:w	2
+白鷺	bdlu	4
+白米飯	bdmifj:q	2
+不多	bdo	3
+白晝	bdoz	4
+白嫖	bdpnv	2
+白牆	bdql:f	4
+白日	bdri:j	1
+白日美人	bdri:j m;r'	1
+八大人觉	bdrj	4
+不斷	bdro	16
+不懂	bds	1
+白色	bdse	49
+白色	bdse:q	23
+白色力量	bdse:q lill:j	1
+不動	bdsf	5
+不懂	bdsn	5
+擺攤	bdtj:r	60
+擺攤經濟	bdtj:r jkji	1
+白天	bdtm	4
+白砂糖	bduath:o	14
+百事	bdus	2
+不對勁	bdvjb	2
+白味噌	bdwwzg:k	2
+白熊	bdxs	6
+柏油路	bdyzlu:k	3
+柏油路麪	bdyzlu:k mm[swwn	3
+擺在	bdz'	2
+不都是	bdzu'	4
+不一	be'	4
+不以為	becwy	1
+不一定	bedk	32
+不一定哦	bedk oo[kt	1
+不一樣	beeh	2
+不一樣了	beehl'	1
+不易	beij	2
+不應	bek	2
+不應該	bekgd	2
+不應該是	bekgdu'	2
+不一致	bevig	3
+奔湧	bf[da ys[ie	2
+本	bf[sg	2
+本多	bf[sg do[qq	14
+本多繁邦	bf[sg do[qq fj[ti bh[db	14
+本雅明	bf[sg ya[a; mk[je	1
+本崖可	bf[sg ya[mf k'	1
+本本主義	bfbfvuei:;	2
+本次	bfci	2
+本地	bfdi	2
+本地服務器	bfdi fuwuqi	1
+本地	bfdi:f	4
+本地人	bfdir'	2
+本意	bfei	2
+本國	bfgo:l	4
+不方便	bfhbm	2
+本就	bfj'	1
+本就應該	bfj' ekgd:;	1
+本就是	bfju'	2
+本來	bfld	4
+本來	bfld:g	16
+本來就是	bfldju'	1
+本領	bflk	2
+本能	bfng	6
+本能	bfng:c	2
+本真	bfof:f	16
+本真只一	bfof:f v' e'	1
+本真主義	bfof:f ve:;	1
+奔跑	bfpc	4
+本日	bfri	2
+本體	bfti:m	4
+本體論	bftily:;	10
+本體性	bftixkn	2
+本身	bfuf	70
+本身是	bfuf u'	1
+不符合	bfuhe	2
+本事	bfus	12
+不符	bfut	1
+不符他為	bfut twy	1
+不負責任	bfuzerw	3
+本質	bfvi	6
+本質	bfvi:r	15
+本質上	bfvia'	2
+奔襲	bfxi:d	3
+本性	bfxk:n	2
+本想	bfxl	2
+奔走	bfzz	2
+泵	bg[di	1
+泵湧	bg[di ys[ie	1
+繃不住	bgbvuw	2
+不高	bgc	1
+不搞	bgcr	2
+不該	bgd	2
+不改	bgdn	3
+不敢	bgj	1
+不敢面對	bgj mmdv	1
+不敢	bgjn	12
+崩解	bgjp:q	4
+崩潰	bgkv	2
+崩潰	bgkv:i	2
+不過	bgo	3
+不過也沒有	bgo ye:bn my'	1
+不果	bgoj	1
+不管	bgr	1
+不管	bgrt	12
+不管他	bgrt'	2
+不公	bgs	6
+不顧	bgud	2
+兵贵神速	bgus	2
+不貴	bgvk	1
+不軌	bgvl	1
+不給	bgw	6
+不夠	bgz	4
+不夠好用	bgzhcyse	2
+不夠用	bgzyse	2
+邦	bh[db	1
+幫	bh[dh	4
+幫個忙	bh[dh g' mh[nn	2
+幫逐步	bh[dh vubu:h	1
+幫我	bh[dh w'	3
+幫我寫出所有的	bh[dh w' xpi' syd'	1
+榜	bh[s;	1
+棒	bh[sd	3
+綁上	bha'	2
+不好	bhc	19
+不好做的	bhc z;d'	1
+不好說	bhcao	8
+不好意思	bhceisi:l	6
+不好看	bhckj	2
+不好用	bhcyse	8
+綁定	bhdk	27
+不合格	bhege	2
+不好意思	bhes	8
+綁架	bhjx	4
+幫忙	bhmh	4
+幫你	bhn'	2
+不會	bhv	16
+不會討論	bhv tcly	1
+不會長回去的	bhv vh[t; hvq' d'	1
+不會吧	bhvbak	2
+不會吧不會吧	bhvbak bhvbak	1
+幫助	bhvu	18
+幫助	bhvu:e	4
+幫助不是很大	bhvu:e buhfda	2
+幫助我	bhvuw'	2
+幫我	bhw'	2
+幫我列舉出所有的	bhw' lpjv i' syd'	1
+幫我設置	bhw' uevi:l	1
+傍晚	bhwj	2
+幫兇	bhxs	2
+不出	bi'	1
+び	bi:';	1
+比	bi:xx	1
+碧絲	bi[gd si[xg	1
+逼	bi[gp	4
+逼人	bi[gp r'	2
+逼死	bi[gp si[gx	7
+鄙視鏈	bi[kb us[pq lm[qp	4
+必	bi[nt	1
+彼德	bi[tc de[tn	1
+彼德格拉斯	bi[tc de[tn gelasi:a	1
+幣	bi[tmh	1
+筆	bi[tn	1
+閉	bi[ut	1
+閉叫	bi[ut jn[kh	1
+比你們	bi[xx n' mf[wu	2
+比上	bia'	1
+不差	biau	4
+閉包	bibc:q	4
+比不過	bibgo	2
+彼此	bic;	2
+比一比	biebi	4
+鄙夷	biei:g	2
+避而不谈	bierbtj:;	4
+比喻	bieu	5
+閉一只眼	bievej:h	4
+比方	bifh	8
+不成熟	bigau	2
+不成	bigd	1
+不承認	bigrf	2
+閉合	bihe	4
+不喫	biik	1
+筆記	biji	2
+畢竟	bijk	4
+畢竟	bijk:u	2
+比較	bijn	3
+比較亂	bijn lr[en	1
+比較細	bijn xi[xl	1
+比較	bijn:l	1
+比較忙	bijn:l mh[nn	1
+比較多	bijndo	10
+比較好	bijnhc	4
+不出來	bild	4
+比例	bili	3
+bilibili	bilibili	10
+鼻樑	bill	2
+碧綠色	bilvse:q	2
+避免	bimm	6
+比你	bin'	1
+比你大	bin' da:dt	5
+比擬	bini	3
+比擬一下	bini exx	1
+比重	bios	2
+比拼	bipb:r	2
+逼迫	bipo	2
+比起	biqi	8
+比起	biqi:f	2
+不穿	bir	2
+不穿人是	bir ru'	3
+不穿如說	bir ruao:;	1
+必然性	birjxk:n	2
+比人強	birqlx	1
+比如	biru	12
+比如	biru:v	7
+比如說	biruao	6
+比如說	biruao:;	25
+閉塞	bise:p	2
+畢設	biue;	2
+鄙視	bius	1
+鄙視	bius:p	13
+匕首	biuz	2
+比我	biw'	4
+避險	bixm:b	1
+必須	bixu	2
+必須	bixu:e	14
+必需	bixu:f	2
+必須去	bixuq'	3
+必須是	bixuu'	2
+必須要	bixuyc:s	9
+必須要有一個	bixuyc:s yeg'	1
+必須要用	bixuycyse	2
+必要	biyc	18
+必要	biyc:s	4
+畢業	biye	10
+畢業	biye:o	2
+畢業生	biyeug	2
+不愁	biz	2
+鼻子	bizb	2
+閉嘴	bizv	2
+閉嘴	bizv:k	8
+不就	bj'	5
+不就也是	bj' yeu'	1
+扳	bj:rc	3
+扳扳手腕	bj:rc bj:rc uzwj	1
+版	bj:tc	1
+斑點	bj[g; dm[ho	2
+班	bj[gg	1
+辦	bj[lw	12
+辦成	bj[lw ig[dt	2
+辦起來	bj[lw qild	1
+辦臺	bj[lw td[ck	2
+扳	bj[rc	2
+扳手	bj[rc uz[rh	1
+拌	bj[rf	1
+拌	bj[rh	1
+拌豆腐	bj[rh dzfu	2
+般的	bj[tc d'	4
+半	bj[uf	1
+版本	bjbf	3
+半點	bjdm	2
+扮演	bjej	4
+扮演	bjej:i	2
+辦法	bjfa	22
+半分鐘	bjffos	2
+不記得	bjide	2
+不濟	bjii	2
+不急	bjiq	3
+半句	bjjv	2
+不經意	bjkei	2
+版面	bjmm:s	2
+半年	bjnm	4
+半年	bjnm:r	2
+半年前	bjnmqm:u	2
+搬弄	bjns:g	2
+不僅僅	bjwjw	4
+班子	bjzb	4
+丙丁	bk[gw dk[sg	1
+並不	bk[ua b'	3
+並不指	bk[ua b' vir	1
+並沒有	bk[ua m' y'	2
+冰上	bk[ui a'	1
+冰上不好用	bk[ui a' bhcyse	1
+併	bk[wuah	1
+併不知道	bk[wuah bvd:;	1
+並不是	bkbu'	12
+並被	bkbw:p	2
+並非	bkf;	6
+餅乾	bkgj	2
+冰櫃	bkgv:s	2
+病患	bkhr	2
+並擊	bkjif	8
+並肩	bkjm:;	2
+不快	bkkn	2
+病理	bkli:g	2
+並列	bklp:g	8
+並沒有	bkmy'	5
+不可能	bkng	5
+不可能性	bkngxkn	2
+並且	bkqp	2
+並且	bkqp:e	2
+病態	bktd:d	2
+並不是	bkubu'	2
+丙烯	bkxi	7
+丙烯顏料	bkxi ejln	1
+不了	bl'	6
+不來	bld	4
+不良	bll	2
+變	bm[;c	9
+變聰明	bm[;c csmk:j	1
+變多	bm[;c do[qq	2
+變回	bm[;c hv[lk	2
+變龍	bm[;c ls[dx	1
+變體假名	bm[;c ti[wg jx[wc mk[qk	2
+遍	bm[;p	1
+遍插茱萸少一人	bm[;p ia[rv vu[ar eu[aw uc[it er'	1
+邊	bm[lp	2
+辺	bm[vpv	1
+編	bm[xa	2
+變好	bm[xt hc[vb	2
+變得	bmde	1
+變動	bmds:f	2
+編譯	bmei	2
+編譯器	bmeiqi:k	2
+變換	bmhr	2
+變幻	bmhr:x	2
+變化	bmhx:w	12
+變成	bmig:d	1
+不瞞	bmjh	2
+便箋	bmjm:t	2
+變了	bml'	2
+遍歷	bmli	4
+便利	bmli:t	2
+變臉	bmlm	1
+變臉色	bmlm se[qc	1
+編碼	bmma:d	14
+編碼庫	bmma:d ku[;l	1
+辯證	bmog	2
+辯證	bmog:;	4
+辯證法	bmogfa	4
+辯證法	bmogfa:i	2
+變色	bmse	4
+變態	bmtd	2
+變態意識形態指南	bmtd eiusxktd:d vinj	1
+編造	bmzc:t	2
+表	bn	3
+表內	bn[ge nw[mw	4
+表白	bnbd	2
+標榜	bnbh	2
+表層	bncg	2
+標點	bndm	2
+表演	bnej:i	1
+表演家	bnej:i jx[pe	1
+不能	bng	1
+不能用	bngyse	3
+不能用逗號	bngyse dzhc:k	1
+不能自给	bngziji:x	2
+不能自己	bngzijin	2
+不難	bnj	2
+表明	bnmk	2
+表明	bnmk:j	2
+表面	bnmm:d	8
+表情	bnqk:n	2
+表態	bntd:d	6
+標誌	bnvi:;	2
+標致	bnvi:g	2
+表現	bnxg	14
+表現出	bnxgi'	2
+表象	bnxl:q	10
+婊子	bnzb	2
+勃列日涅夫	bo[fl lp[gj ri[jj np[if fu[fw	2
+卜	bo[h;	4
+博弈	boei	5
+播放	bofh	2
+播放器	bofhqi	2
+播放器	bofhqi:k	4
+不正當	bogdh	4
+鉑金	bojb	2
+玻璃門	bolimf	2
+播送	boss:u	2
+不重要	bosyc	8
+發展	bovj	2
+博物館	bowtgr:q	2
+別	bp[kj	1
+別別別	bp[kj bp[kj bp[kj	2
+別碼	bp[kj ma:d	1
+別小看	bp[kj x' kj[rh	4
+別相信	bp[kj xl[sh xb[w;	2
+別的	bpd'	1
+別的人	bpdr'	2
+別於	bpeu	2
+別名	bpmk	2
+別去	bpq'	4
+別想	bpxl	2
+不去	bq'	4
+不清楚	bqkiu	2
+不確定	bqtdk	2
+不切实际	bquj	2
+不容易	brsei	2
+不如	bru	1
+不如我們	bru wmf	1
+不太	btdd	22
+不太好說	btdd hcao	1
+不停	btkw	18
+不同	bts	1
+不是	bu'	6
+不是認爲	bu' rfwy	1
+不是說	buao	2
+補丁	budk	2
+不是一種	bueot	1
+部分	buff:w	1
+不是很大	buhfda	3
+捕獲	buho	2
+不是嗎	bumak	2
+部門	bumf	2
+部門	bumf:u	2
+布匹	bupi	2
+補票	bupn:s	4
+佈置	buvi:l	8
+捕捉	buvo:r	8
+不是我	buw'	2
+部位	buww	4
+補習班	buxibj:g	2
+不只	bv'	6
+不知道	bvd:;	5
+不至於	bvieu	2
+輩子	bw[dl zb[	2
+貝	bw[m;	1
+貝平	bw[m; p'	1
+被	bw[pc	2
+被判了	bw[pc pj[uj l'	4
+被壓迫者	bw[pc yapooe:f	1
+杯子	bw[si zb[	2
+備	bw[tl	3
+備壓迫者	bw[tl yapooe:f	1
+背叛	bw[ue pj[uc	5
+背叛了尼采主義	bw[ue pj[uc l' nicdve:;	1
+被愛	bwae:e	2
+悲傷	bwah	2
+悲哀	bwai:;	2
+悲慘	bwcj:n	2
+悲觀主義	bwgrve:;	2
+背後	bwhz:r	4
+不玩	bwjg	1
+不玩玩具	bwjg wjjv	1
+北京	bwjk:;	2
+背景	bwjk:j	4
+背景性	bwjk:j xk:n	1
+悲劇	bwjv	6
+悲劇	bwjv:n	2
+悲劇性	bwjvxk:n	4
+背面	bwmm	2
+背面	bwmm:d	10
+北面	bwmm:s	2
+悖謬	bwmq:;	6
+被你	bwn'	2
+背叛了	bwpjl'	2
+不小	bx'	4
+不喜歡	bxihr	4
+不想	bxl	1
+不想回答	bxl hvda	1
+不像	bxlw	4
+不屑	bxpn	2
+不需要	bxuyc	10
+不由	by;	4
+不要	byc	45
+不要送死	byc sssi:g	1
+不由分说	byfa	4
+不願	byrd	2
+不用	bys	2
+不用	byse	8
+不在	bz'	8
+不再是	bzdu'	2
+不足	bzu	3
+不择手段	bzud	2
+才	c'	10
+纔	c'	4
+才說明白	c' aomkbd:r	1
+纔燈	c' dg[os	1
+纔會	c' hv[wc	4
+纔見過	c' jm[hq go[fp	3
+纔明白	c' mk[je bd[rr	2
+纔那麼多	c' n; me[tc do:qq	4
+才小	c' x'	1
+纔行	c' xk[th	4
+才有可能	c' y' k' ng[cx	2
+此	c;	10
+此電腦	c; dmnc	3
+此處	c; iu[hm	2
+此刻	c;ke	4
+此外	c;wd	2
+纔不	cb'	4
+纔不行	cbxk:t	2
+草	cc[aj	1
+草臺	cc[aj td[ck	12
+草臺草臺	cc[aj td[ck cc[aj td[ck	4
+草稿	ccgc	2
+操控	ccks:r	2
+操盤	ccpj:t	2
+操盤手	ccpjuz:r	2
+草臺班子	cctdbjzb	2
+操作	cczo	2
+操作	cczo:w	6
+操作工	cczog;	2
+操縱	cczs:x	6
+踩	cd[ks	1
+踩過	cd[ks go[fp	7
+財閥	cd[mt fa[ua	10
+猜	cd[qe	2
+猜不到	cd[qe b' dc[gj	2
+猜測	cdce	2
+踩點	cddm:h	2
+採購	cdgz	2
+財產	cdij	2
+菜鳥	cdnn:q	1
+菜鳥驛站	cdnn:q eivj:u	3
+菜品	cdpb	4
+菜譜	cdpu	2
+𤷕	cdu	2
+菜式	cdus	2
+財務	cdwu:c	3
+財務代理	cdwu:c ddli:g	1
+測定	cedk	1
+策略	celt:l	8
+測試	ceus	6
+測試	ceus:;	2
+層級	cgji:x	2
+層面	cgmm	4
+層面	cgmm:d	8
+蒼	ch[ab	2
+蒼炎之軌跡	ch[ab ej[oo v; gvji	1
+ち	chi:';	2
+才華	chxw	1
+詞	ci[;k	2
+次	ci[u;	4
+次是	ci[u; u'	3
+詞彙	cihv	2
+詞匯	cihv:i	8
+辭彙	cihv:x	2
+刺激	ciji:i	2
+詞庫	ciku	16
+詞庫	ciku:;	36
+詞頻	cipb:h	4
+刺探	citj:r	2
+詞條	citn:t	2
+慈祥	cixl:p	2
+次要	ciyc:s	1
+次要因素	ciyc:s ybsu:g	1
+詞源	ciyr:i	2
+詞組	cizu:x	2
+參域	cj[ce eu[fg	1
+參域文化娛樂有限公司	cj[ce eu[fg wfhx:w eule yxmb gssi:n	1
+參考一下	cj[ce kc[fn e' xx[gh	2
+餐	cj[he	2
+餐包	cj[he bc:q	3
+殘存	cjcy	2
+參與	cjeu	6
+參與	cjeu:g	4
+殘餘	cjeu:w	4
+參與者	cjeuoe:f	2
+參與人	cjeur'	2
+餐費	cjfw	2
+餐費	cjfw:x	2
+殘疾人	cjjir'	18
+慘劇	cjjv:n	2
+參加	cjjx:l	4
+慚愧	cjkv:n	2
+參照物	cjocwt	3
+餐飲	cjyb	2
+纔可	ck'	1
+纔可研	ck' ej[da	1
+纔可以	ckec	4
+纔沒	cm'	4
+才能	cng	20
+錯別字	cobpzp	2
+措施	cous	2
+錯事	cous:g	3
+纔去	cq'	4
+竄	cr[ph	1
+叢中	cs[oc os[khk	4
+從	cs[w;	1
+從上	csa'	1
+從上而下	csa' erxx:g	1
+從此	csc;	1
+從此事	csc; us[gh	1
+從而	cser	4
+從何	cshe:w	2
+從來	csld	2
+聰明	csmk:j	4
+從哪裏	csnali	2
+從這個	csog'	1
+從這個角度	csog' jndu	1
+從中	csos	2
+從前	csqm	2
+粗暴	cubc:j	2
+促成	cuig:d	2
+促進	cujb	2
+粗細	cuxi	2
+促音	cuyb:u	2
+催化	cvhx:w	3
+脆弱	cvro:x	2
+𤭢	cw[;wwn	4
+存有論	cy[db y' ly[;x	2
+存在論	cy[db z' ly[;x	2
+村	cy[sf	1
+存不存在	cybcyz'	2
+存在	cyz'	50
+存在的	cyzd'	1
+存在的滅絕	cyzd' mpjt:x	1
+湊合	czhe	2
+湊活	czho:i	2
+多多少少	d d u u[i	2
+第一抹	d e mo	10
+倒計時	d j uj[	2
+但有一個	d y e g[w	2
+電阻分量	d z f l[j	2
+的	d'	28
+的書	d' au[n;	2
+的不	d' b'	1
+的東西	d' ds[ai xi[sg	6
+的一些	d' e' xp[hf	2
+的還是	d' hd[gp u'	2
+的很難	d' hfnj:a	1
+的人	d' r'	1
+的所做	d' sz;	1
+的他	d' t'	1
+的時候	d' uj[ hz[wd	8
+的是什麼	d' uum	1
+的只的	d' v' d'	1
+的文	d' wf[;;	1
+的問題	d' wf[uk ti[jm	1
+帝	d;	6
+帝國時代	d; go[l; uj[ dd[wa	30
+帝國	d;go	8
+だ	da:';	3
+大	da:dt	1
+大出風頭	da:dt ifstz	1
+大概意思	da[dd gd[sq ei[un si[ln	2
+大概率	da[dd gd[sq lv[;f	2
+大吉	da[dd ji[fk	6
+大機器	da[dd ji[sm qi[kk	2
+大江健	da[dd jl[ia jm[wp	1
+大江健三郎	da[dd jl[ia jm[wp s; lh[;b	3
+大面具	da[dd mm[d jv[hw	2
+大傻逼	da[dd ua[wt bi[gp	6
+大文件	da[dd wf[;; jm[wh	6
+大爺大媽	da[dd ye[wb da[dd ma[vc	2
+達	da[fp	2
+打	da[rs	3
+打不動	da[rs b' ds[fl	2
+打不過	da[rs b' go[fp	2
+打不出	da[rs b' i'	8
+打不出來	da[rs b' i' ld:;	10
+打詞	da[rs ci[;k	2
+打的	da[rs d'	3
+打的不錯	da[rs d' bcoq	1
+打斷	da[rs dr[or	2
+打好	da[rs hc[vb	2
+打開	da[rs kd[ga	4
+打磨	da[rs mo[;d	2
+打破	da[rs po[dc	2
+打算	da[rs sr[ta	8
+打印	da[rs yb[qb	2
+打野	da[rs ye[jb	2
+打遊戲	da[rs yz[;p xi[ca	4
+答	da[tk	1
+妲	da[vg	2
+答案	daan	6
+大半年	dabjnm:r	2
+大病	dabk:u	2
+打不開	dabkd	2
+大部分	dabuff	6
+大背景	dabwjk:j	2
+大的	dad'	2
+大大	dada:dt	2
+大多數	dadoau:o	4
+地上的星	dadx	3
+地上的星俱樂部	dadx jvlebu	3
+答應	daek	2
+大幅度	dafudu	4
+打工	dag;	2
+大搞	dagc:r	2
+大概	dagd	1
+大概是	dagdu'	2
+達成	daig:d	8
+大廠	daih:;	18
+打擊	daji:f	3
+大集合	dajihe	2
+大講	dajl;	1
+大講特講	dajl; te[tf jl[;f	1
+大局	dajv:n	2
+大家	dajx:p	1
+大家不要	dajx:p byc	1
+だけ	dake	1
+だけなんて	dake nante	2
+大量	dall:j	10
+大陸	dalu:b	2
+大類	dalw:o	2
+大馬	dama:c	2
+大冒險	damcxm:b	2
+大腦	danc	2
+大腦	danc:e	2
+大招	daoc:r	2
+大權	daqr:s	2
+大人	dar'	2
+打回	darhv:l	4
+大唐	dath:;	9
+大唐輸入法	dath:; aur; fa[ic	1
+大他者	datoe:f	46
+大屯	daty	2
+大事	daus:g	2
+大水沖走龍王廟	dauv:i iszz:f lswh:g mn[;e	3
+大致	davi:g	6
+大小姐	daxjpv	2
+大型	daxk	2
+大寫	daxp:p	2
+大學生	daxtug	6
+大有	day'	4
+大約	dayt	4
+打遊戲	dayzxi	2
+打造	dazc:t	1
+打造一個	dazc:t eg'	1
+島	dc:q	2
+島	dc:qm	1
+到	dc[gj	2
+導向	dc[nf xl[tk	2
+灲	dc[ojh	1
+道歉信	dc[up qm[uw xb[w;	2
+倒	dc[wj	1
+稻草人	dcccr'	2
+倒錯	dcco:q	12
+到的	dcd'	4
+搗鬼	dcgv:r	2
+倒計時	dcjiuj	4
+道理	dcli	4
+道理	dcli:g	4
+倒黴蛋	dcmwdj:n	2
+到時候	dcujhz	10
+導致	dcvi:g	7
+導向	dcxl:t	2
+帶	dd[gh	2
+帶移	dd[gh ei[tq	1
+帶感	dd[gh gj:d	1
+帶給	dd[gh gw[xk	2
+帶來	dd[gh ld:;	4
+待發	dd[tf f'	1
+待發版	dd[tf f' bj:tc	1
+代表	ddbn	2
+代表	ddbn:g	9
+代表權	ddbnqr:s	2
+代表性	ddbnxk:n	4
+代詞	ddci:;	4
+帶的	ddd'	1
+帶動	ddds:f	3
+帶隊	dddv:b	2
+代議制	ddeivi:r	8
+代言人	ddejr'	2
+待遇	ddeu	6
+帶出	ddi'	2
+殆盡	ddjb	2
+代理	ddli:g	3
+代理人	ddlir'	2
+代碼	ddma:d	4
+代替	ddti	2
+代替	ddti:f	2
+で	de	1
+でも	de mo	3
+で	de:';	1
+でも	de:'; mo:';	3
+の	de[nn	3
+得	de[tf	2
+德	de[tn	2
+德格	de[tn ge[sk	2
+德斯	de[tn si[ar	1
+得到	dedc	8
+得到	dedc:g	21
+得到就盤	dedc:g j' pj[tl	1
+的一個	deg'	2
+德勒茲	delezi:a	1
+德勒茲的	delezi:a d'	1
+德性	dexk:n	2
+扽	df[rn	6
+燈	dg[os	1
+等	dg[tf	1
+等不到	dg[tf b' dc[gj	2
+等不急	dg[tf bjiq	1
+登	dg[wu	1
+登不上	dg[wu ba'	1
+等待	dgdd	8
+等一下	dgexx	4
+登錄	dglu	2
+登錄不上	dglu ba'	1
+登錄號	dglu hc[kn	3
+等你	dgn'	2
+等着	dgo;	2
+等下	dgxx:g	2
+當	dh:iv	2
+當成一個	dh:iv ig[dt e' g'	2
+當你	dh:iv n'	4
+當我說	dh:iv w' ao[;q	2
+當代	dhdd:w	8
+當地	dhdi	4
+當個	dhg'	4
+當成	dhig:d	1
+當你	dhn'	2
+當年	dhnm:r	2
+當真	dhof:f	2
+當中	dhos	16
+當中	dhos:k	14
+當然	dhrj	6
+當然	dhrj:q	16
+當時	dhuj	6
+當我	dhw'	2
+的話	dhx	1
+當下	dhxx	34
+黨員	dhyr	2
+地	di[fb	2
+地星	di[fb xk[jg	15
+翟	di[n;	1
+抵	di[r;	1
+抵的上	di[r; d' a'	1
+笛子	di[tm zb[	1
+第一次	di[tt e' ci[uw	2
+第二重	di[tt e; is[tf	2
+第六個	di[tt l; g'	1
+第六個人	di[tt l; g' r'	3
+第三方	di[tt s; fh[;n	2
+第三個	di[tt s; g'	2
+第三人稱	di[tt s; r' ig[ti	2
+低	di[w;	1
+地上	dia'	2
+地上的星	diadxk:j	19
+地上的星活動剪輯	diadxk:j hods jmji	1
+地說	diao:;	1
+底層	dicg	1
+底層	dicg:n	39
+地道	didc:u	6
+地點	didm:h	2
+低端	didr	1
+敵對	didv	1
+第二	die;	2
+第二次	die;ci	2
+第二個	die;g'	4
+第二場	die;ihf	2
+第二章	die;vh	1
+第二章圖	die;vh tu[lk	1
+第二張	die;vhx	2
+第一步	diebu	2
+第一步	diebuh	2
+第一次	dieci	6
+第一個	dieg'	13
+第一個問題	dieg' wfti	1
+敵意	diei:u	3
+第一種	dieot	2
+低於	dieu:g	1
+地獄	dieu:q	5
+地獄拉麵	dieu:q lamm:d	3
+地獄拉面	dieu:q lammd	1
+地方	difh:;	1
+提防	difh:b	2
+低級	diji:x	2
+笛卡爾	dikaer:q	4
+第六	dil;	9
+第六階次	dil; jpci:u	4
+地理環境	dilihrjk:f	2
+地名	dimk:q	2
+第七	diq;	1
+第七階次	diq; jpci:u	3
+敵人	dir'	2
+第三方	dis;fh	2
+底色	dise:q	2
+第五屆	diw;jp	1
+第五屆才處	diw;jp c' iu[hm	1
+地星	dixk:j	2
+地下室	dixxus	2
+地下室	dixxus:p	2
+單	dj:uf	1
+但	dj:wg	3
+但感覺	dj:wg gj:;	1
+但實其實	dj:wg up[ qiup	1
+丹	dj[m;	1
+丹林	dj[m; lb[ss	1
+蛋	dj[nj	1
+但是	dj[wg u	9
+但是毫無疑問	dj[wg u hcwueiwf:u	3
+但實際	dj[wg up[ ji[bi	2
+但我們	dj[wg w' mf[wu	2
+但也	dj[wg ye:bn	4
+單一	dje'	2
+丹萸	djeua	6
+蛋糕	djgc	5
+蛋糕	djgc:o	2
+咄嗟立办	djlb	2
+丹尼爾	djnier	2
+但這個	djog'	3
+但這個問題	djog' wfti	1
+單品	djpb	2
+但其實	djqiup	2
+膽怯	djqp	2
+但是這個問題	dju' og' wf[uk ti[jm	4
+但是這個問題已經得到解決了	dju' og' wf[uk ti[jm ei[nn jk[xa de[tf dc[gj jp[qh jt[iw l'	2
+但是其实	djuqiup	6
+但是我	djuw'	1
+但是我知道	djuw' vd:;	3
+但我	djw'	6
+但我也	djw' ye:bn	1
+膽小	djx'	1
+膽小菇	djx' gu[ad	2
+膽小菇之夢	djx' gu[ad v; mg[sq	1
+擔心	djx;	2
+單向	djxl:t	2
+但也	djye	2
+單頁	djye	2
+單元	djyr:f	1
+但有時候	djyujhz	3
+但有時候太長了還是有問題	djyujhz tdihl' hduy' wfti	1
+單字	djzp	1
+盯着	dk[hs o;	2
+定	dk[ph	1
+定奪	dk[ph do:df	2
+定已過	dk[ph eigo:f	1
+定力	dk[ph li[ln	4
+定身	dk[ph uf[tt	2
+定義	dkei	5
+定義	dkei:;	16
+鼎力	dkli:l	2
+定律	dklv	2
+訂制	dkvir	2
+定型	dkxk	2
+定在	dkz'	2
+的了	dl'	4
+的臉	dlme	1
+德勒兹	dlzi:u	5
+德勒兹和	dlzi:u h'	1
+德勒兹主義	dlzi:u ve:;	5
+店	dm[;k	3
+店招	dm[;k oc[rk	1
+點心店	dm[ho x; dm[;k	2
+電	dm[jn	1
+電壓力鍋	dm[jn yali:l go[qw	1
+電影	dmek:j	2
+電影是	dmek:j u'	3
+電池	dmii	2
+點金	dmjbq	4
+點進去	dmjbq'	6
+電流	dmlq:i	1
+電流聲	dmlq:i ug[fb	1
+電腦	dmnc	1
+點鐘	dmos	1
+電臺	dmtd:c	2
+電視劇	dmusjv	4
+點位	dmww	2
+點位	dmww:w	2
+典雅	dmya:a	4
+電壓	dmya:d	1
+電壓愛情	dmya:d aeqk:n	3
+電源	dmyr	2
+店員	dmyr:k	2
+電子書	dmzbau:n	10
+電子廠	dmzbih:d	2
+的那個	dn;g'	2
+調研室	dn[;k ej[da us[pf	2
+叼	dn[kn	1
+叼人	dn[kn r'	1
+屌	dn[nh	1
+掉	dn[rj	1
+屌樣	dneh:s	2
+調查	dnia	2
+凋亡	dnwh	2
+掉線	dnxm	4
+調用	dnys:e	2
+多	do:qq	7
+多說說	do:qq aoao:;	1
+多比較	do:qq bijn	1
+多達	do:qq da[dp	4
+多大的	do:qq dad'	3
+多放	do:qq fh[;t	3
+多付	do:qq fu[wf	2
+多加	do:qq jx:lk	2
+多來來	do:qq ld ld	1
+多重要	do:qq os[tf yc[sv	2
+多想想	do:qq xl[sn xl[sn	2
+多遠	do:qq yr[fp	2
+多元	do:qq yr[fq	2
+躲藏	doch	2
+多大	doda:dt	2
+多打	doda:r	2
+多出	doi'	3
+多出兩個否定性	doi' llg' fzdkxk:n	1
+どこ	doko	1
+どこへ	doko he:';	3
+多了	dol'	3
+多了好多	dol' hcdo	1
+墮落	dolo	2
+墮落	dolo:a	2
+多慮	dolv:h	2
+多麼	dome:;	2
+多重	doos:t	6
+多種	doot	2
+多個	doqg'	2
+多人	dor'	2
+多算	dosrt	2
+dota2	dotae;	2
+惰性	doxk:n	10
+多線程	doxmig	2
+跌落	dplo	2
+跌落	dplo:a	1
+的人	dr'	1
+段	dr[wc	1
+斷斷續續	drdrxuxu:x	2
+斷言	drej:;	2
+短語	dreu:;	2
+端口	drkz	4
+端口	drkz:k	4
+鍛煉	drlm	12
+斷裂	drlp	2
+短路	drlu	12
+短路	drlu:k	4
+短暫	drzj:l	2
+東	ds[ai	2
+東旭	ds[ai xu[vj	2
+動	ds[fl	2
+動隙會	ds[fl xi[bi hv	1
+動做	ds[fl z;	1
+懂	ds[nf	1
+懂了	ds[nf l'	4
+冬蔭功	ds[tu yb[ae gs[al	2
+動詞	dsci:;	10
+東風	dsfs	3
+東風來了	dsfs ldl'	1
+動畫	dshx	8
+動漫	dsmj	1
+動漫角色	dsmj jtse	1
+東坡肉	dsporz:m	2
+冬青	dsqk:g	4
+冬日	dsri	6
+凍死	dssi:g	2
+動態	dstd	2
+動態	dstd:c	1
+動態博弈	dstd:c boei	1
+冬天	dstm:g	4
+動物	dswt	3
+動作	dszo:w	10
+獨裁	ducd:f	2
+讀到	dudc:g	1
+的是一個	dueg'	6
+的時候	duh	3
+的時候怎麼樣了	duh zfmeehl'	1
+獨立	duli:u	2
+讀音	duyb:u	2
+肚子疼	duzbtg	2
+對	dv[cf	1
+對昂	dv[cf am[jb	2
+對不對	dv[cf b' dv[cf	4
+對不起	dv[cf b' qi[fn	2
+對地方	dv[cf difh:;	1
+對茗	dv[cf mk[ak	1
+對你們	dv[cf n' mf[wu	2
+對這些	dv[cf o' xp[hf	2
+對我來說	dv[cf w' ld:; ao[;q	2
+對我們	dv[cf w' mf[wu	2
+堆	dv[f;	1
+對啊	dva;	10
+對不對	dvbdv	2
+對比	dvbi	2
+對比	dvbi:x	4
+對半	dvbj	2
+對不起	dvbqi	2
+對此	dvc;	2
+對的	dvd'	8
+對待	dvdd:t	2
+對的對的	dvddvd'	2
+對得起	dvdeqi	2
+對應	dvek	2
+對應	dvek:;	10
+對於	dveu	8
+對於	dveu:g	28
+對話	dvhx	2
+對稱	dvif:t	2
+對焦	dvjn	2
+對抗	dvkh	4
+對了	dvl'	4
+對立	dvli:u	2
+對立面	dvlimm:d	12
+對嗎	dvma:k	2
+對面	dvmm:d	2
+對你	dvn'	12
+對他	dvt'	1
+對撞	dvvl	2
+對我	dvw'	2
+對外	dvwd:q	3
+對外不世界	dvwd:q b' usjp:l	1
+對象	dvxl	18
+對象	dvxl:q	8
+對向	dvxlt	2
+對線	dvxmx	6
+對自己	dvzj;	2
+得	dw[tf	2
+当务之急	dwvj	4
+的行為	dxkwy	1
+蹲	dy[kf	1
+噸	dy[km	1
+噸抗	dy[km kh[rm	1
+都	dz[fb	2
+都不會	dz[fb b' hv[wc	2
+都不需要	dz[fb b' xu[fj yc[sv	2
+都比較	dz[fb bi[xx jn[lq	2
+都不知道	dz[fb bvd:;	3
+都當成	dz[fb dh:iv ig[dt	2
+都放	dz[fb fh[;t	1
+都肯定有	dz[fb kfdky'	1
+都沒法	dz[fb m' fa[ic	2
+都慢	dz[fb mj[nc	1
+都滿足	dz[fb mjzu:k	1
+都這樣	dz[fb o' eh[sd	2
+都去掉	dz[fb qdn	1
+都是從哪裏挖出來的	dz[fb u' cs[w; nali wa[rn ildd'	1
+逗	dz[gp	1
+逗貓棒	dz[gp mc[qo bh[sd	5
+都說	dzao:;	2
+都不	dzb'	4
+都不應當	dzb' ekdh	1
+都不買	dzb' md[lm	1
+都不重要	dzb' osyc	1
+都不漂亮	dzb' pnll	1
+都不會	dzbhv	4
+都被	dzbw	2
+都被	dzbw:p	2
+兜底	dzdi:;	2
+都以	dzec	2
+豆腐	dzfu	6
+都好	dzhc	2
+逗號	dzhc:k	4
+都很	dzhf	2
+都會	dzhv	2
+都會	dzhv:w	10
+都可以	dzkec	12
+抖m	dzm	2
+都沒	dzm'	2
+都沒有	dzmy'	6
+都能夠	dznggz	2
+鬥爭	dzog	4
+鬥爭	dzog:e	4
+都去	dzq'	4
+都認為	dzrfwy	2
+抖s	dzs	4
+都是	dzu'	2
+都知道	dzvd:;	4
+豆汁	dzvi:i	2
+都無	dzwu:f	2
+都像	dzxl:w	4
+都需要	dzxuyc:s	2
+都有	dzy'	7
+都有村	dzy' cy[sf	1
+都有笑	dzy' xn[td	1
+都有效	dzy' xn[ut	3
+都要	dzyc	4
+都要	dzyc:s	2
+都在	dzz'	1
+都在看着你	dzz' kjo;n'	1
+玉置浩二	e v h e[f	4
+魚王館	e w gr	2
+英雄聯盟	e x l m[j	4
+硬要說	e y ao	2
+一	e'	13
+一瞬間	e' ay[hh jm[uj	6
+一般般	e' bj[tc bj[tc	2
+一般來說	e' bj[tc ld:; ao[;q	2
+一變	e' bm[;c	1
+一變再變	e' bm[;c zd[gf bm[;c	5
+一邊倒	e' bm[lp dc[wj	4
+一杯	e' bw[gilf	2
+一次	e' ci[u;	4
+一得	e' de[tf	1
+一得格拉米	e' de[tf gela mi[o;	1
+一德格拉米	e' de[tn ge[sk la[ru mi[o;	1
+一旦	e' dj[jg	2
+一定	e' dk[ph	13
+一定會	e' dk[ph hv[wc	2
+一定限度	e' dk[ph xmdu:;	1
+一點	e' dm[ho	42
+一點點	e' dm[ho dm[ho	5
+一蹲	e' dy[kf	3
+一遇到	e' eu[jp dc[gj	8
+一份	e' ff[wwv	2
+一方面	e' fh[;n mm[d	4
+一股	e' gu[ec	14
+一件事	e' jm[wh us[gh	2
+一階	e' jp[bj	24
+一屆	e' jp[nm	2
+一開始	e' kd[ga us[vk	4
+一看	e' kj[rh	2
+一類	e' lw[od	4
+一面	e' mm[d	2
+一整個	e' og[gh g'	2
+一套	e' tc[dd	2
+一趟	e' th[fk	2
+一天	e' tm[gd	6
+一團漿糊	e' tr[lt jl[ui hu[odeg	2
+一首歌	e' uz[uh ge[sw	4
+一致性	e' vi[gt xk[ng	6
+一晚上	e' wj[jq a'	2
+一小	e' x'	1
+一系列	e' xi[ti lp[gj	2
+一線	e' xm:x	12
+一些	e' xp[hf	2
+一些東西	e' xp[hf ds[ai xi[sg	2
+一下	e' xx[gh	21
+一下窗	e' xx[gh il[pq	1
+一在	e' z'	1
+え	e:';	3
+える	e:'; ru:';	1
+二	e;	13
+二房	e; fh[;;	2
+二方	e; fh[;n	1
+二鬼子	e; gvzb	1
+二碼	e; ma:d	3
+二位	e; ww[wg	2
+二分	e;ff	6
+二級	e;jix	6
+二階	e;jp:b	10
+二屆	e;jpn	2
+二樓	e;lz	2
+二人	e;r'	2
+二十	e;u;	14
+二十多	e;u; do:qq	1
+二十幾歲	e;u; jisv	1
+二十三	e;u;s;	4
+二十四	e;u;si	4
+二十五	e;u;w;	8
+二手	e;uz	2
+一上	ea'	4
+一瞬間	eayjm	2
+一不	eb'	4
+一板一眼	ebee	4
+一本	ebf	1
+一幫	ebhd	2
+一半	ebj	2
+一般	ebj	26
+一般的	ebjd'	1
+一般化	ebjhxw	6
+一般	ebjt	2
+以	ec[	3
+以上	eca'	4
+以此类推	ecc;lwtv:r	2
+以後	echz	7
+以後有機會	echz y' jihv	1
+一次	eci	2
+一次	eciu	4
+一次是	eciu'	2
+以免	ecmm	1
+以太	ectd	2
+以往	ecwh:t	4
+一大片	edapm	4
+一道	edc	2
+一到	edcg	2
+一刀	edcv	2
+云淡风轻	edfq	2
+一旦	edj	2
+一定	edk	6
+一點	edm	4
+一點都不急	edm dz[fb bjiq	1
+一點	edmh	4
+一段	edrw	6
+一堆	edvf	3
+一堆男孩子	edvf njhdzb	1
+一一	ee'	2
+一二級	ee;jix	2
+呃	ee[kb	2
+呃呃	ee[kb ee[kn	8
+俄	ee[wt	1
+一以贯之	eegv	2
+一樣	eeh:s	4
+一言	eej;	2
+惡疾	eeji:u	1
+惡魔	eemo	1
+惡魔吹着笛子來	eemo ivo; di[tm zb[ ld	1
+惡女	eenv	2
+餓死	eesi:g	2
+一遇	eeu	2
+一遇	eeu:j	4
+一語	eeu;	4
+扼殺	eeua	2
+額外	eewd	2
+噁心	eex;	6
+複	ef[tt	4
+一方面	efhmm	2
+一幅	efu	2
+一個	eg'	559
+一個死亡的主體	eg' sw:; d' vt:;	1
+一個個	egg'	4
+一個人	egr'	4
+一貫	egr:x	2
+一個是	egu'	6
+一個小時	egxuj	2
+一個月	egyt	1
+一個字	egzp	2
+陽	eh[bj	1
+洋流	eh[id lq[iq	2
+樣	eh[sd	3
+養	eh[uj	5
+洋蔥	ehcs:a	2
+陽和平	ehhp'	2
+陽具	ehjv:h	11
+陽具享樂	ehjv:h xlle:q	1
+樣片	ehpm	8
+樣子	ehzb	4
+已	ei:nx	3
+已正華	ei:nx oghxw	1
+已只發	ei:nx vf'	1
+奕	ei[;d	2
+奕林	ei[;d lb[ss	1
+頤和園	ei[am h' yr[lq	2
+異	ei[na	2
+異議	ei[na ei[;;	6
+異星	ei[na xk[jg	1
+異星旅人	ei[na xk[jg lvr'	1
+已知	ei[nn vi[tk	4
+已經	ei[nx jk[xa	8
+移	ei[tq	1
+移情	ei[tq qk[ne	2
+疫情	ei[uc qk[ne	2
+意	ei[un	1
+意識裏面	ei[un us[;w li[jf mm[d	2
+意志論	ei[un vi[fn ly[;x	2
+伊	ei[wv	1
+伊德格拉米	ei[wv de[tn ge[sk la[ru mi[o;	1
+醫保	eibc:w	20
+易懂	eids:n	2
+移動硬盤	eidsekpj:t	2
+意義	eiei	1
+意義上	eieia'	2
+依法	eifa:i	1
+已過	eigo:f	1
+一場	eih	7
+一場滑稽戲	eih hxjixi:c	1
+頤和園	eihyr	2
+以後	eihz:r	2
+已經	eijk	4
+已經得到解決了	eijk de[tf dc[gj jpjt l	4
+已經得到解決了	eijk dedc:g jpjtl'	1
+已經解決了	eijk jpjtl'	1
+已經的	eijkd'	2
+已經得到	eijkdedc	3
+依賴於	eildeu:g	1
+醫療	eiln	2
+意料	eiln:o	2
+議論	eily	2
+議論	eily:;	2
+以免	eimm:q	1
+一筹莫展	eimv	2
+異種	eiot	2
+儀器	eiqi	1
+以前	eiqm:u	4
+意思	eisi	2
+議題	eiti:j	32
+意圖	eitu	1
+意圖不軌	eitu bgvl	1
+儀式	eius	2
+意識	eius:;	5
+議事	eius:g	2
+意識到	eiusdc	2
+意識形態	eiusxktd:d	1
+意志	eivi	2
+意志	eivi:f	2
+移植	eivi:s	7
+移植過去	eivi:s goq'	1
+異質性	eivixkn	2
+驛站	eivj:u	1
+意味着	eiwwo;	2
+依稀	eixi:t	2
+異性	eixk:n	2
+意淫	eiyb:i	4
+醫院	eiyr:b	1
+言說	ej[;; ao[;q	2
+研	ej[da	1
+嚴不嚴	ej[gd b' ej[gd	2
+眼	ej[h;	1
+眼波	ej[he bo[ic	2
+眼前一亮	ej[he qm[uj e' ll[;m	2
+煙	ej[od	1
+炎	ej[oo	2
+顏色革命	ej[um se[qc ge[af mk[wb	2
+言說	ejao	2
+演變	ejbm:;	2
+煙波	ejbo:i	2
+延異	ejein	2
+閹割	ejge:p	16
+眼光	ejgl:i	2
+演出	eji'	2
+一級	ejix	6
+眼睛	ejjk:h	1
+厭倦	ejjr	2
+眼裏	ejli:j	4
+顏料	ejln	1
+一簡	ejm:t	6
+淹沒	ejmo:i	2
+湮滅	ejmp	2
+一件	ejmw	2
+炎症	ejog:u	1
+贗品	ejpb:k	6
+厭棄	ejqi:;	4
+顏色	ejse	4
+顏色	ejse:q	4
+鹽酸	ejsr	2
+演算	ejsr:t	2
+嚴肅	ejsu	4
+嚴肅性	ejsuxk:n	2
+眼珠	ejvu:g	2
+眼珠子	ejvuzb	2
+一家人	ejxr'	2
+一家之言	ejxv;ej:;	2
+演員	ejyr	1
+嬴蕩	ek[;; dh[ar	4
+應	ek[;d	1
+英雄聯盟	ek[ad xs[d; lm[bd mg[jl	2
+應當	ekdh	5
+應當	ekdh:i	6
+一開始	ekdus	2
+嬰兒	eker:q	2
+應該	ekgd:;	5
+迎合	ekhe	2
+一塊	ekk	4
+一塊	ekkf	4
+英靈	eklk:f	2
+硬盤	ekpj	2
+映射	ekue	2
+影視	ekus	1
+影視羣	ekus qy[vtkd	1
+應為	ekwy	2
+營銷	ekxn	4
+一口	ekz	3
+一口痰	ekz tj[uo	1
+影子	ekzb	2
+一了	el'	4
+一來二去	elde;q'	2
+一類	elw	4
+誒	em[;d	5
+一碼	ema:d	4
+一毛	emc	1
+一門	emf	2
+一名	emkq	2
+一面	emm	2
+一面	emmd	2
+一年	enm	2
+疑难杂症	enzo	2
+一着	eo;	1
+一種	eot	163
+一平	ep'	4
+一匹	epia	2
+一劈	epin	2
+一瞥	epp	2
+一去	eq'	4
+一起	eqi	2
+一期	eqia	1
+一期期	eqia qi:ae	1
+一起	eqif	16
+一切	eqp	1
+一切歷史	eqp lius	1
+一圈	eqr	3
+一人	er'	8
+而不可能	er[dj b' k' ng[cx	2
+而這些	er[dj o' xp[hf	2
+兒	er[qn	1
+兒這	er[qn o'	1
+而把	erba:r	2
+而不是	erbu'	4
+而已	erei	6
+而言	erej:;	2
+耳機	erji	2
+而來	erld	3
+而來	erld:g	2
+而這個	erog'	2
+而這種	eroot	2
+而且	erqp	2
+而且不會	erqp bhv	1
+而且要有	erqp ycy'	1
+而如果	errugoj	2
+兒童	erts:u	1
+兒童拉丁語	erts:u ladkeu:;	1
+而是一個	erueg'	2
+而我	erw'	2
+而下	erxx:g	1
+一他	et'	4
+一套	etc	4
+一臺	etd	4
+一天到晚	etdw	2
+一談	etj;	2
+一天	etm	4
+一條	etnt	4
+一團糟	etrzco	2
+語料	eu[;k ln[of	16
+於	eu[;u	2
+預期	eu[cm qi:ae	2
+玉	eu[g;	1
+於	eu[gf	23
+於學的	eu[gf xtd'	1
+於越陽	eu[gf yt[ft eh[bj	1
+宇	eu[pf	3
+宇藉	eu[pf ji[aj	1
+魚	eu[qo	2
+魚奶	eu[qo nd:ve	1
+與此同時	euc;tsuj	2
+遇到	eudc	2
+遇到	eudc:g	12
+餘地	eudi:f	2
+語言	euej	1
+愈發	euf'	4
+語匯	euhv:i	2
+語境	eujk:f	2
+語境主義	eujkve:;	2
+語句	eujv:q	2
+娛樂	eule	5
+預料	euln	4
+魚露	eulu:f	5
+語錄	eulu:q	2
+輿論	euly:;	2
+羽毛球	eumcqq	2
+玉米	eumi	1
+玉米排骨	eumi pdgu	1
+玉面	eumm:d	1
+宇宙	euoz	5
+宇宙海賊王	euoz hdzwwh:g	1
+預期	euqi	6
+語氣	euqi:r	1
+與其	euqia	2
+於是	euu'	2
+預設	euue	6
+慾望	euwh	104
+慾望	euwh:;	2
+慾望化	euwhhx:w	3
+遇險	euxm:b	2
+預先	euxm:t	2
+意識形態	euxt	2
+雨雪	euxt	2
+雨雪	euxt:f	4
+語音	euyb	2
+語音	euyb:u	4
+一只	ev'	6
+一只眼	evejh	2
+一直	evi	8
+一直	evi:f	26
+一直	evif	20
+一幢	evl	1
+一無	ewu	1
+一無網	ewu wh[xn	1
+一位	ewww	1
+一小	ex'	2
+烟消云散	exes	2
+一系列	exilp	2
+一向	exlt	4
+一些	exp	1
+一些時間	expujm	2
+一下	exx	5
+一下子	exxzb	2
+雲	ey[fc	1
+雲棲竹徑	ey[fc xi[sg vu[th jk[ta	1
+運動覺	ey[fp ds[fl jt[iq	2
+運鏡	ey[fp jk[qq	2
+雲端	eydr:u	2
+韻母	eymu:x	2
+運轉	eyor	2
+運轉	eyor:l	2
+一員	eyrk	2
+一躍	eytk	2
+鄖西	eyxi:s	1
+鄖西竹徑	eyxi:s vu[th jk[ta	1
+運行	eyxk:t	5
+運行起來	eyxk:t qild	1
+菲勒斯	f l si	24
+費希特	f x te	2
+發	f'	11
+發不	f' b'	1
+發表	f' bn[ge	2
+發佈	f' bu[wdmh	2
+發一	f' e'	3
+發育	f' eu[;e	2
+發給	f' gw[xk	2
+發黃	f' hl[aw	4
+發酵	f' jn[sb	10
+發酵罐	f' jn[sb gr[r;	2
+發開	f' kd[ga	1
+發離	f' li[;;	1
+發票	f' pn[si	2
+發起人	f' qi[fn r'	2
+發只	f' v'	3
+發展	f' vj[ne	14
+發作	f' zo[wf	2
+非	f;	10
+非敵對	f; didv	1
+非敵意	f; diei:u	1
+非關係	f; grxi	1
+非處方	f; iu[th fh[;n	2
+非鏡像	f; jk[qq xl[we	1
+非女性	f; nvxk:n	1
+非主體性	f; vutixk:n	1
+非性	f; xk:n	1
+非洲	f;oz	1
+非洲的	f;oz d'	2
+非洲的階級鬥爭	f;oz d' jjdo	1
+非同	f;ts	2
+非要	f;yc	2
+法	fa[ic	6
+法抗	fa[ic kh[rm	4
+法普妲	fa[ic pu[uj da[vg	1
+法僕妲	fa[ic pu[w; da[vg	3
+法僕塔	fa[ic pu[w; ta[fk	1
+法式	fa[ic us[aa	2
+法線貼圖	fa[ic xm:x tp[mk tu[lu	2
+法國	fago:l	2
+發酵	fajn:s	2
+法蘭西	faljxi	2
+法蘭西	faljxi:s	2
+法律	falv	4
+法律	falv:t	2
+法師	faus:j	4
+乏味	faww	1
+乏味感	faww gj:d	1
+乏味	faww:k	4
+法西斯	faxisi:a	2
+法則	faze	2
+發病	fbku	8
+發的	fd'	5
+ふぇ	fe:';	4
+フェ	fe:';	1
+フェロモン	fe:'; ro:'; mo:'; n:';	1
+分	ff:wv	1
+分不分手	ff:wv b' ffuz	1
+分门	ff:wv mf[un	4
+分者	ff:wv oe[fj	1
+分起來	ff:wv qild	5
+分三部分	ff:wv s; buff:w	1
+鱝	ff[qm	1
+鱝出來	ff[qm ild	1
+份	ff[wv	1
+分離主義	ff[wv li[;c ve:;	12
+分析哲學	ff[wv xi[sr oe[rk xt[ib	2
+分享一下	ff[wv xl[;b e' xx[gh	2
+分數	ffau	2
+分別	ffbp:k	2
+分佈	ffbu	2
+粉刺	ffci	2
+分詞	ffci:;	2
+奮鬥	ffdz:h	1
+奮鬥逼	ffdz:h bi[gp	1
+份額	ffee:p	4
+紛紛	ffff:x	2
+紛繁	fffj:t	1
+分公司	ffgssi	2
+分號	ffhc:k	1
+分開	ffkd:g	2
+分離	ffli:;	18
+分離助	ffli:; vu[el	1
+分裂	fflp	16
+分裂	fflp:g	3
+分類	fflw	2
+分泌	ffmi:i	2
+分明	ffmk:j	2
+分鐘	ffos	2
+分配	ffpw	2
+分散	ffsj:a	2
+分手	ffuz	1
+分析	ffxi	2
+分析	ffxi:s	2
+分析師	ffxius:j	4
+分享	ffxl	14
+分享	ffxl:;	4
+分贓	ffzh:m	8
+房	fh:;n;	3
+方	fh[;g	1
+方得	fh[;g de[tf	1
+方	fh[;n	2
+放	fh[;t	3
+放不放棄	fh[;t b' fh[;t qi[;a	1
+放大	fh[;t da[dd	2
+防	fh[b;	1
+防年	fh[b; nm[rf	1
+方案	fhan	2
+方案	fhan:p	37
+方便	fhbm	12
+方便	fhbm:w	4
+防禦	fheu:t	4
+房間	fhjm	2
+方括號	fhkohc:k	2
+放了	fhl'	2
+方臘	fhla:e	2
+方面	fhmm	8
+放屁	fhpi:n	4
+放棄	fhqi	10
+放棄	fhqi:;	2
+放任	fhrw	2
+放鬆	fhss	2
+訪談	fhtj:;	2
+同治	fhua:i	1
+同治所	fhua:i s'	1
+防曬	fhud	2
+防止	fhvi:h	2
+仿製	fhvi:r	1
+仿製藥	fhvi:r yc[a;	1
+發揮	fhvr	2
+放心	fhx;	2
+方向	fhxl	4
+房子	fhzb	2
+非常	fi:;	18
+非常非常	fi:; fi:;	1
+非常正常	fi:; ogih	1
+𢇪	fj;	2
+範海辛	fj[ab hd[iu xb[uh	2
+範式	fj[ab us[aa	2
+泛心論	fj[ip x; ly[;x	12
+泛性論	fj[ip xk[ng ly[;x	4
+犯病	fj[qb bk[uw	2
+反	fj[rc	3
+反依法	fj[rc eifa:i	1
+反唱	fj[rc ih[kj	1
+反結構主義	fj[rc jpgzve:;	1
+反人類	fj[rc r' lw[od	2
+犯病	fjbk:u	6
+反駁	fjbo	2
+飯店	fjdm	2
+反動	fjds:f	1
+反動力量	fjds:f lill:j	3
+反動派	fjdspd:i	2
+反對者	fjdvoe:f	2
+翻譯	fjei	1
+翻譯一下日語	fjei exx rieu	1
+翻譯	fjei:;	2
+翻譯成	fjeiig:d	4
+翻譯器	fjeiqik	2
+反而	fjer	4
+反而	fjer:d	2
+犯規	fjgv	2
+返回	fjhv:l	2
+反悔	fjhv:n	2
+翻唱	fjih	2
+飯吃	fjiik	2
+範疇	fjiz:l	8
+反擊	fjji:f	2
+飯局	fjjv	2
+翻看	fjkj	2
+反正	fjog	30
+反正	fjog:g	47
+反正已經解決了	fjog:g eijk jpjtl'	1
+番茄	fjqp	5
+番茄炒蛋	fjqp icdj	3
+番茄醬	fjqpjl	2
+反思	fjsi:l	4
+反彈	fjtj:x	2
+反推	fjtv:r	2
+反射	fjue:t	1
+反射性	fjue:t xk:n	1
+翻身	fjuf	2
+範圍	fjww	4
+凡有	fjy'	1
+反因果	fjybgoj	2
+發了	fl'	6
+锋芒毕露	fmbl	2
+發明	fmkj	2
+覅	fn[svqr	4
+發着	fo;	1
+發情	fqkn	2
+風	fs	1
+風花勳	fs h; xy[tl	1
+縫	fs[xp	1
+縫創出麪	fs[xp ili' mm[swwn	1
+封閉	fsbi	2
+風雨	fseu	2
+風花	fsh;	3
+风花雪月	fsh;xtyt:e	16
+風雷	fslw:f	6
+蜂蜜	fsmi:p	4
+風情	fsqk:n	4
+瘋人	fsr'	2
+發酸	fsrs	2
+風聲	fsug:f	2
+封裝	fsvl	10
+縫隙	fsxi:b	35
+縫隙小	fsxi:b x'	1
+發他	ft'	2
+翻天覆地	ftfd	2
+ふ	fu:';	1
+フ	fu:';	1
+フープ	fu:'; ;'; pu:';	1
+ふところ	fu:'; to:'; ko:'; ro:';	1
+服了	fu[ec l'	2
+輔助碼	fu[l; vu[el ma[dc	64
+福音	fu[p; yb[uj	2
+符	fu[tf	1
+符號系統	fu[tf hc[kn xi[ti ts[xq	10
+婦	fu[vh	1
+婦啥買	fu[vh ua[kk md[nd	1
+俯下	fu[w; xx[gh	1
+俯下身子	fu[w; xx[gh ufzb	1
+弗	fu[xj	2
+弗和	fu[xj h'	1
+弗化學	fu[xj hxxt:i	1
+福安	fuan	7
+福安文學	fuan wfxt:i	1
+複數	fuau:k	2
+發燒	fuco	4
+服從	fucs	2
+服從	fucs:w	8
+負擔	fudj:r	1
+賦予	fueu:c	2
+覆蓋	fugd:a	4
+副官	fugr	4
+富豪	fuhc:;	3
+符號	fuhc:k	2
+符號學	fuhcxt:i	33
+附後	fuhz:r	2
+付出	fui'	2
+副產品	fuijpb	2
+福柯	fuke:s	10
+婦科	fuke:t	2
+負面	fumm:d	5
+負面醜聞	fumm:d izwf:u	1
+負面影響	fummekxl:k	2
+膚淺	fuqm:i	8
+膚淺地	fuqm:i di[fb	5
+父權	fuqr:s	2
+父權制	fuqrvi:r	2
+付之一笑	fuv;exn:t	2
+複製	fuvi:r	4
+附着	fuvo	2
+輔助	fuvu	1
+輔助	fuvu:e	1
+服務	fuwu	1
+服務器	fuwuqi:k	2
+服用	fuys:e	4
+複雜	fuza	2
+複雜	fuza:;	2
+負責	fuze	2
+負責人	fuzer'	2
+負責任	fuzerw	6
+副總裁	fuzscd:f	2
+菲	fw[ad	1
+菲勒斯	fw[ad le[al si[ar	12
+肥	fw[ec	1
+飛	fw[nh	1
+飛機	fw[nh ji[sm	2
+飛鍵	fw[nh jm[qp	6
+飛走了	fw[nu zz[fh l'	1
+費希特	fw[xm xi[qh te[tf	2
+𩇽	fwg	2
+飛鴿	fwge	2
+菲共	fwgs:a	3
+飛翮	fwhe:g	2
+飛馳	fwii:c	3
+飛馳而來	fwii:c erld	1
+廢除	fwiu:b	2
+費勁	fwjb	2
+費勁	fwjb:c	2
+飛機	fwji	1
+飛機餐	fwji cj[he	1
+飛劍	fwjm:w	2
+飛鳥	fwnn:q	2
+廢銅爛鐵	fwtsljtp:q	4
+廢墟	fwxu:f	1
+廢墟色情	fwxu:f seqk:n	1
+發小	fx'	2
+逢凶化吉	fxhj	2
+發泄	fxpi	2
+符號學	fy:;	1
+符號學動物	fy:; dswt	3
+否定	fzdk	1
+否定	fzdk:p	7
+否定性	fzdkxk:n	5
+否認	fzrf	2
+各種各樣	g o g e[s	12
+蓋梯爾	g t er	2
+各式各樣	g u g e[s	8
+個	g'	5
+個經濟	g' jj:;	1
+個去	g' q'	1
+個體	g' ti[wg	2
+個位數	g' ww[wu au[ot	6
+工	g;	4
+工具	g; jv[hw	2
+工團	g; tr[lf	2
+工作	g; zo[wf	4
+工作人員	g; zo[wf r' yr[km	2
+工作案臺	g; zoan td[ck	1
+工藝	g;eia	4
+工程	g;ig	2
+工程部	g;igbu	2
+工程師	g;igus	2
+工廠	g;ih	4
+工人	g;r'	2
+工業	g;ye	3
+工業國家	g;ye gojx	1
+工資	g;ziu	2
+工作	g;zo	6
+が	ga	1
+が	ga:';	2
+噶	ga[kn	5
+嘎嘎	gaga	1
+嘎嘎噶	gaga ga[kn	1
+咖喱	gali:k	2
+個不	gb'	2
+高	gc[;k	1
+糕點	gc[oo dm[ho	4
+搞	gc[rk	1
+改進	gdjb:f	2
+跟你說	gf[ke n' ao[;q	2
+更具體	gg[gq jv[hw ti[wg	2
+更好	gghc:v	4
+归根结底	ggjd	2
+更簡單	ggjmdj:u	2
+感覺	gj:;	3
+感覺累了	gj:; lwl'	1
+關於	greu	4
+個稅	guvt	5
+個稅系統	guvt xits:x	9
+毫無疑問	h w e w[u	12
+號	hc[kn	1
+毫無疑問	hcwueiwf:u	7
+好像	hcxl:w	14
+還	hd[gp	1
+還會說	hd[gp hvao:;	1
+還記得	hdjide:t	2
+還有	hdy'	2
+還在	hdz'	2
+或者	hoe	9
+或者說	hoeao:;	3
+或者說就是	hoeao:; ju'	1
+幻覺	hrjt:i	2
+忽然	hurj:q	2
+會不會	hv[wc b' hv[wc	2
+會覺得	hv[wc jt[iq de[tf	2
+會說	hvao:;	3
+會員	hvyr:k	2
+話	hx[;d	1
+話說	hxao:;	4
+後面	hzmm:d	2
+出	i'	1
+超越性	icytxkn	2
+沉溺	ifni:i	1
+崇高	isgc:;	1
+除非	iuf;	2
+就	j'	2
+就這麼想	j' omexl:s	1
+今年	jbnm:r	2
+金銀	jbyb:q	3
+金銀銅鐵	jbyb:q ts[qk tp[qg	5
+竟能	jkng:c	2
+薑	jl[uv	1
+薑楠	jl[uv nj[sf	1
+江南	jlnj:f	2
+減去	jm[ut q'	4
+建立	jmli:u	2
+見面	jmmm:d	2
+減去	jmq'	4
+堅強	jmql:x	2
+健身	jmuf:t	2
+焦慮	jnlv:h	1
+階級	jpji:x	1
+階級跌落	jpji:x dplo:a	3
+解決了	jpjtl'	1
+拮據	jpjv:r	2
+就是	ju'	3
+具有	jvy'	2
+假的	jx[wc d'	10
+加油	jxyz:i	2
+可以的	kecd'	1
+可恥	kiib	2
+看書	kjau:n	2
+龕影	kjek:j	2
+快	kk[nw	1
+快求我	kk[nw qq[f; w'	3
+匱乏	kvfa:t	2
+了	l'	1
+拉康	lakh	5
+拉康並沒有讓我們設想凝視來自一位大他者	lakh bkmy' rh[;h wmf uexl:s nkus:p ldzi:t ewww datoe:f	1
+老是	lcu'	4
+來	ld	1
+來說	ldao:;	1
+來源	ldyr:i	2
+來自	ldzi:t	1
+樂觀	legr:c	2
+裏面	limm:d	2
+離去	liq'	7
+戀物癖	lmwtpi:u	2
+聊聊	ln[bb ln[bb	2
+溜了溜了	lqllql'	2
+累了	lw[li l'	6
+累了累了	lw[li l' lw[li l'	1
+累了	lwl'	3
+沒必要	m' bi[nt yc[sv	2
+沒啥問題	m' ua[kk wf[uk ti[jm	2
+嘛	ma:ks	1
+敏感性	mb[tt gj:d xk[ng	2
+麼	me[x;	1
+迷戀	milm:;	2
+密碼	mima:d	2
+明天	mktm:g	2
+末日	mori:j	2
+母愛	muae:e	3
+沒什麼	mum	2
+沒有	my'	1
+沒有下載	my' xx[gh zd[fl	1
+某種	mzot	13
+某種沉溺導致的	mzot ifni:i dcvi:g d'	1
+你	n'	2
+你求我	n' qq[f; w'	1
+你也想有這種	n' yexl:s yoot	1
+那	n;	4
+那個	n; g'	14
+那沒事	n; m' us[gh	2
+那麼	n; me[x;	5
+那種	n; ot[	5
+那樣	n;eh:s	4
+那個時候	n;gujhz	2
+那時候	n;ujhz	2
+哪裏	nali:j	1
+哪裏傻	nali:j ua[wt	1
+能夠	nggz:q	2
+能看到	ngkjdc:g	2
+楠	nj[sf	1
+凝視	nkus:p	1
+年底	nmdi:;	2
+年齡	nmlk:h	3
+年齡說教	nmlk:h aojn:f	1
+這一切	o e qp	2
+這	o'	1
+這點	o' dm[ho	2
+這樣說	o' eh[sd ao[;q	4
+這個意思	o' g' ei[un si[ln	2
+這話	o' hx[;d	2
+這年	o' nm[rf	2
+這首歌	o' uz[uh ge[sw	2
+這壓根不是	o' yagf:s bu'	1
+者	oe[fj	5
+者的	oefd'	1
+這樣	oeh	1
+這樣才	oeh c'	1
+折耗	oehc:d	2
+真有	ofy'	2
+症狀	ogvl:n	6
+這個問題	ogwfti	2
+這麼說	omeao:;	2
+這麼想	omexl:s	1
+重要	osyc	9
+種	ot[	1
+這是不是	oubu'	2
+這是假的	oujxd'	2
+這些	oxp:h	4
+跑步	pcbu:h	4
+盤	pj[tl	1
+親人	qbr'	2
+其次	qici:u	4
+其次是	qiciu'	6
+奇怪	qigk:n	2
+齊澤克	qizek;	2
+情況	qkkl	2
+強迫症	qlpoog:u	2
+前一段	qm[uj e' dr[wc	2
+前後	qmhz:r	2
+求	qq[f;	1
+求我	qq[f; w'	9
+確切	qtqp:a	1
+確切地說	qtqp:a diao:;	3
+人	r'	1
+讓	rh[;h	1
+然後	rjhz:r	1
+然後本來說嘛就是	rjhz:r bf[sg ldao:; ma:ks ju'	1
+如果	rugo:j	4
+如果說	rugoao:;	4
+如果說可以的話	rugoao:; kecd' hx[;d	1
+色情	seqk:n	1
+桑	sh[cs	1
+思考	sikc:f	4
+思想家	sixljx:p	2
+算了	sr[ta l'	2
+死亡	sw:;	1
+死亡焦慮	sw:; jnlv:h	1
+他	t'	1
+他離去了	t' liq' l'	1
+談	tj;o	1
+坦然	tjrj:q	2
+探討	tjtc:;	2
+天	tm[gd	2
+調侃	tnkj:w	2
+鐵	tp[qg	2
+銅	ts[qk	2
+銅鐵	ts[qk tp[qg	1
+是	u'	5
+是母愛	u' muae:e	1
+傻	ua[wt	1
+是不是	ubu'	4
+設想	uexl:s	1
+申報	ufbc:r	2
+身體	ufti:m	2
+時間	ujm	2
+是假的	ujxd'	2
+什麼	um	18
+什麼是	um u'	3
+什麼是愛	um u' ae[	7
+實踐	upjm	2
+世界末日	usjpmori:j	2
+事情	usqk:n	2
+事實上	usupa'	2
+事實是	usupu'	2
+只能說	v' ng[cx ao[;q	2
+之類	v; lw[od	2
+之前	v;qm	4
+知道	vd:;	2
+質	vi[rm	1
+我	w'	3
+我之前	w' v; qm[uj	2
+我想到	w' xl[sn dc[gj	4
+我也想	w' ye:bn xl[sn	2
+我也想要	w' ye:bn xl[sn yc[sv	1
+我也想有	w' yexl:s y'	1
+無非	w[u f;	2
+我上	wa'	1
+我上來	wa' ld	3
+我不	wb'	1
+我不知道	wb' vd:;	13
+外在	wdz'	2
+問了	wf[uk l'	2
+玩意	wj[gq ei[un	2
+綰	wj[xpn	4
+我覺得	wjtde	2
+我們	wmf	1
+網址	wmvi:f	2
+爲什麼	wume	4
+誤認	wurf:;	6
+我有時候	wyujhz	4
+小	x'	1
+小談	x' tj;o	4
+小談電影	x' tj;o dmek:j	1
+現在	xgz'	1
+現在也	xgz' ye:bn	1
+現在是	xgzu'	2
+西去	xiq'	4
+系統	xits:x	1
+性質	xk[ng vi[rm	2
+想	xl[sn	5
+想一想	xl[sn e' xl[sn	2
+想了想	xl[sn l' xl[sn	2
+想辦法	xlbjfa:i	2
+想到	xldc:g	2
+想法	xlfa:i	2
+想成為	xligwy	2
+享樂	xlle:q	1
+想象力	xlxlli:l	2
+想像性	xlxlxk:n	1
+想像性質	xlxlxk:n vi[rm	1
+享有	xly'	5
+先去	xmq'	6
+笑死	xnsi:g	2
+謝林	xp[;f lb[ss	6
+歇斯底里	xpsidili:j	1
+下個月	xx[gh g' yt[ee	10
+下載	xx[gh zd[fl	1
+下大棋	xxdaqi	2
+有	y'	1
+壓根	yagf:s	1
+銀子	yb[qe zb[	4
+隱去	ybq'	2
+要	yc[sv	1
+要多少	ycdouc:i	2
+有的沒的	ydmd'	2
+也	ye:bn	2
+也不重要	ye:bn b' os[tf yc[sv	2
+也沒有	yemy'	2
+也確實	yeqtup	2
+也想	yexl:s	4
+有這種	yoot	4
+有這種感覺	yoot gj:;	1
+用來	ysld:g	2
+有時候	yujhz	2
+又	yz[ct	1
+又或者	yz[ct hoe	1
+又回到	yzc[ hv[lk dc[gj	2
+在	z'	2
+做什麼	z;um	2
+再發	zdf'	1
+再發以出	zdf' ec[ i'	1
+怎麼說	zfmeao:;	2
+資本主義	zibfve:;	2
+自己	zj;	8
+在這裏	zoli	2
+足球	zuqq:g	2
+最	zv[jc	1
+最崇高	zv[jc is[mi gc[;k	1
+最崇高者的歇斯底里	zv[jc is[mi gc[;k oe[fj d' xpsidili:j	1
+最崇高者的	zv[jc isgc:; oefd'	3
+在問了	zwfl'	3
+，	;'	1
+。	;''	3
+。	;'''	1
 ：	;;	3
 •	;dm;	4
 ？	;ew:;	1
