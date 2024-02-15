@@ -34,6 +34,43 @@ use_preset_vocabulary: false
 ……	;vs:;	10
 ……	vs:;	0
 
+
+# 容易打錯的字、简码
+顯示	xu:;	23886
+時間	ujm	93814
+非常	fi:;	41962
+主義	ve:;	120
+感覺	gj:;	62458
+國際	gj:;'	12
+城市	iu:;	22664
+人民	rm:;	120
+紅色	hse	6424
+什麼	um	99999
+或者	hoe	55359
+自己	zj:;	120
+拉康	lk;	120
+試試	uu:;	11659
+革命	gm:;	4887
+死亡	sw:;	6773
+主體	vt:;	6773
+共產	gi:;	144150
+符號學	fy:;	4887
+試一試	ueu:;	11659
+知道	vd:;	145224
+知道的	vdd'	145224
+知道了	vdl'	145224
+不知道	bvd:;	145224
+我知道	wvd:;	145224
+你知道	nvd:;	145224
+他知道	tvd:;	145224
+她知道	tavd:;	145224
+它知道	t;vd:;	145224
+誰知道	uvvd:;	145224
+慢慢	mm;	16924
+慢慢	mm:;	16
+經濟	jj:;	120
+研究	ejqj	35615
+
 # 常用带英文的词组
 low	low
 ob	ob
@@ -121,6 +158,781 @@ IP地址	ip di[fbn vi[fhg
 小客體a	x ke[p ti[w a
 客體小a	ketixa	120
 小客體a	xketia	120
+
+# 部分編码
+蒄	kz[af	400
+和	h'	665031
+裇	xu[pz
+厌	ej[d	0
+厭	ej[d	1075
+靨	ej[d	629
+魇	ej[d	0
+魘	ej[d	673
+餍	ej[ds	0
+饜	ej[ds	586
+奄	ej[db	590
+鷑	ji[tuwo	0
+幓	sf[mhce	0
+幓	uf[mhce	0
+俙	xi[wqdh	0
+瑛	ek[gad	0
+靊	fs[fdhu	0
+璈	ac[ggt	399
+飾	us[qn
+哪	na	270779
+布	bu[dm	5026
+孻	ld[bvhl	0
+幝	ij[mhkf	0
+砧	of[dhk	593
+癔	ei[uun	456
+肴	yc[qde	614
+整	og[gk	7993
+㓟	pi:hcj
+整	og:gk	93
+炁	qi[ao	535
+忨	wj[nfq	310
+著	vo[aj	100
+伴	bj[wh	245
+瑉	mb[gnj	359
+跏	jx[khk	553
+常	ihi	8505
+指	vir	9663
+早	zc	26157
+早	zc:jh	26157
+表	bn:ge	18480
+表	bn	18480
+哥	ges	10243
+弱	ro:xu	4074
+弱	ro	4074
+珠	vu:gi	2593
+珠	vu	2593
+談	tj;o	14432
+談	tj;	14432
+談	tj
+頭	tz	0
+頭	tzu	21237
+頭	tz:ud	21237
+頭	tzgm	0
+投	tz	0
+投	tzr	7693
+投	tz:rc	7693
+太	td	0
+太	tdd	72029
+太	tdd;	72029
+包	bc:q	16275
+包	bc	16275
+房	fh	8348
+房	fh;	8348
+房	fh:;n;	8348
+訪	fh[;;	1924
+访	fh[;;	0
+性	xk	25403
+性	xk:n	25403
+性	xkntg	0
+溜	lqil	0
+溜	lq:i	1720
+溜	lq	1720
+驗	ej	1465
+驗	ej:c	1465
+驗	ej:ci	0
+驗	ej[cw	1465
+績	ji:xgm	0
+績	ji:xg	0
+績	ji:x	802
+績	ji	802
+如	ru	0
+如	ruv	38846
+如	ruvk	38846
+乳	ru	0
+乳	rue	1882
+乳	ruen	1882
+無	wu	0
+無	wuf	33776
+無	wufq	0
+無	wufqv	33776
+無	mo[fqv	0
+維	ww	3278
+維	wwx	3278
+維	wwx;	0
+抄	ic:rt	3219
+抄	icr	0
+抄	ic	3219
+屬	aunj	5227
+屬	aun	0
+屬	au	0
+書	aun;	0
+書	aun	20065
+書	au	20065
+書	au[vj	0
+期	qi:ae	10701
+其	qi:aw	0
+其	qi:a	259071
+其	qi	59071
+其	qi[ad	0
+崁	kjmw	446
+崁	kjm	0
+崁	kj	446
+生	ug	0
+生	ugt	21194
+笙	ug:ttg	892
+笙	ug	0
+輔	ful;	1319
+輔	ful	0
+輔	fu	1319
+罘	fu:li	681
+罘	fu:lu	681
+罘	ful	0
+罘	ful	0
+罘	fu	681
+辐	full	750
+辐	ful	0
+辐	fu	750
+襩	du[pzfm	0
+襩	dupzm	270
+襩	dup	0
+襩	dupz	270
+襩	du	270
+泰	td[di	0
+泰	tddwi	2900
+泰	tddw	50
+泰	tdd	0
+泰	td	2900
+屴	li:mlb	409
+屴	li:ml	409
+屴	lim	0
+屴	li	409
+輝	hv:il	3105
+輝	hv:ip	3105
+輝	hvi	0
+輝	hvi	0
+輝	hv	3105
+洄	hv[ik	544
+匯	hv:ia	2447
+匯	hvi	0
+匯	hv	2447
+潓	hv:ign	352
+潓	hv:in	56
+潓	hv	352
+會	hv:wc	209833
+會	hvw	0
+會	hv	209833
+愢	sdnn	70
+愢	sd:nln	170
+愢	sd	377
+瓻	ii:qdn	276
+瓻	ii:qd	0
+瓻	ii:q	0
+瓻	ii	276
+大	da:dt	107094
+大	dad	0
+大	da	107094
+打	da[rs	78710
+還	hd[gp	286212
+還	hd[lp	0
+還	hr:gp	6212
+還	hr	6212
+男	nj:ll	98
+男	njl	17698
+男	nj	98
+爑	jt[oo	16
+爑	jt:oao	16
+欣	xb:rqw	2406
+欣	xb:rw	0
+欣	xb:r	7406
+欣	xb	2406
+新	xb:u	78195
+翼	einw	27963
+翼	ein	0
+翼	ei	1963
+憶	ei:nn	0
+憶	ei:n	1546
+憶	ei	1546
+乙	ei	2457
+乙	ei:n	0
+乙	ei:nn	2457
+已	ei[nn	0
+已	ei:nx	44260
+己	ji:nn	0
+己	ji:n	2271
+己	ji	2271
+忌	ji	1609
+忌	ji:n	0
+忌	ji:nn	1609
+儕	id:w;j	538
+儕	id:w;	538
+儕	id:wj	0
+儕	id:w	0
+儕	id	538
+戲	xi[ha	0
+玩	wj	100
+玩	wjg:q	67947
+侯	hz	3601
+侯	hz	3601
+侯	hz:wd	1
+侯	hz:ww	1
+于	eu:gf	287
+與	eu:gn	203964
+遠	yr:fp	134
+遠	yrf	13429
+元	yr:fq	62
+白	bd:rt	16134
+捭	bd:rf	448
+掰	bd:rr	1056
+掰	bd:rw	1056
+瑋	ww:gh	1172
+凉	ll:ui	100
+涼	ll:ui	3023
+玮	ww:gh	0
+纬	ww:xh	0
+梁	ll:is	2898
+調	tn:;k	7531
+調	dn:;k	7531
+秧	eh:td	756
+水	uv:i	28524
+水	uvii	524
+島	dc:q	6926
+島	dc:qm	526
+赤	ii:f	5913
+赤	ii:fo	913
+莆	pu:ae	660
+蒲	pu:a;	1324
+也	ye:bn	404779
+吧	bak	385554
+吧	ba:kc	54
+把	ba:rcn	22
+把	ba:r	166222
+拔	ba:rc	2606
+魃	ba[rqc	58
+魃	ba:rqc	580
+視	us:p;	3507
+石	dj[d	0
+石	us[d	0
+石	us:d	7104
+石	dj:d	7104
+梳	au:sq	69
+梳	au:s;	3169
+哟	eo[k;	0
+哟	yz:k;	10
+缺	qt:rw	48
+缺	qt:r	5801
+撲	bur:h	2054
+撲	bur:;	2054
+撲	pur:h	2054
+撲	pur:;	2054
+撲	bu[rh	54
+撲	bu[r;	54
+撲	pu[rh	54
+撲	pu[r;	54
+強	ql:xj	71
+強	jl:xj	11
+強	qlx	20401
+強	jlx	401
+罵	ma:kc	10009
+嗎	ma[kc	22
+嗎	mak	221081
+嘛	ma:ks	71478
+轉	or:l;	25
+轉	orl	17525
+磚	or:d;	519
+雼	dh:fd	12
+蕩	dh:ar	958
+當	dh:iv	53829
+黨	dh[iq	4920
+黨	dhi	4920
+死	si[gx	37593
+死	sig	37593
+儿	er:qt	500
+擋	dh:rv	2341
+靈	lk[vo	4604
+祂	ta[p;bn	100
+祂	ta:p;	70
+嫊	su[vgxi	80
+粛	su[vojk	80
+鎲	th[qipq	80
+踏	ta:kh	1608
+踏	ta:kj	8
+玶	pk:gh	382
+螵	pn:ji	382
+𨑎	pg:hnp
+騎	qi:ck	3144
+騎	ji:ck	144
+潤	ry[ig	2250
+鰭	qi:qg	754
+磊	lw:dd	1661
+紙	vi:x	4488
+紙	vi:xa	88
+幼	yz:xl	1580
+犿	fj:qoh	293
+犿	bm:qoh	293
+犭	ob:qo	593
+犯	fj:qo	3167
+犯	fj:q	3167
+釩	fj:q;	834
+惘	wh:nn	393
+體	ti:wg	6488
+奶	nd:ve	3760
+麼	me:tc	45
+麼	me[x;	104045
+麼	ma:tc	45
+麼	ma:x;	45
+高	gc[;k	46097
+高	gc[;m	97
+搞	gc[rk	30736
+比	bi:xx	33515
+份	ff[wv	7307
+分	ff:wv	29738
+唔	wu:kk	75
+唔	wuk	13475
+唔	mu:kk	75
+隼	sy:wf	28
+模	mo[sd	2521
+艸	cc:ah	4
+艸	ob:ah	4
+廾	ob:a	7
+〇	lk:ll	9
+囹	lk[lc	25
+玲	lk[gc	87
+令	lk:wc	8637
+令	lk:w;	8637
+豬	vu:qo	729
+鑄	vu[qf	1177
+万	wj[dn	1325
+万	mo:dn	5
+萬	wj[dn	26364
+萬	wj[a;	64
+萬	mo:dn	4
+萬	mo:a;	4
+四	si	15966
+四	si:;	66
+鷥	si[xxg	17
+鸶	si:xxg	0
+絲	si:xg	69
+絲	six	3369
+并	bk:ua	63
+格	ge:sk	13856
+歌	ge:sw	12288
+哥	ge:s	10243
+哥	ge:sk	43
+撐	ig:rr	2357
+戴	dd:fw	5156
+晟	ug:jt	87
+晟	ig:jt	87
+玌	ba:gn	23
+齉	nh:te	39
+單	dj:uf	3362
+單	dj:kf	2
+淡	dj:io	280
+蕪	wu:aq	62
+蕪	wu:ao	2
+ㄛ	oo:gc	0
+捃	jy:rk	36
+系	ji:tx	92
+系	xi:tx	92
+嘉	jx:fk	2924
+祖	zu:pg	24
+祖	zu[p;	2424
+倍	bw:wk	420
+苦	ku[ad	85
+苦	ku:a	2185
+富	fu:pl	4370
+福	fu:p;	4741
+樂	leq	7822
+樂	le:qi	92
+樂	lc:qi	5
+但	dj:wg	116404
+奪	do:df	1883
+奪	do:df	1883
+似	us[w;	4743
+似	si[w;	4743
+葚	rf:aan	2
+葚	uf[aan	51
+甚	uf:an	99
+涐	ee:it	20
+久	jq:q;	74
+久	jqq	8974
+陡	dz:bh	109
+飼	si:qn	87
+飼	si:q	87
+偲	si:wn	57
+偲	si:wl	57
+祇	qi[p;a	29
+祇	qi:pq	3129
+祇	vi:p;a	29
+寫	xp:p	41835
+韠	bi[nhkf	3
+阇	du:uj	0
+阇	ue:uj	0
+臃	ys:e;	539
+避	bi:np	1783
+團	tr[lt	79
+團	tr[lf	79
+團	trl	7903
+活	ho[i	9606
+鬧	nc[uh	311
+責	ze[gm	456
+收	uz:nt	77
+收	uzn	17737
+𧌣	er:vjj
+吞	ty:gk	53
+券	qr:uv	1818
+拳	qr:ur	1877
+術	au:s;;	76
+術	aus	3136
+跑	pc:kh	22665
+箭	jm:tj	2003
+簡	jm:t	2119
+簡	jm[tuj	19
+感	gj:d	8365
+推	tv:r	6151
+瘀	eu:uu	817
+朝	ic:fe	5861
+朝	oc:fe	5861
+沈	uf:iq	7844
+玏	le[gln	0
+礻	ob:p;	599
+礻	ob:pi	599
+蘭	lj:uf	5072
+鷂	yc[eg	587
+鷂	yc[erg	10
+雨	eu[f;	8618
+雨	eu:fg	18
+域	eu:fg	2425
+域	eu:fk	2425
+翮	ge:gn	542
+翮	he:gn	542
+型	xk:gf	15224
+形	xk[ge	3724
+錢	qm[qg	57
+錢	qm[qa	26657
+前	qm[uj	47701
+前	qm:uu	47
+回	hv[lk	389
+姪	vi:vf	12
+皮	pi:hc	5866
+優	yz:wn	23
+優	yz:wt	23
+優	yz:w	2823
+念	nm:wn	2949
+以	ei:n;	38
+忹	nb:ngg	362
+加	jx:lk	44999
+正	og[gh	431
+𫔭	kd:ua	80
+政	og:gt	249
+且	qp[e	13038
+且	qp:eg	38
+往	wh:tg	11268
+韙	ww:jh	563
+或	ho[ag	84145
+惑	ho[ak	1118
+黑	hw[lo	202
+飯	fj[qnc	7834
+反	fj[rc	12079
+佢	jv:wn	37
+佢	qu:wn	37
+拆	id[r;	376
+柴	id[hs	238
+盛	ug:dl	3763
+盛	ig:dl	3763
+鼠	au:v	2192
+並	bk[ua	151
+病	bk[uw	90
+牛	nq:rh	14
+牛	nq:rk	4597
+般	bj:t	5441
+版	bj:tc	18059
+屍	us:n	1345
+霸	ba:f	1572
+壩	ba:fe	1476
+搬	bj:r	4500
+扳	bj:rc	937
+扳	bj:rr	937
+悶	mf:un	3835
+門	mf[uu	15692
+肖	xn:ie	3397
+父	fu:w	2565
+合	he:w	6813
+繁	fj:ti	1454
+繁	fj:tx	1454
+籓	fj:tl	483
+西	xis	10824
+西	xi[sh	10824
+栖	qi:ss	500
+栖	qi:sg	500
+栖	xi:ss	500
+栖	xi:sg	500
+許	xu:;f	6018
+序	xu:;b	1629
+㛟	hr:vw
+丆	us:dt
+乊	ei:tu
+乤	xx:gn
+乥	holo:tn
+乧	dz[ufn
+乫	jx[lkn
+乷	ua[iun
+乺	so[rnn
+乼	vu[i;n
+亪	ye[;on
+仒	bk:wu
+丼	ds:f;
+丼	ds:fj;
+傻b	uab
+動L	dsl
+匁	qm:q;
+厼	keum[ui
+裝b	vlb
+𠮶	ga:kh
+𡞵	hr:vw
+𣝓弧	yjhu:s
+𣝓絲	husi:s
+𩾀	gu:qk
+𪎌	ld:go
+句	jvqk	100
+句	jv:q	4902
+動圖	ds[fl tu[lu	2000
+兙	us ke[df	288
+兛	qm ke[dh	227
+兞	hc ke[dn	238
+兝	ff ke[dv	277
+兡	bd ke[dj	313
+兣	li ke[dg	247
+嗧	jx ly[lx
+瓩	qm wa[gf	333
+糎	li mi[og	274
+粁	qm mi[of	294
+浬	hd li[ig	5
+哩	ek li[kg	2500
+噚	ek cy[kf	2
+浔	ek cy[if	0
+呎	ek ii[k;	601
+吋	ek cy[kf	777
+竔	gs ug[uta
+竏	gs ug[utf	236
+唡	am si[kw	0
+唡	yk ll[kw	0
+砼	hy nk tu[dwa	879
+誌	vi[;n	1259
+架	jx[ls	4637
+駕	jx[lc	1386
+風	fs	13091
+柏	bo[sr	10
+栢	bo[sdjg	0
+維生素Ａ₂	ww[x ug[t su[gi a er
+維生素Ａ₁	ww[x ug[t su[gi a yi
+維生素Ｂ₈	ww[x ug[t su[gi b ba
+維生素Ｂ₂	ww[x ug[t su[gi b er
+維生素Ｂ₂₂	ww[x ug[t su[gi b er us er
+維生素Ｂ₉	ww[x ug[t su[gi b jq
+維生素Ｂ₆	ww[x ug[t su[gi b lq
+維生素Ｂ₇	ww[x ug[t su[gi b qi
+維生素Ｂ₄	ww[x ug[t su[gi b si
+維生素Ｂ₃	ww[x ug[t su[gi b sj
+維生素Ｂ₁₂	ww[x ug[t su[gi b us er
+維生素Ｂ₁₆	ww[x ug[t su[gi b us lq
+維生素Ｂ₁₇	ww[x ug[t su[gi b us qi
+維生素Ｂ₁₄	ww[x ug[t su[gi b us si
+維生素Ｂ₁₃	ww[x ug[t su[gi b us sj
+維生素Ｂ₁₅	ww[x ug[t su[gi b us wu
+維生素Ｂ₁₁	ww[x ug[t su[gi b us ei
+維生素Ｂ₅	ww[x ug[t su[gi b wu
+維生素Ｂ₁	ww[x ug[t su[gi b ei
+維生素Ｄ₂	ww[x ug[t su[gi d er
+維生素Ｄ₃	ww[x ug[t su[gi d sj
+維生素Ｂ₂₂	ww[x ug[t su[gi b er us er
+百戰天蟲：蟲堡大作戰	bdvjtmisisbcdazovj:h	1
+全自動醫用PCR分析系統	qrzidseiyspcrffxixits:x	1
+薩班斯－奧克斯利法	sabjsiack;silifa:i	1
+氯喹那多－普羅雌烯	lvkvn;dopulocixi:o	1
+狄爾斯－阿爾德反應	diersiaberdefjek:;	1
+大航海時代：黃金大陸	dahhhdujddhljbdalu:b	1
+網絡基本輸入、輸出系統	wmlojibfaur;auixits:x	1
+基本輸入	jibfaur;	1
+輸出系統	auixits:x	1
+磺胺甲噁唑－甲氧苄啶	hlanjxezojxehbmdk:k	1
+急性气管、支气管炎	jixkqigrviqigrej:o	1
+竹籃子打水一場空	vuljdauveihks:p	1
+美國51區	m;gow;u;equ	1
+美國51區	m;gow;equ	1
+罖	wh:lw;	1
+牛b	niub	1
+神探四豆星	uftjsidzxk	1
+其實我是	qiupwu'	1
+込	eu:wp	1
+込	ru:wp	1
+亞西爾·阿拉法特	ya xi er a la fa te	1
+伊娃·門德斯	yi wa mf de si	1
+伯納斯·李	bo na si li	1
+伽利略·伽利雷	jx li lt ga li lw	1
+傑克·倫敦	jp k; ly dy	1
+傑夫·金尼	jp fu jb ni	1
+傑奎琳·肯尼迪	jp kv lb kf ni di	1
+傑瑞·宋飛	jp rv ss fw	1
+傑西·歐文斯	jp xi oz wf si	1
+傑西卡·艾爾芭	jp xi ka ai er ba	1
+儒勒·凡爾納	ru le fj er na	1
+克里斯汀·貝爾	ke li si tk bw er	1
+凱茜·弗里曼	kd qm fu li mj	1
+列夫·托爾斯泰	lp fu to er si td	1
+北萊茵·威斯特法倫州	bw ld yb ww si te fa ly oz	1
+十·一	u; e'	1
+卡斯蒂利亞·萊昂	ka si di li ya ld am	1
+卡爾·馬克思	ka er ma k; si	1
+古斯塔夫·多雷	gu si ta fu do lw	1
+史蒂芬·哈珀	us di ff ha po	1
+哈克貝利·芬歷險記	ha ke bw li ff li jm ji	1
+哈利·波特	ha li bo te	1
+哈莉·貝瑞	ha li bw rv	1
+唐納德·川普	th na de ir pu	1
+喬修亞·吉爾菲艾斯	qn xq ya ji er fw ai si	1
+喬治·奧威爾	qn vi ao ww er	1
+喬治·布希	qn vi bu xi	1
+喬治·索羅斯	qn vi so lo si	1
+喬治·華盛頓	qn vi hx ug dy	1
+噶拉·多傑·仁波切	ga la do jp rf bo qp	1
+埃克托·柏遼茲	ai k; to bd ln zi	1
+埃德加·愛倫·坡	ai de jx ai ly po	1
+埃德加·斯諾	ai de jx si no	1
+埃爾維斯·普雷斯利	ai er ww si pu lw si li	1
+堂·吉河德	th ji he de	1
+夏洛特·勃良特	xx lo te bo ll te	1
+大衛·米利班德	da ww mi li bj de	1
+大衛·艾登堡	da ww ai dg bao	1
+妮可·基德曼	ni ke ji de mj	1
+威廉·福克納	ww lm fu ke na	1
+威廉·莎士比亞	ww lm ua us bi ya	1
+安·海瑟薇	an hd se ww	1
+安妮·夏菲維	an ni xx fw ww	1
+安妮·海瑟薇	an ni hd se ww	1
+安娜·卡列尼娜	an na ka lp ni na	1
+尤利婭·季莫申科	yz li ya ji mo uf ke	1
+尤里斯·伊文思	yz li si yi wf si	1
+巴登·符騰堡州	ba dg fu tg bc oz	1
+布萊特妮·墨菲	bu ld te ni mo fw	1
+布蘭妮·斯皮爾斯	bu lj ni si pi er si	1
+希拉里·克林頓	xi la li k; lb dy	1
+希斯·萊傑	xi si ld jp	1
+希蒙·佩雷斯	xi mg pw lw si	1
+帕麗斯·希爾頓	pa li si xi er dy	1
+庫爾特·瓦爾德海姆	ku er te wa er de hd mu	1
+康多莉扎·賴斯	kh do li oa ld si	1
+弗洛倫蒂諾·佩雷斯	fu lo ly di no pw lw si	1
+弗蘭西斯·培根	fu lj xi si pw gf	1
+弗里德里希·席勒	fu li de li xi xi le	1
+怪人奧爾·揚科維奇	gk r ao er yh ke ww qi	1
+恩里科·費米	en li ke fw mi	1
+愛德華·達拉第	ai de hx da la di	1
+愛瑪·沃特森	ai ma wo te sf	1
+托馬斯·阿奎納	to ma si ab kv na	1
+拿破崙·波拿巴	na po ly bo na ba	1
+提姆·羅賓斯	ti mu lo bb si	1
+摩亨佐·達羅	mo hg zo da lo	1
+摩根·弗里曼	mo gf fu li mj	1
+斯文·海定	si wf hd dk	1
+斯文·赫定	si wf he dk	1
+斯蒂芬·哈珀	si di ff ha po	1
+普密蓬·阿杜德	pu mi pg ab du de	1
+曼蘇爾·達杜拉	mj su er da du la	1
+本·拉登	bf la dg	1
+本傑明·富蘭克林	bf jp mk fu lj k; lb	1
+查爾斯·格雷	ia er si ge lw	1
+查爾斯·狄更斯	ia er si di gg si	1
+柯南·道爾	ke nj dc er	1
+梅里亞姆·韋伯斯特	mw li ya mu ww bo si te	1
+歇洛克·福爾摩斯	xp lo k; fu er mo si	1
+比爾·蓋茨	bi er gd ci	1
+沃倫·巴菲特	wo ly ba fw te	1
+法蘭西斯·培根	fa lj xi si pw gf	1
+法蘭西斯·斐迪南	fa lj xi si fw di nj	1
+泰格·伍茲	td ge wu zi	1
+泰特斯·安德洛尼克斯	td te si an de lo ni k; si	1
+海倫·凱勒	hd ly kd le	1
+湯姆·克蘭西	th mu k; lj xi	1
+湯姆·克魯斯	th mu k; lu si	1
+湯姆·索亞歷險記	th mu so ya li jm ji	1
+湯姆·羅賓斯	th mu lo bb si	1
+潔西卡·艾芭	jp xi ka ai ba	1
+熱比亞·卡德爾	re bi ya ka de er	1
+熱比婭·卡德爾	re bi ya ka de er	1
+狄奧多·阿多諾	di ao do ab do no	1
+珍·奧斯汀	of ao si tk	1
+琳·戴維斯	lb dd ww si	1
+瑪麗蓮·夢露	ma li lm mg lu	1
+碧娜芝·布托	bi na vi bu to	1
+穆罕默德·歐瑪	mu hj mo de ou ma	1
+簡·愛	jm ai	1
+約瑟夫·斯大林	yt se fu si da lb	1
+約翰·克利斯多夫	yt hj k; li si do fu	1
+約翰·厄普代克	yt hj ee pu dd k;	1
+約翰·拉貝	yt hj la bw	1
+約翰·本仁	yt hj bf rf	1
+約翰·霍金斯	yt hj ho jb si	1
+納撒尼爾·霍桑	na sa ni er ho sh	1
+綠壩·花季護航	lv ba hx ji hu hh	1
+維克多·雨果	ww k; do yu go	1
+羅伯特·伯恩斯	lo bo te bo en si	1
+羅伯特·佛洛斯特	lo bo te fo lo si te	1
+羅伯特·路易斯·斯蒂文森	lo bo te lu yi si si di wf sf	1
+耶萊娜·揚科維奇	ye ld na yh ke ww qi	1
+艾格尼絲·史沫特萊	ai ge ni si us mo te ld	1
+艾薩克·牛頓	ai sa k; nq dy	1
+荷莉·貝瑞	he li bw rv	1
+莎拉·佩林	ua la pw lb	1
+莎拉·布萊曼	ua la bu ld mj	1
+莫尼卡·萊溫斯基	mo ni ka ld wf si ji	1
+菲利克斯·米達麥亞	fw li k; si mi da md ya	1
+薩達姆·侯賽因	sa da mu hz sd yb	1
+蘇珊·波伊爾	su aj bo yi er	1
+裘力斯·愷撒	qq li si kd sa	1
+西蒙·舒斯特	xi mg au si te	1
+詹姆斯·喬伊斯	vj mu si qn yi si	1
+詹姆斯·龐德	vj mu si ph de	1
+諾姆·喬姆斯基	no mu qn mu si ji	1
+豪伊杜·比豪爾	hc yi du bi hc er	1
+豪伊杜·比豪爾州	hc yi du bi hc er oz	1
+貝·布托	bw bu to	1
+貝娜齊爾·布托	bw na qi er bu to	1
+赫曼·麥爾維爾	he mj md er ww er	1
+赫爾穆特·科爾	he er mu te ke er	1
+足利·義政	zu li yi zhg	1
+足利·義滿	zu li yi mj	1
+路易·皮埃爾·阿爾都塞	lu yi pi ai er ab er dz sd	1
+路易斯·伊納西奧·盧拉·達席爾瓦	lu yi si yi na xi ao lu la da xi er wa	1
+迪戈·加西亞島	di ge jx xi ya dc	1
+道·瓊斯	dc qs si	1
+道·瓊斯指數	dc qs si vi au	1
+道格拉斯·麥克阿瑟	dc ge la si md k; ab se	1
+達·芬奇	da ff qi	1
+達科塔·芬妮	da ke ta ff ni	1
+邁克爾·傑克遜	md k; er jp k; xy	1
+邁克爾·克萊頓	md k; er k; ld dy	1
+邁克爾·喬丹	md k; er qn dj	1
+那木巴爾·恩赫巴亞爾	na mu ba er en he ba ya er	1
+錫霍特·阿林	xi ho te ab lb	1
+錫霍特·阿林山脈	xi ho te ab lb aj md	1
+阿不來提·阿不都熱西提	ab bu ld ti a bu dz re xi ti	1
+阿加莎·克里斯蒂	ab jx ua ke li si di	1
+阿斯頓·馬丁	ab si dy ma dk	1
+阿爾法·羅密歐	ab er fa lo mi ou	1
+阿諾·施瓦辛格	ab no us wa xb ge	1
+阿諾德·施瓦辛格	ab no de us wa xb ge	1
+阿道司·赫胥黎	ab dc si he xu li	1
+雷·羅馬諾	lw lo ma no	1
+額勒貝格·道爾吉	ee le bw ge dc er ji	1
+馬丁·路德	ma dk lu de	1
+馬丁·路德·金	ma dk lu de jb	1
+馬克·吐溫	ma k; tu wf	1
+馬克思·列寧主義	ma k; si lp nk vu ei	1
+馬克斯·普朗克	ma k; si pu lh k;	1
+鮑勃·伍德沃德	bc bo wu de wo de	1
+鮑勃·馬利	bc bo ma li	1
+齊內丁·齊達內	qi nw dk qi da nw	1
+亞當·斯密	ya dh si mi	1
+亞歷山大·杜布切克	ya li aj da du bu qp k;	1
+一二·九运动	e e; j; ey ds	1
+安娜·卡列尼娜	an na ka lp ni na	1
+約翰·克利斯多夫	yt hj k; li si do fu	1
+
 輸入法	au r; fa	99999999
 無非	w[u f;	999999
 以来	ec ld	99999
@@ -2561,42 +3373,6 @@ ab胶	abjn:e	120
 知不知道	vbvd:;	120
 你知不知道	nvbvd:;	120
 匆匆忙忙	ccmm:n	12
-
-# 容易打錯的字
-顯示	xu:;	23886
-時間	ujm	93814
-非常	fi:;	41962
-主義	ve:;	120
-感覺	gj:;	62458
-國際	gj:;'	12
-城市	iu:;	22664
-人民	rm:;	120
-紅色	hse	6424
-什麼	um	99999
-或者	hoe	55359
-自己	zj:;	120
-拉康	lk;	120
-試試	uu:;	11659
-革命	gm:;	4887
-死亡	sw:;	6773
-主體	vt:;	6773
-共產	gi:;	144150
-符號學	fy:;	4887
-試一試	ueu:;	11659
-知道	vd:;	145224
-知道的	vdd'	145224
-知道了	vdl'	145224
-不知道	bvd:;	145224
-我知道	wvd:;	145224
-你知道	nvd:;	145224
-他知道	tvd:;	145224
-她知道	tavd:;	145224
-它知道	t;vd:;	145224
-誰知道	uvvd:;	145224
-慢慢	mm;	16924
-慢慢	mm:;	16
-經濟	jj:;	120
-研究	ejqj	35615
 抒發	au[ fa[n;	1012
 抒發	au[ fa[wc	1012
 囬	hv:mjd	61
@@ -2702,777 +3478,5 @@ JTB問題	jtbwfti:j	100
 這麼多	omedo:q	120
 現在也	xgzye:bn	120
 現在也不	xgzyeb'	120
-
-# 部分編码
-蒄	kz[af	400
-和	h'	665031
-裇	xu[pz
-厌	ej[d	0
-厭	ej[d	1075
-靨	ej[d	629
-魇	ej[d	0
-魘	ej[d	673
-餍	ej[ds	0
-饜	ej[ds	586
-奄	ej[db	590
-鷑	ji[tuwo	0
-幓	sf[mhce	0
-幓	uf[mhce	0
-俙	xi[wqdh	0
-瑛	ek[gad	0
-靊	fs[fdhu	0
-璈	ac[ggt	399
-飾	us[qn
-哪	na	270779
-布	bu[dm	5026
-孻	ld[bvhl	0
-幝	ij[mhkf	0
-砧	of[dhk	593
-癔	ei[uun	456
-肴	yc[qde	614
-整	og[gk	7993
-㓟	pi:hcj
-整	og:gk	93
-炁	qi[ao	535
-忨	wj[nfq	310
-著	vo[aj	100
-伴	bj[wh	245
-瑉	mb[gnj	359
-跏	jx[khk	553
-常	ihi	8505
-指	vir	9663
-早	zc	26157
-早	zc:jh	26157
-表	bn:ge	18480
-表	bn	18480
-哥	ges	10243
-弱	ro:xu	4074
-弱	ro	4074
-珠	vu:gi	2593
-珠	vu	2593
-談	tj;o	14432
-談	tj;	14432
-談	tj
-頭	tz	0
-頭	tzu	21237
-頭	tz:ud	21237
-頭	tzgm	0
-投	tz	0
-投	tzr	7693
-投	tz:rc	7693
-太	td	0
-太	tdd	72029
-太	tdd;	72029
-包	bc:q	16275
-包	bc	16275
-房	fh	8348
-房	fh;	8348
-房	fh:;n;	8348
-訪	fh[;;	1924
-访	fh[;;	0
-性	xk	25403
-性	xk:n	25403
-性	xkntg	0
-溜	lqil	0
-溜	lq:i	1720
-溜	lq	1720
-驗	ej	1465
-驗	ej:c	1465
-驗	ej:ci	0
-驗	ej[cw	1465
-績	ji:xgm	0
-績	ji:xg	0
-績	ji:x	802
-績	ji	802
-如	ru	0
-如	ruv	38846
-如	ruvk	38846
-乳	ru	0
-乳	rue	1882
-乳	ruen	1882
-無	wu	0
-無	wuf	33776
-無	wufq	0
-無	wufqv	33776
-無	mo[fqv	0
-維	ww	3278
-維	wwx	3278
-維	wwx;	0
-抄	ic:rt	3219
-抄	icr	0
-抄	ic	3219
-屬	aunj	5227
-屬	aun	0
-屬	au	0
-書	aun;	0
-書	aun	20065
-書	au	20065
-書	au[vj	0
-期	qi:ae	10701
-其	qi:aw	0
-其	qi:a	259071
-其	qi	59071
-其	qi[ad	0
-崁	kjmw	446
-崁	kjm	0
-崁	kj	446
-生	ug	0
-生	ugt	21194
-笙	ug:ttg	892
-笙	ug	0
-輔	ful;	1319
-輔	ful	0
-輔	fu	1319
-罘	fu:li	681
-罘	fu:lu	681
-罘	ful	0
-罘	ful	0
-罘	fu	681
-辐	full	750
-辐	ful	0
-辐	fu	750
-襩	du[pzfm	0
-襩	dupzm	270
-襩	dup	0
-襩	dupz	270
-襩	du	270
-泰	td[di	0
-泰	tddwi	2900
-泰	tddw	50
-泰	tdd	0
-泰	td	2900
-屴	li:mlb	409
-屴	li:ml	409
-屴	lim	0
-屴	li	409
-輝	hv:il	3105
-輝	hv:ip	3105
-輝	hvi	0
-輝	hvi	0
-輝	hv	3105
-洄	hv[ik	544
-匯	hv:ia	2447
-匯	hvi	0
-匯	hv	2447
-潓	hv:ign	352
-潓	hv:in	56
-潓	hv	352
-會	hv:wc	209833
-會	hvw	0
-會	hv	209833
-愢	sdnn	70
-愢	sd:nln	170
-愢	sd	377
-瓻	ii:qdn	276
-瓻	ii:qd	0
-瓻	ii:q	0
-瓻	ii	276
-大	da:dt	107094
-大	dad	0
-大	da	107094
-打	da[rs	78710
-還	hd[gp	286212
-還	hd[lp	0
-還	hr:gp	6212
-還	hr	6212
-男	nj:ll	98
-男	njl	17698
-男	nj	98
-爑	jt[oo	16
-爑	jt:oao	16
-欣	xb:rqw	2406
-欣	xb:rw	0
-欣	xb:r	7406
-欣	xb	2406
-新	xb:u	78195
-翼	einw	27963
-翼	ein	0
-翼	ei	1963
-憶	ei:nn	0
-憶	ei:n	1546
-憶	ei	1546
-乙	ei	2457
-乙	ei:n	0
-乙	ei:nn	2457
-已	ei[nn	0
-已	ei:nx	44260
-己	ji:nn	0
-己	ji:n	2271
-己	ji	2271
-忌	ji	1609
-忌	ji:n	0
-忌	ji:nn	1609
-儕	id:w;j	538
-儕	id:w;	538
-儕	id:wj	0
-儕	id:w	0
-儕	id	538
-戲	xi[ha	0
-玩	wj	100
-玩	wjg:q	67947
-侯	hz	3601
-侯	hz	3601
-侯	hz:wd	1
-侯	hz:ww	1
-于	eu:gf	287
-與	eu:gn	203964
-遠	yr:fp	134
-遠	yrf	13429
-元	yr:fq	62
-白	bd:rt	16134
-捭	bd:rf	448
-掰	bd:rr	1056
-掰	bd:rw	1056
-瑋	ww:gh	1172
-凉	ll:ui	100
-涼	ll:ui	3023
-玮	ww:gh	0
-纬	ww:xh	0
-梁	ll:is	2898
-調	tn:;k	7531
-調	dn:;k	7531
-秧	eh:td	756
-水	uv:i	28524
-水	uvii	524
-島	dc:q	6926
-島	dc:qm	526
-赤	ii:f	5913
-赤	ii:fo	913
-莆	pu:ae	660
-蒲	pu:a;	1324
-也	ye:bn	404779
-吧	bak	385554
-吧	ba:kc	54
-把	ba:rcn	22
-把	ba:r	166222
-拔	ba:rc	2606
-魃	ba[rqc	58
-魃	ba:rqc	580
-視	us:p;	3507
-石	dj[d	0
-石	us[d	0
-石	us:d	7104
-石	dj:d	7104
-梳	au:sq	69
-梳	au:s;	3169
-哟	eo[k;	0
-哟	yz:k;	10
-缺	qt:rw	48
-缺	qt:r	5801
-撲	bur:h	2054
-撲	bur:;	2054
-撲	pur:h	2054
-撲	pur:;	2054
-撲	bu[rh	54
-撲	bu[r;	54
-撲	pu[rh	54
-撲	pu[r;	54
-強	ql:xj	71
-強	jl:xj	11
-強	qlx	20401
-強	jlx	401
-罵	ma:kc	10009
-嗎	ma[kc	22
-嗎	mak	221081
-嘛	ma:ks	71478
-轉	or:l;	25
-轉	orl	17525
-磚	or:d;	519
-雼	dh:fd	12
-蕩	dh:ar	958
-當	dh:iv	53829
-黨	dh[iq	4920
-黨	dhi	4920
-死	si[gx	37593
-死	sig	37593
-儿	er:qt	500
-擋	dh:rv	2341
-靈	lk[vo	4604
-祂	ta[p;bn	100
-祂	ta:p;	70
-嫊	su[vgxi	80
-粛	su[vojk	80
-鎲	th[qipq	80
-踏	ta:kh	1608
-踏	ta:kj	8
-玶	pk:gh	382
-螵	pn:ji	382
-𨑎	pg:hnp
-騎	qi:ck	3144
-騎	ji:ck	144
-潤	ry[ig	2250
-鰭	qi:qg	754
-磊	lw:dd	1661
-紙	vi:x	4488
-紙	vi:xa	88
-幼	yz:xl	1580
-犿	fj:qoh	293
-犿	bm:qoh	293
-犭	ob:qo	593
-犯	fj:qo	3167
-犯	fj:q	3167
-釩	fj:q;	834
-惘	wh:nn	393
-體	ti:wg	6488
-奶	nd:ve	3760
-麼	me:tc	45
-麼	me[x;	104045
-麼	ma:tc	45
-麼	ma:x;	45
-高	gc[;k	46097
-高	gc[;m	97
-搞	gc[rk	30736
-比	bi:xx	33515
-份	ff[wv	7307
-分	ff:wv	29738
-唔	wu:kk	75
-唔	wuk	13475
-唔	mu:kk	75
-隼	sy:wf	28
-模	mo[sd	2521
-艸	cc:ah	4
-艸	ob:ah	4
-廾	ob:a	7
-〇	lk:ll	9
-囹	lk[lc	25
-玲	lk[gc	87
-令	lk:wc	8637
-令	lk:w;	8637
-豬	vu:qo	729
-鑄	vu[qf	1177
-万	wj[dn	1325
-万	mo:dn	5
-萬	wj[dn	26364
-萬	wj[a;	64
-萬	mo:dn	4
-萬	mo:a;	4
-四	si	15966
-四	si:;	66
-鷥	si[xxg	17
-鸶	si:xxg	0
-絲	si:xg	69
-絲	six	3369
-并	bk:ua	63
-格	ge:sk	13856
-歌	ge:sw	12288
-哥	ge:s	10243
-哥	ge:sk	43
-撐	ig:rr	2357
-戴	dd:fw	5156
-晟	ug:jt	87
-晟	ig:jt	87
-玌	ba:gn	23
-齉	nh:te	39
-單	dj:uf	3362
-單	dj:kf	2
-淡	dj:io	280
-蕪	wu:aq	62
-蕪	wu:ao	2
-ㄛ	oo:gc	0
-捃	jy:rk	36
-系	ji:tx	92
-系	xi:tx	92
-嘉	jx:fk	2924
-祖	zu:pg	24
-祖	zu[p;	2424
-倍	bw:wk	420
-苦	ku[ad	85
-苦	ku:a	2185
-富	fu:pl	4370
-福	fu:p;	4741
-樂	leq	7822
-樂	le:qi	92
-樂	lc:qi	5
-但	dj:wg	116404
-奪	do:df	1883
-奪	do:df	1883
-似	us[w;	4743
-似	si[w;	4743
-葚	rf:aan	2
-葚	uf[aan	51
-甚	uf:an	99
-涐	ee:it	20
-久	jq:q;	74
-久	jqq	8974
-陡	dz:bh	109
-飼	si:qn	87
-飼	si:q	87
-偲	si:wn	57
-偲	si:wl	57
-祇	qi[p;a	29
-祇	qi:pq	3129
-祇	vi:p;a	29
-寫	xp:p	41835
-韠	bi[nhkf	3
-阇	du:uj	0
-阇	ue:uj	0
-臃	ys:e;	539
-避	bi:np	1783
-團	tr[lt	79
-團	tr[lf	79
-團	trl	7903
-活	ho[i	9606
-鬧	nc[uh	311
-責	ze[gm	456
-收	uz:nt	77
-收	uzn	17737
-𧌣	er:vjj
-吞	ty:gk	53
-券	qr:uv	1818
-拳	qr:ur	1877
-術	au:s;;	76
-術	aus	3136
-跑	pc:kh	22665
-箭	jm:tj	2003
-簡	jm:t	2119
-簡	jm[tuj	19
-感	gj:d	8365
-推	tv:r	6151
-瘀	eu:uu	817
-朝	ic:fe	5861
-朝	oc:fe	5861
-沈	uf:iq	7844
-玏	le[gln	0
-礻	ob:p;	599
-礻	ob:pi	599
-蘭	lj:uf	5072
-鷂	yc[eg	587
-鷂	yc[erg	10
-雨	eu[f;	8618
-雨	eu:fg	18
-域	eu:fg	2425
-域	eu:fk	2425
-翮	ge:gn	542
-翮	he:gn	542
-型	xk:gf	15224
-形	xk[ge	3724
-錢	qm[qg	57
-錢	qm[qa	26657
-前	qm[uj	47701
-前	qm:uu	47
-回	hv[lk	389
-姪	vi:vf	12
-皮	pi:hc	5866
-優	yz:wn	23
-優	yz:wt	23
-優	yz:w	2823
-念	nm:wn	2949
-以	ei:n;	38
-忹	nb:ngg	362
-加	jx:lk	44999
-正	og[gh	431
-𫔭	kd:ua	80
-政	og:gt	249
-且	qp[e	13038
-且	qp:eg	38
-往	wh:tg	11268
-韙	ww:jh	563
-或	ho[ag	84145
-惑	ho[ak	1118
-黑	hw[lo	202
-飯	fj[qnc	7834
-反	fj[rc	12079
-佢	jv:wn	37
-佢	qu:wn	37
-拆	id[r;	376
-柴	id[hs	238
-盛	ug:dl	3763
-盛	ig:dl	3763
-鼠	au:v	2192
-並	bk[ua	151
-病	bk[uw	90
-牛	nq:rh	14
-牛	nq:rk	4597
-般	bj:t	5441
-版	bj:tc	18059
-屍	us:n	1345
-霸	ba:f	1572
-壩	ba:fe	1476
-搬	bj:r	4500
-扳	bj:rc	937
-扳	bj:rr	937
-悶	mf:un	3835
-門	mf[uu	15692
-肖	xn:ie	3397
-父	fu:w	2565
-合	he:w	6813
-繁	fj:ti	1454
-繁	fj:tx	1454
-籓	fj:tl	483
-西	xis	10824
-西	xi[sh	10824
-栖	qi:ss	500
-栖	qi:sg	500
-栖	xi:ss	500
-栖	xi:sg	500
-許	xu:;f	6018
-序	xu:;b	1629
-㛟	hr:vw
-丆	us:dt
-乊	ei:tu
-乤	xx:gn
-乥	holo:tn
-乧	dz[ufn
-乫	jx[lkn
-乷	ua[iun
-乺	so[rnn
-乼	vu[i;n
-亪	ye[;on
-仒	bk:wu
-丼	ds:f;
-丼	ds:fj;
-傻b	uab
-動L	dsl
-匁	qm:q;
-厼	keum[ui
-裝b	vlb
-𠮶	ga:kh
-𡞵	hr:vw
-𣝓弧	yjhu:s
-𣝓絲	husi:s
-𩾀	gu:qk
-𪎌	ld:go
-句	jvqk	100
-句	jv:q	4902
-動圖	ds[fl tu[lu	2000
-兙	us ke[df	288
-兛	qm ke[dh	227
-兞	hc ke[dn	238
-兝	ff ke[dv	277
-兡	bd ke[dj	313
-兣	li ke[dg	247
-嗧	jx ly[lx
-瓩	qm wa[gf	333
-糎	li mi[og	274
-粁	qm mi[of	294
-浬	hd li[ig	5
-哩	ek li[kg	2500
-噚	ek cy[kf	2
-浔	ek cy[if	0
-呎	ek ii[k;	601
-吋	ek cy[kf	777
-竔	gs ug[uta
-竏	gs ug[utf	236
-唡	am si[kw	0
-唡	yk ll[kw	0
-砼	hy nk tu[dwa	879
-誌	vi[;n	1259
-架	jx[ls	4637
-駕	jx[lc	1386
-風	fs	13091
-柏	bo[sr	10
-栢	bo[sdjg	0
-維生素Ａ₂	ww[x ug[t su[gi a er
-維生素Ａ₁	ww[x ug[t su[gi a yi
-維生素Ｂ₈	ww[x ug[t su[gi b ba
-維生素Ｂ₂	ww[x ug[t su[gi b er
-維生素Ｂ₂₂	ww[x ug[t su[gi b er us er
-維生素Ｂ₉	ww[x ug[t su[gi b jq
-維生素Ｂ₆	ww[x ug[t su[gi b lq
-維生素Ｂ₇	ww[x ug[t su[gi b qi
-維生素Ｂ₄	ww[x ug[t su[gi b si
-維生素Ｂ₃	ww[x ug[t su[gi b sj
-維生素Ｂ₁₂	ww[x ug[t su[gi b us er
-維生素Ｂ₁₆	ww[x ug[t su[gi b us lq
-維生素Ｂ₁₇	ww[x ug[t su[gi b us qi
-維生素Ｂ₁₄	ww[x ug[t su[gi b us si
-維生素Ｂ₁₃	ww[x ug[t su[gi b us sj
-維生素Ｂ₁₅	ww[x ug[t su[gi b us wu
-維生素Ｂ₁₁	ww[x ug[t su[gi b us ei
-維生素Ｂ₅	ww[x ug[t su[gi b wu
-維生素Ｂ₁	ww[x ug[t su[gi b ei
-維生素Ｄ₂	ww[x ug[t su[gi d er
-維生素Ｄ₃	ww[x ug[t su[gi d sj
-維生素Ｂ₂₂	ww[x ug[t su[gi b er us er
-百戰天蟲：蟲堡大作戰	bdvjtmisisbcdazovj:h	1
-全自動醫用PCR分析系統	qrzidseiyspcrffxixits:x	1
-薩班斯－奧克斯利法	sabjsiack;silifa:i	1
-氯喹那多－普羅雌烯	lvkvn;dopulocixi:o	1
-狄爾斯－阿爾德反應	diersiaberdefjek:;	1
-大航海時代：黃金大陸	dahhhdujddhljbdalu:b	1
-網絡基本輸入、輸出系統	wmlojibfaur;auixits:x	1
-基本輸入	jibfaur;	1
-輸出系統	auixits:x	1
-磺胺甲噁唑－甲氧苄啶	hlanjxezojxehbmdk:k	1
-急性气管、支气管炎	jixkqigrviqigrej:o	1
-竹籃子打水一場空	vuljdauveihks:p	1
-美國51區	m;gow;u;equ	1
-美國51區	m;gow;equ	1
-罖	wh:lw;	1
-牛b	niub	1
-神探四豆星	uftjsidzxk	1
-其實我是	qiupwu'	1
-込	eu:wp	1
-込	ru:wp	1
-亞西爾·阿拉法特	ya xi er a la fa te	1
-伊娃·門德斯	yi wa mf de si	1
-伯納斯·李	bo na si li	1
-伽利略·伽利雷	jx li lt ga li lw	1
-傑克·倫敦	jp k; ly dy	1
-傑夫·金尼	jp fu jb ni	1
-傑奎琳·肯尼迪	jp kv lb kf ni di	1
-傑瑞·宋飛	jp rv ss fw	1
-傑西·歐文斯	jp xi oz wf si	1
-傑西卡·艾爾芭	jp xi ka ai er ba	1
-儒勒·凡爾納	ru le fj er na	1
-克里斯汀·貝爾	ke li si tk bw er	1
-凱茜·弗里曼	kd qm fu li mj	1
-列夫·托爾斯泰	lp fu to er si td	1
-北萊茵·威斯特法倫州	bw ld yb ww si te fa ly oz	1
-十·一	u; e'	1
-卡斯蒂利亞·萊昂	ka si di li ya ld am	1
-卡爾·馬克思	ka er ma k; si	1
-古斯塔夫·多雷	gu si ta fu do lw	1
-史蒂芬·哈珀	us di ff ha po	1
-哈克貝利·芬歷險記	ha ke bw li ff li jm ji	1
-哈利·波特	ha li bo te	1
-哈莉·貝瑞	ha li bw rv	1
-唐納德·川普	th na de ir pu	1
-喬修亞·吉爾菲艾斯	qn xq ya ji er fw ai si	1
-喬治·奧威爾	qn vi ao ww er	1
-喬治·布希	qn vi bu xi	1
-喬治·索羅斯	qn vi so lo si	1
-喬治·華盛頓	qn vi hx ug dy	1
-噶拉·多傑·仁波切	ga la do jp rf bo qp	1
-埃克托·柏遼茲	ai k; to bd ln zi	1
-埃德加·愛倫·坡	ai de jx ai ly po	1
-埃德加·斯諾	ai de jx si no	1
-埃爾維斯·普雷斯利	ai er ww si pu lw si li	1
-堂·吉河德	th ji he de	1
-夏洛特·勃良特	xx lo te bo ll te	1
-大衛·米利班德	da ww mi li bj de	1
-大衛·艾登堡	da ww ai dg bao	1
-妮可·基德曼	ni ke ji de mj	1
-威廉·福克納	ww lm fu ke na	1
-威廉·莎士比亞	ww lm ua us bi ya	1
-安·海瑟薇	an hd se ww	1
-安妮·夏菲維	an ni xx fw ww	1
-安妮·海瑟薇	an ni hd se ww	1
-安娜·卡列尼娜	an na ka lp ni na	1
-尤利婭·季莫申科	yz li ya ji mo uf ke	1
-尤里斯·伊文思	yz li si yi wf si	1
-巴登·符騰堡州	ba dg fu tg bc oz	1
-布萊特妮·墨菲	bu ld te ni mo fw	1
-布蘭妮·斯皮爾斯	bu lj ni si pi er si	1
-希拉里·克林頓	xi la li k; lb dy	1
-希斯·萊傑	xi si ld jp	1
-希蒙·佩雷斯	xi mg pw lw si	1
-帕麗斯·希爾頓	pa li si xi er dy	1
-庫爾特·瓦爾德海姆	ku er te wa er de hd mu	1
-康多莉扎·賴斯	kh do li oa ld si	1
-弗洛倫蒂諾·佩雷斯	fu lo ly di no pw lw si	1
-弗蘭西斯·培根	fu lj xi si pw gf	1
-弗里德里希·席勒	fu li de li xi xi le	1
-怪人奧爾·揚科維奇	gk r ao er yh ke ww qi	1
-恩里科·費米	en li ke fw mi	1
-愛德華·達拉第	ai de hx da la di	1
-愛瑪·沃特森	ai ma wo te sf	1
-托馬斯·阿奎納	to ma si ab kv na	1
-拿破崙·波拿巴	na po ly bo na ba	1
-提姆·羅賓斯	ti mu lo bb si	1
-摩亨佐·達羅	mo hg zo da lo	1
-摩根·弗里曼	mo gf fu li mj	1
-斯文·海定	si wf hd dk	1
-斯文·赫定	si wf he dk	1
-斯蒂芬·哈珀	si di ff ha po	1
-普密蓬·阿杜德	pu mi pg ab du de	1
-曼蘇爾·達杜拉	mj su er da du la	1
-本·拉登	bf la dg	1
-本傑明·富蘭克林	bf jp mk fu lj k; lb	1
-查爾斯·格雷	ia er si ge lw	1
-查爾斯·狄更斯	ia er si di gg si	1
-柯南·道爾	ke nj dc er	1
-梅里亞姆·韋伯斯特	mw li ya mu ww bo si te	1
-歇洛克·福爾摩斯	xp lo k; fu er mo si	1
-比爾·蓋茨	bi er gd ci	1
-沃倫·巴菲特	wo ly ba fw te	1
-法蘭西斯·培根	fa lj xi si pw gf	1
-法蘭西斯·斐迪南	fa lj xi si fw di nj	1
-泰格·伍茲	td ge wu zi	1
-泰特斯·安德洛尼克斯	td te si an de lo ni k; si	1
-海倫·凱勒	hd ly kd le	1
-湯姆·克蘭西	th mu k; lj xi	1
-湯姆·克魯斯	th mu k; lu si	1
-湯姆·索亞歷險記	th mu so ya li jm ji	1
-湯姆·羅賓斯	th mu lo bb si	1
-潔西卡·艾芭	jp xi ka ai ba	1
-熱比亞·卡德爾	re bi ya ka de er	1
-熱比婭·卡德爾	re bi ya ka de er	1
-狄奧多·阿多諾	di ao do ab do no	1
-珍·奧斯汀	of ao si tk	1
-琳·戴維斯	lb dd ww si	1
-瑪麗蓮·夢露	ma li lm mg lu	1
-碧娜芝·布托	bi na vi bu to	1
-穆罕默德·歐瑪	mu hj mo de ou ma	1
-簡·愛	jm ai	1
-約瑟夫·斯大林	yt se fu si da lb	1
-約翰·克利斯多夫	yt hj k; li si do fu	1
-約翰·厄普代克	yt hj ee pu dd k;	1
-約翰·拉貝	yt hj la bw	1
-約翰·本仁	yt hj bf rf	1
-約翰·霍金斯	yt hj ho jb si	1
-納撒尼爾·霍桑	na sa ni er ho sh	1
-綠壩·花季護航	lv ba hx ji hu hh	1
-維克多·雨果	ww k; do yu go	1
-羅伯特·伯恩斯	lo bo te bo en si	1
-羅伯特·佛洛斯特	lo bo te fo lo si te	1
-羅伯特·路易斯·斯蒂文森	lo bo te lu yi si si di wf sf	1
-耶萊娜·揚科維奇	ye ld na yh ke ww qi	1
-艾格尼絲·史沫特萊	ai ge ni si us mo te ld	1
-艾薩克·牛頓	ai sa k; nq dy	1
-荷莉·貝瑞	he li bw rv	1
-莎拉·佩林	ua la pw lb	1
-莎拉·布萊曼	ua la bu ld mj	1
-莫尼卡·萊溫斯基	mo ni ka ld wf si ji	1
-菲利克斯·米達麥亞	fw li k; si mi da md ya	1
-薩達姆·侯賽因	sa da mu hz sd yb	1
-蘇珊·波伊爾	su aj bo yi er	1
-裘力斯·愷撒	qq li si kd sa	1
-西蒙·舒斯特	xi mg au si te	1
-詹姆斯·喬伊斯	vj mu si qn yi si	1
-詹姆斯·龐德	vj mu si ph de	1
-諾姆·喬姆斯基	no mu qn mu si ji	1
-豪伊杜·比豪爾	hc yi du bi hc er	1
-豪伊杜·比豪爾州	hc yi du bi hc er oz	1
-貝·布托	bw bu to	1
-貝娜齊爾·布托	bw na qi er bu to	1
-赫曼·麥爾維爾	he mj md er ww er	1
-赫爾穆特·科爾	he er mu te ke er	1
-足利·義政	zu li yi zhg	1
-足利·義滿	zu li yi mj	1
-路易·皮埃爾·阿爾都塞	lu yi pi ai er ab er dz sd	1
-路易斯·伊納西奧·盧拉·達席爾瓦	lu yi si yi na xi ao lu la da xi er wa	1
-迪戈·加西亞島	di ge jx xi ya dc	1
-道·瓊斯	dc qs si	1
-道·瓊斯指數	dc qs si vi au	1
-道格拉斯·麥克阿瑟	dc ge la si md k; ab se	1
-達·芬奇	da ff qi	1
-達科塔·芬妮	da ke ta ff ni	1
-邁克爾·傑克遜	md k; er jp k; xy	1
-邁克爾·克萊頓	md k; er k; ld dy	1
-邁克爾·喬丹	md k; er qn dj	1
-那木巴爾·恩赫巴亞爾	na mu ba er en he ba ya er	1
-錫霍特·阿林	xi ho te ab lb	1
-錫霍特·阿林山脈	xi ho te ab lb aj md	1
-阿不來提·阿不都熱西提	ab bu ld ti a bu dz re xi ti	1
-阿加莎·克里斯蒂	ab jx ua ke li si di	1
-阿斯頓·馬丁	ab si dy ma dk	1
-阿爾法·羅密歐	ab er fa lo mi ou	1
-阿諾·施瓦辛格	ab no us wa xb ge	1
-阿諾德·施瓦辛格	ab no de us wa xb ge	1
-阿道司·赫胥黎	ab dc si he xu li	1
-雷·羅馬諾	lw lo ma no	1
-額勒貝格·道爾吉	ee le bw ge dc er ji	1
-馬丁·路德	ma dk lu de	1
-馬丁·路德·金	ma dk lu de jb	1
-馬克·吐溫	ma k; tu wf	1
-馬克思·列寧主義	ma k; si lp nk vu ei	1
-馬克斯·普朗克	ma k; si pu lh k;	1
-鮑勃·伍德沃德	bc bo wu de wo de	1
-鮑勃·馬利	bc bo ma li	1
-齊內丁·齊達內	qi nw dk qi da nw	1
-亞當·斯密	ya dh si mi	1
-亞歷山大·杜布切克	ya li aj da du bu qp k;	1
-一二·九运动	e e; j; ey ds	1
-安娜·卡列尼娜	an na ka lp ni na	1
-約翰·克利斯多夫	yt hj k; li si do fu	1
+超級簡拼	ijjp:r	120
+超級簡拼	icjijmpb:r	120
