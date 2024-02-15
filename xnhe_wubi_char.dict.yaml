@@ -1,0 +1,3478 @@
+# Rime dictionary xnhe_wubi_char
+# encoding: utf-8
+
+---
+
+name: xnhe_wubi_char
+version: "2023.09.25"
+sort: by_weight
+use_preset_vocabulary: false
+
+...
+# 特殊符号
+�	;ln;	0
+;	；	140
+：	;;	60
+；	;	0
+，	;'	120
+。	;'''	120
+、	;';	120
+！	;gt:;	120
+？	;ew:;	120
+？	;wh:;	120
+“	;jf:;	120
+：“	;jg:;	120
+，“	;jh;	120
+”	;jj:;	120
+《	;am:;	120
+》	;amh:;	120
+（	;kh:;	120
+)	;kh;:;	120
+•	;dm:;	120
+【	;fk:;	120
+】	;fkh:;	120
+……	;vs:;	10
+……	vs:;	0
+
+# 常用带英文的词组
+low	low
+ob	ob
+sb	sb
+ok	ok
+rp	rp
+ap	ap
+up	up
+cd	cd
+GoPro	gopro	10
+a4	asi:;	10
+a4纸	asivi:x	120
+vlog	vlog	150
+ktv	ktv	110
+sos	sos
+VMZ	vmz	120
+yygq	yygq	10
+GDP	gdp	10
+PPT	ppt	320
+LOGO	logo	820
+logo	logo	320
+Geist	geist	120
+geist	geist	20
+dota	dota	120
+dota2	dotae;	230
+github	github
+yyds	yyds
+rime	rime
+Linux	Linux
+baidu	bddu	10
+python	python
+chatGPT	chatgpt
+youtube	youtube	20
+Twitter	twitter	20
+google	google	20
+chatGPT	chatgpt	10
+bilibili	bilibili	7
+facebook	facebook	20
+抖s	dzs	120
+抖m	dzm	120
+卡拉ok	kalaok	120
+真sb	ofsb	120
+真是sb	ofusb	120
+鐵t	tpt	120
+母0	mulk	20
+女酮	nvts:s	120
+p圖	ptu	320
+U盤	u pj[telf	780
+U盤	upj	780
+a股	a gu[emc;	123
+AB股	abgu:e	120
+a股	agu	123
+b站	b vj[uk	3562
+b站	bvj	356
+a站	a vj[uk	23
+p站	p vj[uk	14
+acfun	acfun	12
+真nm	ofnm	110
+前世今生	quju	120
+4s	sis	0
+4s店	sisdm:;	120
+cosplay	cosplay
+裝B	vl[uf;e b	123
+T裇	t xu[pztl	923
+T裇	txu:p	23
+a杖	a vh[sd;;	243
+a杖	avh:s	43
+處cp	iucp
+鐵py	tppy
+flash	flash	120
+up主	upvu	7070
+共趣	gs[aw qu[fc	320
+永遠的神	y y d s
+搶得先機	qdxj	10
+哔哩哔哩	bi li	6
+c語言	c eu ej	789
+AA制	aa vi[rmhj
+t細胞	t xi[x bc[e
+b細胞	b xi[x bc[e
+IP地址	ip di[fbn vi[fhg
+阿Q	abq
+阿Q正傳	ab q og[g or[wn;
+阿Q正傳	abqogor
+客體小a	ke[p ti[w x a
+小客體a	x ke[p ti[w a
+客體小a	ketixa	120
+小客體a	xketia	120
+輸入法	au r; fa	99999999
+無非	w[u f;	999999
+以来	ec ld	99999
+主文	vu wf;	99999
+愛讀	ai du	99999
+不滿	bmj	3914
+又是	yzu	9281
+還是	hdu	167649
+不錯	bco	47595
+可憐	klm	9259
+這種	oot	52019
+這樣	oeh	131855
+這樣的	oehd'	31855
+的話	dhx	31268
+這能	ong
+那不	n; b'	1000
+那不是	n; b' u'	1000
+上面	amm	20619
+找了	ocl	775
+在這裏	zoli	11872
+希望	xiwh	51150
+有的	yd	4449
+這個	og'	254002
+過來	gold	32067
+看看	kjkj	60666
+沒問題	mwfti	730
+再上去	zdaq'	491
+被他	bwt	5766
+就不	jb'	8372
+就不好	jbhc	1
+就不能	jbng	770
+就不夠	jbgz	160
+但是	dju	106453
+中文	oswf	10269
+表意	bnei	842
+長了	vhl'	1600
+沒錯	mco	3787
+沒錯	mcu	3787
+一身	euf	3786
+有一定的	y' e' dk[ph d'
+人家	rjx	26381
+不用	bys	31334
+不好	bhc	31391
+不行	bxk	24505
+失去	usq'	10520
+失去了	usql'	1
+不要	byc	66321
+你不要	nbyc	66321
+他選	txr
+發生	fug	30786
+發生了	fugl'	640
+可以	kec	304894
+時候	uh:;	144150
+時候	ujhz	144150
+的時候	duh:;	981
+來個	ldg'	235100
+也是	yeu'	63227
+隨便	sb	16385
+其他	qit'	53812
+所沒有	smy'
+過去	goq'	32533
+不知道	bvdc	949
+你在	nz'	6829
+他在	tz'	5428
+人在	rz'	3335
+就是	ju'	211922
+不就是	bju'	753
+就是的	bjd'	123
+沒卡	mka
+沒事	mus	21136
+沒功夫	m' gs[al fu[fw
+我也	wye	20384
+歲不到	svbdc	2026
+那你	n;n'	170770
+那我	n;w'	170770
+不能	bng	81563
+我是	wu'	21752
+一人	er'	5437
+把我	baw'	5544
+事發	usf'	1418
+是什麼	uum	5053
+的人	dr'	51876
+我還	whd	7159
+沒問	mwf	1
+是的	ud'	776
+讓我	rhw'	23039
+情況	qkkl	51020
+我感覺	wgjjt	170
+去看看	qkjkj	19
+兩個	llg'	40295
+差不多	iabdo	19367
+那個	n;g'	20779
+那人	n;r'	20779
+沒辦法	mbjfa	781
+上傳	air	6768
+出貨	iho	2582
+天上	tma'	2582
+只會	vhv	4607
+不是的	bud'	1
+有沒有	ymy'	20959
+一種	eot	28976
+可能	kng	101707
+本來就	bfldj'	1
+實現	upxg	29639
+圖片	tupm	21156
+說的	aod'	5960
+令我	lkw'	1862
+奇怪	qigk[n	9089
+這是	ou'	39628
+不到	bdc	18149
+想像	xlxl	3392
+根本	gfbf	19548
+想像不到	xlxlbdc
+可靠	kkc	3343
+晚上	wja'	44772
+來	ld	235090
+來不來	ldbld	8
+來不	ldb'	5
+來不了	ldbl'	8
+意見	eijm	15405
+等人	dgr'	3175
+地上	dia'	5541
+一百	ebd	2778
+這一百	oebd	273
+多人	dor'	3246
+發現	fxg	51461
+我發現	wfxg	1
+爲什麼	wume	51755
+發不了	fbl	1
+上訪	afh	1349
+就別	jbp	1349
+抑鬱	eieu	1349
+能不能	nbn	804
+回去	hvq'	23852
+真不錯	ofbco	70
+不說	bao	7397
+不是	bu'	174223
+只有	vy'	51136
+帶上	dda'	2585
+了嗎	lma	6010
+真的	ofd'	38505
+真的是	ofdu'	832
+世界的	usjpd'	832
+所做	sz;	1974
+所在	sz'	6611
+所在的	szd'	5
+只要	vyc	32965
+人只要	rvyc	329
+那些	n;xp	16952
+所代表	sddbn	2041
+在不在	zbz'	120
+可在	kz'	2156
+他獲得	thode	21
+很多	hfdo	67401
+找不到	ocbdc	920
+所動	sds
+果真	goof	1181
+沒有了	myl'	1230
+回家	hvjx	24099
+等着	dgo;	5389
+同他	tst'	1
+父親	fuqb	11305
+從不	csb'	2163
+已是	eiu'	2386
+有了一些	ylexp
+作為	zowy	87
+所用	sys	1826
+則是	zeu'	5429
+小小的	xxd	120
+這一點	oedm	793
+用的	ysd'	3006
+東西	dsxi	77909
+這纔	oc'	2040
+買了	mdl'	10495
+沒敢	mgj	1081
+說是	aou'	5636
+可是	ku'	35090
+這可是	oku'	1
+他非常	tfi	419
+可大家	kdajx	1
+主人	vur'	4577
+只是	vu'	58959
+他的	td'	27947
+在他的	ztd'	1
+與之	euv;	1950
+這段	odr	4141
+進去	jbq'	12908
+我不去	wbq'	1
+就要	jyc	12780
+幾個	jig'	32558
+不被	bbw	1638
+小時	xuj	22112
+不被他人	bbwtr'	100
+讀小說	duxao	23
+只是一種	vueot
+我的	wd'	42812
+就想	jxl	2488
+你一樣	neeh	1
+我一樣	weeh	1
+他一样	teeh	1
+一眼	eej	4157
+就是在	juz'	230
+全來	qrld	2251
+給他	gwt'	8389
+要去	ycq'	5825
+整個	ogg'	19163
+廁所	ces'	4145
+哪去	naq'	1088
+關我	grw'	1
+看上	kja'	1745
+在我的	zwd'	26
+觀點	grdm	10150
+下去	xxq'	12450
+是在	uz'	12229
+据我	jvw'	1
+所知	svi	1433
+這一	oe'	20340
+白人	bdr'	1080
+但你	djn'	1578
+但你不能	djnbng	120
+你不	nb'	4860
+你不能	nbng	15
+一生	eug	7207
+關於	greu	29909
+完全	wjqr	26205
+爲什麼	wyume	51755
+這是怎麼	ouzfme
+都有一個	dzyeg'
+這般	obj	1411
+這不是	obu'	9230
+這不	ob'	9143
+這不能	obng	540
+這不行	obxk	230
+我叫	wjn	1861
+我叫你	wjnn	756
+我不是	wbu'	809
+你的	nd'	40592
+我這裏	woli	120
+你這裏	noli	120
+他這裏	toli	120
+這裏	oli	58154
+意思	eisi	33319
+有點	ydm	32680
+有一個	yeg'	1
+一層	ecg	3706
+還有一	hdye	784
+就被	jbw	3218
+關上	gra'	1339
+我常常	wihih	7001
+常常	ihih	7001
+在這一	zoe'	1458
+這就去	ojq'	350
+一邊	ebm	11126
+兩人	llr'	8651
+走去	zzq'	1673
+藝術	eiau	9974
+桌上	voa'	1935
+送到	ssdc	3666
+總是	zsu'	20361
+一如	eruv	1317
+而是	eru'	14231
+取出	qui'	2119
+其次是	qiciu'	1203
+人才	rc'	9360
+不僅	bjw	16220
+問題	wfti	138036
+所有	sy'	45185
+多大	doda	5824
+也不	yeb'	20076
+既不能	jibng
+又不能	yzbng
+退出	tvi'	5460
+下發	xxf'	2102
+開發	kdf'	24417
+不可	bk'	9076
+去年	qnm	13849
+買了個	mdlg'	5120
+小行星	xxkxk	749
+升級	ugji	14549
+流失	lqus	1926
+流逝	lqusr	1294
+大的	dad'	35211
+最大的	zvdad'	9683
+小人	xr'	2255
+可是他	kut'	752
+可是我	kuw'	980
+源泉	yrqr	1225
+好多	hcdo	15545
+漫畫	mjhx	3892
+目前	muqm	46024
+有一種	yeot	4311
+敵人	dir'	4706
+一整個	eogg'	1420
+一整個的	eoggd'	56
+這一套	oetc'	23
+這個人	ogr'	3584
+都是	dzu'	93195
+不是用	buys	560
+都只是	dzvu	97
+你不需要	nbxuyc	35
+而言	erej	7183
+處在	iuz'	2561
+意義	eiei	13756
+每個	mwg'	16558
+我想	wxl	16542
+數人	aur'	843
+熟人	au;r'	1850
+這個意義	ogeiei
+一切	eqp	23018
+都不是	dzbu'	2653
+是一個	ueg'	560
+把他	bat'	3790
+上層	acg	1377
+學我	xtw	10
+學我不	xt w' b'	1
+學我們	xtwmf	1
+和他	ht'	4328
+和他們	hmf	26
+所謂	sww	12880
+你只是	nvu	12
+出身	iuf	2476
+不是要	buyc	1920
+他們	tmf	157005
+我們	wmf	322844
+人物	rwt	10500
+一手	euz	2774
+他是個	tug'	76
+是個	ug'	18725
+勝利	ugli	5467
+了不起	lbqi	1670
+有他的	ytd'	120
+你所	ns'	1521
+失去了	usql'	12
+在意	zei	2984
+你所在意	nszei	1
+只是個	vug'	1230
+逐個	vug	979
+仁慈	rfci	965
+是看	ukj	965
+承認	igrf	7609
+不承認	bigrf	5000
+成就	igj'	4912
+識別	usbp	3678
+識別出	usbpi	40
+對這個	dvog'	900
+這和	oh'	832
+這就	oj'	5997
+在一起	zeqi	895
+個人	gr'	32973
+早就	zcj'	6213
+付出	fui'	6205
+代價	ddjx	3803
+現實	xgup	12918
+現實的	xgupd'	10000
+開盒我	kdhew'	13
+上去	aq'	9153
+表態	bntd	1738
+表個態	bngtd	2738
+表個	bng'	150
+表格	bnge	4199
+表哥	bnges	1462
+弱小	rox'	1039
+弱小的	roxd'	700
+何去	heq'
+纔有	cy'	735
+纔有機會	cyjihv	20
+成為	igwy	870
+問題的	wftid'	1
+答案	daan	7541
+帶上你	ddan'	12
+帶上	dda'	2585
+你去	nq'	9000
+開盒	kdhe	350
+開喝	kdhek	100
+很弱小	hfrox'	700
+很弱	hfro	776
+只是個什麼	vugum	1216
+只是什麼	vuum	787
+垃圾	laji	13771
+罷了	bal'	3662
+不了	bl'	10841
+怎麼了	zfmel'	762
+怎麼了你	zfmeln'	350
+他說	tao	6729
+人民	rmb	12488
+萬歲	wjsv	1632
+認為	rfwy	165
+認不認為	rfbrfwy	750
+認不認可	rfbrfk	750
+怎麼	zfme	173763
+怎麼想	zfmexl	173
+到底	dcdi	15157
+支持	viii	43963
+共運	gsey	1954
+反過來	fjgold	1594
+覺得	jtde	84729
+我覺得	wjtde	1200
+你覺得	njtde	387
+都是沒	dzum'	730
+都什麼	dzum	930
+都是沒有	dzumy'	912
+他就	tj'	38030
+幹你	gjn'	550
+就敢	jgj	130
+他就敢	tjgj	560
+我就敢	wjgj	660
+有三位	ys;ww	120
+有三	ys;	5471
+配給	pwji	575
+配給制	pwjivi	871
+給予	jieu	7883
+出來	ild	59967
+不可以	bkec	3813
+他在這個	tzog'	76
+他在這	tzo'	23
+可信	kxb	1393
+在這次	zoci	1450
+芬蘭	fflj	1287
+中國	osgo	107458
+感覺	gjjt	62458
+已經	eijk	130561
+到達	dcda	5116
+目的地	mudidi	768
+令人	lkr'	7685
+政府	ogfu	28581
+正負號	ogfuhc:k	120
+重要	osyc	28546
+根據	gfjv	28546
+這本書	obfau	789
+肯定	kfdk	39761
+肯定是	kfdku'	39761
+我的問題	wdwfti	102
+誰的問題	uv;dwfti	132
+他的問題	tdwfti	98
+好誒	hcew	70
+我就	wj'	15896
+喜歡	xihr	73564
+組織	zuvi	26069
+大學生	daxtug	7030
+閱歷	ytli	1100
+不再	bzd	13213
+郵件	yzjm	13167
+普通	puts	13161
+經歷	jkli	13133
+提出	tii'	21868
+這是我的	ouwd'	120
+不可能	bkng	8560
+他就知道	tjvidc	100
+他就能夠	tjnggz	98
+這當然不是	odhrjbu	120
+是一些	uexp	780
+黑料	hwln	650
+我就是	wju'	130
+一個什麼	egum	56
+養樂多	ehledo:q	120
+養樂多	eldo	10
+為了	wyl'	5223
+取了	qul'	969
+娶了	qubl'	1035
+懦夫	nofu	1057
+你是	nu'	13873
+非常有	fiy'	120
+有什麼	yum	1080
+用什麼	ysum	652
+用不了	ysbl'	1137
+這只是	ovu'	230
+你就是	nju'	120
+不就是和	bjuh'	230
+小白領	xbdlk	120
+是有一個	uyeg'	563
+就行了	jxkl'	123
+就行	jxk	8307
+平常	pih	3436
+有些是	yxpu'	250
+的時候	dujhz	981
+本人	bfr'	12932
+是個問題	ugwfti	230
+是個人	ugr'	2300
+是個變態	ugbmtd	76
+也只是	yevu'	350
+永不能	ys;bng	120
+永不	ys;b'	1658
+說的好	aodhc	120
+說得好	aodehc	70
+實用主義	upysue:;	703
+嫖娼	pnih	970
+為何	wyhe	477
+不以為	becwy	380
+以為	ecwy	210
+道德綁架	dcdebhjx	120
+不好使了	bhcusl'	120
+不好使	bhcus	120
+我感覺這個	wgjjtog	750
+感覺這個	gjjtog	1790
+我感覺我	wgjjtw'	120
+歷史的	liusd'	89
+賽里斯	sdlisi	101
+新版本	xbbjbf	100
+好不好用	hcbhcys	25
+這個新版本	ogxbbjbf	356
+出問題了	iwftil'	123
+管這個	grog'	71
+碼表過大	mabngoda	10
+大棋	daqi	560
+下大棋	xxdaqi	780
+大棋黨	daqidh	230
+提升了	tiugl'	10463
+立馬	lima	3600
+性能立馬	xknglima	150
+電腦的	dmncd	230
+這個我	ogw'	120
+感觸	gjiuq	1670
+好卡	hcka	780
+卡了	kal'	563
+現在不卡了	xgzbkal'	120
+有點卡	ydmka	56
+不卡了	bkal'	320
+太卡了	tdkal'	56
+玩什麼	wjgum	981
+出於各種	ieugeot	120
+出於一種	ieueot	320
+溜了	lqil'	601
+流了	lql'	1019
+我就溜了	wjlqil'	3
+他就溜了	tjlqil'	4
+言辭的	ejcid	12
+還行	hdxk	5150
+出現了	ixgl'	44172
+癥結	ogjpx	873
+人是	ru'	3375
+人是有	ruy'	7375
+情感的	qkgjd	5698
+給我套	gwwtc	120
+人麻了	rmal'	50
+我是誰	wuuv	957
+我是誰	wuuv;	957
+你是誰	nuuv	1253
+你是誰	nuuv;	1253
+沒趕上	mgja'	172
+這個問題	ogwfti	4943
+這個問題的	ogwftid'	120
+知不知道	vibvidc	1206
+唯物主義	wwwtve:;	2321
+唯心主義	wwx;ve:;	2321
+唯心	wwx;	3632
+真眼	ofej	2000
+真言	ofej;;	762
+箴言	ofej;	799
+這裏有個	oliyg	120
+加鹽	jxejf	715
+家宴	jxejp	600
+假眼	jxej	2000
+中介	osjp:w	3007
+終結	osjp:x	1703
+不太對勁	btddvjb	786
+抓這個	oxog'	120
+幽鬼	yzgvr	325
+可怕的	kpad'	120
+可怕	kpa:n	120
+非常可怕	fikpa	250
+拉胯	lakx	250
+拉胯了	lakxl'	550
+拉康	lakh	1250
+他媽	tmav	3686
+先手	xmuz	961
+後手	hzuz	968
+登記	dgji;	5636
+直呼	vihu:k	721
+支護	vihu:r	745
+知乎	vihu:t	1045
+傳統食品	irtsuspb	120
+在一些	zexp	2890
+食用	uswys	2753
+夢幻	mghr	2242
+豆腐	dzfu	95242
+古籍	gujit	1031
+食用豆腐	usysdzfu	5242
+蛋白食品	djbduspb	152
+蛋白質價	djbdvijx	230
+食品	uspb	6693
+食品	uspbk	6693
+我有	wy'	235
+為	wy	23684
+打鬥	dadzu	994
+大都	dadzf	1840
+大豆	dadzg	2184
+大豆	dadz	2184
+左右的	zoyzd	29200
+依附	eifub	985
+存在	cyz'	27300
+纔能	cng	1200
+歷史上	liusa'	2790
+立式	liuus	889
+立式	lius	889
+立式	liusa	289
+立式	liusaa	889
+在人類	zrlw	120
+營養	ekeh	4993
+豐富的	fsfud'	120
+的組成	dzuig	120
+有意	yei	2939
+有益	yeiu	1950
+遭人	zcr'	827
+造人	zctr'	227
+早人	zcjr'	57
+皂甙	zcdd	12
+不負責任	bfuzerw	120
+他是要	tuyc	890
+升騰	ugtg	780
+升騰的	ugtgd	1780
+小橘子	xjvzb	980
+橘子	jvzb	1323
+服了	ful'	3657
+實踐	upjm	7896
+我服了	wful'	2450
+工益	g;ei	5450
+在展開	zvjkd	120
+展開的	vjkdd	320
+他會回	thvhv	230
+我會回	whvhv	230
+會回	hvhv	1926
+回回	hvhvl	826
+慧慧	hvhvd	712
+揮揮	hvhvr	622
+會會	hvhvw	613
+會徽	hvhvt	611
+灰灰	hvhvd	610
+線下	xmxx	1097
+線下沒	xmxxm'	560
+線下的	xmxxd'	360
+太無知了	tdwuvil'	150
+太無知了	tddwuvil'	150
+太蠢了	tdiyl'	150
+醜陋	izlz	3493
+醜陋了	izlzl'	3493
+太醜陋	tdizlz	3493
+風險	fsxmb	13095
+項目經理	xlmujkli	1267
+出問題	iwfti	7845
+揮出	hvri'	609
+會出	hvi'	6672
+匯出	hvii'	708
+會出問題	hviwfti	560
+會出事	hvius	760
+處所	ius'	655
+出師	iusj	768
+出世	iusa	1194
+出示	iusf	1489
+出事	ius	3968
+他就是	tju'	1289
+話術	hxau	2289
+樺樹	hxaus	289
+下場這	xxiho'	820
+不就來	bjld	756
+不就來了	bjldl'	700
+雖然把	svrjba	346
+你們就去	nmfjq'	1289
+我們就去	wmfjq'	989
+年飯	nmfj	556
+你去他的	nqtd'	4500
+你去我的	nqwd'	3550
+我去你	wqn'	756
+潤出去	ryiq	750
+出去的	iqd	122
+上海的	ahdd	780
+尚待	ahdd	100
+老歌	lcges	700
+老哥	lcge	3110
+還款	hrkrf	1852
+你就	nj'	11321
+使用	usys	56706
+食用	usyse	2753
+適用	ustys	5313
+試用	us;ys	3284
+食用	uswys	2753
+施用	us;bys	883
+勢用	usrys
+有不良	ybll;	230
+不良	bll;	330
+不亮	bll	818
+剪了	jmuvl'	830
+見了	jmml'	794
+撿了	jmrl'	635
+減了	jmul'	607
+就沒了	jml'	2700
+事業	usye	9654
+失業	usrye	2213
+失業	usyeo	2213
+食野	uswyej
+視野	usyej	2457
+師爺	usyew	602
+試液	usyei	541
+始業	usyeo	414
+失業了	usyel'	1
+也看人	yekjr	120
+立場	liih	4006
+立場	liuih	120
+離場	liih	970
+離場	li;ih	970
+力場	liihf	550
+力場	lilih	550
+鱧腸	liihe	0
+利昌	litihj
+力倡	liihw
+職稱	vibig	1575
+指稱	viigt	565
+製成	viigdn	1907
+至誠	viig;	642
+志成	vifigd	620
+支承	viigb	611
+志誠	viig;	605
+織成	vixig	588
+指稱	virig	565
+摯誠	vifig;	494
+枝城	visigf	460
+支撐	viigr	5297
+制成	virigdn	120
+支撐的	viigd'	5297
+織成	viig	588
+志誠	viig	605
+支承	viig	611
+志成	viig	620
+至誠	viig	642
+製程	viig	802
+職稱	viig	1575
+製成	viig	1907
+支撐	viig	5297
+指稱的	virigd'	565
+只出去	viq'	120
+信任	xbrw	5009
+新任	xburw	1071
+新人	xbur'	4505
+辛辣	xbla	980
+辛辣的	xblad'	980
+辛辣	xblau	980
+辛辣味	xblawwk	12
+辛辣味的	xblawwkd'	12
+辛辣面	xblammd	12
+座椅	zoei	909
+左翼	zoei	1569
+坐椅	zoei	599
+左翼	zoein	909
+座椅	zoeis	1569
+座椅	zo;ei	1569
+坐椅	zowfeis	599
+作揖	zoeir	568
+左移	zoeit	525
+作義	zoei;
+佐伊	zoeiw
+拆完	idwj	3
+那裏去了	n;liql	230
+坐過	zowgo	882
+作過	zogo	616
+調查	dnia	14317
+調查組	dniaqu	913
+調查表	dniabn	827
+調查局	dniajv	613
+調查者	dniaoe	600
+調查員	dniayr	588
+發言權	fejqr	1445
+就沒有	jmy'	2300
+視頻和	uspbh'	17528
+視頻	uspb	17528
+音視頻	ybuspb	1151
+網絡視頻	wmlouspb	838
+小視頻	xuspb	0
+這個視頻	oguspb
+在線視頻	zxmuspb
+音頻視頻	ybpbuspb
+藝術視頻	eiauuspb
+一段視頻	edruspb
+體育視頻	tieuuspb
+騰訊視頻	tgxyuspb
+數字視頻	auzpuspb
+實時視頻	upujuspb
+食頻	uswpb
+全動感視頻	qrdsgjuspb
+偶偶視頻	ououuspb
+那個視頻	n;guspb
+免費視頻	mmfwuspb
+美女視頻	m;nvuspb
+錄視頻	luuspb
+可調整視頻	ktnoguspb
+看視頻	kjuspb
+精彩視頻	jkcduspb
+剪視頻	jmuspb
+記錄視頻	jiluuspb
+合成視頻	heiguspb
+好視頻	hcuspb
+嗰種視頻	geotuspb
+搿種視頻	geotuspb
+搞笑視頻	gcxnuspb
+短視頻	druspb	838
+電影視頻	dmekuspb
+的視頻	duspb
+超視頻	icuspb
+長視頻	ihuspb
+旅遊的	lvyzd'	1048
+驢友	lvcyz	1048
+旅友	lv;yzd
+的話我	dhxw	120
+我直接	wvijp	120
+也存在	yecyz	220
+也就這時候	yejoujhz	2800
+也就那時候	yejn;ujhz	2800
+正確	ogqt	10781
+是否正確	ufzogqt	861
+樹立正確	auliogqt	753
+不正確	bogqt	685
+完全正確	wjqrogqt	580
+正確的	ogqdt'	580
+很正確	hfogqt	580
+政治正確	ogviogqt	120
+正不正確	ogbogqt	120
+如何正確	ruheogqt
+更正確	ggogqt
+把事做正確	bausz;ogqt
+網左	wmzo	560
+網右	wmyz	560
+網友	wmyzdc	14928
+網遊	wmyzi	3016
+網座	wmzo;
+網座	whzo;
+網左的	wmzod'
+我沒了	wml'	270
+我這就沒了	wojml'	470
+無語	wueu	3355
+無慾	wueuw	745
+無餘	wueuwt	622
+無虞	wueuh	528
+吳語	wueu;	21527
+屋宇	wueup	522
+烏魚	wueuq	518
+巫嫗	wueuv	244
+無雨	wueuf	1
+無欲	wueuw
+無法理解	wufalijp	120
+詞序	cixu;	465
+磁序	cidxu
+次序	cixu	1037
+說他是	aotu	120
+刪評	ajpk	120
+閃屏	ajpkn	20
+控評	kspk	520
+我就	wj'	75896
+我就瘋狂	wjfskl	758
+瘋狂	fskl	16627
+出現這個	ixgog'	120
+現正	xgog	0
+鹹鹹	xmxmh	580
+鹹鹹	xmxm	580
+鹹鹹的	xmxmd'	580
+漸漸的	jmjmd'	724
+爲什麼不是	wumebu	120
+未明子	wmzb	511
+網子	wmzb	11
+戰後	vjhhz	7030
+在戰後	zvjhhz	709
+我的成果	wdiggo	1200
+之前	v;qm	27321
+爲宜	wyei	1065
+位移	wwei	996
+尾翼	wwein	601
+逶迤	wweit:p	571
+危矣	wweic
+危矣	wwqeic
+高企	gcqiw	807
+搞起	gcqif	685
+高起	gcqi	605
+搞起	gcrqi	685
+高氣	gcqir	567
+高鰭	gcqiq:g
+高畦	gcqil
+高棲	gcqis
+我花了	wh;l'	7100
+望了	wh;gl'	906
+忘了	whl'	8373
+花了	h;l'	5776
+我花了很多	wh;lhfdo
+左壬	zorf	200
+右壬	yzrf	200
+遊刃	yzrfv	650
+赤軍	iijy:p	210
+赤軍	iifjy:p	210
+我要看	wyckj	583
+不僅要看	bjwyckj	200
+腳踏實地	jntaupdi:f	937
+幾千名	jiqmmk	120
+簽名	qmmk	6040
+千名	qmmk:q	869
+簽名	qmtmk	6040
+乾明	qmmk:j
+微光	wwgl	613
+微光裏	wwglli	1013
+生他	ugtt'	1000
+養他	eht'	1200
+太假	tddjx	801
+他的家	tdjx	801
+我的家	wdjx	1472
+外加	wdjxl	1472
+外加	wdqjx	1472
+那顆	n;ke	1133
+那棵	n;kes	789
+他那	tn;	2000
+他那顆	tn;ke	200
+也不會	yebhv	300
+相同	xlts	7574
+相通	xlts	1174
+想通	xlts	976
+相同	xltsm	7574
+相通	xlsts:c	1174
+想通	xltsc	976
+想同	xlstsm
+較高	jngc	9178
+憑發票	pkfpn	120
+正方	ogfh	786
+正房	ogfh:;	587
+爭芳	ogfha
+楊仕	ehusw
+央視	ehus:p	3380
+樣式	ehus:a	2429
+仰視	ehwus	778
+仰視	ehus:pz	778
+楊氏	ehus:q	608
+陽世	ehbus:a	466
+洋式	ehius:a	406
+仰式	ehwusa	389
+陽識	ehus;	0
+用無語	yswueu	120
+無語了	wueul	120
+我無語	wwueu	80
+有一小島	yexdc	120
+兩只	llv'	340
+紅葉山	hsyeaj	12
+有一	ye'	12965
+野人	yejr'	971
+有一人	yer'	2971
+僕人	pur'	968
+狐狸	huli	2426
+互利	huli	1036
+湖裏	huli	2841
+湖裡	huli
+湖鯉人	hulir'
+湖鯉	huiliq:g
+湖鯉	huliq:g
+虎力	huhli:l
+戶利	hu;li:t
+護理	hulig	2892
+狐狸	huliq:o	2426
+互利	hulit	1036
+湖裏	hulij	841
+胡力	hulil	495
+槲櫟	huli:s	344
+鵠立	hutli:u	329
+一百只	ebdv'	120
+放羊	fheh	878
+放養	fheh:u	783
+放樣	fhehs	543
+不上	ba'	14032
+了吧	lba	120
+有一點	yedm	120
+也不是	yebu'	7831
+石燈籠	usdgls	720
+石凳	usdg	720
+擺放	bdfh:;	1710
+拜訪	bdfh	2070
+白房	bdfh:;;
+一堆	edvf	4148
+一對	edv:c	3680
+一隊	edv:b	1123
+兩發	llf'	120
+書房	aufh	1460
+蜀芳	aulfh:a
+淑芳	auifh:a
+書坊	aufhf	577
+疏放	aunfh:;	415
+豎放	aufh:;t	415
+白漆	bdqii	120
+稻荷	dche:a	120
+花影	h;ekj	120
+陰晴雨雪	ybqkeuxt	100
+梳一個	aueg'	120
+梳了一個	auleg'	120
+你梳	naus;	392
+我梳	waus;	392
+他梳	taus;	2392
+她梳	taaus;	392
+它梳	t;aus;	392
+你梳了	naus;l'	392
+我梳了	waus;l'	392
+他梳了	taus;l'	392
+她梳了	taaus;l'	392
+上市	aus;m	700
+上市	aus	10776
+撻市	taus;m	0
+還有人	hdyr'	2222
+梳頭	autz:u	770
+梳頭師	autzus	120
+發髻	fjid	120
+梳發	aus;f'	120
+醜了	izl'	120
+落單	lodj	987
+一萬個	ewjg'	623
+虱子	usnzb	120
+虱子	usnjzb	120
+屍子	usnzb	60
+獅子	usqzb	510
+柿子	usszb	210
+石子	usdzb	310
+式子	usazb	210
+世子	usanzb	120
+石獅	usdus	861
+實施	upus	15583
+世事	usaus	310
+失事	usrus	827
+逝世	usrusa	1308
+史詩	usus;	1092
+沉默	ifmo	2703
+沉默了	ifmol'	2703
+打過	dargo	2105
+過年	gonm	3100
+打過你們	dargonmf	210
+打過你們	dagonmf	210
+你媽的	nmad'	311
+你媽的	nmavd'	311
+憋死	bpsi	750
+憋死	bpusi:g	750
+別死	bpsi:g	1100
+要死了	ycsil'	2120
+要死了	ycsigl'	2120
+要死	ycsi:g	2241
+死了	sigl'	7029
+絲光	sixgl:i	589
+死光	siggl:i	734
+頹塌	tvta:fn	254
+頹塌	tvtta:fn	254
+推塔	tvta:f	554
+的一樣	deeh	1014
+德陽	detehb	114
+和真的	hofd'	120
+真的一樣	ofdeeh	230
+搞得和	gcdeh'	210
+的答案	ddaan	120
+沒有什麼	myum	5679
+說服	uvfu	2141
+說服	aofu	541
+向北	xlbw	1010
+相悖	xlbw:n	697
+項背	xlbwu	549
+向背	xltbw:u	523
+相背	xlbwu	503
+詳備	xlbwt	411
+這人	or'	3000
+這人的	ord'	3741
+快感的	kkgjd'	1955
+黨人	dhir'	1200
+文體	wf;ti:w	1250
+問題我	wftiw	1250
+屬於是	aueuu'	700
+當人	dhr'	824
+不當人	bdhr'	1124
+零元購	lkyrgz	910
+鋒不鋒利	fsbfsli	210
+老梗	lcgg:s	210
+新梗	xbgg:s	210
+著說	oeaao:;	17
+遮說	oe;ao:;	0
+這一說	oeao:;	993
+風曆	fsmli:d
+鋒利的	fslid'	993
+锋利的刀	fsliddc:v	210
+再鋒利	zdfsli	120
+再鋒利的	zdfslid'	120
+簡直	jmvi:f	6546
+兼職	jmvi:b	3615
+監製	jmjvi:r	963
+鍵值	jmvi:w	908
+剪紙	jmvi:x	875
+建制	jmvi:r	827
+建制	jmvvi:r	827
+減值	jmuviw	651
+減至	jmuvig	585
+建置	jmvvi:l	556
+纖指	xmvir	511
+剪枝	jmvis	510
+剪枝	jmuvi:s	510
+鑒識	jmjus;
+劍指	jmwvir
+見智	jmvi:t
+減脂	jmvi:e
+減枝	jmuvi:sc
+監制	jmjvir
+間質	jmuvir
+兼治	jmvi:i
+于謙	euqm	400
+於前	euqm	794
+她可	tak	410
+踏平	tap'	546
+考茨基	kcciji:a	80
+未聖	wwugc	10
+味聖	wwkug:c
+平個叛	pgpj	90
+平盤	ppj	563
+評個	pkg'	120
+平崗	pgh	10
+抓他	oxrt'	80
+抓他	oxt'	80
+憂鬱的	yzeud'	2271
+可免	kmm	617
+可免去	kmmq'	217
+活罪難饒	hozvnjrc:q	120
+原形	yrdxk:g	220
+打回	darhv:l	604
+打回	dahv:l	604
+打回原形	dahvyrxk:g	120
+原型	yrxk	1537
+原形	yrxk:g	859
+原形畢露	yrxkbilu:g	120
+你就像	njxl:w	708
+一個sb	egsb	120
+我就像	wjxl:w	708
+萬象天引	wjxltmyb:x	120
+球球	qqqqg	965
+求求	qqqq	864
+秋秋	qqqq:t	728
+官宦子弟	grhrzbdi	110
+基層	jicg:n	3810
+奇才	qic'	929
+這聖騎	ougqi	110
+這是個奇才	ougqic	929
+是個奇才	ugqic	929
+聖騎	ugqi:ck	767
+聖騎	ugqi:c	367
+是奇才	uqic	129
+人有	ry'	5130
+先驗知識	xmejvius:;	270
+魚鰭	euqi:qg	477
+魚鰭	euqi:q	477
+背鰭	bwqi:q	517
+尾鰭	eiqi:q	513
+尾鰭	wwqi:q	513
+胸鰭	xsqi:q	477
+背鰭	bwqi:qg	517
+尾鰭	eiqi:qg	513
+尾鰭	wwqi:qg	513
+胸鰭	xsqi:qg	477
+單鰭	djqi:q
+用鰭	ysqi:q
+邪鰭	xpqi:q
+小鰭	xqi:q
+紋鰭	wfqi:q
+碎鰭	svqi:q
+絲鰭	siqi:q
+飾鰭	usqi:q
+少鰭	ucqi:q
+前鰭	qmqi:q
+黑鰭	hwqi:q
+長鰭	ihqi:q
+長鰭	vhqi:q
+斑鰭	bjqi:q
+斑鮨	bjqi:q
+臀鰭	tyqi:q	464
+腹鰭	fuqi:q	459
+脊鰭	jiqi:q	273
+肉鰭	rzqi:q	0
+總鰭	zsqi:q
+脂鰭	viqi:q
+原鰭	yrqi:q
+油鰭	yzqi:q
+短鰭	drqi:q
+低鰭	diqi:q
+大鰭	daqi:q
+單鰭	djqi:qg
+用鰭	ysqi:qg
+邪鰭	xpqi:qg
+小鰭	xqi:qg
+紋鰭	wfqi:qg
+碎鰭	svqi:qg
+絲鰭	siqi:qg
+飾鰭	usqi:qg
+少鰭	ucqi:qg
+前鰭	qmqi:qg
+黑鰭	hwqi:qg
+長鰭	ihqi:qg
+長鰭	vhqi:qg
+斑鰭	bjqi:qg
+斑鮨	bjqi:qg
+臀鰭	tyqi:qg	464
+腹鰭	fuqi:qg	459
+脊鰭	jiqi:qg	273
+肉鰭	rzqi:qg	0
+總鰭	zsqi:qg
+脂鰭	viqi:qg
+原鰭	yrqi:qg
+油鰭	yzqi:qg
+短鰭	drqi:qg
+低鰭	diqi:qg
+大鰭	daqi:qg
+逾期	euwqi:a	1196
+於其	eugqi:a	922
+漁期	euiqi:a	326
+與其	euqia	2948
+預期	euqi	5826
+與其	euqi	2948
+語氣	euqi:r	2380
+逾期	euqi	1196
+玉器	euqi:k	999
+於其	euqi	922
+你的預期	ndeuqi:a	120
+賣了	mdfl	734
+賣了我的	mdflwd	210
+了我的	lwd'	910
+紙上	vixa'	1000
+我就一個	wjeg'	1200
+玩一個	wjeg'	120
+期間	qijm	11869
+其間	qijm:u	1658
+其間	qiajm:u	1658
+器件	qijm:w	1609
+旗艦	qijmt:e	1305
+旗艦	qijm:te	1305
+起見	qijmm	872
+旗山	qi;aj:m	527
+岐山	qimaj:m	656
+起堿	qijm:f
+歧見	qihjm:m	461
+確不確定	qtbqtdk	120
+重組	oszu:x	3756
+幼小	yzx'	949
+誠年	ig;nm
+未成年	wwignm	2018
+成年	ignm	1689
+未成年人	wwignmr'	717
+一般成年人	ebjignmr'
+成年人了	ignmrl'
+成年人	ignmr'	8523
+錯誤	cowu:;	14392
+你的人生	ndrug	710
+的人生	drug	210
+我的人生	wdrug	710
+人聲	rugf	1950
+儒艮	rugfv	409
+單選	djxr:t	767
+的家人	djxr'	210
+你的家人	ndjxr'	210
+我的家人	wdjxr'	210
+他的家人	tdjxr'	210
+她的家人	tadjxr'	210
+它的家人	t;djxr'	210
+們的家人	mfdjxr'	210
+誰的家人	uvdjxr'	210
+他家人	tjxr	210
+你家人	njxr	210
+誰家人	uvjxr	210
+誰家人	uv;jxr	210
+它家人	t;jxr	210
+她家人	tajxr	210
+他們的家人	tmfdjxr	210
+我們的家人	wmfdjxr	210
+你們的家人	nmfdjxr	210
+她們的家人	tamfdjxr	210
+家人們	jxrmf	210
+誰的家人	uv;djxr'	210
+生活的	ughoid'	2710
+生活	ugho:i	47694
+要和	ych'	1995
+要和他	ycht	2100
+和你有	hny'	2100
+我和你	whn'	1313
+就和你的	whnd'	212
+不是这个意思	buogeisi	210
+祝願你們	vuyrnmf	210
+祝願我們	vuyrwmf	210
+祝願他們	vuyrtmf	210
+祝願我	vuyrw	210
+祝願他	vuyrt	210
+祝願你	vuyrn	210
+堅定	jmdk	7243
+堅定	jmjdk	7243
+鑑定	jmqdk:p	4311
+堅定	jmdk:p	3243
+檢定	jmsdk:p	814
+見頂	jmdk:s	765
+尖頂	jmidk:s	565
+鑒定	jmjdkp	0
+其間的	qiajmd'	210
+純蜀	iyxau:l	11
+純熟了	iyaul'	210
+背負了	bwful'	210
+天不是	tmbu'	1200
+填補	tmbup:;	1368
+填補	tmfbu:p	1368
+填補	tmfbu:p;	1368
+添補	tmibu:p	474
+添補	tmibu:p;	474
+他吃	tiik	120
+食物	uswwt	6583
+食物	uswt	3583
+事物	uswt	9195
+飾物	usqwt	873
+飾物	usqnwt	873
+失物	usrwt	654
+這是我	ouw'	120
+這是我給	ouwgw	120
+公共服務	gsgsfuwu	120
+公共秩序	gsgsvixu	120
+題目	timu	5170
+題目和	timuh'	170
+會有一些	hvyexp:h
+會有一個	hvyeg'	310
+你將來	njlld	710
+惠及	hvje	881
+惠及	hvgje	881
+跌下去	dpxxq	120
+在每個	zmwtg'	80
+在每個	zmwg'	380
+宿管	sugr:t	560
+素人	sugr'	1710
+誤解	wujp	1981
+無界	wujp:l	797
+無解	wujp:q	711
+悟解	wunjp:q	413
+烏節	wujp:a
+烏節	wujp:t
+吳傑	wujp:s
+午節	wujp:a
+伯父	bofu	851
+博夫	bofu:f
+伯符	bowfu:t
+撥付	bofu:w	269
+伯父	bofu	851
+潑婦	pofu:v	811
+發福	fafu:p	805
+波幅	boifu:m	579
+播幅	bofu:m	286
+伯服	bofu:e	0
+播敷	bofu:g	0
+波腹	bofu:e	0
+鍛煉	drlm	3279
+鍛煉好	drlmhc	279
+鍛煉身體	drlmufti	3310
+你對	ndv	2014
+寫題目	xpptimu	210
+考的上	kcda'	3210
+也是個	yeug	5517
+野生	yeug:t	1517
+野生	yejug:t	1517
+爸媽	bama:v	5345
+爸爸媽媽	babamama:v	2085
+你有這個	nyog	810
+你用這個	nysog	710
+躍遷	ytqm:t	1182
+月前	ytqm:u	630
+上了一個	aleg'	710
+呢個	nekg'	1416
+你一個	neg'	1416
+盜版	dcbj:t	3214
+倒班	dcwbj:g	546
+到班	dcbj:g	546
+道班	dcubj:g	526
+導板	dcbj:s	470
+倒板	dcbj:s	423
+附帶的	fuddd'	210
+腐敗的	fubdd'	710
+火力	hooli:l	210
+火力	holi:l	1328
+活力	holi	3768
+墩布	dybu	470
+林海音	lbhdyb:u	120
+防控	fhks:r	1255
+防空	fhks:p	1010
+放空	fh;ks:p	606
+研究過	ejjqgo	710
+你搞	ngcr	210
+這麼高	omegc:;	420
+這麼搞	omegc:r	120
+這下不高	oxxbgc	120
+不出現	bixg	120
+不出	bi'	30225
+比那個	bin;g	1200
+母板	muxbj:s	467
+木板	mubj:s	1168
+模板	mubj	5622
+模板	mobj	5622
+沒事的	musd'	1000
+就有問題	jywfti	780
+這把	oba:r	1048
+這把和	obah'	120
+應該上	ekgda	561
+幹嘛的	gjmad'
+幹媽	gjma:v
+幹嘛	gjma	17741
+幹嗎	gjma:k	8177
+乾媽	gjma:v	778
+在幹嘛	zgjma	1008
+在幹嗎	zgjma:k	300
+原神	yruf	3863
+元神	yruf	863
+原審	yruf	707
+四個	silg'	6077
+所出	si'	120
+所出現	sixg	210
+所出現的	sixgd'	510
+思量	sill	901
+四兩	sill	2603
+不可思量	bksill:j	280
+不可不可	bkbk'	70
+并不可	bkubk'	1030
+簡直不可	jmvibk'	710
+我這些	woxp	617
+塞爾達	sderda	100
+發達的	fdadd'	210
+哪個逼	nagbi:g	120
+這個逼	ogbi:g	120
+那個逼	n;gbi:g	120
+那群逼	n;qybi:g	120
+哪群逼	naqybi:g	120
+哪群人	naqyr'	120
+拿去有人	nawqyr'	120
+來的逼	lddbi:g	120
+幾元	jiyr:f	2575
+妓院	jiyr	878
+幾元錢	jiyrqm:q	120
+哈哈哈哈	hhhh:k	310
+哈哈哈哈哈	hhhhh:k	310
+哈哈哈哈哈哈	hhhhhh:k	310
+哈哈哈哈哈哈哈	hhhhhhh:k	310
+哈哈哈哈哈哈哈哈	hhhhhhhh:k	310
+你就去	njq'	2100
+南去	njfq'	490
+待發	ddf'	675
+沾不上光	vjbagl	120
+沾不上光	vjibagl	120
+沾不上	vjiba'	210
+沾不上	vjba'	210
+扒光	bagl	90
+你和他	nht'	609
+你和她	nhta	609
+好長	hcih:t	1350
+昊暢	hcih:j
+一兩	ell	1433
+一兩個	ellg'	1433
+好長的	hcihd'	120
+單單	djdj	6404
+單單是	djdju'	5631
+淡淡	djdj:i	3233
+淡淡的	djdjid'	3233
+我是說	wuao	1120
+我說了是	waolu	120
+說了是	aolu	220
+我正	wogg:h	1096
+我這個	wog'	1096
+這正	oog	120
+這整個	oogg	120
+恆溫	hgwf:i	901
+當然知道	dhrjvidc	120
+戒指	jpvi	2830
+介質	jpvir	1505
+介質	jpwvi:r	1505
+節制	jpavi:r	1066
+這一身	oeuf	1200
+梳子	auzb	908
+梳子	auszb	908
+庶子	au;zb	516
+豎子	aujzb	485
+黍子	autzb	421
+書子	aunzb	0
+叔子	auhzb	524
+假發	jxf'	120
+話雖這麼	hxsvome	120
+雖這麼	svome	120
+雖這麼說	svomeao	120
+左右	zoyz	19775
+他有點	tydm	710
+要多打	ycdodar	210
+從各個	csgeg	210
+被我	bww'	910
+這整個和	ooggh'	710
+正和	ogh'	910
+苦的	kuad'	810
+受苦的	uzkuad'	210
+防腐	fhfu:;	1032
+防腐	fhbfu:;	1032
+仿佛	fhfu	2032
+了一些	lexp:h	210
+愚昧地	eumwdi	120
+多忍受	dorfuz	120
+但我	djw'	6244
+但我覺得	djwjtde	120
+垃圾人	lajir'	510
+拉擠	larji:r
+都是人	dzur'	2100
+他們都是人	tmfdzur'	120
+我們都是人	wmfdzur'	120
+族人	zu;r'	1002
+族人	zur'	700
+你完全	nwjqr	510
+不對的	bdvd'	710
+攢六	zjrl;
+在講	zjl;	80
+在講什麼	zjl;um	120
+改造的是	gdzcdu'	120
+早讀	zcdu:;	596
+很大的	hfdad'	4674
+思維當中	siwwdhos	310
+還是在	hduz'	965
+還手	hruz:r	820
+還手	hrguz:r	820
+海獸	hduzu	520
+海獸	hdiuz:u	520
+害獸	hdpuz:u	348
+打人	darr'	1442
+過程中	goigos	1200
+踐行者	jmxkoe:f	210
+踐行	jmxk:t	2014
+鹼性	jmxk:n	1027
+減刑	jmxk:g	591
+閒行	xmuxk:t	0
+踐行	jmkxk:t	2014
+鹼性	jmhxk:n	1027
+減刑	jmuxk:g	591
+踐行	jmkhxk:t	2014
+你不願意	nbyrei	120
+化學	hxwxt:i	3442
+擺出來	bdrild	120
+百人	bddr'	1003
+接口	jpkz	8945
+藉口	jpwkz:k	2100
+藉口	jpkz:k	3211
+街口	jptkz:k	647
+解釦	jpkz:q	410
+解釦	jpqkz:q	410
+用這些	ysoxp:h	920
+只是想	vuxl	1200
+逐項	vuxl:a	696
+逐項	vuexl:a	696
+主項	vu;xl:a	483
+竹箱	vutxl:t	321
+竹湘	vutxl:i
+竹鄉	vutxl:x
+竹香	vutxl:t
+竹箱	vuxl:t	321
+竹湘	vuxl:i
+竹鄉	vuxl:x
+竹香	vuxl:tt
+諸相	vuxl:s
+諸相	vu;xl:s
+豬香	vuqxl:t
+豬香	vuqoxl:t
+你並不是	nbkubu'	310
+並不是	bkubu'	410
+並不	bkub	1200
+遊擊	yzji:f	3847
+郵寄	yzji:p	2459
+遊記	yzji:;	1445
+右擊	yzdji:f	891
+油跡	yziji:;	484
+郵集	yzji:w	479
+幽寂	yzxji:p	465
+優級	yzji:x	1
+油雞	yziji:c	0
+釉結	yztjp:x
+友記	yzdji:;
+友雞	yzdji:c
+友基	yzji:a
+遊驥	yziji:c
+油劑	yziji:;
+油機	yziji:s
+經營	jkek	11716
+精英	jkek:a	4035
+精英	jkoek:a	4035
+菁英	jkaek:a	561
+晶瑩	jkjek:a	1187
+一役	eei:t	120
+上這點	aodm:h	520
+這都不	odzb'	1000
+宅子	odpzb	587
+宅子	odzb	587
+的就是說	djuao:;	120
+但是說	djuao	900
+單說	djao	900
+就去讀了	jqdul'	120
+就去讀了	jqdu;l'	120
+慫恿地	ssysdi	120
+當炮灰	hdpchv	520
+下次	xxci	11831
+瑕疵	xxci:u	1215
+尊尊敬敬	zyzyjkjk	120
+聯合	lmbhe	120
+聯合我	lmbhew'	120
+聯合	lmhe	7877
+連合	lmlhe	493
+自我欺瞞	ziwqimj:h	520
+告急	gcji:q	821
+告急	gctji:q	821
+高級	gcji	7790
+高級人	gcjir'	310
+高技	gc;ji:r
+高技	gcji:rc
+集體	jiti	5754
+肌體	jieti:w	2743
+肌體	jiti:w	2743
+機體	jisti:w	1627
+集體	jiwti:w	5754
+基體	jiati:w	610
+結體	jixti:w	0
+極體	jis;ti:w
+長一長	vhevh:t	120
+長到	vhdc	3843
+漲到	vhidc	1341
+漲到	vhdc:g	1341
+長到	vhtdc:g	843
+長刀	ihdc:v	621
+排擠了	pdjil'	120
+兩極	llji:s	2817
+梁記	lliji:;	12
+糧機	lloji:s	0
+梁機	lliji:s	0
+良機	ll;ji:s	1059
+兩級	llji:x	1253
+我什麼	wum	5100
+你什麼	num	2100
+他什麼	tum	2100
+她什麼	taum	2100
+它什麼	t;um	2100
+們什麼	mfum	2100
+他們什麼	tmfum	2100
+田賦	tmlfu:m	120
+我們什麼	wmfum	1200
+她們什麼	tamfum	1200
+它們什麼	t;mfum	1200
+搞什麼	gcrum	120
+幹什麼	gjum	120
+做什麼	z;um	300
+喫什麼	iium	120
+要什麼	ycum	120
+什麼鬼	umgv:r	120
+什麼事	umus	120
+是沒什麼	umum	120
+什麼東西	umdsxi	120
+那你就	n;nj	120
+都不	dzb'	11128
+學這個	xtog	5100
+宣泄欲	xrxpeu:w	120
+你學	nxt	120
+他學	txt	120
+這一面	oemm	1200
+歷史學家	liusxtjx:p	120
+還只是	hdvu'	1200
+還非	hdf;	120
+懶得	ljnde	120
+一股	egue	3309
+一個是	egu'	120
+只是說	vuao	310
+男生	njugt	6568
+你就是個	njug'	120
+行動	xkds	9708
+不是給	bugw	2220
+不是給我	bugww'	2220
+補給	buji:w	1075
+他可能	tkng	1910
+挺能	tkng:c	120
+團結	trjp:x	2958
+去團結	qtrjp:x	958
+寫個	xppg	2100
+加班	jxbj:g	8541
+甲板	jxbj:s	913
+比你	bin'	3128
+比你狠	binhf:q	120
+你有了	nyl'	2100
+這個是	ogu'	7200
+正是	oggu'	9385
+正是	ogghu'	9385
+整個	oggg'	19163
+試一試	ueu:;	1257
+你都	ndz'	853
+教導	jndc	1580
+交道	jndc:u	978
+交到	jnudc:g	1103
+叫道	jnkdc:u	1092
+交道	jnudc:u	978
+叫到	jnkdc:g	841
+就是很	juhf	720
+他人	tr'	5066
+誘人	yz;r'	1839
+右人	yzdr'	1713
+遊人	yzir'	1313
+幽人	yzxr'	495
+作人	zor'	633
+作人	zowr'	633
+左人	zodr'	2033
+左人	zor'	2033
+議價權	eijxqr:s	1200
+到明	dcgmk:j	120
+到明天	dcmktm:g	120
+國人	golr'	2851
+過人	gofr'	1135
+過人	gor'	1135
+國人	gor'	2851
+應然	ekrj:q	920
+金星	jbxk:j	1152
+盡興	jbxk:i	935
+進行	jbxk:t	85374
+對他進行	dvtjbxk:t	2100
+參與到	cjeudc:g	362
+參與	cjeu	14362
+什麼會	umhv	920
+活的	hoid'	9606
+火柴	hooid:h	1128
+火柴	hoid:h	1128
+明確	mkjqt	120
+再明確	zdmkjqt	120
+誰誰誰	uvuvuv	120
+不是從	bucs	2100
+不是從我	bucsw'	2100
+觀念論	grnmly:;	410
+經驗主義	jkejve:;	210
+懷疑論	hkeily:;	210
+法蘭克福	faljk;fu:p	120
+實在論	upzly:;	210
+反實在論	fjupzly:;	210
+現象學	xgxlxt:i	210
+馬克思主義	mak;sive:;	910
+我們要	wmfyc	120
+歷史中	liusos	120
+去把握	qbawo	120
+損人	syrr'	610
+所有人	syr'	3191
+主體間性	vtjmxk:n	120
+客體間性	ketijmxk:n	120
+間性	jmxk:n	710
+間性	jmuxk:n	710
+小客體	xketi:w	120
+可能性	knxk:n	710
+不可能性	bknxk:n	710
+蓋梯爾	gdtier:q	120
+羅素悖論	losubwly:;	120
+克裏普克	k;lipuk;	80
+精神分析	jkufffxi:s	510
+實在界	upzjp:l	620
+想像界	xlxljp:l	510
+符號界	fuhcjp:l	410
+象徵界	xlogjp:l	510
+現象界	xgxljp:l	210
+物自體	wtziti:w	210
+純粹理性批判	iycvlixkpipj:u	120
+精神現象學	jkufxgxlxt:i	120
+文化理論	wfhxlily:;	120
+你纔沒有	ncmy'	310
+你纔	nc'	1214
+他是一個	tueg	210
+門上	mfa'	942
+門上	mfua'	942
+沒法	mfa	5473
+有一定	yedk	925
+在一個	zeg'	710
+擔責	djrze:g	120
+擔責	djze:g	120
+術語	aueu:s	1626
+淑鬱	auieu:s
+屬於	aueu:g	16204
+牌牌照照	pdpdococ:j	120
+睜一只眼	ogevej:h	120
+閉一只眼	bievej:h	120
+睜一只眼	oghevej:h	120
+閉一只眼	biuevej:h	120
+應然性	ekrjxk:n	210
+實然性	uprjxk:n	210
+仲介	oswjp:w	427
+就是被	jubw:p	120
+對臺	dvtd:c	886
+對他的	dvtd'	2086
+但是一個	djueg	1200
+小騙子	xpmzb	120
+小鬼	xgv:r	120
+妨害了	fhhdl'	120
+覆蓋	fusgd:u	4929
+覆蓋	fugd:u	4929
+發生的	fugd'	9200
+到什麼	dcum	120
+就有這個	jyog	2803
+但是這個	djuog	2100
+單證	djuog:;	120
+但這個	djog'	2016
+把戲	baxi	7911
+巴西	baxi:c	3143
+政教	ogjn:f	619
+這個叫	ogjn	2619
+收一收	uzeuz:n	120
+收收味	uzuzww:k	120
+知識付費	viusfufw:x	120
+出一分錢	ieffqm:q	120
+出一份錢	ieffwqm:q	120
+他的錢	tdqm:q	3100
+他就是個	tjug'	2100
+知識傳播	viusirbo:r	120
+暴力的	bclid'	210
+寶曆	bcpli:d	413
+星球	xkjqq:g	120
+他有個	tyg'	1200
+德比	detbi:x	944
+得比	debi:x	929
+得一逼	deebi	1944
+的一逼	debi	1944
+一逼	ebi:g	124
+你家裏	njxli:j	2100
+聊天流	lntmlq:i	120
+要塌	ycta:f	120
+要塌了	yctal'	120
+塌不了	tabln:b	120
+槍鬥術	qldzau:s	120
+不是同	buts:m	120
+就有一個	jyeg'	120
+還有是	hdyu'	120
+慣常於	griheu:g	120
+我與你	weun'	120
+一簡	ejm:t	1320
+二簡	e;jm:t	220
+三簡	s;jm:t	170
+小鶴五筆	xhew;bi:t	120
+監工	jmg;	968
+指揮權	vihvqr:s	120
+幹的	gjfd'	120
+這個人的	ogrd'	520
+超發	icf'	120
+很輕易	hfqkei:j	419
+了一個	leg'	210
+真就	ofj'	1200
+卑亢	bwkh:;	120
+我最近	wzvjb	120
+把一些	barexp	120
+一個人	egr'	9935
+讓人	rhr	530
+人和人	rhr'	5530
+讓人	rh;r'	15530
+宿主	suvu:;	781
+訴諸	suvu	943
+了就是	lju'	420
+冷淡期	lgdjqi:a	120
+無可爭議	wukogei:;	120
+一貫	egr:x	2304
+一關	egr:u	915
+一罐	egr:t	769
+在這個	zog'	920
+作個	zog'	100
+作個	zowg'	793
+少有	ucy'	1420
+稍有	ucty'	1455
+稍有	uty'	455
+主義	ve:;	31950
+注意	vuei:u	27533
+哪來	nald	9483
+拿來	nawld:g	3193
+拿來	nald:g	3193
+通知	tsvi	16759
+同志	tsvi	10052
+統治	tsvi	2535
+同質	tsvi	644
+同治	tsvi	626
+山羊	ajeh	1068
+山陽	ajeh	647
+贍養	ajeh:u	819
+他這個	tog'	2819
+和一個	heg'	120
+他到底	tdcdi:;	210
+做得差	z;deia:u	70
+哪到哪	nadcna	120
+社會化撫養	uehvhxfueh:u	120
+從哪裏	csnali	120
+回國	hvgo:l	3551
+回過	hvgo:f	9558
+問題就是	wftiju'	1200
+問題就沒	wftijm'	1200
+問題就在	wftijz'	1200
+問題就和	wftijh'	1200
+問題就	wftij'	12000
+危險	wwxm:b	7010
+再下去	zdxxq'	120
+會察覺	hviajt:i	120
+聞到	wfudc:g	1317
+少玩	ucwj:g	120
+藥房	ycfh	1040
+藥方	ycfh:;	898
+提神	tiuf	817
+提审	tiuf:p	417
+我好了	whcl'	120
+直接用	vijpys	1200
+小狼毫	xlhhc:;	320
+不能使用	bngusys	120
+記記	jiji:;	8200
+好多年	hcdonm:r	120
+白髮	bdf'	1200
+百發	bddf'	120
+倒錯	dcco:q	3987
+癔症	eiog	3987
+性倒錯	xkdcco:q	3987
+力比多	libido:q	1200
+我有權	wyqr:s	1200
+來和	ldh'	510
+一會是	ehvu'	1500
+這個一會	ogehv:w	1500
+這個一會是	ogehvu'	1500
+客體小a	ketixa	120
+對象a	dvxla	120
+他有一個	tyeg'	920
+丹蔘	djuf:c	654
+單身	djuf:t	3180
+單身的問題	djuftdwfti	120
+一整個東西	eoggdsxi	920
+你每	nmw	820
+每一人	mwer'	1200
+每一伙	mweho	120
+每一只	mwev'	120
+每一平	mwep'	120
+每一下	mwexx	120
+曆險	lixm:b	120
+曆險	lidxm:b	120
+我就提	wjti:r	120
+我加	wjx	120
+我加了	wjxl'	1200
+加了	jxl'	731
+加了一下	jxlexx	600
+我加了一	wjxle'	120
+加了一下	jxlexx	120
+我的這個	wdog'	320
+我做個	wz;g	1200
+蘇打水	sudauv:i	520
+購買的	gzmdd'	120
+當這個	dhog'	3120
+都知道的	dzvdd'	120
+可以和	kech'	120
+我可以和	wkech'	120
+你可以和	nkech'	120
+他可以和	tkech'	120
+以太假說	ectdjxao:;	120
+以太假說杯	ectdjxaobw:s	120
+設計大賽	uejidasd:p	120
+錄播	lubo:r	120
+現充	xgis:;	120
+印共毛	ybgsmc	120
+馬列毛	malpmc	120
+民粹	mbcv:o	527
+印地語	ybdieu:;	120
+汽修	qixq:w	120
+波斯語	bosieu:;	120
+複合	futhe:w	2421
+複合	fuhe:w	2421
+複合名詞	fuhemkci:;	242
+複合動詞	fuhedsci:;	242
+複合短語	fuhedreu:;	242
+沒發工資	mfg;zi	120
+發工資	fg;zi	120
+沒發錢	mfqm:q	120
+沒發財	mfcd:m	120
+切一個	qpeg'	120
+我和他	wht'	1200
+我將和	wjlh'	120
+他將和	tjlh'	120
+我將和他	wjlht'	120
+你將和	njlh'	120
+我就和	wjh'	120
+列舉出	lpjvi'	120
+中的	osd'	29595
+重的	ostd'	739
+鐘的	osqd'	635
+進行時	jbxkuj	120
+的現在	dxgz'	1200
+意義上	eieia'	13756
+上這個	aog'	3200
+說個	ao;g'	888
+是是非	uuf;	120
+醫生	eiug:t	12125
+醫生的	eiugd'	12125
+怡盛	eiug:d
+怡盛	einug:d
+定語	dkeu:;	70
+情態動詞	qktddsci:;	120
+體言	tiej:;	70
+用言	ysej:;	70
+連體形	lmtixk:g	120
+掐指	qxvi:r	120
+大他者	datoe:f	410
+小他者	xtoe:f	210
+活用	hoiys:e	120
+你使用	nusys:e	1200
+使用的是	usydu'	1200
+你使用的是	nusysdu'	120
+收個	uzng'	120
+語系	euxi:t	2627
+這個不是	ogbu'	1200
+您不	nbwb'	120
+經驗和	jkejh'	120
+專業的	oryed'	120
+吹出的	ivid'	120
+發動機	fdsji:s	820
+張正午	vhogwu:t	120
+看到的就是	kjdcdju	1230
+到的就是	dcdju	700
+得到的就是	dedcdju	120
+的就是	dju'	1020
+講的就是	jldju'	1020
+聽的就是	tkdju'	920
+吃的就是	iidju'	920
+吃的	iid'	9200
+我吃的	wiid'	120
+他吃的	tiid'	120
+的可能	dkng	1200
+据我所知	jvwsvi:t	120
+安排人	anpdr'	18238
+得有一個	dwyeg'	120
+環節	hrjp	4783
+環節上	hrjpa'	4783
+不長眼	bvhej:h	120
+長眼	vhej:h	120
+小年輕	xnmqk	1200
+鳥樣	nneh	1488
+不去審視	bqufus:p	120
+他就會	tjhv	2820
+超出一個人	iciegr'	120
+超出一個	icieg'	120
+的這個	dog	2200
+給你們	gwnmf:w	120
+給我們	gwwmf:w	120
+給他們	gwtmf:w	120
+給它們	gwt;mf:w	120
+給她們	gwtamf:w	120
+他得	tdw:t	120
+你得給我	ndwgww'	120
+他得給	tdwgw:x	120
+他得給我	tdwgww'	120
+得給我	dwgww'	120
+得給你	dwgwn'	120
+得給	dwgw:x	120
+得給小小	dwgwxx'	120
+得給下	dwgwxx:g	220
+得給他	dwgwt'	120
+微信	wwxb:w	3000
+微信出的	wwxbid'	120
+知識的	viusd'	1200
+蛭石	vius:d	537
+蛭石	vijus:d	537
+復讀	fudu:;	1174
+回過家	hvgojx:p	120
+老司機	lcsiji	320
+騎車	qicie:l	2294
+說明白	aomkbd:r	120
+說明白的	aomkbdd'	120
+韓語	hjfeu:;	1242
+鼠鼠	auau:v	719
+死老鼠	silcau:v	120
+不可接受性	bkjpuzxk:n	120
+可接受性	kjpuzxk:n	120
+這個有	ogy'	22520
+他只是	tvu'	1200
+你沒法	nmfa:i	1200
+一個說	egao:;	120
+薅羊毛	hcehmc:t	1200
+騎手	qiuz	5569
+騎手	qicuz:r	569
+電餅鐺	dmbkig:q	120
+案台	antd:c	120
+发餐	fcj:h	120
+外賣騎手	wdmdqiuz:u	120
+美團騎手	m;trqiuz:u	120
+餓了嗎騎手	eelmaqiuz:u	120
+餓了嗎	eelma:k	120
+打過交道	dagojndc:u	120
+什麼辦法	umbjfa:i	120
+揽件	ljjm:w	1200
+寄件	jipjm:w	120
+寄件碼	jipjmma:d	120
+地星	dixk:j	120
+地上的星	diadxk:j	120
+誅心	vux;	356
+我有沒有	wymy'	710
+嗝屁	gepi:n	410
+負面性	fummxk:n	120
+都比你	dzbin'	1200
+陡壁	dzbi:nf	120
+逼死人	bisir'	120
+他是能	tung:c	120
+打不破	dabpo:d	120
+至上	viga'	120
+盧卡奇	lukaqi:d	120
+你身邊	nufbm:l	120
+人就沒了	rjml'	820
+攻守之勢	gsuzv;us:r	120
+他都有	tdzy'	120
+會有人	hvyr'	15003
+舉例子	jvlizb	120
+也就是在	yejuz'	120
+立場	lih:f	120
+偏正	pmog:g	120
+你加	njx:lk	120
+你加了	njxl'	120
+他加	tjx:lk	120
+我加	wjx:lk	120
+拉黑	lahw:l	520
+受到	uzedc:g	120
+借助	jpvu:e	196
+主體間	vtjm:u	120
+施虐	usnt:h	120
+我是覺得	wujtde:t	120
+就是太	jutd:d	12
+精貴	jkgv:k	1200
+加個油	jxgyz:i	120
+搶得先機	qldexmji:s	120
+拉一個	laeg'	120
+這個都是	ogdzu'	420
+黃花菜都涼了	hlh;cddzlll'	120
+湊活	czho:i	120
+副廠	fuih:d	120
+下大雪	xxdaxt:f	120
+下大雨	xxdaeu:f	120
+不想來	bxlld:g	120
+他說他	taot'	120
+他說她	taota'	120
+也說得	yeaode:t	120
+有一波	yebo:i	120
+一波	ebo:i	2810
+吃我	iiw'	6420
+扳手腕	bjuzwj:e	120
+扳扳手腕	bjbjuzwj:e	120
+有一部分	yebuff:w	120
+變少	bmuc:i	120
+愚政	euog:g	120
+不如他	brut'	120
+難就業	njjye:o	120
+有的話	ydhx:;	120
+有的吧	ydba:k	120
+在於此	zeuc;	120
+天下豪傑	tmxxhcjp:s	20
+屎尿屁	usnnpi:n	120
+幡然醒悟	fjrjxkwu:n	120
+臭老九	izlcj;	120
+妖魔怪狀	ycmogkvl:u	120
+門門道道	mfmfdcdc:u	120
+真的能	ofdng	120
+ab胶	abjn:e	120
+也不就是	yebju'	1200
+擁有人	ysyr'	120
+去說他	qaot'	620
+去說	qao:;	620
+都和你	dzhn'	1200
+捋順	lvay:k	420
+沒我這個	mwog'	320
+不是一人	buer'	120
+小有產者	xyijoe:f	410
+大解放	dajpfh:;	510
+問下各位	wfxxgeww	120
+我會加入	whvjxr;	120
+他纔是	tcu'	120
+就是什麼	juum'	620
+不看看	bkjkj:r	1200
+催催	cvcv:w	1200
+反對當下	fjdvdhxx:g	120
+群組	qyzu:x	800
+群租	qyzu:t	120
+先不要	xmbyc:s	1400
+敢叫	gjjn:k	120
+換新天	hrxbtm:g	120
+有各個	ygeg'	120
+你不會	nbhv:w	120
+許許	xuxu:;	479
+不支持	bvii:r	120
+不治	bvi[ik	810
+都知道	dzvd:;	1520
+临控	lbks:r	319
+可以睡	kecuv:h	80
+分享的	ffxld'	1200
+想發	xlf	10
+舞蹈起來	wudcqild:g	120
+勸人不要	qrrbyc:s	120
+勸人	qrr'	120
+解決了	jpjtl'	120
+刚睡醒	ghuvxk:s	120
+張開了眼	vhkdlej:h	120
+太陽的	tdehd'	120
+朗潤	lhry:i	120
+萬事萬物	wjuswjwt	120
+萬事萬物	wuww:t	120
+沒所謂	msww:;	120
+關閉了	grbil'	120
+那個	n;g'	120
+那更	n;gg	120
+那個更	n;ggg:g'	120
+那個很	n;ghf:t	120
+二紡B股	e; bh b gu	1
+都不配	dzbpw:s	114
+左邊那個	zobmn;g'	120
+竟然不	jkrjb	120
+角磨機	jnmoji:s	120
+萬用寶	wjysbc:p	120
+社達	ueda:d	120
+這邊啊	obma;	120
+我覺得我	wjtdew'	1220
+能就是	ngju'	420
+可能就是	kngju'	420
+哪裏去了	naliql'	120
+不愛的時候	baidujhz:w	120
+不愛的	baid'	120
+怕的	pad'	3600
+很嬌氣	hfjnqi:r	120
+挺嬌氣	tkjnqi:r	120
+特別嬌氣	tebpjnqi:r	120
+非常嬌氣	fi;jnqi:r	120
+愛怕	aipa:n	140
+怕撒謊	pasahl:;	120
+假如別	jxrubp:k	120
+假裝愛	jxvlai:e	120
+晚托班	wjtobj:g	120
+晚托	wjto:r	120
+中島美雪	osdcm;xt:f	120
+中島美雪	odmx:f	120
+菲共	fwgs:a	120
+對線了	dvxml'	120
+改和	gdnh'	120
+改和	gdh'	120
+老哥的	lcged'	120
+烙阁的	lcgeud'	120
+但我也	djwye:bn	120
+但他也	djtye:bn	120
+但也無所謂	djyewusww:;	120
+他啊	ta;	120
+我都是用	wdzuys:e	120
+他都是用	tdzuys:e	120
+你都是	ndzu'	120
+你都是用	ndzuys:e	120
+都是用	dzuys:e	120
+語料	euln:o	120
+確實已經	qtupeijk:x	120
+令和	lkh'	120
+總歸要	zsgvyc:s	120
+幾趟	jith:f	120
+熱幹面	regjmm:d	120
+低筋	dijb:t	120
+高筋	gcjb:t	120
+日料	riln:o	120
+韓式料理	hjuslnli:o	120
+出汁	ivi:i	120
+預製菜	euvicd:a	120
+料理包	lnlibc:q	120
+好抽象	hcizxl:q	120
+翅根	iigf:s	120
+騰訊文檔	tgxywfdh:s	120
+出清	iqk:i	120
+烘培店	hspwdm:;	120
+文創	wfil:w	120
+給一	gwe'	10
+廚師機	iuusji:s	120
+整全	ogqr:w	120
+傷身體	ahufti:w	120
+嚐鮮版	ihxmbj:t	120
+互傳	huir:w	120
+桌遊店	voyzdm:;	120
+桌遊	voyz:i	120
+分起來	ffqild:g	120
+輔助碼	fuvuma:d	120
+踩過	cdgo:f	120
+異星	eixk:j	10
+同意一下	tseiexx:g	120
+這個也	ogye:b	120
+這個也是	ogyeu'	120
+這個也不是	ogyebu'	120
+別這麼說	bpomeao:;	120
+男性性	njxkxk:n	120
+女性性	nvxkxk:n	120
+性化	xkhx:w	1120
+性化	xknhx:w	1120
+這麼說就	omeaoj'	120
+啥東西	uadsxi:s	120
+咋了	zakl'	120
+高階次	gcjpci:u	120
+低階次	dijpci:u	120
+高階次化	gcjpcihx:w	120
+低階次化	dijpcihx:w	120
+次化	cihx:w	120
+兩個人	llggr'	120
+兩人	llgr'	120
+北歸	bwgv:j	120
+東歸	dsgv:j	10
+多字	dozp	120
+躲出去	doiq'	120
+去性化	qxkhx:w	120
+來享樂	ldxlle:q	120
+階次高	jpcigc:;	120
+階次低	jpcidi:w	120
+慾望化	euwhhx:w	120
+幼態	yztd:d	120
+跟打器	gfdaqi:k	120
+愛慾遊戲	aeeuyzxi:c	120
+生澀的	ugsed'	120
+味噌	wwzg:k	503
+味噌汤	wwzgth:i	503
+白味噌	bdwwzg:k	120
+赤味噌	iiwwzg:k	120
+歿境神蝕者	mojkufusoe:f	120
+孤勇者	guysoe:f	10
+你竟然	njkrj:q	120
+他竟然	tjkrj:q	120
+她竟然	tajkrj:q	120
+我竟然	wjkrj:q	120
+它竟然	t;jkrj:q	120
+認爲我	rfwyw'	120
+認爲你	rfwyn'	120
+認爲他	rfwyt'	120
+認爲它	rfwyt;	120
+你幻想	nhrxl:s	120
+我幻想	whrxl:s	120
+他幻想	thrxl:s	120
+它幻想	t;hrxl:s	120
+把自己	bazj;	1200
+我覺得這個	wjtdeog'	120
+帕魯	palu:q	12
+非洲的	f;ozd'	120
+出了什麼問題	ilumwfti:j	120
+粗糠	cukh:o	15
+局域化	jveuhx:w	120
+如其所是	ruqisu'	120
+趕緊錄	gjjblu:v	120
+你所能	nsng:c	120
+承載着	igzdo;	120
+承載着	igzdfo;	120
+前符號	qmfuhc:k	120
+夢境化	mgjkhx:w	120
+不渴	bke:i	120
+他的一個	tdeg'	120
+出乎你	ihun'	120
+好使得	hcusde:t	120
+帶動出來	dddsild:;	120
+動出來	dsild:;	120
+好使得	hcusde:t	120
+性化公式	xkhxgsus:a	120
+擊鼓傳花	jiguirh;	120
+擊鼓傳花	jgih:;	120
+圍着我	wwo;w'	120
+圍着	wwlo;	120
+圍着他	wwo;t'	120
+圍着你	wwo;n'	120
+腎上腺素	uaxs:g	620
+瞎逼	xxbi:g	120
+瞎逼樂	xxbile:q	120
+屌樣	dneh:s	120
+都有效	dzyxn:u	120
+生殖崇拜	ugviisbd:r	120
+邪魔妖佞	xpmoycnk:w	120
+邪魔妖佞	xmyn:w	120
+妖佞	ycnk:w	12
+停了	tkwl	740
+聽我了	tkwl'	120
+反因果性	fjybgoxk:n	120
+上上上	aaa'	120
+反動力量	fdll
+重思	issi:l	120
+德勒兹的	delezid'	120
+德勒兹	dlzi:u	12
+德勒兹是	dlziu'	12
+尼采的	nicdd'	120
+本雅明	bfyamk:j	120
+本雅明的	bfyamkd'	120
+本雅明	bymk:j	120
+先是這個	xmuog'	120
+看哪	kjna:k	120
+氣泡音	qipcyb:u	120
+午派	wupd:i	120
+一碼	ema:d	120
+二碼	e;ma:d	120
+三碼	s;ma:d	120
+四碼	sima:d	120
+五碼	w;ma:d	120
+一簡字	ejmzp	120
+二簡字	e;jmzp	120
+三簡字	s;jmzp	120
+實實在在	uuzz'	120
+純意識	iyeius:;	120
+記一些	jiexp:h	120
+所具有	sjvy'	120
+很狠	hfhf:q	520
+虛頭巴腦	xutzbanc:e	120
+虛頭巴腦	xtbn:e	120
+勳貴	xygv:k	120
+一變再變	ebmzdbm:;	120
+應該就是說	ekgdjuao:;	120
+政治智慧	ogvivihv:d	120
+玩不轉	wjbor:l	120
+表演家	bnejjx:p	120
+不能和	bngh'	120
+這就是和	ojuh'	120
+我不只有	wbvy'	120
+逗貓棒	dzmcbh:s	120
+混輸	hyau:l	90
+沒再	mzd:g	1120
+毛澤東	mzds:g	90
+瓜塔裏	gxtali:j	90
+瓜塔裏	gtli:j	90
+阿爾都賽	aeds:p	90
+斯大林	sdlb:s	120
+中華人民	ohrm:n	120
+共和國	gshgo:l	120
+共和國	ghgo:l	120
+中華人民共和國	ohrg:l	120
+就想	jx:;	12000
+旺柴	whid:h	120
+這個好	oghc:v	120
+真的不	ofdb'	120
+真的不差	ofdbia:u	120
+就可以不	jkecb'	120
+處理一些	iuliexp:h	120
+出一些	iexp:h	120
+但是其实	djuqiup	120
+行動主體	xkdsvt:;	120
+自我指稱	ziwviif:t	120
+自我指涉	ziwviue:i	120
+惑星	hoxk:j	120
+激突要塞	jituycsd:p	120
+過程泛心論	goigfjx;ly:;	120
+泛性論	fjxkly:;	120
+泛心論	fjx;ly:;	120
+為啥	wyua:k	120
+這樣才	oehc'	1200
+纔不行的	cbxkd'	1200
+我不知道	wbvd:;	1200
+只能說	vngao:;	120
+我也想要	wyexlyc:s	120
+我溜了	wlqil'	120
+溜了	lql''	1201
+也想有	yexly'	1201
+也享有	yexly''	120
+我上來	wald:;	120
+什麼是	umu'	120
+什麼是	um;u'	120
+在問了	zwfl'	120
+者的	oefd'	120
+想像性	xlxlxk:n	120
+求我	qqw'	120
+你求我	nqqw'	120
+快求我	kkqqw'	120
+知不知道	vbvd:;	120
+你知不知道	nvbvd:;	120
+匆匆忙忙	ccmm:n	12
+
+# 容易打錯的字
+顯示	xu:;	23886
+時間	ujm	93814
+非常	fi:;	41962
+主義	ve:;	120
+感覺	gj:;	62458
+國際	gj:;'	12
+城市	iu:;	22664
+人民	rm:;	120
+紅色	hse	6424
+什麼	um	99999
+或者	hoe	55359
+自己	zj:;	120
+拉康	lk;	120
+試試	uu:;	11659
+革命	gm:;	4887
+死亡	sw:;	6773
+主體	vt:;	6773
+共產	gi:;	144150
+符號學	fy:;	4887
+試一試	ueu:;	11659
+知道	vd:;	145224
+知道的	vdd'	145224
+知道了	vdl'	145224
+不知道	bvd:;	145224
+我知道	wvd:;	145224
+你知道	nvd:;	145224
+他知道	tvd:;	145224
+她知道	tavd:;	145224
+它知道	t;vd:;	145224
+誰知道	uvvd:;	145224
+慢慢	mm;	16924
+慢慢	mm:;	16
+經濟	jj:;	120
+研究	ejqj	35615
+抒發	au[ fa[n;	1012
+抒發	au[ fa[wc	1012
+囬	hv:mjd	61
+棄用	qi[;j ys[eh	568
+穩產	wf ij[ut	549
+自研	zit[t ej[da
+實際	up ji[b;	16184
+碼	ma:d	4917
+您	nbw	45322
+鐮倉	lm[qo ch[wb	120
+洗地	xi[iq di[fb	1572
+馬克	ma[cg k;	256
+馬克思	mksi	1650
+毛澤東	mzds	4342
+張正午	vowu	120
+積起	ji[tw qi[fn
+纖纖	xm[ xm[xf	789
+纖纖	jm[ jm[xf	789
+纖纖	qm[ qm[xf	789
+不確定	bu[gii tq[dqeh dk[pghu	759
+為什麼	wy[ fu[wfh me[xnn;	377
+份份	ff[wwv ff[wwv
+佳	jx[wfg	3831
+賷	ji[fkm	407
+鮭	gv[qgf	625
+以	ec[	101238
+矢口不談	ukbt:;	120
+長租	ihzu	5095
+短租	drzu	5095
+擇期	zeqia	520
+長租	ih[t; zu[tg	5095
+短租	dr[tu zu[tg	5095
+委蛇	ww[tv ei[jx	519
+原神	yr:d uf[ph	1562
+原神	yr:d uf[p;	1562
+呆板	ai[ks bj[sc	808
+塗藥	tu[it yc[a;	250
+塗藥	tuyc:a	490
+門門道道	mmdd:u	120
+寄託	jito	9999
+單休	djxq:w	26068
+幡然醒悟	frxw	20
+天下豪傑	txhj	20
+俄狄浦斯	edps	120
+何苦來哉	hklz:f	120
+何苦來哉	hekuldzd:f	120
+妖魔怪狀	ymgv:u	120
+油鹽不進	yebj:f	10
+油鹽不進	yzejbjb	120
+社會主義	uhve	2120
+天經地義	tjde:;	50
+公共服務	ggfw:t	120
+公共秩序	ggvx:;	120
+城市小資產階級	iuxzijj
+城市資產階級	iuzijj
+國際共運	gjge	460
+歷史虛無主義	luxwve	750
+共產國際	gigj	2311
+共產主義	give:;	2311
+資產階級	zijj	2311
+地上的星	dadx	120
+國際共產主義	gjgive	120
+小資產階級	xzijj	2311
+無產階級	wijj	2311
+階級鬥爭	jjdo	2311
+加速主義	jsve	2311
+意識形態	euxt	2102
+普羅大衆	pldo	508
+實事求是	uuqu	1312
+英特納雄耐爾	etnxne	2100
+英特納雄耐爾	ektenaxsnder	2100
+黃花菜都涼了	hhcdll'	120
+鉑金名築	bjmv	120
+鉑金名築	bojbmkvu:t	120
+精神分析	jufx	120
+JTB問題	jtbwfti:j	100
+語境主義	eujkve:;	120
+語境主義	ejve	120
+資本主義	zbve	1944
+弗洛伊德	fled	773
+酵種	jnot	120
+奶油蘑菇湯	ndyzmoguth:i	120
+意面	eimm:d	120
+那不勒斯	n;blesi:a	120
+下一點	xxedm:h	120
+來真	ldof:f	120
+痿了	wwl'	120
+痿了	wwul'	120
+他並不是	tbkbu'	120
+原父	yrfu:w	120
+理應當	liekdh:i	120
+比你大	binda:d	120
+畜	iu:;l	879
+旅拍	lvpd:r	120
+小紅書	xhsau:n	120
+可以放	kecfh:;	120
+可行度	kxkdu:;	120
+沒有一點	myedm:h	120
+有問題	ywfti:j	120
+我的書	wdau:n	120
+現在只能	xgzvng:c	120
+哪能有	nangy'	120
+這麼多	omedo:q	120
+現在也	xgzye:bn	120
+現在也不	xgzyeb'	120
+
+# 部分編码
+蒄	kz[af	400
+和	h'	665031
+裇	xu[pz
+厌	ej[d	0
+厭	ej[d	1075
+靨	ej[d	629
+魇	ej[d	0
+魘	ej[d	673
+餍	ej[ds	0
+饜	ej[ds	586
+奄	ej[db	590
+鷑	ji[tuwo	0
+幓	sf[mhce	0
+幓	uf[mhce	0
+俙	xi[wqdh	0
+瑛	ek[gad	0
+靊	fs[fdhu	0
+璈	ac[ggt	399
+飾	us[qn
+哪	na	270779
+布	bu[dm	5026
+孻	ld[bvhl	0
+幝	ij[mhkf	0
+砧	of[dhk	593
+癔	ei[uun	456
+肴	yc[qde	614
+整	og[gk	7993
+㓟	pi:hcj
+整	og:gk	93
+炁	qi[ao	535
+忨	wj[nfq	310
+著	vo[aj	100
+伴	bj[wh	245
+瑉	mb[gnj	359
+跏	jx[khk	553
+常	ihi	8505
+指	vir	9663
+早	zc	26157
+早	zc:jh	26157
+表	bn:ge	18480
+表	bn	18480
+哥	ges	10243
+弱	ro:xu	4074
+弱	ro	4074
+珠	vu:gi	2593
+珠	vu	2593
+談	tj;o	14432
+談	tj;	14432
+談	tj
+頭	tz	0
+頭	tzu	21237
+頭	tz:ud	21237
+頭	tzgm	0
+投	tz	0
+投	tzr	7693
+投	tz:rc	7693
+太	td	0
+太	tdd	72029
+太	tdd;	72029
+包	bc:q	16275
+包	bc	16275
+房	fh	8348
+房	fh;	8348
+房	fh:;n;	8348
+訪	fh[;;	1924
+访	fh[;;	0
+性	xk	25403
+性	xk:n	25403
+性	xkntg	0
+溜	lqil	0
+溜	lq:i	1720
+溜	lq	1720
+驗	ej	1465
+驗	ej:c	1465
+驗	ej:ci	0
+驗	ej[cw	1465
+績	ji:xgm	0
+績	ji:xg	0
+績	ji:x	802
+績	ji	802
+如	ru	0
+如	ruv	38846
+如	ruvk	38846
+乳	ru	0
+乳	rue	1882
+乳	ruen	1882
+無	wu	0
+無	wuf	33776
+無	wufq	0
+無	wufqv	33776
+無	mo[fqv	0
+維	ww	3278
+維	wwx	3278
+維	wwx;	0
+抄	ic:rt	3219
+抄	icr	0
+抄	ic	3219
+屬	aunj	5227
+屬	aun	0
+屬	au	0
+書	aun;	0
+書	aun	20065
+書	au	20065
+書	au[vj	0
+期	qi:ae	10701
+其	qi:aw	0
+其	qi:a	259071
+其	qi	59071
+其	qi[ad	0
+崁	kjmw	446
+崁	kjm	0
+崁	kj	446
+生	ug	0
+生	ugt	21194
+笙	ug:ttg	892
+笙	ug	0
+輔	ful;	1319
+輔	ful	0
+輔	fu	1319
+罘	fu:li	681
+罘	fu:lu	681
+罘	ful	0
+罘	ful	0
+罘	fu	681
+辐	full	750
+辐	ful	0
+辐	fu	750
+襩	du[pzfm	0
+襩	dupzm	270
+襩	dup	0
+襩	dupz	270
+襩	du	270
+泰	td[di	0
+泰	tddwi	2900
+泰	tddw	50
+泰	tdd	0
+泰	td	2900
+屴	li:mlb	409
+屴	li:ml	409
+屴	lim	0
+屴	li	409
+輝	hv:il	3105
+輝	hv:ip	3105
+輝	hvi	0
+輝	hvi	0
+輝	hv	3105
+洄	hv[ik	544
+匯	hv:ia	2447
+匯	hvi	0
+匯	hv	2447
+潓	hv:ign	352
+潓	hv:in	56
+潓	hv	352
+會	hv:wc	209833
+會	hvw	0
+會	hv	209833
+愢	sdnn	70
+愢	sd:nln	170
+愢	sd	377
+瓻	ii:qdn	276
+瓻	ii:qd	0
+瓻	ii:q	0
+瓻	ii	276
+大	da:dt	107094
+大	dad	0
+大	da	107094
+打	da[rs	78710
+還	hd[gp	286212
+還	hd[lp	0
+還	hr:gp	6212
+還	hr	6212
+男	nj:ll	98
+男	njl	17698
+男	nj	98
+爑	jt[oo	16
+爑	jt:oao	16
+欣	xb:rqw	2406
+欣	xb:rw	0
+欣	xb:r	7406
+欣	xb	2406
+新	xb:u	78195
+翼	einw	27963
+翼	ein	0
+翼	ei	1963
+憶	ei:nn	0
+憶	ei:n	1546
+憶	ei	1546
+乙	ei	2457
+乙	ei:n	0
+乙	ei:nn	2457
+已	ei[nn	0
+已	ei:nx	44260
+己	ji:nn	0
+己	ji:n	2271
+己	ji	2271
+忌	ji	1609
+忌	ji:n	0
+忌	ji:nn	1609
+儕	id:w;j	538
+儕	id:w;	538
+儕	id:wj	0
+儕	id:w	0
+儕	id	538
+戲	xi[ha	0
+玩	wj	100
+玩	wjg:q	67947
+侯	hz	3601
+侯	hz	3601
+侯	hz:wd	1
+侯	hz:ww	1
+于	eu:gf	287
+與	eu:gn	203964
+遠	yr:fp	134
+遠	yrf	13429
+元	yr:fq	62
+白	bd:rt	16134
+捭	bd:rf	448
+掰	bd:rr	1056
+掰	bd:rw	1056
+瑋	ww:gh	1172
+凉	ll:ui	100
+涼	ll:ui	3023
+玮	ww:gh	0
+纬	ww:xh	0
+梁	ll:is	2898
+調	tn:;k	7531
+調	dn:;k	7531
+秧	eh:td	756
+水	uv:i	28524
+水	uvii	524
+島	dc:q	6926
+島	dc:qm	526
+赤	ii:f	5913
+赤	ii:fo	913
+莆	pu:ae	660
+蒲	pu:a;	1324
+也	ye:bn	404779
+吧	bak	385554
+吧	ba:kc	54
+把	ba:rcn	22
+把	ba:r	166222
+拔	ba:rc	2606
+魃	ba[rqc	58
+魃	ba:rqc	580
+視	us:p;	3507
+石	dj[d	0
+石	us[d	0
+石	us:d	7104
+石	dj:d	7104
+梳	au:sq	69
+梳	au:s;	3169
+哟	eo[k;	0
+哟	yz:k;	10
+缺	qt:rw	48
+缺	qt:r	5801
+撲	bur:h	2054
+撲	bur:;	2054
+撲	pur:h	2054
+撲	pur:;	2054
+撲	bu[rh	54
+撲	bu[r;	54
+撲	pu[rh	54
+撲	pu[r;	54
+強	ql:xj	71
+強	jl:xj	11
+強	qlx	20401
+強	jlx	401
+罵	ma:kc	10009
+嗎	ma[kc	22
+嗎	mak	221081
+嘛	ma:ks	71478
+轉	or:l;	25
+轉	orl	17525
+磚	or:d;	519
+雼	dh:fd	12
+蕩	dh:ar	958
+當	dh:iv	53829
+黨	dh[iq	4920
+黨	dhi	4920
+死	si[gx	37593
+死	sig	37593
+儿	er:qt	500
+擋	dh:rv	2341
+靈	lk[vo	4604
+祂	ta[p;bn	100
+祂	ta:p;	70
+嫊	su[vgxi	80
+粛	su[vojk	80
+鎲	th[qipq	80
+踏	ta:kh	1608
+踏	ta:kj	8
+玶	pk:gh	382
+螵	pn:ji	382
+𨑎	pg:hnp
+騎	qi:ck	3144
+騎	ji:ck	144
+潤	ry[ig	2250
+鰭	qi:qg	754
+磊	lw:dd	1661
+紙	vi:x	4488
+紙	vi:xa	88
+幼	yz:xl	1580
+犿	fj:qoh	293
+犿	bm:qoh	293
+犭	ob:qo	593
+犯	fj:qo	3167
+犯	fj:q	3167
+釩	fj:q;	834
+惘	wh:nn	393
+體	ti:wg	6488
+奶	nd:ve	3760
+麼	me:tc	45
+麼	me[x;	104045
+麼	ma:tc	45
+麼	ma:x;	45
+高	gc[;k	46097
+高	gc[;m	97
+搞	gc[rk	30736
+比	bi:xx	33515
+份	ff[wv	7307
+分	ff:wv	29738
+唔	wu:kk	75
+唔	wuk	13475
+唔	mu:kk	75
+隼	sy:wf	28
+模	mo[sd	2521
+艸	cc:ah	4
+艸	ob:ah	4
+廾	ob:a	7
+〇	lk:ll	9
+囹	lk[lc	25
+玲	lk[gc	87
+令	lk:wc	8637
+令	lk:w;	8637
+豬	vu:qo	729
+鑄	vu[qf	1177
+万	wj[dn	1325
+万	mo:dn	5
+萬	wj[dn	26364
+萬	wj[a;	64
+萬	mo:dn	4
+萬	mo:a;	4
+四	si	15966
+四	si:;	66
+鷥	si[xxg	17
+鸶	si:xxg	0
+絲	si:xg	69
+絲	six	3369
+并	bk:ua	63
+格	ge:sk	13856
+歌	ge:sw	12288
+哥	ge:s	10243
+哥	ge:sk	43
+撐	ig:rr	2357
+戴	dd:fw	5156
+晟	ug:jt	87
+晟	ig:jt	87
+玌	ba:gn	23
+齉	nh:te	39
+單	dj:uf	3362
+單	dj:kf	2
+淡	dj:io	280
+蕪	wu:aq	62
+蕪	wu:ao	2
+ㄛ	oo:gc	0
+捃	jy:rk	36
+系	ji:tx	92
+系	xi:tx	92
+嘉	jx:fk	2924
+祖	zu:pg	24
+祖	zu[p;	2424
+倍	bw:wk	420
+苦	ku[ad	85
+苦	ku:a	2185
+富	fu:pl	4370
+福	fu:p;	4741
+樂	leq	7822
+樂	le:qi	92
+樂	lc:qi	5
+但	dj:wg	116404
+奪	do:df	1883
+奪	do:df	1883
+似	us[w;	4743
+似	si[w;	4743
+葚	rf:aan	2
+葚	uf[aan	51
+甚	uf:an	99
+涐	ee:it	20
+久	jq:q;	74
+久	jqq	8974
+陡	dz:bh	109
+飼	si:qn	87
+飼	si:q	87
+偲	si:wn	57
+偲	si:wl	57
+祇	qi[p;a	29
+祇	qi:pq	3129
+祇	vi:p;a	29
+寫	xp:p	41835
+韠	bi[nhkf	3
+阇	du:uj	0
+阇	ue:uj	0
+臃	ys:e;	539
+避	bi:np	1783
+團	tr[lt	79
+團	tr[lf	79
+團	trl	7903
+活	ho[i	9606
+鬧	nc[uh	311
+責	ze[gm	456
+收	uz:nt	77
+收	uzn	17737
+𧌣	er:vjj
+吞	ty:gk	53
+券	qr:uv	1818
+拳	qr:ur	1877
+術	au:s;;	76
+術	aus	3136
+跑	pc:kh	22665
+箭	jm:tj	2003
+簡	jm:t	2119
+簡	jm[tuj	19
+感	gj:d	8365
+推	tv:r	6151
+瘀	eu:uu	817
+朝	ic:fe	5861
+朝	oc:fe	5861
+沈	uf:iq	7844
+玏	le[gln	0
+礻	ob:p;	599
+礻	ob:pi	599
+蘭	lj:uf	5072
+鷂	yc[eg	587
+鷂	yc[erg	10
+雨	eu[f;	8618
+雨	eu:fg	18
+域	eu:fg	2425
+域	eu:fk	2425
+翮	ge:gn	542
+翮	he:gn	542
+型	xk:gf	15224
+形	xk[ge	3724
+錢	qm[qg	57
+錢	qm[qa	26657
+前	qm[uj	47701
+前	qm:uu	47
+回	hv[lk	389
+姪	vi:vf	12
+皮	pi:hc	5866
+優	yz:wn	23
+優	yz:wt	23
+優	yz:w	2823
+念	nm:wn	2949
+以	ei:n;	38
+忹	nb:ngg	362
+加	jx:lk	44999
+正	og[gh	431
+𫔭	kd:ua	80
+政	og:gt	249
+且	qp[e	13038
+且	qp:eg	38
+往	wh:tg	11268
+韙	ww:jh	563
+或	ho[ag	84145
+惑	ho[ak	1118
+黑	hw[lo	202
+飯	fj[qnc	7834
+反	fj[rc	12079
+佢	jv:wn	37
+佢	qu:wn	37
+拆	id[r;	376
+柴	id[hs	238
+盛	ug:dl	3763
+盛	ig:dl	3763
+鼠	au:v	2192
+並	bk[ua	151
+病	bk[uw	90
+牛	nq:rh	14
+牛	nq:rk	4597
+般	bj:t	5441
+版	bj:tc	18059
+屍	us:n	1345
+霸	ba:f	1572
+壩	ba:fe	1476
+搬	bj:r	4500
+扳	bj:rc	937
+扳	bj:rr	937
+悶	mf:un	3835
+門	mf[uu	15692
+肖	xn:ie	3397
+父	fu:w	2565
+合	he:w	6813
+繁	fj:ti	1454
+繁	fj:tx	1454
+籓	fj:tl	483
+西	xis	10824
+西	xi[sh	10824
+栖	qi:ss	500
+栖	qi:sg	500
+栖	xi:ss	500
+栖	xi:sg	500
+許	xu:;f	6018
+序	xu:;b	1629
+㛟	hr:vw
+丆	us:dt
+乊	ei:tu
+乤	xx:gn
+乥	holo:tn
+乧	dz[ufn
+乫	jx[lkn
+乷	ua[iun
+乺	so[rnn
+乼	vu[i;n
+亪	ye[;on
+仒	bk:wu
+丼	ds:f;
+丼	ds:fj;
+傻b	uab
+動L	dsl
+匁	qm:q;
+厼	keum[ui
+裝b	vlb
+𠮶	ga:kh
+𡞵	hr:vw
+𣝓弧	yjhu:s
+𣝓絲	husi:s
+𩾀	gu:qk
+𪎌	ld:go
+句	jvqk	100
+句	jv:q	4902
+動圖	ds[fl tu[lu	2000
+兙	us ke[df	288
+兛	qm ke[dh	227
+兞	hc ke[dn	238
+兝	ff ke[dv	277
+兡	bd ke[dj	313
+兣	li ke[dg	247
+嗧	jx ly[lx
+瓩	qm wa[gf	333
+糎	li mi[og	274
+粁	qm mi[of	294
+浬	hd li[ig	5
+哩	ek li[kg	2500
+噚	ek cy[kf	2
+浔	ek cy[if	0
+呎	ek ii[k;	601
+吋	ek cy[kf	777
+竔	gs ug[uta
+竏	gs ug[utf	236
+唡	am si[kw	0
+唡	yk ll[kw	0
+砼	hy nk tu[dwa	879
+誌	vi[;n	1259
+架	jx[ls	4637
+駕	jx[lc	1386
+風	fs	13091
+柏	bo[sr	10
+栢	bo[sdjg	0
+維生素Ａ₂	ww[x ug[t su[gi a er
+維生素Ａ₁	ww[x ug[t su[gi a yi
+維生素Ｂ₈	ww[x ug[t su[gi b ba
+維生素Ｂ₂	ww[x ug[t su[gi b er
+維生素Ｂ₂₂	ww[x ug[t su[gi b er us er
+維生素Ｂ₉	ww[x ug[t su[gi b jq
+維生素Ｂ₆	ww[x ug[t su[gi b lq
+維生素Ｂ₇	ww[x ug[t su[gi b qi
+維生素Ｂ₄	ww[x ug[t su[gi b si
+維生素Ｂ₃	ww[x ug[t su[gi b sj
+維生素Ｂ₁₂	ww[x ug[t su[gi b us er
+維生素Ｂ₁₆	ww[x ug[t su[gi b us lq
+維生素Ｂ₁₇	ww[x ug[t su[gi b us qi
+維生素Ｂ₁₄	ww[x ug[t su[gi b us si
+維生素Ｂ₁₃	ww[x ug[t su[gi b us sj
+維生素Ｂ₁₅	ww[x ug[t su[gi b us wu
+維生素Ｂ₁₁	ww[x ug[t su[gi b us ei
+維生素Ｂ₅	ww[x ug[t su[gi b wu
+維生素Ｂ₁	ww[x ug[t su[gi b ei
+維生素Ｄ₂	ww[x ug[t su[gi d er
+維生素Ｄ₃	ww[x ug[t su[gi d sj
+維生素Ｂ₂₂	ww[x ug[t su[gi b er us er
+百戰天蟲：蟲堡大作戰	bdvjtmisisbcdazovj:h	1
+全自動醫用PCR分析系統	qrzidseiyspcrffxixits:x	1
+薩班斯－奧克斯利法	sabjsiack;silifa:i	1
+氯喹那多－普羅雌烯	lvkvn;dopulocixi:o	1
+狄爾斯－阿爾德反應	diersiaberdefjek:;	1
+大航海時代：黃金大陸	dahhhdujddhljbdalu:b	1
+網絡基本輸入、輸出系統	wmlojibfaur;auixits:x	1
+基本輸入	jibfaur;	1
+輸出系統	auixits:x	1
+磺胺甲噁唑－甲氧苄啶	hlanjxezojxehbmdk:k	1
+急性气管、支气管炎	jixkqigrviqigrej:o	1
+竹籃子打水一場空	vuljdauveihks:p	1
+美國51區	m;gow;u;equ	1
+美國51區	m;gow;equ	1
+罖	wh:lw;	1
+牛b	niub	1
+神探四豆星	uftjsidzxk	1
+其實我是	qiupwu'	1
+込	eu:wp	1
+込	ru:wp	1
+亞西爾·阿拉法特	ya xi er a la fa te	1
+伊娃·門德斯	yi wa mf de si	1
+伯納斯·李	bo na si li	1
+伽利略·伽利雷	jx li lt ga li lw	1
+傑克·倫敦	jp k; ly dy	1
+傑夫·金尼	jp fu jb ni	1
+傑奎琳·肯尼迪	jp kv lb kf ni di	1
+傑瑞·宋飛	jp rv ss fw	1
+傑西·歐文斯	jp xi oz wf si	1
+傑西卡·艾爾芭	jp xi ka ai er ba	1
+儒勒·凡爾納	ru le fj er na	1
+克里斯汀·貝爾	ke li si tk bw er	1
+凱茜·弗里曼	kd qm fu li mj	1
+列夫·托爾斯泰	lp fu to er si td	1
+北萊茵·威斯特法倫州	bw ld yb ww si te fa ly oz	1
+十·一	u; e'	1
+卡斯蒂利亞·萊昂	ka si di li ya ld am	1
+卡爾·馬克思	ka er ma k; si	1
+古斯塔夫·多雷	gu si ta fu do lw	1
+史蒂芬·哈珀	us di ff ha po	1
+哈克貝利·芬歷險記	ha ke bw li ff li jm ji	1
+哈利·波特	ha li bo te	1
+哈莉·貝瑞	ha li bw rv	1
+唐納德·川普	th na de ir pu	1
+喬修亞·吉爾菲艾斯	qn xq ya ji er fw ai si	1
+喬治·奧威爾	qn vi ao ww er	1
+喬治·布希	qn vi bu xi	1
+喬治·索羅斯	qn vi so lo si	1
+喬治·華盛頓	qn vi hx ug dy	1
+噶拉·多傑·仁波切	ga la do jp rf bo qp	1
+埃克托·柏遼茲	ai k; to bd ln zi	1
+埃德加·愛倫·坡	ai de jx ai ly po	1
+埃德加·斯諾	ai de jx si no	1
+埃爾維斯·普雷斯利	ai er ww si pu lw si li	1
+堂·吉河德	th ji he de	1
+夏洛特·勃良特	xx lo te bo ll te	1
+大衛·米利班德	da ww mi li bj de	1
+大衛·艾登堡	da ww ai dg bao	1
+妮可·基德曼	ni ke ji de mj	1
+威廉·福克納	ww lm fu ke na	1
+威廉·莎士比亞	ww lm ua us bi ya	1
+安·海瑟薇	an hd se ww	1
+安妮·夏菲維	an ni xx fw ww	1
+安妮·海瑟薇	an ni hd se ww	1
+安娜·卡列尼娜	an na ka lp ni na	1
+尤利婭·季莫申科	yz li ya ji mo uf ke	1
+尤里斯·伊文思	yz li si yi wf si	1
+巴登·符騰堡州	ba dg fu tg bc oz	1
+布萊特妮·墨菲	bu ld te ni mo fw	1
+布蘭妮·斯皮爾斯	bu lj ni si pi er si	1
+希拉里·克林頓	xi la li k; lb dy	1
+希斯·萊傑	xi si ld jp	1
+希蒙·佩雷斯	xi mg pw lw si	1
+帕麗斯·希爾頓	pa li si xi er dy	1
+庫爾特·瓦爾德海姆	ku er te wa er de hd mu	1
+康多莉扎·賴斯	kh do li oa ld si	1
+弗洛倫蒂諾·佩雷斯	fu lo ly di no pw lw si	1
+弗蘭西斯·培根	fu lj xi si pw gf	1
+弗里德里希·席勒	fu li de li xi xi le	1
+怪人奧爾·揚科維奇	gk r ao er yh ke ww qi	1
+恩里科·費米	en li ke fw mi	1
+愛德華·達拉第	ai de hx da la di	1
+愛瑪·沃特森	ai ma wo te sf	1
+托馬斯·阿奎納	to ma si ab kv na	1
+拿破崙·波拿巴	na po ly bo na ba	1
+提姆·羅賓斯	ti mu lo bb si	1
+摩亨佐·達羅	mo hg zo da lo	1
+摩根·弗里曼	mo gf fu li mj	1
+斯文·海定	si wf hd dk	1
+斯文·赫定	si wf he dk	1
+斯蒂芬·哈珀	si di ff ha po	1
+普密蓬·阿杜德	pu mi pg ab du de	1
+曼蘇爾·達杜拉	mj su er da du la	1
+本·拉登	bf la dg	1
+本傑明·富蘭克林	bf jp mk fu lj k; lb	1
+查爾斯·格雷	ia er si ge lw	1
+查爾斯·狄更斯	ia er si di gg si	1
+柯南·道爾	ke nj dc er	1
+梅里亞姆·韋伯斯特	mw li ya mu ww bo si te	1
+歇洛克·福爾摩斯	xp lo k; fu er mo si	1
+比爾·蓋茨	bi er gd ci	1
+沃倫·巴菲特	wo ly ba fw te	1
+法蘭西斯·培根	fa lj xi si pw gf	1
+法蘭西斯·斐迪南	fa lj xi si fw di nj	1
+泰格·伍茲	td ge wu zi	1
+泰特斯·安德洛尼克斯	td te si an de lo ni k; si	1
+海倫·凱勒	hd ly kd le	1
+湯姆·克蘭西	th mu k; lj xi	1
+湯姆·克魯斯	th mu k; lu si	1
+湯姆·索亞歷險記	th mu so ya li jm ji	1
+湯姆·羅賓斯	th mu lo bb si	1
+潔西卡·艾芭	jp xi ka ai ba	1
+熱比亞·卡德爾	re bi ya ka de er	1
+熱比婭·卡德爾	re bi ya ka de er	1
+狄奧多·阿多諾	di ao do ab do no	1
+珍·奧斯汀	of ao si tk	1
+琳·戴維斯	lb dd ww si	1
+瑪麗蓮·夢露	ma li lm mg lu	1
+碧娜芝·布托	bi na vi bu to	1
+穆罕默德·歐瑪	mu hj mo de ou ma	1
+簡·愛	jm ai	1
+約瑟夫·斯大林	yt se fu si da lb	1
+約翰·克利斯多夫	yt hj k; li si do fu	1
+約翰·厄普代克	yt hj ee pu dd k;	1
+約翰·拉貝	yt hj la bw	1
+約翰·本仁	yt hj bf rf	1
+約翰·霍金斯	yt hj ho jb si	1
+納撒尼爾·霍桑	na sa ni er ho sh	1
+綠壩·花季護航	lv ba hx ji hu hh	1
+維克多·雨果	ww k; do yu go	1
+羅伯特·伯恩斯	lo bo te bo en si	1
+羅伯特·佛洛斯特	lo bo te fo lo si te	1
+羅伯特·路易斯·斯蒂文森	lo bo te lu yi si si di wf sf	1
+耶萊娜·揚科維奇	ye ld na yh ke ww qi	1
+艾格尼絲·史沫特萊	ai ge ni si us mo te ld	1
+艾薩克·牛頓	ai sa k; nq dy	1
+荷莉·貝瑞	he li bw rv	1
+莎拉·佩林	ua la pw lb	1
+莎拉·布萊曼	ua la bu ld mj	1
+莫尼卡·萊溫斯基	mo ni ka ld wf si ji	1
+菲利克斯·米達麥亞	fw li k; si mi da md ya	1
+薩達姆·侯賽因	sa da mu hz sd yb	1
+蘇珊·波伊爾	su aj bo yi er	1
+裘力斯·愷撒	qq li si kd sa	1
+西蒙·舒斯特	xi mg au si te	1
+詹姆斯·喬伊斯	vj mu si qn yi si	1
+詹姆斯·龐德	vj mu si ph de	1
+諾姆·喬姆斯基	no mu qn mu si ji	1
+豪伊杜·比豪爾	hc yi du bi hc er	1
+豪伊杜·比豪爾州	hc yi du bi hc er oz	1
+貝·布托	bw bu to	1
+貝娜齊爾·布托	bw na qi er bu to	1
+赫曼·麥爾維爾	he mj md er ww er	1
+赫爾穆特·科爾	he er mu te ke er	1
+足利·義政	zu li yi zhg	1
+足利·義滿	zu li yi mj	1
+路易·皮埃爾·阿爾都塞	lu yi pi ai er ab er dz sd	1
+路易斯·伊納西奧·盧拉·達席爾瓦	lu yi si yi na xi ao lu la da xi er wa	1
+迪戈·加西亞島	di ge jx xi ya dc	1
+道·瓊斯	dc qs si	1
+道·瓊斯指數	dc qs si vi au	1
+道格拉斯·麥克阿瑟	dc ge la si md k; ab se	1
+達·芬奇	da ff qi	1
+達科塔·芬妮	da ke ta ff ni	1
+邁克爾·傑克遜	md k; er jp k; xy	1
+邁克爾·克萊頓	md k; er k; ld dy	1
+邁克爾·喬丹	md k; er qn dj	1
+那木巴爾·恩赫巴亞爾	na mu ba er en he ba ya er	1
+錫霍特·阿林	xi ho te ab lb	1
+錫霍特·阿林山脈	xi ho te ab lb aj md	1
+阿不來提·阿不都熱西提	ab bu ld ti a bu dz re xi ti	1
+阿加莎·克里斯蒂	ab jx ua ke li si di	1
+阿斯頓·馬丁	ab si dy ma dk	1
+阿爾法·羅密歐	ab er fa lo mi ou	1
+阿諾·施瓦辛格	ab no us wa xb ge	1
+阿諾德·施瓦辛格	ab no de us wa xb ge	1
+阿道司·赫胥黎	ab dc si he xu li	1
+雷·羅馬諾	lw lo ma no	1
+額勒貝格·道爾吉	ee le bw ge dc er ji	1
+馬丁·路德	ma dk lu de	1
+馬丁·路德·金	ma dk lu de jb	1
+馬克·吐溫	ma k; tu wf	1
+馬克思·列寧主義	ma k; si lp nk vu ei	1
+馬克斯·普朗克	ma k; si pu lh k;	1
+鮑勃·伍德沃德	bc bo wu de wo de	1
+鮑勃·馬利	bc bo ma li	1
+齊內丁·齊達內	qi nw dk qi da nw	1
+亞當·斯密	ya dh si mi	1
+亞歷山大·杜布切克	ya li aj da du bu qp k;	1
+一二·九运动	e e; j; ey ds	1
+安娜·卡列尼娜	an na ka lp ni na	1
+約翰·克利斯多夫	yt hj k; li si do fu	1
