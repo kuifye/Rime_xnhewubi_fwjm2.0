@@ -213,8 +213,8 @@ XO	xo	9
 
 #-------------------------常用標點
 
-；	；	9
-;	;	6
+；	;	9
+;	;	8
 “	jf	10
 ：“	jg	10
 ，“	jh	10
@@ -346,7 +346,10 @@ app	app	9
 的時候	duh	9
 框定	kldk	10
 荒謬	hlmq	10
+漢方	hjfh	10
+這纔是	ocu	10
 普發	puf	10
+被你	bwn	10
 老是	lcu	10
 所是	su	10
 出乎	ihu	10
@@ -382,6 +385,10 @@ app	app	9
 想有	xly	10
 上來	ald	10
 求我	qqw	10
+加個	jxg	10
+獻上	xma	10
+一集	eji	10
+和善	haj	10
 跨	kxkh	10
 以	ec	9
 物	wt	9
@@ -1135,7 +1142,7 @@ but	but	5
 絕	jt	9
 卡	ka	9
 靠	kc	9
-開	kd	9
+开	kd	9
 課	ke	9
 肯	kf	9
 坑	kg	9
@@ -14928,7 +14935,7 @@ but	but	5
 旱	hjjf
 闞	kjut
 喊	hjkt
-韓	hjfh
+韓	hjfh	9
 寒	hjpu
 嵅	hjmt
 崡	hjmb
@@ -16617,7 +16624,7 @@ but	but	5
 出場	iih	10
 出廠	iih	9
 出燈	idg	9
-出典	idm	9
+出點	idm	9
 出發	if	10
 出訪	ifh	9
 出分	iff	9
@@ -17725,7 +17732,6 @@ but	but	5
 海鰓	hdsd	9
 海神	hduf	9
 害怕	hdpa	9
-酣放	hjfh	9
 酣然	hjrj	9
 含憤	hjff	9
 含糊	hjhu	9
@@ -18494,6 +18500,7 @@ but	but	5
 近臣	jbif	9
 近千	jbqm	9
 近似	jbsi	10
+行吧	xkba	10
 近影	jbek	9
 勁吹	jbiv	9
 勁樂	jkyt	9
@@ -18502,7 +18509,6 @@ but	but	5
 進來	jbld	9
 進屋	jbwu	9
 禁用	jbys	9
-京吧	jkba	9
 經辦	jkbj	9
 勁爆	jkbc	9
 經邦	jkbh	9
@@ -20407,7 +20413,7 @@ but	but	5
 書體	auti	9
 書網	auwm	9
 書信	auxb	9
-菽麥	aumd	9
+贖買	aumd	9
 舒弛	auii	9
 舒思	ausi	9
 舒志	auvi	9
@@ -20420,9 +20426,9 @@ but	but	5
 蜀江	aujl	9
 蜀劉	aulq	9
 蜀門	aumf	9
-蜀凝	aunk	9
+安神寧	aunk	9
 樞紐	aunq	9
-蜀韻	auey	9
+暑運	auey	9
 鼠婦	aufu	9
 屬下	auxx	9
 屬於	aueu	10
