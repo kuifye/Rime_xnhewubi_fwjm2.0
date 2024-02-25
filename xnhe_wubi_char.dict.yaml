@@ -51,6 +51,9 @@ use_preset_vocabulary: false
 自己	zj:;	120
 沒他	mt	160
 明天	mt:''	60
+意思	es:''	60
+基本	jb:''	60
+規定	gd:''	60
 拉康	lk;	120
 試試	uu:;	11659
 革命	gm:;	4887
@@ -448,6 +451,8 @@ IP地址	ip di[fbn vi[fhg
 黨	dhi	4920
 死	si[gx	37593
 死	sig	37593
+眲	er:hb	10
+眲	er:hbg	268
 儿	er:qt	500
 擋	dh:rv	2341
 靈	lk[vo	4604
@@ -660,7 +665,7 @@ IP地址	ip di[fbn vi[fhg
 肖	xn:ie	3397
 父	fu:w	2565
 合	he:w	6813
-繁	fj:ti	1454
+繁	fj:ti
 繁	fj:tx	1454
 籓	fj:tl	483
 西	xis	10824
@@ -1054,7 +1059,7 @@ IP地址	ip di[fbn vi[fhg
 不到	bdc	18149
 想像	xlxl	3392
 根本	gfbf	19548
-想像不到	xlxlbdc
+想像不到	xlxlbdc	120
 可靠	kkc	3343
 晚上	wja'	44772
 來	ld	235090
@@ -3495,7 +3500,7 @@ JTB問題	jtbwfti:j	100
 後人類	hrlw:o	1200
 世紀辯論
 是後現代	uhzxgdd:w	120
-wechat	wechat  120
+wechat	wechat	120
 性的	xknd'	4200
 性的	xkd'	4200
 主義的	ved'	4200
@@ -4840,10 +4845,46 @@ wechat	wechat  120
 和善的	hajd'	120
 最和善的	zvhajd'	120
 平等人	pdgr'	120
-主体间性	vtjx:n	120
+主體間性	vtjx:n	120
 寄生对象	jiugdvxl:q	120
 寄生对象	judx:q	120
 保供	bcgs:w	520
 多度	dodu[;c	120
 漢方藥	hjfhyc:a	120
 幻想的瘟疫
+謙虛了	qmxul'	120
+的一集	deji:w	120
+失敬失敬	usjkusjk	120
+葬送的芙莉蓮
+芙莉蓮
+剛上	gha'	240
+那是剛上	n;ugha'	120
+無法想像	wufaxlxl:s	120
+想像不了	xlxlbln	120
+想像的	xlxld'	120
+想像中	xlxlos:k	120
+想像裏	xlxllij	120
+想像中的	xlxlosd'	120
+想像我	xlxlww'	120
+想想我	xlxlw''	120
+想想她	xlxlsta:v	120
+想像死亡	xlxlsw:;	120
+海德格爾	hdge:q	120
+時間性	ujmxk:n	120
+天地神人	tmdiufr'	120
+天地神人	tdur'	120
+泡泡冒	pcpcmc:j	120
+冒泡泡	mcpcpc:i	120
+線性時間觀
+線性時間觀	xmxkujmgr:c	120
+綻出	vjxi'	120
+綻出	vji'	120
+時間本身	ujmbfuf	120
+會發生	hvfug:t	120
+那點	n;dm:h	120
+這點	odm:h	120
+跑外賣	pcwdmd:f	120
+營業執照	eyvo:j	1237
+未下载	wwxxzd:f	120
+名稱的	mkigd'	120
+的名義	dmkei:;	120

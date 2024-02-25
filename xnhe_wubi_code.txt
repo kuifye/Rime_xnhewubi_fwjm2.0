@@ -90,6 +90,7 @@ yy	yy	9
 you understand	yu	6
 😂	xnku	8
 🐶	gztz	8
+🤔	eiho	9
 
 馬克思	mk	6
 馬克思主義	mk	5
@@ -209,7 +210,10 @@ XO	xo	9
 感觉	gj	7
 你不	nb	7
 得到	dd	7
+意思	es	8
 顏色	es	7
+基本	jb	9
+規定	gd	8
 
 #-------------------------常用標點
 
@@ -327,7 +331,11 @@ $	;my	10
 #部分簡詞
 
 mcn	mcn	9
+prolétariat	pr	8
 app	app	9
+ok了	okl	10
+去不去	qbq	10
+有人說	yrao	10
 皮膚	pifu	10
 未免	wwmm	10
 脾氣	piqi	10
@@ -440,6 +448,7 @@ app	app	9
 視	usp;	10
 葚	ufaan	10
 上頭	atz	10
+剛上	gha	10
 他們	tmf	7
 你們	nmf	7
 開始	kdu	7
@@ -810,7 +819,7 @@ app	app	9
 我認得	wrd	10
 不可以	bke	10
 一會是	ehvu	10
-那不是	nabu	10
+那不是	n;abu	10
 發生了	fugl	10
 明天就	mtj	10
 就是說	juao	10
@@ -846,7 +855,7 @@ app	app	9
 用處	ysiu	10
 符合	fuhe	10
 抛出	pciu	10
-那本	nabf	10
+哪本	nabf	10
 百度	bddu	10
 離譜	lipu	10
 渣男	oanj	10
@@ -1183,8 +1192,8 @@ but	but	5
 倆	lx	9
 論	ly	9
 樓	lz	9
-嘛	ma	10
-嗎	ma	9
+嘛	ma	9
+嗎	ma	10
 民	mb	9
 毛	mc	9
 买	md	9
@@ -3520,8 +3529,8 @@ but	but	5
 碼	mad	9
 瑪	mag	9
 螞	maj	9
-嗎	mak	10
-嘛	mak	9
+嗎	mak	9
+嘛	mak	10
 祃	map	9
 獁	maq	9
 抹	mar	9
@@ -6727,6 +6736,7 @@ but	but	5
 缚	fuxf	1183
 縛	fuxf	1183
 辨	bmuu	1175
+辯	bmu;	1175
 椒	jnss	1165
 淄	ziiv	1164
 誓	usr;	1149
@@ -19373,14 +19383,9 @@ but	but	5
 民女	mbnv	9
 民順	mbay	9
 民校	mbxn	9
-岷山	mbaj	9
-忞忞	wfwf	9
-閔氏	mbus	9
 名產	mkij	9
-名胡	mkhu	9
 名節	mkjp	9
 名句	mkju	9
-名圃	mkpu	9
 明白	mkbd	9
 明處	mkiu	9
 明明	mkmk	9
@@ -19389,7 +19394,6 @@ but	but	5
 明秋	mkqq	10
 明晰	mkxi	9
 明知	mkvi	9
-冥頑	mkky	9
 摸查	moia	9
 摸排	mopd	9
 摸准	movy	9
@@ -19429,7 +19433,6 @@ but	but	5
 母題	muti	9
 母系	muxi	9
 模板	mubj	9
-木夫	mufu	9
 木塊	mukk	9
 木門	mumf	9
 木糖	muth	9
@@ -22334,7 +22337,6 @@ but	but	5
 直經	vijk	9
 直覺	vijt	10
 直入	viru	9
-直條	vitn	9
 指望	viwh	9
 直下	vixx	9
 直行	vixk	9
